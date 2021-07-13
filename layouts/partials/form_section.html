@@ -1,0 +1,43 @@
+{{ $section := .section }}
+{{ $has_text := false }}
+{{ if or (or $section.title $section.subtitle) $section.content }}
+  {{ $has_text = true }}
+{{ end }}
+<section id="{{ $section.section_id }}" class="section section--form">
+  <div class="container container--lg">
+    <div {{ if $has_text }}class="grid"{{ end }}>
+      {{ if $has_text }}
+      <div class="section__content cell">
+        {{ if $section.title }}
+        <h2 class="section__title line-top">{{ $section.title }}</h2>
+        {{ end }}
+        {{ if $section.subtitle }}
+        <p class="section__subtitle">{{ $section.subtitle }}</p>
+        {{ end }}
+        {{ if $section.content }}
+        <div class="section__body text-block">
+          {{ partial "markdownify-block" $section.content }}
+        </div>
+        {{ end }}
+      </div>
+      {{ end }}
+      <div class="section__form-container{{ if $has_text }} cell{{ end }}">
+        <form name="{{ $section.form_id }}" id="{{ $section.form_id }}" {{ if $section.form_action }}
+          action="{{ $section.form_action }}" {{ end }}method="POST" data-netlify="true" data-netlify-honeypot="bot-field">
+          <div class="screen-reader-text">
+            <label id="{{ $section.form_id }}-bot-label">Don't fill this out if you're human: <input
+                aria-labelledby="{{ $section.form_id }}-bot-label" name="bot-field" /></label>
+          </div>
+          <input type="hidden" aria-label="{{ $section.form_id }}-name" name="form-name" value="{{ $section.form_id }}" />
+          {{ range $field := $section.form_fields }}
+          {{ $include_dict := dict "field" $field "section" $section }}
+          {{ partial "form_field.html" $include_dict }}
+          {{ end }}
+          <div class="form-submit">
+            <button type="submit" class="button button--primary">{{ $section.submit_label }}</button>
+          </div>
+        </form>
+      </div>
+    </div>
+  </div>
+</section>

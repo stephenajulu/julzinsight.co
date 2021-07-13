@@ -1,0 +1,19 @@
+{{ $section := .section }}
+<section id="{{ $section.section_id }}" class="hero">
+  <div class="container container--lg">
+    {{ if $section.title }}
+    <h1 class="hero__title">{{ $section.title }}</h1>
+    {{ end }}
+    {{ if $section.content }}
+    <div class="hero__body text-block">
+      {{ partial "markdownify-block" $section.content }}
+    </div>
+    {{ end }}
+    {{ if $section.actions }}
+    <div class="hero__actions button-group">
+      {{ $include_dict := dict "actions" $section.actions }}
+      {{ partial "cta_buttons.html" $include_dict }}
+    </div>
+    {{ end }}
+  </div>
+</section>

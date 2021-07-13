@@ -1,0 +1,28 @@
+{{ define "content" }}
+
+<article class="post">
+  <header class="post__header">
+    <div class="container container--md">
+      <h1 class="post__title line-top">{{ .Params.title }}</h1>
+      {{ if .Params.subtitle }}
+      <div class="post__subtitle">
+        {{ $.Params.subtitle }}
+      </div>
+      {{ end }}
+    </div>
+  </header>
+  {{ if .Params.image }}
+  <div class="post__image">
+    <div class="container container--lg">
+      <img src="{{ $.Params.image | relURL }}" alt="{{ $.Params.image_alt }}" />
+    </div>
+  </div>
+  {{ end }}
+  <div class="post__body text-block">
+    <div class="container container--md">
+      {{ .Content }}
+    </div>
+  </div>
+</article>
+
+{{ end }}

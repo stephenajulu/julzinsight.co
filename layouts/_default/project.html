@@ -1,0 +1,53 @@
+{{ define "content" }}
+
+<article class="project">
+  <header class="project__header">
+    <div class="container container--md">
+      <h1 class="project__title line-top">{{ .Params.title }}</h1>
+      {{ if .Params.subtitle }}
+      <div class="project__subtitle">
+        {{ $.Params.subtitle }}
+      </div>
+      {{ end }}
+    </div>
+  </header>
+  <div class="project__body">
+      {{ range $section := .Params.sections }}
+        {{ $include_dict := dict "section" $section "Site" $.Site }}
+        {{ $component := print $section.type ".html" }}
+        {{ partial $component $include_dict }}
+      {{ end }}
+  </div>
+</article>
+
+{{ $projects_sorted := ((.Site.GetPage "section" "/portfolio").Pages).ByDate.Reverse }}
+{{ $project_item_len := len $projects_sorted }}
+{{ range $project_item_idx, $project_item := $projects_sorted }}
+  {{ if eq $project_item.URL $.URL }}
+    {{ $curr_index := $project_item_idx }}
+    {{ $next_index := add $curr_index 1 }}
+    {{ $prev_index := sub $curr_index 1 }}
+    {{ $project_index_length := sub $project_item_len 1 }}
+    {{ if gt $project_index_length 0 }}
+    <nav class="section section--portfolio">
+      <div class="container container--lg">
+        <h2 class="section__title line-top">More Projects</h2>
+        <div class="grid portfolio-feed portfolio-feed--tiles">
+          {{ if ne $curr_index 0 }}
+            {{ $prev_project := index $projects_sorted $prev_index }}
+            {{ $include_dict := dict "project_page" $prev_project }}
+            {{ partial "portfolio_item.html" $include_dict }}
+          {{ end }}
+          {{ if lt $curr_index $project_index_length }}
+            {{ $next_project := index $projects_sorted $next_index }}
+            {{ $include_dict := dict "project_page" $next_project }}
+            {{ partial "portfolio_item.html" $include_dict }}
+          {{ end }}
+        </div>
+      </div>
+    </nav>
+    {{ end }}
+  {{ end }}
+{{ end }}
+
+{{ end }}

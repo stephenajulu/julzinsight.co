@@ -1,0 +1,41 @@
+{{ define "content" }}
+
+{{ $layout_style := .Params.layout_style | default "mosaic" }}
+
+<header class="section section--header{{ if .Params.hide_title }} screen-reader-text{{ end }}">
+  <div class="container container--lg">
+    <h1 class="section__title line-top">{{ .Params.title }}</h1>
+    {{ if .Params.subtitle }}
+    <p class="section__subtitle">{{ $.Params.subtitle }}</p>
+    {{ end }}
+  </div>
+</header>
+
+<div class="section section--portfolio">
+  <div class="container container--lg">
+    <div class="grid portfolio-feed portfolio-feed--{{ $layout_style }}">
+      {{ $projects_sorted := ((.Site.GetPage "section" "/portfolio").Pages).ByDate.Reverse }}
+      {{ range $project := $projects_sorted }}
+      <article class="cell project-card">
+        <a href="{{ $project.URL }}" class="project-card__link">
+          {{ if $project.Params.thumb_image }}
+          <div class="project-card__image">
+            <img src="{{ $project.Params.thumb_image | relURL }}" alt="{{ $project.Params.thumb_image_alt }}" />
+          </div>
+          {{ end }}
+          <header class="project-card__header">
+            <h2 class="project-card__title">{{ $project.Params.title }}</h2>
+            {{ if $project.Params.subtitle }}
+            <div class="project-card__subtitle">
+              {{ $project.Params.subtitle }}
+            </div>
+            {{ end }}
+          </header>
+        </a>
+      </article>
+      {{ end }}
+    </div>
+  </div>
+</div>
+
+{{ end }}

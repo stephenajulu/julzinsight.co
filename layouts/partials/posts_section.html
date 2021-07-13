@@ -1,0 +1,26 @@
+{{ $section := .section }}
+{{ $col_number := $section.col_number | default "three" }}
+<section id="{{ $section.section_id }}" class="section section--posts">
+  <div class="container container--lg">
+    {{ if $section.title }}
+    <h2 class="section__title line-top">{{ $section.title }}</h2>
+    {{ end }}
+    {{ if $section.subtitle }}
+    <p class="section__subtitle">{{ $section.subtitle }}</p>
+    {{ end }}
+    <div class="grid post-feed post-feed--col-{{ $col_number }}">
+      {{ $posts_sorted := ((.Site.GetPage "section" "/blog").Pages).ByDate.Reverse }}
+      {{ $recent_posts := $posts_sorted | first $section.posts_number }}
+      {{ range $post := $recent_posts }}
+        {{ $include_dict := dict "post_page" $post }}
+        {{ partial "blog_feed_item.html" $include_dict }}
+      {{ end }}
+    </div>
+    {{ if $section.actions }}
+    <div class="section__actions button-group">
+      {{ $include_dict := dict "actions" $section.actions }}
+      {{ partial "cta_buttons.html" $include_dict }}
+    </div>
+    {{ end }}
+  </div>
+</section>

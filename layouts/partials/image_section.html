@@ -1,0 +1,12 @@
+{{ $section := .section }}
+{{ $section_width := $section.width | default "regular" }}
+<figure class="image-block container{{ if eq $section_width "regular" }} container--md{{ end }}{{ if eq $section_width "wide" }} container--lg{{ end }}">
+  {{ if $section.image }}
+  <img src="{{ $section.image | relURL }}" alt="{{ $section.image_alt }}" />
+  {{ end }}
+  {{ if $section.caption }}
+  <figcaption class="image-block__caption">
+    {{ $section.caption }}
+  </figcaption>
+  {{ end }}
+</figure>

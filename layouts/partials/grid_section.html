@@ -1,0 +1,42 @@
+{{ $section := .section }}
+{{ $col_number := $section.col_number | default "three" }}
+<section id="{{ $section.section_id }}" class="section section--grid">
+  <div class="container container--lg">
+    {{ if $section.title }}
+    <h2 class="section__title line-top">{{ $section.title }}</h2>
+    {{ end }}
+    {{ if $section.subtitle }}
+    <p class="section__subtitle">{{ $section.subtitle }}</p>
+    {{ end }}
+    {{ if $section.grid_items }}
+    <div class="grid grid--col-{{ $col_number }}">
+      {{ range $item := $section.grid_items }}
+      <div class="cell card">
+        {{ if $item.image }}
+        <div class="card__image">
+          <img src="{{ $item.image | relURL }}" alt="{{ $item.image_alt }}" />
+        </div>
+        {{ end }}
+        {{ if $item.title }}
+        <h3 class="card__title">{{ $item.title }}</h3>
+        {{ end }}
+        {{ if $item.subtitle }}
+        <div class="card__subtitle">{{ $item.subtitle }}</div>
+        {{ end }}
+        {{ if $item.content }}
+        <div class="card__body">
+          {{ partial "markdownify-block" $item.content }}
+        </div>
+        {{ end }}
+        {{ if $item.actions }}
+        <div class="card__actions button-group">
+          {{ $include_dict := dict "actions" $item.actions }}
+          {{ partial "cta_buttons.html" $include_dict }}
+        </div>
+        {{ end }}
+      </div>
+      {{ end }}
+    </div>
+    {{ end }}
+  </div>
+</section>

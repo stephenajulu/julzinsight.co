@@ -1,0 +1,8 @@
+body.has-theme-bar {
+  #site-wrap {
+    top: 60px;
+    @media only screen and (max-width: 801px) {
+      top: 60px;
+    }
+  }
+}

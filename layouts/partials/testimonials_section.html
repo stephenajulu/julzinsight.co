@@ -1,0 +1,33 @@
+{{ $section := .section }}
+<section id="{{ $section.section_id }}" class="section section--testimonials">
+  <div class="container container--lg">
+    {{ if $section.title }}
+    <h2 class="section__title line-top">{{ $section.title }}</h2>
+    {{ end }}
+    {{ if $section.subtitle }}
+    <p class="section__subtitle">{{ $section.subtitle }}</p>
+    {{ end }}
+    {{ if $section.testimonials }}
+    <div class="grid">
+      {{ range $testimonial := $section.testimonials }}
+      <div class="cell">
+        <blockquote class="testimonial">
+          <p class="testimonial__content">{{ $testimonial.content }}</p>
+          <footer class="testimonial__footer">
+            {{ if $testimonial.avatar }}
+            <img class="testimonial__avatar" src="{{ $testimonial.avatar | relURL }}" alt="{{ $testimonial.avatar_alt }}">
+            {{ end }}
+            <div class="testimonial__details">
+              <div class="testimonial__author">{{ $testimonial.author }}</div>
+              {{ if $testimonial.position }}
+              <div class="testimonial__position">{{ $testimonial.position }}</div>
+              {{ end }}
+            </div>
+          </footer>
+        </blockquote>
+      </div>
+      {{ end }}
+    </div>
+    {{ end }}
+  </div>
+</section>

@@ -1,0 +1,20 @@
+{{ define "content" }}
+
+{{ if not .Params.hide_title }}
+<header class="section section--header">
+  <div class="container container--lg">
+    <h1 class="section__title line-top">{{ $.Params.title }}</h1>
+    {{ if $.Params.subtitle }}
+    <p class="section__subtitle">{{ $.Params.subtitle }}</p>
+    {{ end }}
+  </div>
+</header>
+{{ end }}
+
+{{ range $section := .Params.sections }}
+  {{ $include_dict := dict "section" $section "Site" $.Site }}
+  {{ $component := print $section.type ".html" }}
+  {{ partial $component $include_dict }}
+{{ end }}
+
+{{ end }}

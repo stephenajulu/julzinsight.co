@@ -1,0 +1,63 @@
+{{ define "content" }}
+
+<article class="post">
+  <header class="post__header">
+    <div class="container container--md">
+      <h1 class="post__title line-top">{{ .Params.title }}</h1>
+      {{ if .Params.subtitle }}
+      <div class="post__subtitle">
+        {{ $.Params.subtitle }}
+      </div>
+      {{ end }}
+    </div>
+  </header>
+  {{ if .Params.image }}
+  <div class="post__image">
+    <div class="container container--lg">
+      <img src="{{ $.Params.image | relURL }}" alt="{{ $.Params.image_alt }}" />
+    </div>
+  </div>
+  {{ end }}
+  <div class="post__body text-block">
+    <div class="container container--md">
+      {{ .Content }}
+    </div>
+  </div>
+  <footer class="post__meta">
+    <div class="container container--md">
+      Posted on <time class="published" datetime="{{ .Date | dateFormat "2006-01-02 15:04" }}">{{ .Date | dateFormat "January 02, 2006" }}</time>
+    </div>
+  </footer>
+</article>
+
+{{ $posts_sorted := ((.Site.GetPage "section" "/blog").Pages).ByDate.Reverse }}
+{{ $post_item_len := len $posts_sorted }}
+{{ range $post_item_idx, $post_item := $posts_sorted }}
+  {{ if eq $post_item.URL $.URL }}
+    {{ $curr_index := $post_item_idx }}
+    {{ $next_index := add $curr_index 1 }}
+    {{ $prev_index := sub $curr_index 1 }}
+    {{ $post_index_length := sub $post_item_len 1 }}
+    {{ if gt $post_index_length 0 }}
+    <nav class="section section--posts">
+      <div class="container container--lg">
+        <h2 class="section__title line-top">Read Next</h2>
+        <div class="grid post-feed post-feed--col-two">
+          {{ if ne $curr_index 0 }}
+            {{ $prev_post := index $posts_sorted $prev_index }}
+            {{ $include_dict := dict "post_page" $prev_post }}
+            {{ partial "blog_feed_item.html" $include_dict }}
+          {{ end }}
+          {{ if lt $curr_index $post_index_length }}
+            {{ $next_post := index $posts_sorted $next_index }}
+            {{ $include_dict := dict "post_page" $next_post }}
+            {{ partial "blog_feed_item.html" $include_dict }}
+          {{ end }}
+        </div>
+      </div>
+    </nav>
+    {{ end }}
+  {{ end }}
+{{ end }}
+
+{{ end }}

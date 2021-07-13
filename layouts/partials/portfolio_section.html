@@ -1,0 +1,34 @@
+{{ $section := .section }}
+{{ $layout_style := $section.layout_style | default "mosaic" }}
+<section id="{{ $section.section_id }}" class="section section--portfolio">
+  <div class="container container--lg">
+    {{ if $section.title }}
+    <h2 class="section__title line-top">{{ $section.title }}</h2>
+    {{ end }}
+    {{ if $section.subtitle }}
+    <p class="section__subtitle">{{ $section.subtitle }}</p>
+    {{ end }}
+    <div class="grid portfolio-feed portfolio-feed--{{ $layout_style }}">
+      {{ $projects_sorted := ((.Site.GetPage "section" "/portfolio").Pages).ByDate.Reverse }}
+      {{ $projects_recent := $projects_sorted | first $section.projects_number }}
+      {{ $project_len := len $projects_recent }}
+      {{ range $project_idx, $project := $projects_recent }}
+        {{ if and (and (eq $project_idx (sub $project_len 1)) $section.view_all_label) $section.view_all_url }}
+        <article class="cell project-card">
+          <a href="{{ $section.view_all_url | relURL }}" class="project-card__view-all">
+            {{ if $project.Params.thumb_image }}
+            <div class="project-card__image">
+              <img src="{{ $project.Params.thumb_image | relURL }}" alt="{{ $project.Params.thumb_image_alt }}" />
+            </div>
+            {{ end }}
+            <span class="project-card__button">{{ $section.view_all_label }}</span>
+          </a>
+        </article>
+        {{ else }}
+          {{ $include_dict := dict "project_page" $project }}
+          {{ partial "portfolio_item.html" $include_dict }}
+        {{ end }}
+      {{ end }}
+    </div>
+  </div>
+</section>

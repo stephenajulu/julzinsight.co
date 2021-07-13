@@ -1,0 +1,31 @@
+{{ $section := .section }}
+{{ $bg_color := $section.bg_color | default "none" }}
+<section id="{{ $section.section_id }}" class="section section--cta">
+  <div class="container container--lg">
+    <div {{ if ne $bg_color "none" }}class="section__bg"{{ end }}>
+      <div {{ if $section.image }}class="grid"{{ end }}>
+        {{ if $section.image }}
+        <div class="section__image cell">
+          <img src="{{ $section.image | relURL }}" alt="{{ $section.image_alt }}" />
+        </div>
+        {{ end }}
+        <div class="section__content{{ if $section.image }} cell{{ end }}">
+          {{ if $section.title }}
+          <h2 class="section__title">{{ $section.title }}</h2>
+          {{ end }}
+          {{ if $section.content }}
+          <div class="section__body text-block">
+            {{ partial "markdownify-block" $section.content }}
+          </div>
+          {{ end }}
+          {{ if $section.actions }}
+          <div class="section__actions button-group">
+            {{ $include_dict := dict "actions" $section.actions }}
+            {{ partial "cta_buttons.html" $include_dict }}
+          </div>
+          {{ end }}
+        </div>
+      </div>
+    </div>
+  </div>
+</section>

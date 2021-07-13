@@ -1,0 +1,23 @@
+<footer id="colophon" class="site-footer">
+  <div class="container container--lg">
+    <div class="site-footer__inside">
+      <div class="site-footer__info">
+        {{ if .Site.Data.config.footer.content }}
+        <span class="site-footer__copyright">{{ $.Site.Data.config.footer.content | safeHTML }}</span>
+        {{ end }}
+        {{ range $action := .Site.Data.config.footer.links }}
+          {{ $include_dict := dict "action" $action }}
+          {{ partial "action_link.html" $include_dict }}
+        {{ end }}
+      </div>
+      {{ if .Site.Data.config.footer.has_social }}
+      <div class="site-footer__social">
+        {{ range $action := $.Site.Data.config.footer.social_links }}
+          {{ $include_dict := dict "action" $action }}
+          {{ partial "action.html" $include_dict }}
+        {{ end }}
+      </div>
+      {{ end }}
+    </div>
+  </div>
+</footer>

@@ -1,0 +1,42 @@
+{{ define "content" }}
+
+{{ $col_number := .Params.col_number | default "three" }}
+
+<header class="section section--header{{ if .Params.hide_title }} screen-reader-text{{ end }}">
+  <div class="container container--lg">
+    <h1 class="section__title line-top">{{ .Params.title }}</h1>
+    {{ if .Params.subtitle }}
+    <p class="section__subtitle">{{ $.Params.subtitle }}</p>
+    {{ end }}
+  </div>
+</header>
+
+<div class="section section--portfolio">
+  <div class="container container--lg">
+    <div class="grid post-feed post-feed--col-{{ $col_number }}">
+      {{ $posts_sorted := ((.Site.GetPage "section" "/blog").Pages).ByDate.Reverse }}
+      {{ range $post := $posts_sorted }}
+      <article class="cell post-card">
+        {{ if $post.Params.thumb_image }}
+        <a class="post-card__image" href="{{ $post.URL }}">
+          <img src="{{ $post.Params.thumb_image | relURL }}" alt="{{ $post.Params.thumb_image_alt }}" />
+        </a>
+        {{ end }}
+        <header class="post-card__header">
+          <h2 class="post-card__title"><a href="{{ $post.URL }}">{{ $post.Params.title }}</a></h2>
+          <div class="post-card__meta">
+            <time class="published" datetime="{{ $post.Date | dateFormat "2006-01-02 15:04" }}">{{ $post.Date | dateFormat "January 02, 2006" }}</time>
+          </div>
+        </header>
+        {{ if $post.Params.excerpt }}
+        <p class="post-card__body">
+          {{ $post.Params.excerpt }}
+        </p>
+        {{ end }}
+      </article>
+      {{ end }}
+    </div>
+  </div>
+</div>
+
+{{ end }}

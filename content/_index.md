@@ -5,7 +5,7 @@ sections:
   - type: hero_section
     section_id: hero
     title: >-
-      Welcome to Julz Insight.  An independent studio focused on building impactful products, brands, and solutions. Make the shift from now to next with Julz Insight. [Let's talk](/contact/).
+      Welcome to Julz Insight.  An independent studio focused on building impactful products, brands, and solutions. Make the shift from now to next with Julz Insight. Let's talk.
 seo:
   title: Julz Insight
   description: >-

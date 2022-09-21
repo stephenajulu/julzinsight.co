@@ -1,8 +1,8 @@
 {
     "title": "Julz Insight",
     "color_scheme": "dark",
-    "accent_color": "violet",
-    "base_font": "fraunces",
+    "accent_color": "purple",
+    "base_font": "playfair",
     "header": {
         "title": "Julz Insight",
         "logo": "images/logo.svg",

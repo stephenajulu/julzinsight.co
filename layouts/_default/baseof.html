@@ -42,6 +42,22 @@
     </head>
     <body class="font-{{ .Site.Data.config.base_font }} palette-{{ .Site.Data.config.color_scheme }} accent-{{ .Site.Data.config.accent_color }}">
         
+        
+        
+<script src="https://unpkg.com/css-doodle@0.30.0/css-doodle.min.js"></script>
+<css-doodle>
+/* 200 PRINT */
+
+@grid: 200 / 320px;
+
+@size: 1px calc(141.4% + 1px);
+transform: rotate(@p(±45deg));
+background: #1f1137;
+margin: auto;
+</css-doodle>
+        
+        
+        
         <div id="site-wrap" class="site">
           {{ partial "header.html" . }}
           <main id="content" class="site-content">

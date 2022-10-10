@@ -2,7 +2,7 @@
     "title": "Julz Insight",
     "color_scheme": "dark",
     "accent_color": "violet",
-    "base_font": "karla",
+    "base_font": "poppins",
     "header": {
         "title": "Julz Insight",
         "logo": "images/logo2.svg",

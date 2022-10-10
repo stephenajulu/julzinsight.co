@@ -5,7 +5,7 @@
     "base_font": "poppins",
     "header": {
         "title": "Julz Insight",
-        "logo": "images/logo3.svg",
+        "logo": "images/logo.svg",
         "logo_alt": "Julz logo",
         "has_nav": true,
         "nav_links": [

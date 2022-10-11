@@ -15,24 +15,9 @@
                 "style": "link"
             },
             {
-                "label": "Work",
-                "url": "/portfolio/",
-                "style": "link"
-            },
-            {
-                "label": "Journal",
-                "url": "/blog/",
-                "style": "link"
-            },
-            {
-                "label": "About",
-                "url": "/about/",
-                "style": "link"
-            },
-            {
                 "label": "Contact",
                 "url": "/contact/",
-                "style": "button"
+                "style": "link"
             }
         ]
     },

@@ -5,7 +5,7 @@ sections:
   - type: hero_section
     section_id: hero
     title: >-
-      Julz Insight is a tech studio focused on building impactful products, brands, experiences and solutions.
+      We're a tech studio focused on building impactful products, brands, experiences and solutions.
 seo:
   title: Julz Insight
   description: >-

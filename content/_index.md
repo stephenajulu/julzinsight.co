@@ -5,11 +5,11 @@ sections:
   - type: hero_section
     section_id: hero
     title: >-
-      We're a tech studio building impactful products, brands, experiences and solutions.
+      Julz Insight is a company dedicated to building innovative and impactful products, brands, experiences and technologies. We are driven by our passion and curiosity for innovative, storytelling, product design and value addition.
 seo:
   title: Julz Insight
   description: >-
-    We are an independent tech studio building impactful products, brands, experiences and solutions. Make the shift from now to next with Julz Insight!
+   Julz Insight is a company dedicated to building innovative and impactful products, brands, experiences, and technologies. We are driven by our passion and curiosity for innovative, storytelling, product design and value addition.
   extra:
     - name: 'og:type'
       value: website
@@ -19,7 +19,7 @@ seo:
       keyName: property
     - name: 'og:description'
       value: >-
-        We are an independent studio building impactful products, brands, experiences and solutions. Make the shift from now to next with Julz Insight!
+        Julz Insight is a company dedicated to building innovative and impactful products, brands, experiences, and technologies. We are driven by our passion and curiosity for innovative, storytelling, product design and value addition.
       keyName: property
     - name: 'twitter:card'
       value: summary
@@ -27,6 +27,6 @@ seo:
       value: Julz Insight
     - name: 'twitter:description'
       value: >-
-        We are an independent studio building impactful products, brands, experiences and solutions. Make the shift from now to next with Julz Insight!
+        Julz Insight is a company dedicated to building innovative and impactful products, brands, experiences, and technologies. We are driven by our passion and curiosity for innovative, storytelling, product design and value addition.
 layout: advanced
 ---

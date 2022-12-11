@@ -5,7 +5,7 @@ sections:
   - type: hero_section
     section_id: hero
     title: >-
-      Julz Insight is a company dedicated to building innovative and impactful products, brands, experiences and technologies. We are driven by our passion and curiosity for innovative, storytelling, product design and value addition.
+      Julz Insight is a company dedicated to building innovative and impactful products, brands, experiences and technologies.
 seo:
   title: Julz Insight
   description: >-

@@ -5,13 +5,13 @@ sections:
   - type: hero_section
     section_id: hero
     title: >-
-      We are a company driven by curiosity and passion for building innovative and impactful products, brands, experiences and solutions.
+      We are a company driven by curiosity and passion, focused on building innovative and impactful products, brands, experiences and solutions.
     content: >-
-      [Learn more](/contact/).
+      [WHO WE ARE](/about/).
 seo:
   title: Julz Insight
   description: >-
-   Julz Insight is a company dedicated to building innovative and impactful products, brands, experiences, and technologies. We are driven by our passion and curiosity for innovative, storytelling, product design and value addition.
+   Julz Insight is a company driven by curiosity and passion, focused on building innovative and impactful products, brands, experiences and solutions.
   extra:
     - name: 'og:type'
       value: website
@@ -21,7 +21,7 @@ seo:
       keyName: property
     - name: 'og:description'
       value: >-
-        Julz Insight is a company dedicated to building innovative and impactful products, brands, experiences, and technologies. We are driven by our passion and curiosity for innovative, storytelling, product design and value addition.
+        Julz Insight is a company driven by curiosity and passion, focused on building innovative and impactful products, brands, experiences and solutions
       keyName: property
     - name: 'twitter:card'
       value: summary
@@ -29,6 +29,6 @@ seo:
       value: Julz Insight
     - name: 'twitter:description'
       value: >-
-        Julz Insight is a company dedicated to building innovative and impactful products, brands, experiences, and technologies. We are driven by our passion and curiosity for innovative, storytelling, product design and value addition.
+        Julz Insight is a company driven by curiosity and passion, focused on building innovative and impactful products, brands, experiences and solutions
 layout: advanced
 ---

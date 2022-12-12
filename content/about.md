@@ -16,7 +16,7 @@ sections:
   - type: grid_section
     section_id: team
     title: The Team
-    col_number: four
+    col_number: three
     grid_items:
       - title: Stephen Ajulu
         image: images/team-1.png

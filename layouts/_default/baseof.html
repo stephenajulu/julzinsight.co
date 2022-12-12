@@ -43,8 +43,8 @@
         {{ end }}
         
     </head>
-    <body class="font-{{ .Site.Data.config.base_font }} palette-{{ .Site.Data.config.color_scheme }} accent-{{ .Site.Data.config.accent_color }} bodyback">
-        
+    <body class="font-{{ .Site.Data.config.base_font }} palette-{{ .Site.Data.config.color_scheme }} accent-{{ .Site.Data.config.accent_color }}">
+        <div class="backgrd">
         <div id="site-wrap" class="site">
           {{ partial "header.html" . }}
           <main id="content" class="site-content">
@@ -54,5 +54,6 @@
         </div>
         <script src="{{ "js/init.js" | relURL }}"></script>
         <script src="{{ "js/page-load.js" | relURL }}"></script>
+        </div>
     </body> 
 </html>

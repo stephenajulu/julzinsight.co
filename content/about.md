@@ -4,9 +4,7 @@ hide_title: false
 sections:
   - type: content_section
     content: >-
-      Hyvaros is a strategy-driven digital agency that crafts digital solutions for digital businesses. We make you visible, digital and profitable in the digital world.
-
-      We also onboard brick motor businesses to the internet through bespoke packages depending on the market and need.
+      Julz Insight is a company dedicated to building innovative and impactful products, brands, experiences, and technologies. We are driven by our passion and curiosity for innovative, storytelling, product design and value addition.
     image: images/about.jpg
     image_alt: Our team in the meeting room
   - type: grid_section
@@ -61,20 +59,20 @@ sections:
     content: >-
       We are always looking for great people to join our team. If you are
       interested in working for Hyvaros, please send an email to
-      [info@hyvaros.co.ke](mailto:info@hyvaros.co.ke) with your CV, which
+      [info@julzinsight.co](mailto:info@julzinsight.co) with your CV, which
       position you are interested in and why we should hire you.
     image: images/cta-about.svg
     image_alt: Illustration
     bg_color: dark
 seo:
-  title: About Us - Hyvaros
+  title: About Us - Julz Insight
   description: Learn more about our team, our processes and more
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: About Us - Hyvaros
+      value: About Us - Julz Insight
       keyName: property
     - name: 'og:description'
       value: Learn more about our team, our processes and more
@@ -86,7 +84,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: About Us - Hyvaros
+      value: About Us - Julz Insight
     - name: 'twitter:description'
       value: Learn more about our team, our processes and more
     - name: 'twitter:image'

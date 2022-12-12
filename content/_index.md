@@ -5,7 +5,7 @@ sections:
   - type: hero_section
     section_id: hero
     title: >-
-      We are a company driven by vision, focused on building innovative and impactful products, brands, experiences and solutions.
+      We are a company driven by a singular vision that focuses on building innovative and impactful products, brands, experiences and solutions that will shape the world.
     content: >-
       [Who we are](/about/) / [What we do](/services/) / [Get in touch](/contact/)
 seo:

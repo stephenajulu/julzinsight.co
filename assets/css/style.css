@@ -1,4 +1,4 @@
-html, body, .backgrd { 
+*. html, body, .backgrd { 
   background: url(background.svg) no-repeat center center fixed !important; 
   -webkit-background-size: cover;
   -moz-background-size: cover;

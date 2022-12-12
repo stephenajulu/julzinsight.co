@@ -1,6 +1,13 @@
 {
     "name": "Julz Insight",
     "short_name": "Julz Insight",
+    "description":"We are a company driven by a singular purpose which is to build innovative and impactful products, brands, experiences and solutions.",
+    "orientation":"portrait",
+    "lang":"en-US",
+    "serviceworker": {
+      "src":"pwabuilder-sw.js",
+      "scope":"/"
+   },
     "icons": [
         {
             "src": "/android-chrome-192x192.png",
@@ -13,8 +20,20 @@
             "type": "image/png"
         }
     ],
-    "theme_color": "#000000",
+    "theme_color": "#7f00ff",
     "background_color": "#000000",
-    "start_url": "https://julzinsight.co",
+    "start_url": "/?utm_source=homescreen",
     "display": "standalone"
+    "shortcuts": [
+		{
+			"name": "Who we are",
+			"url": "/about/",
+			"description": "Learn our story"
+		},
+		{
+			"name": "Get in touc",
+			"url": "/contact/",
+			"description": "Let's make something great together"
+		}
+	]
 }

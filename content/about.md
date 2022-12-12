@@ -4,23 +4,17 @@ hide_title: false
 sections:
   - type: content_section
     content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel
-      venenatis augue. Suspendisse tincidunt, nibh eget sodales eleifend, lectus
-      magna elementum lorem, ut bibendum tellus turpis quis risus. Vivamus
-      sagittis enim est, et semper lectus hendrerit ut.
+      Hyvaros is a strategy-driven digital agency that crafts digital solutions for digital businesses. We make you visible, digital and profitable in the digital world.
 
-
-      In sollicitudin imperdiet turpis quis accumsan. Pellentesque euismod
-      turpis et nisi fermentum accumsan.
+      We also onboard brick motor businesses to the internet through bespoke packages depending on the market and need.
     image: images/about.jpg
     image_alt: Our team in the meeting room
   - type: grid_section
     section_id: team
     title: The Team
-    subtitle: An optional subtitle of the section
     col_number: three
     grid_items:
-      - title: Gustav Purpleson
+      - title: Stephen Ajulu
         image: images/team-1.png
         subtitle: 'Co-Founder, Creative Director'
         content: >-
@@ -28,7 +22,7 @@ sections:
           euismod nisi porta lorem mollis.
         actions:
           - label: Twitter
-            url: 'https://twitter.com/'
+            url: 'https://twitter.com/stephenajulu'
             style: icon
             icon: twitter
             new_window: true
@@ -61,58 +55,29 @@ sections:
             style: icon
             icon: instagram
             new_window: true
-      - title: Parsley Montana
-        image: images/team-4.png
-        subtitle: 'Senior Designer, Motion Graphics'
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-        actions:
-          - label: Twitter
-            url: 'https://twitter.com/'
-            style: icon
-            icon: twitter
-            new_window: true
-          - label: Instagram
-            url: 'https://www.instagram.com/'
-            style: icon
-            icon: instagram
-            new_window: true
-      - title: Brandon Guidelines
-        image: images/team-5.png
-        subtitle: Graphic Designer
-        content: >-
-          Mattis ullamcorper velit sed ullamcorper morbi tincidunt ornare massa
-          eget.
-        actions:
-          - label: Twitter
-            url: 'https://twitter.com/'
-            style: icon
-            icon: twitter
-            new_window: true
   - type: cta_section
     section_id: cta
     title: Become a Team Player
     content: >-
       We are always looking for great people to join our team. If you are
-      interested in working for Agency, please send an email to
-      [email@example.com](mailto:email@example.com) with your CV and which
-      position you are interested in.
+      interested in working for Hyvaros, please send an email to
+      [info@hyvaros.co.ke](mailto:info@hyvaros.co.ke) with your CV, which
+      position you are interested in and why we should hire you.
     image: images/cta-about.svg
     image_alt: Illustration
-    bg_color: light
+    bg_color: dark
 seo:
-  title: About Us
-  description: This is the about us page
+  title: About Us - Hyvaros
+  description: Learn more about our team, our processes and more
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: About Us
+      value: About Us - Hyvaros
       keyName: property
     - name: 'og:description'
-      value: This is the about us page
+      value: Learn more about our team, our processes and more
       keyName: property
     - name: 'og:image'
       value: images/about.jpg
@@ -121,9 +86,9 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: About Us
+      value: About Us - Hyvaros
     - name: 'twitter:description'
-      value: This is the about us page
+      value: Learn more about our team, our processes and more
     - name: 'twitter:image'
       value: images/about.jpg
       relativeUrl: true

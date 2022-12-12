@@ -36,8 +36,7 @@
         {{ else if eq $font "poppins" }}
         <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,700;1,400;1,900&display=swap" rel="stylesheet">
         {{ end }}
-        <link rel="stylesheet" href="{{ (resources.Get "sass/main.scss" | resources.ToCSS (dict "indentWidth" 4 "outputStyle" "nested" "precision" 10 "targetPath" "css/main.css")).Permalink }}">
-        <style>
+         <style>
             .backgrd {
     position: absolute;
     overflow: hidden;
@@ -68,6 +67,7 @@
     transform: translateX(-50%) translateY(-50%);
 }
         </style>
+        <link rel="stylesheet" href="{{ (resources.Get "sass/main.scss" | resources.ToCSS (dict "indentWidth" 4 "outputStyle" "nested" "precision" 10 "targetPath" "css/main.css")).Permalink }}">
         {{ if .Site.Data.config.favicon }}
         <link rel="icon" href="{{ $.Site.Data.config.favicon | relURL }}">
         {{ end }}

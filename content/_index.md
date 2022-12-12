@@ -5,7 +5,7 @@ sections:
   - type: hero_section
     section_id: hero
     title: >-
-      We are a company driven by curiosity and dedication to building innovative and impactful products, brands, experiences and technologies.
+      We are a company driven by curiosity and passion for building innovative and impactful products, brands, experiences and solutions.
     content: >-
       [Learn more](/contact/).
 seo:

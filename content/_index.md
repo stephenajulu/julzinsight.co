@@ -5,7 +5,7 @@ sections:
   - type: hero_section
     section_id: hero
     title: >-
-      We are a company dedicated to building innovative and impactful products, brands, experiences and technologies.
+      We are a company driven by curiosity and dedication to building innovative and impactful products, brands, experiences and technologies.
 seo:
   title: Julz Insight
   description: >-

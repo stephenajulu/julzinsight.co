@@ -37,13 +37,7 @@
         <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,700;1,400;1,900&display=swap" rel="stylesheet">
         {{ end }}
         <link rel="stylesheet" href="{{ (resources.Get "sass/main.scss" | resources.ToCSS (dict "indentWidth" 4 "outputStyle" "nested" "precision" 10 "targetPath" "css/main.css")).Permalink }}">
-        <style>
-           backgrd: rgb(0,0,0);
-           backgrd: -moz-radial-gradient(circle, rgba(0,0,0,1) 23%, rgba(127,0,255,1) 35%, rgba(0,0,0,1) 46%);
-           backgrd: -webkit-radial-gradient(circle, rgba(0,0,0,1) 23%, rgba(127,0,255,1) 35%, rgba(0,0,0,1) 46%);
-           backgrd: radial-gradient(circle, rgba(0,0,0,1) 23%, rgba(127,0,255,1) 35%, rgba(0,0,0,1) 46%);
-           filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#000000",endColorstr="#000000",GradientType=1);
-        </style>
+        <link rel="stylesheet" href="{{ (resources.Get "css/style.css").Permalink }}">
         {{ if .Site.Data.config.favicon }}
         <link rel="icon" href="{{ $.Site.Data.config.favicon | relURL }}">
         {{ end }}

@@ -4,13 +4,19 @@ hide_title: false
 sections:
   - type: content_section
     content: >-
-      We’re Julz Insight, and our mission is to change the world. We build products and brands that people love, services that make lives easier, developments that shape the future. Our team is passionate about bringing out the best in every project and building a community where we can come together to share ideas, challenges, and opportunities. Our main aim is building innovative and impactful solutions. 
-    image: images/about.jpg
+      Julz Insight is a company driven by a singular vision that focuses on building innovative and impactful products, brands and solutions that will shape the world. We believe in the power of people to change the world, especially when they are empowered to use their talents, passions and expertise to help shape it in ways that are meaningful, exciting and unique. We do this by bringing the best people into our team and sharing our values with the people in our community. We believe in creating something that makes people's lives better. And, finanly we believe in YOU!
+      
+      We are a corporation that aims to become a market leader in its sphere of influence by delivering value to you, its customers through technology, innovation, and integrity.
+      
+      So, come and let's build something great together!
+      
+      [Get in touch](/contact/)
+    image: images/julzinsightheader.png
     image_alt: Our team in the meeting room
   - type: grid_section
     section_id: team
     title: The Team
-    col_number: three
+    col_number: four
     grid_items:
       - title: Stephen Ajulu
         image: images/team-1.png

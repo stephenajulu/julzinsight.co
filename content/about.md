@@ -4,7 +4,7 @@ hide_title: false
 sections:
   - type: content_section
     content: >-
-      Julz Insight is a company dedicated to building innovative and impactful products, brands, experiences, and technologies. We are driven by our passion and curiosity for innovative, storytelling, product design and value addition.
+      We’re Julz Insight, and our mission is to change the world. We build products and brands that people love, services that make lives easier, developments that shape the future. Our team is passionate about bringing out the best in every project and building a community where we can come together to share ideas, challenges, and opportunities. Our main aim is building innovative and impactful solutions. 
     image: images/about.jpg
     image_alt: Our team in the meeting room
   - type: grid_section

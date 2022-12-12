@@ -5,13 +5,13 @@ sections:
   - type: hero_section
     section_id: hero
     title: >-
-      We are a company driven by a singular vision that focuses on building innovative and impactful products, brands, experiences and solutions that will shape the world.
+      We are a company driven by a singular vision which is building innovative and impactful products, brands, experiences and solutions.
     content: >-
       [Who we are](/about/) / [What we do](/services/) / [Get in touch](/contact/)
 seo:
   title: Julz Insight
   description: >-
-   Julz Insight is a company driven by passion, focused on building innovative and impactful products, brands, experiences and solutions.
+   Julz Insight is a company driven by a singular vision which is building innovative and impactful products, brands, experiences and solutions that will hopefully shape the world.
   extra:
     - name: 'og:type'
       value: website
@@ -21,7 +21,7 @@ seo:
       keyName: property
     - name: 'og:description'
       value: >-
-        Julz Insight is a company driven by passion, focused on building innovative and impactful products, brands, experiences and solutions
+        Julz Insight is a company driven by a singular vision which is building innovative and impactful products, brands, experiences and solutions that will hopefully shape the world.
       keyName: property
     - name: 'twitter:card'
       value: summary
@@ -29,6 +29,6 @@ seo:
       value: Julz Insight
     - name: 'twitter:description'
       value: >-
-        Julz Insight is a company driven by passion, focused on building innovative and impactful products, brands, experiences and solutions
+        Julz Insight is a company driven by a singular vision which is building innovative and impactful products, brands, experiences and solutions that will hopefully shape the world.
 layout: advanced
 ---

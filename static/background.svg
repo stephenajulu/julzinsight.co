@@ -1266,7 +1266,7 @@
     </g>
     <defs>
         <mask id="SvgjsMask1058">
-            <rect width="2560" height="1440" fill="#ffffff"></rect>
+            <rect width="2560" height="1440" fill="#000000"></rect>
         </mask>
         <radialGradient id="SvgjsRadialGradient1059">
             <stop stop-color="#ffffff" offset="0.1"></stop>

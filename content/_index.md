@@ -7,7 +7,7 @@ sections:
     title: >-
       We are a company driven by passion, focused on building innovative and impactful products, brands, experiences and solutions.
     content: >-
-      [Who are we?](/about/) / [Get in touch](/contact/)
+      [Who we are](/about/) / [Get in touch](/contact/)
 seo:
   title: Julz Insight
   description: >-

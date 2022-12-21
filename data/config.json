@@ -15,12 +15,17 @@
                 "style": "link"
             },
             {
+                "label": "Services",
+                "url": "/services/",
+                "style": "link"
+            },
+            {
                 "label": "Projects",
                 "url": "/portfolio/",
                 "style": "link"
             },
             {
-                "label": "Articles",
+                "label": "Insights",
                 "url": "/blog/",
                 "style": "link"
             },

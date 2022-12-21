@@ -2,33 +2,33 @@
 title: Services
 hide_title: true
 sections:
-- type: grid_section
-    section_id: services
-    title: Services
-    subtitle: What we do
-    col_number: three
-    grid_items:
-      - title: Design/Branding
-        image: images/service-1.svg
-        content: |-
-          - Logo Design
-          - Visual Identity Design
-          - Poster Design
-          - UI/UX/Web Design
-      - title: Development/Crafting
-        image: images/service-2.svg
-        content: |-
-          - Website Development
-          - Landing Page Development
-          - Microsite Development
-          - E-commerce Store Development
-      - title: Marketing/Content
-        image: images/service-3.svg
-        content: |-
-          - Content Writing
-          - Short Video Editing
-          - Paid AD Marketing
-          - Search Engine Optimization
+    - type: grid_section
+        section_id: services
+        title: Services
+        subtitle: What we do
+        col_number: three
+        grid_items:
+          - title: Design/Branding
+            image: images/service-1.svg
+            content: |-
+              - Logo Design
+              - Visual Identity Design
+              - Poster Design
+              - UI/UX/Web Design
+          - title: Development/Crafting
+            image: images/service-2.svg
+            content: |-
+              - Website Development
+              - Landing Page Development
+              - Microsite Development
+              - E-commerce Store Development
+          - title: Marketing/Content
+            image: images/service-3.svg
+            content: |-
+              - Content Writing
+              - Short Video Editing
+              - Paid AD Marketing
+              - Search Engine Optimization
   - type: cta_section
     section_id: cta
     title: Let’s Work Together!

@@ -1,7 +1,7 @@
 {
     "name": "Julz Insight",
     "short_name": "Julz Insight",
-    "description":"We are a company driven by a singular purpose which is to build innovative and impactful products, brands, experiences and solutions.",
+    "description":"Julz Insight is an IT firm that crafts results-oriented solutions by building innovative and impactful products, brands, and experiences.",
     "orientation":"portrait",
     "lang":"en-US",
     "serviceworker": {
@@ -20,7 +20,7 @@
             "type": "image/png"
         }
     ],
-    "theme_color": "#7f00ff",
+    "theme_color": "#4320d6",
     "background_color": "#000000",
     "start_url": "/?utm_source=homescreen",
     "display": "standalone",

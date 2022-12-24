@@ -23,7 +23,7 @@
     "theme_color": "#7f00ff",
     "background_color": "#000000",
     "start_url": "/?utm_source=homescreen",
-    "display": "standalone"
+    "display": "standalone",
     "shortcuts": [
 		{
 			"name": "Who we are",

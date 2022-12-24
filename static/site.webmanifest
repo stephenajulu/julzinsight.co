@@ -27,13 +27,24 @@
     "shortcuts": [
 		{
 			"name": "Who we are",
+			"short_name": "About",
 			"url": "/about/",
-			"description": "Learn our story"
+			"description": "Learn our story",
+			"icons": [{ "src": "/96x96.png", "sizes": "96x96" }]
 		},
 		{
-			"name": "Get in touc",
+			"name": "What we do",
+			"short_name": "Services",
+			"url": "/about/",
+			"description": "Learn our story",
+			"icons": [{ "src": "/96x96.png", "sizes": "96x96" }]
+		},
+		{
+			"name": "How to contact us",
+			"short_name": "Contacts",
 			"url": "/contact/",
-			"description": "Let's make something great together"
+			"description": "Let's make something great together",
+			"icons": [{ "src": "/96x96.png", "sizes": "96x96" }]
 		}
 	]
 }

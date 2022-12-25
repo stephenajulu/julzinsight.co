@@ -32,7 +32,7 @@ sections:
   - type: cta_section
     section_id: cta
     title: Let’s Work Together!
-    content: Say hello at [ajulu@hyvaros.co.ke](mailto:info@hyvaros.co.ke) or tell
+    content: Say hello at [info@julzinsight.co](mailto:info@julzinsight.co) or tell
       us more about your brand, mission and goals by getting started below.
     actions:
       - label: Let get started
@@ -42,27 +42,24 @@ sections:
     image_alt: Illustration
     bg_color: light
 seo:
-  title: Services- Hyvaros
-  description: We make brands visible in this digital world using proven
-    strategies crafted research and experience
+  title: Services- Julz Insight
+  description: Julz Insight is an IT firm that crafts results-oriented solutions by building innovative and impactful products, brands, and experiences
   extra:
     - name: og:type
       value: website
       keyName: property
     - name: og:title
-      value: Services - Hyvaros
+      value: Services - Julz Insight
       keyName: property
     - name: og:description
-      value: We make brands visible in this digital world using proven strategies
-        crafted research and experience
+      value: Julz Insight is an IT firm that crafts results-oriented solutions by building innovative and impactful products, brands, and experiences
       keyName: property
     - name: twitter:card
       value: summary
     - name: twitter:title
-      value: Services - Hyvaros
+      value: Services - Julz Insight
     - name: twitter:description
-      value: We make brands visible in this digital world using proven strategies
-        crafted research and experience
+      value: Julz Insight is an IT firm that crafts results-oriented solutions by building innovative and impactful products, brands, and experiences
 layout: advanced
 
 ---

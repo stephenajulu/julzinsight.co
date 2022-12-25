@@ -1,45 +1,12 @@
 {{ define "content" }}
-<div class="spacer"><br>&nbsp;<br>&nbsp;<br>&nbsp;<br></div>
+<div class="spacer"><br>&nbsp;<br>&nbsp;<br></div>
       <div>
         <h2 style="text-align:center;">Oops, You Are Offline!</h2>
 <center><img src="https://julzinsight.co/images/503.svg" alt="503" width="503px" align="center" style="align:center;text-align:center;"></center>
 <br>
-        <h3 style="text-align:center;">
+        <h4 style="text-align:center;">
             Connect To The Internet or <a href="javascript:diagnoseErrors()" id="diagnose-link" jstcache="0">Run Network Diagnostics</a>
-        </h3>
-            <br>
-            <button type="button" style="align:center;text-align:center;">⤾ Reload</button>
+              <a onClick="window.location.reload()">Refresh</a>
+        </h4>
       </div>
-
-<script>
-      // Manual reload feature.
-      document.querySelector("button").addEventListener("click", () => {
-        window.location.reload();
-      });
-
-      // Listen to changes in the network state, reload when online.
-      // This handles the case when the device is completely offline.
-      window.addEventListener('online', () => {
-        window.location.reload();
-      });
-
-      // Check if the server is responding and reload the page if it is.
-      // This handles the case when the device is online, but the server
-      // is offline or misbehaving.
-      async function checkNetworkAndReload() {
-        try {
-          const response = await fetch('.');
-          // Verify we get a valid response from the server
-          if (response.status >= 200 && response.status < 500) {
-            window.location.reload();
-            return;
-          }
-        } catch {
-          // Unable to connect to the server, ignore.
-        }
-        window.setTimeout(checkNetworkAndReload, 2500);
-      }
-
-      checkNetworkAndReload();
-    </script>
 {{ end }}

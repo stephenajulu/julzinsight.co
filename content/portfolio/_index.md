@@ -1,6 +1,6 @@
 ---
 title: Portfolio
-subtitle: TCheck out Julz Insight's portfolio and review our case studies
+subtitle: Check out Julz Insight's portfolio and review our case studies
 layout_style: mosaic
 seo:
   title: Portfolio - Julz Insight

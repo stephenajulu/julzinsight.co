@@ -165,12 +165,3 @@ self.addEventListener("fetch", (event) => {
   // will be handled by the browser as if there were no service
   // worker involvement.
 });
-
-const status = await navigator.permissions.query({
-  name: 'periodic-background-sync',
-});
-if (status.state === 'granted') {
-  // Periodic background sync can be used.
-} else {
-  // Periodic background sync cannot be used.
-}

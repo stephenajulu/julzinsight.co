@@ -9,7 +9,7 @@ thumb_image_alt: White concrete building wall
 image: images/post-1.jpg
 image_alt: White concrete building wall
 seo:
-  title:Why Every Small and Medium Business Needs to be Digital
+  title: Why Every Small and Medium Business Needs to be Digital
   description: >-
     Embracing the digital future is essential to overcoming the future challenges your business will face, from increased competition to attracting new audiences.
   extra:

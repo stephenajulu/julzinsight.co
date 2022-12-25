@@ -31,6 +31,8 @@ sections:
           - Design
           - Development
           - Marketing
+          - IT Consultation
+          - As-a-service
           - Other
       - input_type: textarea
         name: message
@@ -43,23 +45,23 @@ sections:
           can be contacted.
     submit_label: Send Message
 seo:
-  title: Contact
-  description: This is the contact page
+  title: Contact - Julz Insight
+  description: Contact the Julz Insight team
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Contact
+      value: Contact - Julz Insight
       keyName: property
     - name: 'og:description'
-      value: This is the contact page
+      value: Contact the Julz Insight team
       keyName: property
     - name: 'twitter:card'
       value: summary
     - name: 'twitter:title'
-      value: Contact
+      value: Contact - Julz Insight
     - name: 'twitter:description'
-      value: This is the contact page
+      value: Contact the Julz Insight team
 layout: advanced
 ---

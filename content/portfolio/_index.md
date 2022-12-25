@@ -2,6 +2,19 @@
 title: Portfolio
 subtitle: Check out Julz Insight's portfolio and review our case studies
 layout_style: mosaic
+sections:
+  - type: cta_section
+    section_id: cta
+    title: Let’s Work Together!
+    content: Say hello at [info@julzinsight.co](mailto:info@julzinsight.co) or tell
+      us more about your brand, mission and goals by getting started below.
+    actions:
+      - label: Let get started
+        url: /contact
+        style: button
+    image: images/cta.svg
+    image_alt: Illustration
+    bg_color: dark
 seo:
   title: Portfolio - Julz Insight
   description: Check out Julz Insight's portfolio and review our case studies

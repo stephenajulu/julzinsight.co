@@ -4,7 +4,7 @@ hide_title: false
 sections:
   - type: content_section
     content: >-
-      Julz Insight is a company driven by a singular vision that focuses on building innovative and impactful products, brands and solutions that will shape the world. 
+      Julz Insight is an IT firm that crafts results-oriented solutions by building innovative and impactful products, brands, and experiences. 
       
       
       We believe in the power of people to change the world, especially when they are empowered to use their talents, passions and expertise to help shape it in ways that are meaningful, exciting and unique. We do this by bringing the best people into our team and sharing our values with the people in our community.
@@ -80,7 +80,7 @@ sections:
     bg_color: dark
 seo:
   title: About Us - Julz Insight
-  description: Learn more about our team, our processes and more
+  description: Learn more about Julz Insight, our team, our processes and more
   extra:
     - name: 'og:type'
       value: website
@@ -89,7 +89,7 @@ seo:
       value: About Us - Julz Insight
       keyName: property
     - name: 'og:description'
-      value: Learn more about our team, our processes and more
+      value: Learn more about Julz Insight, our team, our processes and more
       keyName: property
     - name: 'og:image'
       value: images/about.jpg
@@ -100,7 +100,7 @@ seo:
     - name: 'twitter:title'
       value: About Us - Julz Insight
     - name: 'twitter:description'
-      value: Learn more about our team, our processes and more
+      value: Learn more about Julz Insight, our team, our processes and more
     - name: 'twitter:image'
       value: images/about.jpg
       relativeUrl: true

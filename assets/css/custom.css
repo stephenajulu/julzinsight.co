@@ -1,6 +1,6 @@
 .home_backgroundimage {
-    display: block;
+    background-color: #000;
+    height: 100%;
     overflow: hidden;
-    position: fixed;
-    right: 100%; bottom: 100$;
+    width: 100%;
 }

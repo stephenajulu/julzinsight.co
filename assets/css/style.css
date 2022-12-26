@@ -1,8 +1,0 @@
-#backgroundimage { 
-  background-color: #000000;
-  background-image: url(background.svg) no-repeat center center fixed !important; 
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-}

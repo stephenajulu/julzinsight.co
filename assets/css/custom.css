@@ -1,22 +1,9 @@
 .home_backgroundimage {
-    position: absolute;
-    left: 0%;
-    top: 0%;
-    right: 0%;
-    bottom: auto;
     display: block;
     overflow: hidden;
-}
-
-image-32 {-webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
-    height: 100%;
-    overflow: hidden;;
-
-    @media screen and (max-width: 479px)
-    .image-32 {
-    height: 60vh;
-	}
+    position: fixed;
+    right: 0px; bottom: 0px;
+    width: 200px;
+    height:40px;
+    padding: 5px;
 }

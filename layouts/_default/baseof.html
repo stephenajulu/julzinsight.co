@@ -60,9 +60,9 @@
            document.body.appendChild(el);
           </script>
     </head>
-    <body class="font-{{ .Site.Data.config.base_font }} palette-{{ .Site.Data.config.color_scheme }} accent-{{ .Site.Data.config.accent_color }}" style="{{ if .IsHome }}background-image: url(/images/Julz Background-1.png) center center cover no-repeat fixed !important;height: 100%;overflow: hidden;{{end}}">
+    <body class="font-{{ .Site.Data.config.base_font }} palette-{{ .Site.Data.config.color_scheme }} accent-{{ .Site.Data.config.accent_color }}">
 
-          <div id="site-wrap" class="site">
+          <div id="site-wrap" class="site" style="{{ if .IsHome }}background-image: url(/images/Julz Background-1.png) center center cover no-repeat fixed !important;height: 100%;overflow: hidden;{{end}}">
           {{ partial "header.html" . }}
           <main id="content" class="site-content">
             {{ block "content" . }}{{ end }}

@@ -61,12 +61,14 @@
           </script>
     </head>
     <body class="font-{{ .Site.Data.config.base_font }} palette-{{ .Site.Data.config.color_scheme }} accent-{{ .Site.Data.config.accent_color }}" id="backgroundimage">
+        { if $isHome }}<div class="home_backgroundimage">{{ end }}
           <div id="site-wrap" class="site">
           {{ partial "header.html" . }}
           <main id="content" class="site-content">
             {{ block "content" . }}{{ end }}
           </main>
           {{ partial "footer.html" . }}
+        </div>
         </div>
         <script src="{{ "js/init.js" | relURL }}"></script>
         <script src="{{ "js/page-load.js" | relURL }}"></script>

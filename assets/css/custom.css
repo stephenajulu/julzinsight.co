@@ -22,3 +22,8 @@ html::-webkit-scrollbar-thumb:active {
     background: #4320d6;
     border-radius: 10px;
   }
+
+html {
+    scrollbar-width: auto;
+    scrollbar-color: #4320d6 #000000;
+  }

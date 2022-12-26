@@ -60,12 +60,8 @@
            document.body.appendChild(el);
           </script>
     </head>
-    <body class="font-{{ .Site.Data.config.base_font }} palette-{{ .Site.Data.config.color_scheme }} accent-{{ .Site.Data.config.accent_color }}" id="backgroundimage">
-        {{ if .IsHome }}
-        <div class="home_backgroundimage">
-        <img src="Julz Background-1.png" class="image-32" loading="lazy" sizes="(max-width: 1400px) 100vw, 1400px" srcset="/images/Julz_Background-1_eqkzvo_c_scale,w_200.png 200w, /images/Julz_Background-1_eqkzvo_c_scale,w_807.png 807w, /images/Julz_Background-1_eqkzvo_c_scale,w_1199.png 1199w, /images/Julz_Background-1_eqkzvo_c_scale,w_1400.png 1400w" src="Julz_Background-1_eqkzvo_c_scale,w_1400.png" alt="Julz Insight Background Image">
-        </div>
-        {{ end }}
+    <body class="font-{{ .Site.Data.config.base_font }} palette-{{ .Site.Data.config.color_scheme }} accent-{{ .Site.Data.config.accent_color }} {{if .IsHome}}home_backgroundimage{{end}}">
+
           <div id="site-wrap" class="site">
           {{ partial "header.html" . }}
           <main id="content" class="site-content">

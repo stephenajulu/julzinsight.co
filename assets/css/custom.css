@@ -1,16 +1,4 @@
 .home_backgroundimage {
-    display: block;
-    background-color: #000;
-    height: 100%;
-    overflow: hidden;
-    width: 100%;
-}
-
-.hero_backgroundimage, .image-32 {
-    height: 100%;
-}
-
-.image-32 {
-    position: relative;
-    overflow: hidden;   
+    background: url(bJulz Background-1.png) center center cover no-repeat fixed;
+    background: #000000;
 }

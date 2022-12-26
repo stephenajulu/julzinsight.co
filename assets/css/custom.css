@@ -1,5 +1,5 @@
 .home_backgroundimage {
-    background: url(/images/Julz Background-1.png) center center cover no-repeat fixed;
+    background: url(/images/Julz Background-1.png) center center cover no-repeat fixed !important;
     background-size: cover;
     height: 100%;
     overflow: hidden;

@@ -29,12 +29,8 @@
         {{ end }}
         {{ if eq $font "fraunces" }}
         <link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,wght@0,400;0,500;1,400;1,500&display=swap" rel="stylesheet">
-        {{ else if eq $font "karla" }}
-        <link href="https://fonts.googleapis.com/css2?family=Karla:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
         {{ else if eq $font "playfair"}}
         <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700;800;900&display=swap" rel="stylesheet">
-        {{ else if eq $font "poppins" }}
-        <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,700;1,400;1,900&display=swap" rel="stylesheet">
         {{ end }}
         <link rel="stylesheet" href="{{ (resources.Get "sass/main.scss" | resources.ToCSS (dict "indentWidth" 4 "outputStyle" "nested" "precision" 10 "targetPath" "css/main.css")).Permalink }}">
         <link rel="stylesheet" href="{{ (resources.Get "css/custom.css").Permalink }}">
@@ -61,7 +57,7 @@
         </script>
         <script>(function(w, d) { w.CollectId = "63aa919450094935eaaa0be7"; var h = d.head || d.getElementsByTagName("head")[0]; var s = d.createElement("script"); s.setAttribute("type", "text/javascript"); s.async=true; s.setAttribute("src", "https://collectcdn.com/launcher.js"); h.appendChild(s); })(window, document);</script>
     </head>
-    <body class="font-{{ .Site.Data.config.base_font }} palette-{{ .Site.Data.config.color_scheme }} accent-{{ .Site.Data.config.accent_color }}">
+    <body class="bg-image font-{{ .Site.Data.config.base_font }} palette-{{ .Site.Data.config.color_scheme }} accent-{{ .Site.Data.config.accent_color }}">
 
           <div id="site-wrap" class="site">
           {{ partial "header.html" . }}

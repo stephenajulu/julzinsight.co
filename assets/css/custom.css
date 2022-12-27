@@ -27,11 +27,3 @@ html {
     scrollbar-width: auto;
     scrollbar-color: #4320d6 #000000;
   }
-
-.bg-image {
-  background-image: url('/background2.svg') !important;
-  background: #000000 !important;
-  background-size: cover !important;
-  background-position: center !important;
-  background-attachment: fixed !important;
-}

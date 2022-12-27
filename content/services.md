@@ -43,7 +43,7 @@ sections:
     content: Say hello at [info@julzinsight.co](mailto:info@julzinsight.co) or tell
       us more about your brand, mission and goals by getting started below.
     actions:
-      - label: Let get started
+      - label: Let's get started →
         url: /contact
         style: button
     image: images/cta.svg

@@ -36,6 +36,7 @@ sections:
           - Short Video Editing
           - Paid AD Marketing
           - Search Engine Optimization
+          - Progressive Web Application Conversion
   - type: cta_section
     section_id: cta
     title: Let’s Work Together!

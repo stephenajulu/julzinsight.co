@@ -8,6 +8,13 @@ sections:
     subtitle: What we do
     col_number: three
     grid_items:
+      - title: IT Solutions
+        image: images/service-4.svg
+        content: |-
+          - IT Consultation
+          - Storage as a Service
+          - Infrastructure as a Service
+          - Enterprise Network and Device Security
       - title: Design/Branding
         image: images/service-1.svg
         content: |-

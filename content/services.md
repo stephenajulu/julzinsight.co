@@ -9,7 +9,7 @@ sections:
     col_number: three
     grid_items:
       - title: Technology
-        image: images/service-4.svg
+        image: images/cta.svg
         content: |-
           - IT Consultation
           - Storage as a Service

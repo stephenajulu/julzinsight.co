@@ -1,29 +1,38 @@
 /* ===== Scrollbar CSS ===== */
 html::-webkit-scrollbar {
-    width: 10px;
+    width: 8x;
   }
 
 html::-webkit-scrollbar-track {
     background: #000000;
-    border-radius: 10px;
+    border-radius: 8px;
 }
 
 html::-webkit-scrollbar-thumb {
     background: #4320d6;
-    border-radius: 10px;
+    border-radius: 8px;
   }
 
 html::-webkit-scrollbar-thumb:hover {
     background: #4320d6;
-    border-radius: 10px;
+    border-radius: 8px;
   }
 
 html::-webkit-scrollbar-thumb:active {
     background: #4320d6;
-    border-radius: 10px;
+    border-radius: 8px;
   }
 
 html {
     scrollbar-width: auto;
     scrollbar-color: #4320d6 #000000;
   }
+
+.bg-image {
+  background-image: url('/background.svg');
+  background: #000000;
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  /* other styles */
+}

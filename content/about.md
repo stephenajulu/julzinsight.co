@@ -16,7 +16,7 @@ sections:
       We are a corporation that aims to become a market leader in its sphere of influence by delivering value to you, its customers through technology, innovation, and integrity.
       
       
-      So, come and let's build something great together!
+      ### Come and let's build something great together!
       
       [Get in touch](/contact/)
     image: images/julzinsightheader.png
@@ -27,52 +27,22 @@ sections:
     col_number: three
     grid_items:
       - title: Stephen Ajulu
-        image: images/team-1.png
-        subtitle: 'Co-Founder, Creative Director'
+        image: https://stephenajulu.com/images/rsz_2.png
+        subtitle: 'Founder & Director'
         content: >-
-          Pretium aenean pharetra magna ac placerat vestibulum. Imperdiet sed
-          euismod nisi porta lorem mollis.
+          Hello I'm the founder of Julz Insight. I founded the company with the ultimate goal of crafting impactful products, brands and solutions. It's nice to                       meet you.
         actions:
           - label: Twitter
             url: 'https://twitter.com/stephenajulu'
             style: icon
             icon: twitter
             new_window: true
-      - title: Hilary Ouse
-        image: images/team-2.png
-        subtitle: 'Co-Founder, Creative Director'
-        content: >-
-          Dictum fusce ut placerat orci nulla pellentesque. Ipsum faucibus vitae
-          aliquet nec ullamcorper sit.
-        actions:
-          - label: Twitter
-            url: 'https://twitter.com/'
-            style: icon
-            icon: twitter
-            new_window: true
-      - title: Gordon Norman
-        image: images/team-3.png
-        subtitle: Creative Producer
-        content: >-
-          Interdum velit euismod in pellentesque massa placerat duis ultricies
-          lacus.
-        actions:
-          - label: Twitter
-            url: 'https://twitter.com/'
-            style: icon
-            icon: twitter
-            new_window: true
-          - label: Instagram
-            url: 'https://www.instagram.com/'
-            style: icon
-            icon: instagram
-            new_window: true
   - type: cta_section
     section_id: cta
     title: Become a Team Player
     content: >-
       We are always looking for great people to join our team. If you are
-      interested in working for Hyvaros, please send an email to
+      interested in working for Julz Insight, please send us an email to
       [info@julzinsight.co](mailto:info@julzinsight.co) with your CV, which
       position you are interested in and why we should hire you.
     image: images/cta-about.svg

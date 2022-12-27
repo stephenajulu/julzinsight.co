@@ -56,8 +56,17 @@
            document.body.appendChild(el);
         </script>
         <script>(function(w, d) { w.CollectId = "63aa919450094935eaaa0be7"; var h = d.head || d.getElementsByTagName("head")[0]; var s = d.createElement("script"); s.setAttribute("type", "text/javascript"); s.async=true; s.setAttribute("src", "https://collectcdn.com/launcher.js"); h.appendChild(s); })(window, document);</script>
+   <style>
+       .bg-image {
+          background-image: url('/background2.svg') !important;
+          background: #000000 !important;
+          background-size: cover !important;
+          background-position: center !important;
+          background-attachment: fixed !important;
+        }
+        </style>
     </head>
-    <body class="bg-image font-{{ .Site.Data.config.base_font }} palette-{{ .Site.Data.config.color_scheme }} accent-{{ .Site.Data.config.accent_color }}" style="background-image: url('/background2.svg');background: #000000;background-size: cover;background-position: center;background-attachment: fixed;">
+    <body class="bg-image font-{{ .Site.Data.config.base_font }} palette-{{ .Site.Data.config.color_scheme }} accent-{{ .Site.Data.config.accent_color }}">
 
           <div id="site-wrap" class="site">
           {{ partial "header.html" . }}

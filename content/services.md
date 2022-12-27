@@ -8,7 +8,7 @@ sections:
     subtitle: What we do
     col_number: three
     grid_items:
-      - title: IT Solutions
+      - title: Technology
         image: images/service-4.svg
         content: |-
           - IT Consultation

@@ -9,28 +9,28 @@ sections:
     col_number: three
     grid_items:
       - title: Technology
-        image: images/cta.svg
+        image: images/service-3.svg
         content: |-
           - IT Consultation
           - Storage as a Service
           - Infrastructure as a Service
           - Enterprise Network and Device Security
       - title: Design/Branding
-        image: images/service-1.svg
+        image: images/service-2.svg
         content: |-
           - Logo Design
           - Visual Identity Design
           - Poster Design
           - UI/UX/Web Design
       - title: Development/Crafting
-        image: images/service-2.svg
+        image: images/service-3.svg
         content: |-
           - Website Development
           - Landing Page Development
           - Microsite Development
           - E-commerce Store Development
       - title: Marketing/Content
-        image: images/service-3.svg
+        image: images/service-1.svg
         content: |-
           - Content Writing
           - Short Video Editing

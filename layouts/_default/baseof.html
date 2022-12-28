@@ -56,7 +56,7 @@
            document.body.appendChild(el);
         </script>
     </head>
-    <body {{ if .IsHome}}style="background-image: url('/background2.svg');background-color: #000000;background-position: bottom center;background-repeat: no-repeat;background-size: center;"{{end}} class="font-{{ .Site.Data.config.base_font }} palette-{{ .Site.Data.config.color_scheme }} accent-{{ .Site.Data.config.accent_color }}">
+    <body {{ if .IsHome}}style="background-image: url('/background2.svg') center center cover no-repeat fixed;background-color: #000000;"{{end}} class="font-{{ .Site.Data.config.base_font }} palette-{{ .Site.Data.config.color_scheme }} accent-{{ .Site.Data.config.accent_color }}">
           <div id="site-wrap" class="site">
           {{ partial "header.html" . }}
           <main id="content" class="site-content">

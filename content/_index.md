@@ -15,7 +15,7 @@ sections:
     form_fields:
       - input_type: email
         name: email
-        label: Understand, fix and audit your SEO with our free e-book
+        label: Audit and fix your SEO with our free e-book
         default_value: Your email address
         is_required: true
     submit_label: Give me the book!

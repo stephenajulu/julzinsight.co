@@ -15,7 +15,7 @@ sections:
     form_fields:
       - input_type: email
         name: email
-        label: Understand your SEO, find the right keywords, find the right tools to audit your SEO, fix your on-page SEO, imrpove your SEO and rank higher with our e-book
+        label: Understand, fix and audit your SEO with our free e-book
         default_value: Your email address
         is_required: true
     submit_label: Give me the book!

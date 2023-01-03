@@ -7,18 +7,7 @@ sections:
     title: >-
       We are an IT firm that crafts results-oriented solutions by building impactful products, brands, and experiences.
     content: >-
-      [Who we are →](/about/) &nbsp;/&nbsp; [What we do →](/services/) &nbsp;/&nbsp; [How to reach us →](/contact/) <br><br><br>
-  - type: form_section
-    section_id: contact-form
-    form_id: contactForm
-    form_action: /thank-you
-    form_fields:
-      - input_type: email
-        name: email
-        label: Audit and fix your SEO with this e-book
-        default_value: Your email address
-        is_required: true
-    submit_label: Give me the book!
+      [Who we are →](/about/) &nbsp;/&nbsp; [What we do →](/services/) &nbsp;/&nbsp; [How to reach us →](/contact/)
 seo:
   title: Julz Insight
   description: >-

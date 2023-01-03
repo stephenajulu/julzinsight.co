@@ -7,7 +7,7 @@ sections:
     title: >-
       We are an IT firm that crafts results-oriented solutions by building impactful products, brands, and experiences.
     content: >-
-      [What we do →](/services/) &nbsp;/&nbsp; [How to reach us →](/contact/)
+      [What we do →](/services/) &nbsp;&nbsp;/&nbsp;&nbsp; [How to reach us →](/contact/)
 seo:
   title: Julz Insight
   description: >-

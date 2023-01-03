@@ -20,12 +20,7 @@ sections:
         label: Email
         default_value: Your email address
         is_required: true
-      - input_type: checkbox
-        name: consent
-        label: >-
-          I understand that this form is storing my submitted information so I
-          can be contacted.
-    submit_label: Send Message
+    submit_label: Give me the book!
 seo:
   title: Julz Insight
   description: >-

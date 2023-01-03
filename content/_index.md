@@ -10,14 +10,12 @@ sections:
       [Who we are →](/about/) &nbsp;/&nbsp; [What we do →](/services/) &nbsp;/&nbsp; [How to reach us →](/contact/)
   - type: form_section
     section_id: contact-form
-    content: >-
-      Understand your SEO, find the right keywords, find the right tools to audit your SEO, fix your on-page SEO, imrpove your SEO and rank higher 
     form_id: contactForm
     form_action: /thank-you
     form_fields:
       - input_type: email
         name: email
-        label: Email
+        label: Understand your SEO, find the right keywords, find the right tools to audit your SEO, fix your on-page SEO, imrpove your SEO and rank higher 
         default_value: Your email address
         is_required: true
     submit_label: Give me the book!

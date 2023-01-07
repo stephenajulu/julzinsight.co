@@ -6,7 +6,7 @@ sections:
     section_id: hero
     title: >-
       We are an IT firm that crafts results-oriented solutions by building impactful products, brands, and experiences.
-    content: >- <br><br>
+    content: >-
     
     actions:
       - label: Book a meeting right now! →

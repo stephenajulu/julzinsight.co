@@ -7,7 +7,10 @@ sections:
     title: >-
       We are an IT firm that crafts results-oriented solutions by building impactful products, brands, and experiences.
     content: >-
-      [What we do →](/services/) &nbsp;&nbsp;/&nbsp;&nbsp; [How to reach us →](/contact/)
+      actions:
+      - label: Book a meeting right now! →
+        url: https://cal.com/ajulu/s3cr3t
+        style: button
 seo:
   title: Julz Insight
   description: >-

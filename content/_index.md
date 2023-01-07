@@ -5,17 +5,17 @@ sections:
   - type: hero_section
     section_id: hero
     title: >-
-      We are an tech firm & studio that's focused on building impactful products, brands, experiences and solutions.
+      We are a tech firm & studio that's focused on building impactful products, brands, experiences and solutions.
     content: >-
     
     actions:
-      - label: Book a meeting right now! →
-        url: https://cal.com/ajulu/s3cr3t
+      - label: Get started right now! →
+        url: /contact
         style: button
 seo:
   title: Julz Insight
   description: >-
-   Julz Insight is an IT firm that crafts results-oriented solutions by building innovative and impactful products, brands, and experiences.
+   Julz Insight is a tech firm & studio that's focused on building innovative and impactful products, brands, experiences and solutions.
   extra:
     - name: 'og:type'
       value: website
@@ -25,7 +25,7 @@ seo:
       keyName: property
     - name: 'og:description'
       value: >-
-        Julz Insight is an IT firm that crafts results-oriented solutions by building innovative and impactful products, brands, and experiences. shape the world.
+        Julz Insight is a tech firm & studio that's focused on building innovative and impactful products, brands, experiences and solutions.
       keyName: property
     - name: 'twitter:card'
       value: summary
@@ -33,6 +33,6 @@ seo:
       value: Julz Insight
     - name: 'twitter:description'
       value: >-
-        Julz Insight is an IT firm that crafts results-oriented solutions by building innovative and impactful products, brands, and experiences. shape the world.
+        Julz Insight is a tech firm & studio that's focused on building innovative and impactful products, brands, experiences and solutions.
 layout: advanced
 ---

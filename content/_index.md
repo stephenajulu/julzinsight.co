@@ -5,7 +5,7 @@ sections:
   - type: hero_section
     section_id: hero
     title: >-
-      We are an IT firm that crafts results-oriented solutions by building impactful products, brands, and experiences.
+      We are an tech firm that's building impactful products, brands, experiences and solutions.
     content: >-
     
     actions:

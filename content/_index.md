@@ -7,7 +7,7 @@ sections:
     title: >-
       We are a tech firm that's focused on building impactful products, brands, experiences and solutions..
     content: >- 
-      We also invest in startups, companies and real estate.
+      We also invest in startups & real estate.
     actions:
       - label: Get started right now! →
         url: /contact

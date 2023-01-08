@@ -7,7 +7,7 @@ sections:
       At Julz Insight, we like to think of ourselves as the mad scientists of the tech world. We're constantly cooking up innovative and impactful products, brands, and solutions that will shape the future and make the world a better place. But don't worry, we're not the type to accidentally create a giant mutant lizard (unless it's for a really good cause).
       
       
-      We believe in the power of people to change the world, especially when they are empowered to use their talents, passions and expertise to help shape it in ways that are meaningful, exciting and unique. We do this by bringing the best people into our team and sharing our values with the people in our community.
+      We believe in the power of humanity and are passionate about using our skills for good. That's why we offer top-notch IT services to help businesses thrive and make a difference in their respective industries. And if you're a startup with big ideas and even bigger heart, we might just throw some investment your way.
       
       
       We believe in creating something that makes people's lives better. And, finanly we believe in YOU!

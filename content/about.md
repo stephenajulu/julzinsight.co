@@ -4,7 +4,7 @@ hide_title: false
 sections:
   - type: content_section
     content: >-
-      Julz Insight is an IT firm that crafts results-oriented solutions by building innovative and impactful products, brands, and experiences. 
+      At Julz Insight, we like to think of ourselves as the mad scientists of the tech world. We're constantly cooking up innovative and impactful products, brands, and solutions that will shape the future and make the world a better place. But don't worry, we're not the type to accidentally create a giant mutant lizard (unless it's for a really good cause).
       
       
       We believe in the power of people to change the world, especially when they are empowered to use their talents, passions and expertise to help shape it in ways that are meaningful, exciting and unique. We do this by bringing the best people into our team and sharing our values with the people in our community.

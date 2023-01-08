@@ -4,19 +4,10 @@ hide_title: false
 sections:
   - type: content_section
     content: >-
-      Julz Insight is an IT firm that crafts results-oriented solutions by building innovative and impactful products, brands, and experiences. 
+      Welcome! At Julz Insight, we like to think of ourselves as the mad scientists of the tech world. We're constantly cooking up innovative and impactful products,    brands, and  solutions that will shape the future and make the world a better place. But don't worry, we're not the type to accidentally create a giant mutant lizard (unless it's for a really good cause). We believe in the power of humanity and are passionate about using our skills for good. That's why we also offer top-notch IT services to help businesses thrive and make a difference in their respective industries. And if you're a startup with big ideas and even bigger heart, we might just pick you up. But we're not just about building and investing - we also love to research and find solutions to the problems faced by our world today. We're constantly on the lookout for ways to make a positive impact using innovation and techhnology. So if you're looking for a tech firm that's equal parts innovation, creativity, and passion, look no further than Julz Insight. We may be a little unconventional, but were always up for a good challenge. Join us on our journey to a brighter tomorrow!
       
       
-      We believe in the power of people to change the world, especially when they are empowered to use their talents, passions and expertise to help shape it in ways that are meaningful, exciting and unique. We do this by bringing the best people into our team and sharing our values with the people in our community.
-      
-      
-      We believe in creating something that makes people's lives better. And, finanly we believe in YOU!
-      
-      
-      We are a corporation that aims to become a market leader in its sphere of influence by delivering value to you, its customers through technology, innovation, and integrity.
-      
-      
-      ### Come and let's build something great together!
+     #### Come and let's do something great together!
       
       [Get in touch](/contact/)
     image: images/julzinsightheader.png

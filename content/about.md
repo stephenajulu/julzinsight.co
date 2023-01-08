@@ -10,13 +10,16 @@ sections:
       We believe in the power of humanity and are passionate about using our skills for good. That's why we also offer top-notch IT services to help businesses thrive and make a difference in their respective industries. And if you're a startup with big ideas and an even bigger heart, we might just pick you up on our journey.
       
       
-      But we're not just about building, and investing - we also love to research and find solutions to the problems faced by our world today. From environmental challenges to social justice issues, we're constantly on the lookout for ways to make a positive impact.
+      But we're not just about building, and investing - we also love to research and finding solutions to the problems faced by our world today. From environmental challenges to social justice issues, we're constantly on the lookout for ways to make a positive impact.
       
       
-      So if you're looking for a partner that's equal parts innovation, creativity, and passion, look no further than Julz Insight. We may be a little unconventional, but we're always up for a good challenge. Join us on our journey to your brighter tomorrow!
+      So if you're looking for a partner that's equal parts innovation, creativity, and passion, look no further than Julz Insight. We may be a little unconventional, but we're always up for a good challenge. 
       
       
-      #### Come and let's build something great together!
+      Join us on our journey to a brighter tomorrow!
+      
+      
+      Come and let's do something great together!
       
       [Get in touch](/contact/)
     image: images/julzinsightheader.png

@@ -16,7 +16,7 @@ sections:
       We are a corporation that aims to become a market leader in its sphere of influence by delivering value to you, its customers through technology, innovation, and integrity.
       
       
-     #### Come and let's do something great together!
+      ### Come and let's build something great together!
       
       [Get in touch](/contact/)
     image: images/julzinsightheader.png

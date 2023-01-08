@@ -20,12 +20,12 @@
                 "style": "link"
             },
             {
-                "label": "Work",
+                "label": "Portfolio",
                 "url": "/portfolio/",
                 "style": "link"
             },
             {
-                "label": "Insights",
+                "label": "Articles",
                 "url": "/blog/",
                 "style": "link"
             },

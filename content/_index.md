@@ -5,7 +5,7 @@ sections:
   - type: hero_section
     section_id: hero
     title: >-
-      We are a tech firm & studio that's focused on building impactful products, brands, experiences and solutions.
+      We are a tech & investment firm that's focused on building impactful products, brands, experiences and solutions.
     content: >-
     
     actions:
@@ -15,7 +15,7 @@ sections:
 seo:
   title: Julz Insight
   description: >-
-   Julz Insight is a tech firm & studio that's focused on building innovative and impactful products, brands, experiences and solutions.
+   Julz Insight is a tech & investment firm that's focused on building innovative and impactful products, brands, experiences and solutions.
   extra:
     - name: 'og:type'
       value: website
@@ -25,7 +25,7 @@ seo:
       keyName: property
     - name: 'og:description'
       value: >-
-        Julz Insight is a tech firm & studio that's focused on building innovative and impactful products, brands, experiences and solutions.
+        Julz Insight is a tech & investment firm that's focused on building innovative and impactful products, brands, experiences and solutions.
       keyName: property
     - name: 'twitter:card'
       value: summary
@@ -33,6 +33,6 @@ seo:
       value: Julz Insight
     - name: 'twitter:description'
       value: >-
-        Julz Insight is a tech firm & studio that's focused on building innovative and impactful products, brands, experiences and solutions.
+        Julz Insight is a tech & investment firm that's focused on building innovative and impactful products, brands, experiences and solutions.
 layout: advanced
 ---

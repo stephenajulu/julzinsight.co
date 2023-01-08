@@ -5,7 +5,7 @@ sections:
   - type: hero_section
     section_id: hero
     title: >-
-      We are a tech firm that's focused on building impactful products, brands, experiences and solutions. We also invest in startups.
+      We are a tech firm that's focused on building impactful products, brands, experiences and solutions. We also invest in startups and real estate.
     content: >-
     
     actions:

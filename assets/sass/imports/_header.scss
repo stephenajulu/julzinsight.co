@@ -53,20 +53,13 @@
   list-style: none;
   margin: 0;
   padding: 0;
+  box-shadow: inset 0 0 2000px rgba(255, 255, 255, .3.5);
+	filter: blur(10px);
 
   &__item--current,
   a:not(.button):hover {
     color: $color-accent;
   }
-  
-   @supports (backdrop-filter: blur(12px)) {
-        .blurred {
-            backdrop-filter: saturate(180 %) blur(13px);
-        }
-        .nav {
-            background-color: #5d5d5dc2;
-        }
-    }
 }
 
 @media only screen and (min-width: 768px) {

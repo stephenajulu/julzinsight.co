@@ -58,6 +58,15 @@
   a:not(.button):hover {
     color: $color-accent;
   }
+  
+   @supports (backdrop-filter: blur(12px)) {
+        .blurred {
+            backdrop-filter: saturate(180 %) blur(13px);
+        }
+        .nav {
+            background-color: #5d5d5dc2;
+        }
+    }
 }
 
 @media only screen and (min-width: 768px) {

@@ -1,10 +1,10 @@
 ---
-title: Articles - Julz Insight
+title: Articles
 subtitle: Read Julz Insight's research, news, tips and highlights
 hide_title: false
 col_number: two
 seo:
-  title: Articles
+  title: Articles - Julz Insight
   description: Read Julz Insight's research, news, tips and highlights
   extra:
     - name: og:type

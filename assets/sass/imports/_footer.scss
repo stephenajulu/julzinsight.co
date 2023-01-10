@@ -2,8 +2,8 @@
   border-top: 1px solid $color-gray-100;
   //padding-bottom: 1.333em;
   padding-top: 1.5em;
-  backdrop-filter: blur(1rem);
-  -webkit-backdrop-filter: blur(1rem);
+  backdrop-filter: blur(2rem);
+  -webkit-backdrop-filter: blur(2rem);
 
   a {
     &:not(.button) {

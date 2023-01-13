@@ -49,7 +49,7 @@ Remember, a strong brand identity is essential for attracting and retaining cust
 
 Imagine having a brand identity that perfectly captures the essence of your company and resonates with your target audience. With our services, you can turn that vision into reality.
 
-Contact us today to learn more about how we can help you create a brand identity that sets you apart and drives success for your new company, startup, business or brand: (ajulu@julzinsight.co)[mailto:ajulu@julzinsight.co]
+Contact us today to learn more about how we can help you create a brand identity that sets you apart and drives success for your new company, startup, business or brand: [ajulu@julzinsight.co](mailto:ajulu@julzinsight.co)
 
 
 ### Features:

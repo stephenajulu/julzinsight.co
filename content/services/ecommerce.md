@@ -37,7 +37,7 @@ seo:
     - name: 'twitter:image'
       value: images/brooke-cagle-WHWYBmtn3_0-unsplash (1).jpg
       relativeUrl: true
-layout: advanced
+layout: post
 ---
 
 Welcome to our E-Commerce Development Service page! 

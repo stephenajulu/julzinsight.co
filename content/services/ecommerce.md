@@ -46,7 +46,7 @@ Look no further, we are here to help you upgrade your business and take it to th
 
 Our expert team of developers will work with you to design and develop a customized e-commerce platform that seamlessly integrates with your existing physical store. Imagine having a sleek, user-friendly online store that brings in new customers and increases sales. Our e-commerce development services can turn that vision into reality.
 With our platform, you'll attract new customers, increase sales, streamline your inventory and order management, and improve your online visibility with marketing and SEO tools. 
-Don't miss out on the benefits of e-commerce, contact us today to get started: (ajulu@julzinsight.co)[mailto:ajulu@julzinsight.co]
+Don't miss out on the benefits of e-commerce, contact us today to get started: [ajulu@julzinsight.co](mailto:ajulu@julzinsight.co)
 
 ### Features:
 

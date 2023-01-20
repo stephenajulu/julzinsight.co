@@ -1,70 +1,76 @@
 <!doctype html>
 <html lang="en">
-    <head>    
 
-        <title>{{ if .Params.seo.title }}{{ $.Params.seo.title }}{{ else }}{{ print print $.Title " | " $.Site.Data.config.title }}{{ end }}</title>
-        <meta charset="utf-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-        <meta name="google" content="notranslate" />
-        <meta name="description" content="{{ .Params.seo.description | default "" }}" />
-        {{ if .Params.seo.robots }}
-        <meta name="robots" content="{{ delimit $.Params.seo.robots "," }}">
-        {{ end }}
-        {{ range $meta := .Params.seo.extra }}
-          {{ $key_name := $meta.keyName | default "name" }}
-          {{ if $meta.relativeUrl }}
-            {{ if $.Site.Data.config.domain }}
-              {{ $domain := trim $.Site.Data.config.domain "/" }}
-              {{ $rel_url := $meta.value | relURL }}
-              {{ $full_url := print $domain $rel_url }}
-              <meta {{ $key_name }}="{{ $meta.name }}" content="{{ $full_url }}">
-            {{ end }}
-          {{ else }}
-            <meta {{ $key_name }}="{{ $meta.name }}" content="{{ $meta.value }}">
-          {{ end }}
-        {{ end }}
-        {{ $font := .Site.Data.config.base_font | default "fraunces" }}
-        {{ if ne $font "system-sans" }}
-        <link rel="preconnect" href="https://fonts.gstatic.com">
-        {{ end }}
-        {{ if eq $font "fraunces" }}
-        <link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,wght@0,400;0,500;1,400;1,500&display=swap" rel="stylesheet">
-        {{ else if eq $font "playfair"}}
-        <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700;800;900&display=swap" rel="stylesheet">
-        {{ end }}
-        <link rel="stylesheet" href="{{ (resources.Get "sass/main.scss" | resources.ToCSS (dict "indentWidth" 4 "outputStyle" "nested" "precision" 10 "targetPath" "css/main.css")).Permalink }}">
-        <link rel="stylesheet" href="{{ (resources.Get "css/custom.css").Permalink }}">
-        {{ if .Site.Data.config.favicon }}
-        <link rel="icon" href="{{ $.Site.Data.config.favicon | relURL }}">
-        {{ end }}
-        <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
-        <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
-        <link rel="icon" type="image/png" sizes="194x194" href="/favicon-194x194.png">
-        <link rel="icon" type="image/png" sizes="96x96" href="/96x96.png">
-        <link rel="icon" type="image/png" sizes="192x192" href="/android-chrome-192x192.png">
-        <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
-        <link rel="manifest" href="/site.webmanifest">
-        <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#000000">
-        <meta name="apple-mobile-web-app-title" content="Julz Insight">
-        <meta name="application-name" content="Julz Insight">
-        <meta name="msapplication-TileColor" content="#000000">
-        <meta name="theme-color" content="#000000">
-        <!-- PWA Script -->
-        <script type="module">
-           import 'https://cdn.jsdelivr.net/npm/@pwabuilder/pwaupdate';
-           const el = document.createElement('pwa-update');
-           document.body.appendChild(el);
-        </script>
-    </head>
-    <body {{ if .IsHome}}style="background-image: url('/images/julz6.png');background-color: #000000;background-position: center center;background-repeat: no-repeat;background-size: center;"{{end}} class="font-{{ .Site.Data.config.base_font }} palette-{{ .Site.Data.config.color_scheme }} accent-{{ .Site.Data.config.accent_color }}">
-        <div id="site-wrap" class="site">
-          {{ partial "header.html" . }}
-          <main id="content" class="site-content">
-            {{ block "content" . }}{{ end }}
-          </main>
-          {{ partial "footer.html" . }}
-        </div>
-        <script src="{{ "js/init.js" | relURL }}"></script>
-        <script src="{{ "js/page-load.js" | relURL }}"></script>
-    </body> 
+<head>
+    <title>{{ if .Params.seo.title }}{{ $.Params.seo.title }}{{ else }}{{ print print $.Title " | " $.Site.Data.config.title }}{{ end }}</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="google" content="notranslate" />
+    <meta name="description" content="{{ .Params.seo.description | default "" }}" /> {{ if .Params.seo.robots }}
+    <meta name="robots" content="{{ delimit $.Params.seo.robots "," }}"> {{ end }} {{ range $meta := .Params.seo.extra }} {{ $key_name := $meta.keyName | default "name" }} {{ if $meta.relativeUrl }} {{ if $.Site.Data.config.domain }} {{ $domain := trim $.Site.Data.config.domain "/" }} {{ $rel_url := $meta.value | relURL }} {{ $full_url := print $domain $rel_url }}
+    <meta {{ $key_name }}="{{ $meta.name }}" content="{{ $full_url }}"> {{ end }} {{ else }}
+    <meta {{ $key_name }}="{{ $meta.name }}" content="{{ $meta.value }}"> {{ end }} {{ end }}{{ if not .IsPage }}{{/* only show on non-page views */}}
+    <script type="application/ld+json">
+        {
+            "@context": "https://schema.org",
+            "@type": "Organization",
+            "name": "Julz Insight",
+            "legalName" : "Julz Insight LLC",
+            "url": "https://www.julzinsight.co",
+            "logo": "https://www.julzinsight.co/images/logo.png",
+            "sameAs": [
+                "https://www.facebook.com/julzinsight",
+                "https://twitter.com/julzinsight",
+                "https://www.linkedin.com/company/julzinsight"
+            ],
+            "contactPoint": {
+                "@type": "ContactPoint",
+                "telephone": "+254-707-60-7257",
+                "contactType": "customer service",
+                "email": "info@julzinsight.co",
+                "areaServed": "KE"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "streetAddress": "P. O. Box 0740128010",
+                "addressLocality": "Anytown",
+                "addressRegion": "NB0",
+                "postalCode": "00100",
+                "addressCountry": "KE"
+            }
+        }
+    </script> {{ end }} {{ $font := .Site.Data.config.base_font | default "fraunces" }} {{ if ne $font "system-sans" }}
+    <link rel="preconnect" href="https://fonts.gstatic.com"> {{ end }} {{ if eq $font "fraunces" }}
+    <link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,wght@0,400;0,500;1,400;1,500&display=swap" rel="stylesheet"> {{ else if eq $font "playfair"}}
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700;800;900&display=swap" rel="stylesheet"> {{ end }}
+    <link rel="stylesheet" href="{{ (resources.Get "sass/main.scss" | resources.ToCSS (dict "indentWidth" 4 "outputStyle" "nested" "precision" 10 "targetPath" "css/main.css")).Permalink }}">
+    <link rel="stylesheet" href="{{ (resources.Get "css/custom.css").Permalink }}"> {{ if .Site.Data.config.favicon }}
+    <link rel="icon" href="{{ $.Site.Data.config.favicon | relURL }}"> {{ end }}
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="194x194" href="/favicon-194x194.png">
+    <link rel="icon" type="image/png" sizes="96x96" href="/96x96.png">
+    <link rel="icon" type="image/png" sizes="192x192" href="/android-chrome-192x192.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+    <link rel="manifest" href="/site.webmanifest">
+    <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#000000">
+    <meta name="apple-mobile-web-app-title" content="Julz Insight">
+    <meta name="application-name" content="Julz Insight">
+    <meta name="msapplication-TileColor" content="#000000">
+    <meta name="theme-color" content="#000000"> <!-- PWA Script -->
+    <script type="module">
+        import 'https://cdn.jsdelivr.net/npm/@pwabuilder/pwaupdate';
+        const el = document.createElement('pwa-update');
+        document.body.appendChild(el);
+    </script>
+</head>
+
+<body {{ if .IsHome}}style="background-image: url('/images/julz6.png');background-color: #000000;background-position: center center;background-repeat: no-repeat;background-size: center;" {{end}} class="font-{{ .Site.Data.config.base_font }} palette-{{ .Site.Data.config.color_scheme }} accent-{{ .Site.Data.config.accent_color }}">
+    <div id="site-wrap" class="site"> {{ partial "header.html" . }}
+        <main id="content" class="site-content"> {{ block "content" . }}{{ end }} </main> {{ partial "footer.html" . }}
+    </div>
+    <script src="{{ "js/init.js" | relURL }}"></script>
+    <script src="{{ "js/page-load.js" | relURL }}"></script>
+</body>
+
 </html>

@@ -124,6 +124,9 @@ Estimated cost: $500 (depending on the number of subscribers and the number of c
 Reach out to relevant media outlets to secure coverage for the launch of the ecommerce store.
 Estimated cost: $1,500 (depending on the quality and number of outlets targeted)
 
+> "Don't just sell products, sell an experience. Let us help you create an ecommerce website that converts"
+> Stephen Ajulu, Founder
+
 ## Reach us today:
 
 <form class="form-horizontal">

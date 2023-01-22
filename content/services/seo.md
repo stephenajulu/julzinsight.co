@@ -102,6 +102,8 @@ Our services include on-page optimization, technical SEO, link building, content
 
 Don't miss out on the opportunity to boost your online presence. Contact us today to see how we can help your business succeed!
 
+> "Leave the SEO to the experts. We'll help you climb the ranks and bring in more business."
+> Stephen Ajulu, Founder
 
 <form class="form-horizontal">
 <fieldset>

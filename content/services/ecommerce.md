@@ -76,7 +76,6 @@ Don't miss out on the benefits of e-commerce, contact us today to get started: [
 - Grow your business and reach new heights with the power of e-commerce.
 
 
-{{< unsafe >}}
 <style>
     .pricing-header {
         background-color: #4320d6;
@@ -175,4 +174,3 @@ Don't miss out on the benefits of e-commerce, contact us today to get started: [
 </div>
 
 </div>
-{{< /unsafe >}}

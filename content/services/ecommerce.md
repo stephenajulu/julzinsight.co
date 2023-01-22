@@ -76,105 +76,103 @@ Don't miss out on the benefits of e-commerce, contact us today to get started: [
 - Grow your business and reach new heights with the power of e-commerce.
 
 
-<div id="smart-button-container">
-      <div style="text-align: center;">
-        <div style="margin-bottom: 1.25rem;">
-          <p>Here are our price plans for an e-commerce store. Note: All prices are negotiable. For custom solutions, please reach out.</p>
-          <select id="item-options"><option value="Bronze WordPress Store" price="750">Bronze WordPress Store - 750 USD</option><option value="Silver Shopify Store" price="1650">Silver Shopify Store - 1650 USD</option><option value="Gold Shopify Store" price="3950">Gold Shopify Store - 3950 USD</option><option value="Basic Store" price="450">Basic Store - 450 USD</option></select>
-          <select style="visibility: hidden" id="quantitySelect"></select>
+{{< unsafe >}}
+<style>
+    .pricing-header {
+        background-color: #4320d6;
+        color: white;
+        font-size: 2em;
+        padding: 20px;
+        text-align: center;
+    }
+    .card {
+        border: none;
+        border-radius: 10px;
+        box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.1);
+    }
+    .card-title {
+        font-size: 1.5em;
+        margin-bottom: 20px;
+    }
+    .card-price {
+        font-size: 2em;
+        margin-bottom: 20px;
+    }
+    .card-options {
+        list-style: none;
+        padding: 0;
+        margin-bottom: 20px;
+    }
+    .card-options li {
+        padding: 10px;
+    }
+    .card-footer {
+        background-color: #4320d6;
+        color: white;
+        text-align: center;
+    }
+    .card-footer a {
+        color: white;
+    }
+</style>
+<div class="container">
+    <div class="row">
+        <div class="col-sm-4">
+            <div class="card">
+                <div class="card-body">
+                    <h5 class="card-title">Basic</h5>
+                    <div class="card-price">$29/month</div>
+                    <ul class="card-options">
+                        <li>Product listing and management</li>
+                        <li>Shopping cart and checkout functionality</li>
+                        <li>Order management and tracking</li>
+                        <li>Basic SEO optimization</li>
+                        <li>Basic customer account management</li>
+                    </ul>
+                    <div class="card-footer">
+                        <a href="#" class="btn btn-primary">Sign Up</a>
+                    </div>
+                </div>
+            </div>
         </div>
-      <div id="paypal-button-container"></div>
-      </div>
-    </div>
-    <script src="https://www.paypal.com/sdk/js?client-id=sb&enable-funding=venmo&currency=USD" data-sdk-integration-source="button-factory"></script>
-    <script>
-      function initPayPalButton() {
-        var shipping = 0;
-        var itemOptions = document.querySelector("#smart-button-container #item-options");
-    var quantity = parseInt();
-    var quantitySelect = document.querySelector("#smart-button-container #quantitySelect");
-    if (!isNaN(quantity)) {
-      quantitySelect.style.visibility = "visible";
-    }
-    var orderDescription = 'Here are our price plans for an e-commerce store. Note: All prices are negotiable. For custom solutions, please reach out.';
-    if(orderDescription === '') {
-      orderDescription = 'Item';
-    }
-    paypal.Buttons({
-      style: {
-        shape: 'rect',
-        color: 'gold',
-        layout: 'vertical',
-        label: 'paypal',
-        
-      },
-      createOrder: function(data, actions) {
-        var selectedItemDescription = itemOptions.options[itemOptions.selectedIndex].value;
-        var selectedItemPrice = parseFloat(itemOptions.options[itemOptions.selectedIndex].getAttribute("price"));
-        var tax = (0 === 0 || false) ? 0 : (selectedItemPrice * (parseFloat(0)/100));
-        if(quantitySelect.options.length > 0) {
-          quantity = parseInt(quantitySelect.options[quantitySelect.selectedIndex].value);
-        } else {
-          quantity = 1;
-        }
+        <div class="col-sm-4">
+            <div class="card">
+                <div class="card-body">
+                    <h5 class="card-title">Intermediate</h5>
+                    <div class="card-price">$49/month</div>
+                    <ul class="card-options">
+                        <li>Advanced SEO optimization</li>
+                        <li>Customizable product options and upsells</li>
+                        <li>Abandoned cart recovery</li>
+                        <li>Advanced customer account management</li>
+                        <li>Integration with popular payment gateways</li>
+                    </ul>
+                    <div class="card-footer">
+                        <a href="#" class="btn btn-primary">Sign Up</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="col-sm-4">
+            <div class="card">
+                <div class="card-body">
+                    <h5 class="card-title">Advanced</h5>
+                    <div class="card-price">$79/month</div>
+                    <ul class="card-options">
+<li>Advanced product filtering and search functionality</li>
+<li>Customizable checkout fields</li>
+<li>Customizable email templates</li>
+<li>Multi-language support</li>
+<li>Advanced inventory management</li>
+<li>Advanced reporting and analytics</li>
+</ul>
+<div class="card-footer">
+<a href="#" class="btn btn-primary">Sign Up</a>
+</div>
+</div>
+</div>
+</div>
+</div>
 
-        tax *= quantity;
-        tax = Math.round(tax * 100) / 100;
-        var priceTotal = quantity * selectedItemPrice + parseFloat(shipping) + tax;
-        priceTotal = Math.round(priceTotal * 100) / 100;
-        var itemTotalValue = Math.round((selectedItemPrice * quantity) * 100) / 100;
-
-        return actions.order.create({
-          purchase_units: [{
-            description: orderDescription,
-            amount: {
-              currency_code: 'USD',
-              value: priceTotal,
-              breakdown: {
-                item_total: {
-                  currency_code: 'USD',
-                  value: itemTotalValue,
-                },
-                shipping: {
-                  currency_code: 'USD',
-                  value: shipping,
-                },
-                tax_total: {
-                  currency_code: 'USD',
-                  value: tax,
-                }
-              }
-            },
-            items: [{
-              name: selectedItemDescription,
-              unit_amount: {
-                currency_code: 'USD',
-                value: selectedItemPrice,
-              },
-              quantity: quantity
-            }]
-          }]
-        });
-      },
-      onApprove: function(data, actions) {
-        return actions.order.capture().then(function(orderData) {
-          
-          // Full available details
-          console.log('Capture result', orderData, JSON.stringify(orderData, null, 2));
-
-          // Show a success message within this page, e.g.
-          const element = document.getElementById('paypal-button-container');
-          element.innerHTML = '';
-          element.innerHTML = '<h3>Thank you for your payment!</h3>';
-
-          // Or go to another URL:  actions.redirect('thank_you.html');
-
-        });
-      },
-      onError: function(err) {
-        console.log(err);
-      },
-    }).render('#paypal-button-container');
-  }
-  initPayPalButton();
-    </script>
+</div>
+{{< /unsafe >}}

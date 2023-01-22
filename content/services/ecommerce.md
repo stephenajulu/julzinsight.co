@@ -75,103 +75,114 @@ Don't miss out on the benefits of e-commerce, contact us today to get started: [
 - Provide a convenient and efficient shopping experience for your customers
 - Grow your business and reach new heights with the power of e-commerce.
 
+## Here are our plans:
 
-<style>
-    .pricing-header {
-    background-color: #4320d6;
-    color: white;
-    font-size: 2em;
-    padding: 20px;
-    text-align: center;
-}
-.card {
-    border: none;
-    border-radius: 10px;
-    box-shadow: 0px 0px 15px rgba(255,255,255, 0.1);
-    background-color: #333333;
-    color: #f2f2f2;
-}
-.card-title {
-    font-size: 1.5em;
-    margin-bottom: 20px;
-}
-.card-price {
-    font-size: 2em;
-    margin-bottom: 20px;
-}
-.card-options {
-    list-style: none;
-    padding: 0;
-    margin-bottom: 20px;
-}
-.card-options li {
-    padding: 10px;
-}
-.card-footer {
-    background-color: #4320d6;
-    color: white;
-    text-align: center;
-}
-.card-footer a {
-    color: white;
-}
-</style>
-<div class="container">
-    <div class="row">
-        <div class="col-4">
-            <div class="card">
-                <div class="card-body">
-                    <h5 class="card-title">Basic</h5>
-                    <div class="card-price">$29/month</div>
-                    <ul class="card-options">
-                        <li>Product listing and management</li>
-                        <li>Shopping cart and checkout functionality</li>
-                        <li>Order management and tracking</li>
-                        <li>Basic SEO optimization</li>
-                        <li>Basic customer account management</li>
-                    </ul>
-                    <div class="card-footer">
-                        <a href="#" class="btn btn-primary">Sign Up</a>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="col-4">
-            <div class="card">
-                <div class="card-body">
-                    <h5 class="card-title">Intermediate</h5>
-                    <div class="card-price">$49/month</div>
-                    <ul class="card-options">
-                        <li>Advanced SEO optimization</li>
-                        <li>Customizable product options and upsells</li>
-                        <li>Abandoned cart recovery</li>
-                        <li>Advanced customer account management</li>
-                        <li>Integration with popular payment gateways</li>
-                    </ul>
-                    <div class="card-footer">
-                        <a href="#" class="btn btn-primary">Sign Up</a>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="col-4">
-            <div class="card">
-                <div class="card-body">
-                  <h5 class="card-title">Advanced</h5>
-                    <div class="card-price">$79/month</div>
-                    <ul class="card-options">
-                        <li>Advanced product filtering and search functionality</li>
-                        <li>Customizable checkout fields</li>
-                        <li>Customizable email templates</li>
-                        <li>Multi-language support</li>
-                        <li>Advanced inventory management</li>
-                        <li>Advanced reporting and analytics</li>
-                    </ul>
-                    <div class="card-footer">
-                        <a href="#" class="btn btn-primary">Sign Up</a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
+### Basic
+- Product listing and management: ability to add, edit, and delete products on the website.
+- Shopping cart and checkout functionality: allowing customers to add products to their cart and proceed to checkout.
+- Order management and tracking: ability to view and manage orders placed on the website.
+- Basic SEO optimization: basic on-page optimization to improve search engine visibility.
+- Basic customer account management: allowing customers to create an account and view their order history.
+
+### Intermediate
+- Basic plan + 
+- Advanced SEO optimization: optimization of website structure, meta tags, and other technical elements to improve search engine visibility.
+- Abandoned cart recovery: ability to recover abandoned carts by sending email reminders to customers who have left items in their cart without completing the purchase.
+
+### Advanced:
+- Intermediate plan +
+- Advanced product filtering and search functionality: allowing customers to filter products based on various criteria and search for specific products.
+- Customizable checkout fields: ability to add custom fields to the checkout process.
+- Customizable email templates: ability to customize the design and content of automated emails sent to customers.
+- Multi-language support: ability to display the website in multiple languages
+- Advanced inventory management: allows to track stock levels, inventory and restock products.
+- Advanced reporting and analytics: ability to view detailed reports on website traffic, sales, and customer behavior.
+
+### Enterprise/MultiStore/Custom
+- Contact us today.
+
+
+## We also have media coverage for store owners:
+
+### Form of media: Online publications
+Outreach to relevant online publications (fashion and beauty blogs, lifestyle websites, etc.) for product reviews and feature articles.
+Estimated cost: $2,000 (depending on the quality and number of publications targeted)
+
+### Form of media: Social media influencers
+Partner with popular social media influencers in the fashion and beauty space to create sponsored posts and Instagram stories.
+Estimated cost: $5,000 (depending on the quality and number of influencers and the reach of their audience)
+
+### Form of media: Paid social media advertising
+Run targeted advertising campaigns on platforms such as Facebook and Instagram to reach the target audience.
+Estimated cost: $3,000 (depending on the targeting options and duration of the campaign)
+
+### Form of media: Email marketing
+Create and send email campaigns to subscribers to announce the launch of the ecommerce store and promote featured products.
+Estimated cost: $500 (depending on the number of subscribers and the number of campaigns)
+
+### Form of media: Public relations
+Reach out to relevant media outlets to secure coverage for the launch of the ecommerce store.
+Estimated cost: $1,500 (depending on the quality and number of outlets targeted)
+
+## Reach us today:
+
+<form class="form-horizontal">
+<fieldset>
+
+<!-- Form Name -->
+<legend>Book Now!</legend>
+
+<!-- Text input-->
+<div class="form-group">
+  <label class="col-md-4 control-label" for="name">Name</label>  
+  <div class="col-md-4">
+  <input id="name" name="name" type="text" placeholder="John Doe or Jewlry Inc" class="form-control input-md" required="">
+    
+  </div>
 </div>
+
+<!-- Text input-->
+<div class="form-group">
+  <label class="col-md-4 control-label" for="email">Email</label>  
+  <div class="col-md-4">
+  <input id="email" name="email" type="text" placeholder="info@example.com" class="form-control input-md" required="">
+    
+  </div>
+</div>
+
+<!-- Multiple Radios -->
+<div class="form-group">
+  <label class="col-md-4 control-label" for="plan">Plan</label>
+  <div class="col-md-4">
+  <div class="radio">
+    <label for="plan-0">
+      <input type="radio" name="plan" id="plan-0" value="1" checked="checked">
+      Basic Store
+    </label>
+	</div>
+  <div class="radio">
+    <label for="plan-1">
+      <input type="radio" name="plan" id="plan-1" value="2">
+      Intermediate Store
+    </label>
+	</div>
+  <div class="radio">
+    <label for="plan-2">
+      <input type="radio" name="plan" id="plan-2" value="3">
+      Advance Store
+    </label>
+	</div>
+  </div>
+</div>
+
+<!-- Textarea -->
+<div class="form-group">
+  <label class="col-md-4 control-label" for="message">Message</label>
+  <div class="col-md-4">                     
+    <textarea class="form-control" id="message" name="message"></textarea>
+  </div>
+</div>
+
+</fieldset>
+</form>
+

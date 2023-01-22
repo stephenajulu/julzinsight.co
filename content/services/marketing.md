@@ -1,27 +1,27 @@
 ---
-title: Skyrocket Your Business: Customized Digital Marketing Solutions
+title: Skyrocket Your Business: Customized Digital arketing Solutions
 subtitle: From $200 - Flexible plans to fit your business needs and budget
 excerpt: >-
-  Grow your business with our tailored digital marketing strategies. From online publications to social media influencers, well help you reach your target audience and achieve your marketing goals. Contact us today to learn more.
+  Grow your business with our tailored digital arketing strategies. From online publications to social media influencers, well help you reach your target audience and achieve your marketing goals. Contact us today to learn more.
 date: '2023-1-22'
 thumb_image: images/brooke-cagle-WHWYBmtn3_0-unsplash (1).jpg
 thumb_image_alt: tatooed women with laptop looking at our client's article with a smile on her face
 image: images/brooke-cagle-WHWYBmtn3_0-unsplash (1).jpg
 image_alt: tatooed women with laptop looking at our client's article with a smile on her face
 seo:
-  title: Skyrocket Your Business: Customized Digital Marketing Solutions
+  title: Skyrocket Your Business: Customized Digital arketing Solutions
   description: >-
-    Grow your business with our tailored digital marketing strategies. From online publications to social media influencers, well help you reach your target audience and achieve your marketing goals. Contact us today to learn more.
+    Grow your business with our tailored digital arketing strategies. From online publications to social media influencers, well help you reach your target audience and achieve your marketing goals. Contact us today to learn more.
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Skyrocket Your Business: Customized Digital Marketing Solutions
+      value: Skyrocket Your Business: Customized Digital arketing Solutions
       keyName: property
     - name: 'og:description'
       value: >-
-        Grow your business with our tailored digital marketing strategies. From online publications to social media influencers, well help you reach your target audience and achieve your marketing goals. Contact us today to learn more.
+        Grow your business with our tailored digital arketing strategies. From online publications to social media influencers, well help you reach your target audience and achieve your marketing goals. Contact us today to learn more.
       keyName: property
     - name: 'og:image'
       value: images/brooke-cagle-WHWYBmtn3_0-unsplash (1).jpg
@@ -30,10 +30,10 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Skyrocket Your Business: Customized Digital Marketing Solutions
+      value: Skyrocket Your Business: Customized Digital arketing Solutions
     - name: 'twitter:description'
       value: >-
-        Grow your business with our tailored digital marketing strategies. From online publications to social media influencers, well help you reach your target audience and achieve your marketing goals. Contact us today to learn more.
+        Grow your business with our tailored digital arketing strategies. From online publications to social media influencers, well help you reach your target audience and achieve your marketing goals. Contact us today to learn more.
     - name: 'twitter:image'
       value: images/brooke-cagle-WHWYBmtn3_0-unsplash (1).jpg
       relativeUrl: true

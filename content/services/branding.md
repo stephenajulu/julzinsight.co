@@ -81,7 +81,7 @@ Don't wait any longer, take action today and contact us to start building your b
 ## Here are our plans and pricing
 
 ### Basic
-- One-time fee: $xxx
+- One-time fee: $500
 - Primary logo design
 - 2 variations of the logo
 - 2 rounds of revisions
@@ -89,7 +89,7 @@ Don't wait any longer, take action today and contact us to start building your b
 - Email support
 
 ### Standard
-- One-time fee: $xxx
+- One-time fee: $1000
 - Primary logo design
 - 2 variations of the logo
 - 4 rounds of revisions
@@ -99,7 +99,7 @@ Don't wait any longer, take action today and contact us to start building your b
 - Social media kit
 
 ### Pro
-- One-time fee: $xxx
+- One-time fee: $1500
 - Primary logo design
 - 2 variations of the logo
 - 8 rounds of revisions
@@ -117,3 +117,93 @@ Please keep in mind that these are just some of the features & pricing included 
 
 > "Don't settle for a generic brand. Let us help you create a unique and memorable brand identity that sets you apart." 
 > Stephen Ajulu, Founder
+
+
+<form class="form-horizontal">
+<fieldset>
+
+<!-- Form Name -->
+<legend>Book Now!</legend>
+
+<!-- Text input-->
+<div class="form-group">
+  <label class="col-md-4 control-label" for="name">Name</label>  
+  <div class="col-md-4">
+  <input id="name" name="name" type="text" placeholder="John Doe or Jewlry Inc" class="form-control input-md" required="">
+    
+  </div>
+</div>
+
+<!-- Text input-->
+<div class="form-group">
+  <label class="col-md-4 control-label" for="email">Email</label>  
+  <div class="col-md-4">
+  <input id="email" name="email" type="text" placeholder="info@example.com" class="form-control input-md" required="">
+    
+  </div>
+</div>
+
+<!-- Text input-->
+<div class="form-group">
+  <label class="col-md-4 control-label" for="budget">Budget</label>  
+  <div class="col-md-4">
+  <input id="budget" name="budget" type="text" placeholder="" class="form-control input-md">
+    
+  </div>
+</div>
+
+<!-- Select Basic -->
+<div class="form-group">
+  <label class="col-md-4 control-label" for="platform">Platform</label>
+  <div class="col-md-4">
+    <select id="platform" name="platform" class="form-control">
+      <option value="1">Carrd</option>
+      <option value="2">Webflow</option>
+      <option value="3">WordPress</option>
+      <option value="4">Ghost</option>
+      <option value="5">Squarespace</option>
+    </select>
+  </div>
+</div>
+
+<!-- Multiple Radios -->
+<div class="form-group">
+  <label class="col-md-4 control-label" for="plan">Plan</label>
+  <div class="col-md-4">
+  <div class="radio">
+    <label for="plan-0">
+      <input type="radio" name="plan" id="plan-0" value="1" checked="checked">
+      Basic
+    </label>
+	</div>
+  <div class="radio">
+    <label for="plan-1">
+      <input type="radio" name="plan" id="plan-1" value="2">
+      Standard
+    </label>
+	</div>
+  <div class="radio">
+    <label for="plan-2">
+      <input type="radio" name="plan" id="plan-2" value="3">
+      Pro
+    </label>
+	</div>
+  <div class="radio">
+    <label for="plan-3">
+      <input type="radio" name="plan" id="plan-3" value="4">
+      Custom
+    </label>
+	</div>
+  </div>
+</div>
+
+<!-- Textarea -->
+<div class="form-group">
+  <label class="col-md-4 control-label" for="message">Message</label>
+  <div class="col-md-4">                     
+    <textarea class="form-control" id="message" name="message"></textarea>
+  </div>
+</div>
+
+</fieldset>
+</form>

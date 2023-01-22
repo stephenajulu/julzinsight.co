@@ -98,7 +98,7 @@ Our services include on-page optimization, technical SEO, link building, content
 - Priority phone and email support
 
 ### Custom Plan:
-- Contact us today
+- Contact us today [ajulu@julzinsight.co](mailto:ajulu@julzinsight.co)
 
 Don't miss out on the opportunity to boost your online presence. Contact us today to see how we can help your business succeed!
 

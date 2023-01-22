@@ -79,6 +79,9 @@ Ready to take your digital marketing to the next level? Let's work together to c
 
 Don't see a plan that fits your needs? Contact us and we'll create a customized plan tailored to your specific goals and budget [ajulu@julzinsight.co](mailto:ajulu@julzinsight.co).
 
+> "Don't settle for mediocre marketing. Let us help you create a strategy that drives results and sets you apart from the competition."
+> Stephen Ajulu, Founder
+
 
 <form class="form-horizontal">
 <fieldset>

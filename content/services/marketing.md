@@ -78,3 +78,86 @@ Ready to take your digital marketing to the next level? Let's work together to c
 
 
 Don't see a plan that fits your needs? Contact us and we'll create a customized plan tailored to your specific goals and budget [ajulu@julzinsight.co](mailto:ajulu@julzinsight.co).
+
+
+<form class="form-horizontal">
+<fieldset>
+
+<!-- Form Name -->
+<legend>Book Now!</legend>
+
+<!-- Text input-->
+<div class="form-group">
+  <label class="col-md-4 control-label" for="name">Name</label>  
+  <div class="col-md-4">
+  <input id="name" name="name" type="text" placeholder="John Doe or Jewlry Inc" class="form-control input-md" required="">
+    
+  </div>
+</div>
+
+<!-- Text input-->
+<div class="form-group">
+  <label class="col-md-4 control-label" for="email">Email</label>  
+  <div class="col-md-4">
+  <input id="email" name="email" type="text" placeholder="info@example.com" class="form-control input-md" required="">
+    
+  </div>
+</div>
+
+<!-- Text input-->
+<div class="form-group">
+  <label class="col-md-4 control-label" for="textinput">Monthly Budget</label>  
+  <div class="col-md-4">
+  <input id="textinput" name="textinput" type="text" placeholder="Marketing budget per month in dollars" class="form-control input-md">
+    
+  </div>
+</div>
+
+<!-- Multiple Radios -->
+<div class="form-group">
+  <label class="col-md-4 control-label" for="plan">Plan</label>
+  <div class="col-md-4">
+  <div class="radio">
+    <label for="plan-0">
+      <input type="radio" name="plan" id="plan-0" value="1" checked="checked">
+      Online publication plan
+    </label>
+	</div>
+  <div class="radio">
+    <label for="plan-1">
+      <input type="radio" name="plan" id="plan-1" value="2">
+      Social media influencer plan
+    </label>
+	</div>
+  <div class="radio">
+    <label for="plan-2">
+      <input type="radio" name="plan" id="plan-2" value="3">
+      Paid social media advertising plan
+    </label>
+	</div>
+  <div class="radio">
+    <label for="plan-3">
+      <input type="radio" name="plan" id="plan-3" value="4">
+      Email marketing plan
+    </label>
+	</div>
+  <div class="radio">
+    <label for="plan-4">
+      <input type="radio" name="plan" id="plan-4" value="5">
+      Public relations plan
+    </label>
+	</div>
+  </div>
+</div>
+
+<!-- Textarea -->
+<div class="form-group">
+  <label class="col-md-4 control-label" for="message">Message</label>
+  <div class="col-md-4">                     
+    <textarea class="form-control" id="message" name="message"></textarea>
+  </div>
+</div>
+
+</fieldset>
+</form>
+

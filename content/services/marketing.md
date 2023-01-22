@@ -77,4 +77,4 @@ Ready to take your digital marketing to the next level? Let's work together to c
 - Transparent communication: We keep you informed every step of the way and are always available to answer any questions or concerns you may have.
 
 
-Don't see a plan that fits your needs? Contact us and we'll create a customized plan tailored to your specific goals and budget.
+Don't see a plan that fits your needs? Contact us and we'll create a customized plan tailored to your specific goals and budget [ajulu@julzinsight.co](mailto:ajulu@julzinsight.co).

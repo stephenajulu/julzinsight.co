@@ -1,5 +1,5 @@
 ---
-title: Skyrocket Your Business - Customized Digital Marketing Solutions
+title: Customized Digital Marketing Solutions - Skyrocket Your Business
 subtitle: From $200 - Flexible plans to fit your business needs and budget
 excerpt: >-
   Grow your business with our tailored digital marketing strategies. From online publications to social media influencers, well help you reach your target audience and achieve your marketing goals. Contact us today to learn more.
@@ -9,7 +9,7 @@ thumb_image_alt: tatooed women with laptop looking at our client's article with 
 image: images/brooke-cagle-WHWYBmtn3_0-unsplash (1).jpg
 image_alt: tatooed women with laptop looking at our client's article with a smile on her face
 seo:
-  title: Skyrocket Your Business - Customized Digital Marketing Solutions
+  title: Customized Digital Marketing Solutions - Skyrocket Your Business
   description: >-
     Grow your business with our tailored digital Marketing strategies. From online publications to social media influencers, well help you reach your target audience and achieve your marketing goals. Contact us today to learn more.
   extra:
@@ -17,7 +17,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Skyrocket Your Business - Customized Digital Marketing Solutions
+      value: Customized Digital Marketing Solutions - Skyrocket Your Business
       keyName: property
     - name: 'og:description'
       value: >-
@@ -30,7 +30,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Skyrocket Your Business - Customized Digital arketing Solutions
+      value: Customized Digital Marketing Solutions - Skyrocket Your Business
     - name: 'twitter:description'
       value: >-
         Grow your business with our tailored digital marketing strategies. From online publications to social media influencers, well help you reach your target audience and achieve your marketing goals. Contact us today to learn more.

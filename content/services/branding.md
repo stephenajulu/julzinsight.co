@@ -66,7 +66,7 @@ Contact us today to learn more about how we can help you create a brand identity
 - Stand out from the competition
 - Build trust and credibility with customers
 - Increase brand recognition and recall
--Create a cohesive visual representation of your company's values and mission
+- Create a cohesive visual representation of your company's values and mission
 
 
 ### Benefits:
@@ -75,4 +75,45 @@ Contact us today to learn more about how we can help you create a brand identity
 - Increase sales and revenue
 - Establish a strong and recognizable brand
 - Position yourself for long-term success in your industry
+
 Don't wait any longer, take action today and contact us to start building your brand identity!
+
+## Here are our plans and pricing
+
+### Basic
+- One-time fee: $xxx
+- Primary logo design
+- 2 variations of the logo
+- 2 rounds of revisions
+- Deliverables in jpeg and png format
+- Email support
+
+### Standard
+- One-time fee: $xxx
+- Primary logo design
+- 2 variations of the logo
+- 4 rounds of revisions
+- Deliverables in jpeg, png and vector format
+- Email and phone support
+- Brand guidelines
+- Social media kit
+
+### Pro
+- One-time fee: $xxx
+- Primary logo design
+- 2 variations of the logo
+- 8 rounds of revisions
+- Deliverables in jpeg, png and vector format
+- Email, phone and chat support
+- Brand guidelines
+- Social media kit
+- Business card and letterhead design
+- Package design
+
+### Custom
+- Contact us right now for a quote: [ajulu@julzinsight.co](mailto:ajulu@julzinsight.co)
+
+Please keep in mind that these are just some of the features & pricing included in our plans, and actual features may vary depending on the specific needs and requirements of your business.
+
+> "Don't settle for a generic brand. Let us help you create a unique and memorable brand identity that sets you apart." 
+> Stephen Ajulu, Founder

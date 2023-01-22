@@ -78,45 +78,47 @@ Don't miss out on the benefits of e-commerce, contact us today to get started: [
 
 <style>
     .pricing-header {
-        background-color: #4320d6;
-        color: white;
-        font-size: 2em;
-        padding: 20px;
-        text-align: center;
-    }
-    .card {
-        border: none;
-        border-radius: 10px;
-        box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.1);
-    }
-    .card-title {
-        font-size: 1.5em;
-        margin-bottom: 20px;
-    }
-    .card-price {
-        font-size: 2em;
-        margin-bottom: 20px;
-    }
-    .card-options {
-        list-style: none;
-        padding: 0;
-        margin-bottom: 20px;
-    }
-    .card-options li {
-        padding: 10px;
-    }
-    .card-footer {
-        background-color: #4320d6;
-        color: white;
-        text-align: center;
-    }
-    .card-footer a {
-        color: white;
-    }
+    background-color: #4320d6;
+    color: white;
+    font-size: 2em;
+    padding: 20px;
+    text-align: center;
+}
+.card {
+    border: none;
+    border-radius: 10px;
+    box-shadow: 0px 0px 15px rgba(255,255,255, 0.1);
+    background-color: #333333;
+    color: #f2f2f2;
+}
+.card-title {
+    font-size: 1.5em;
+    margin-bottom: 20px;
+}
+.card-price {
+    font-size: 2em;
+    margin-bottom: 20px;
+}
+.card-options {
+    list-style: none;
+    padding: 0;
+    margin-bottom: 20px;
+}
+.card-options li {
+    padding: 10px;
+}
+.card-footer {
+    background-color: #4320d6;
+    color: white;
+    text-align: center;
+}
+.card-footer a {
+    color: white;
+}
 </style>
 <div class="container">
     <div class="row">
-        <div class="col-sm-4">
+        <div class="col-4">
             <div class="card">
                 <div class="card-body">
                     <h5 class="card-title">Basic</h5>
@@ -134,7 +136,7 @@ Don't miss out on the benefits of e-commerce, contact us today to get started: [
                 </div>
             </div>
         </div>
-        <div class="col-sm-4">
+        <div class="col-4">
             <div class="card">
                 <div class="card-body">
                     <h5 class="card-title">Intermediate</h5>
@@ -152,25 +154,24 @@ Don't miss out on the benefits of e-commerce, contact us today to get started: [
                 </div>
             </div>
         </div>
-        <div class="col-sm-4">
+        <div class="col-4">
             <div class="card">
                 <div class="card-body">
-                    <h5 class="card-title">Advanced</h5>
+                  <h5 class="card-title">Advanced</h5>
                     <div class="card-price">$79/month</div>
                     <ul class="card-options">
-<li>Advanced product filtering and search functionality</li>
-<li>Customizable checkout fields</li>
-<li>Customizable email templates</li>
-<li>Multi-language support</li>
-<li>Advanced inventory management</li>
-<li>Advanced reporting and analytics</li>
-</ul>
-<div class="card-footer">
-<a href="#" class="btn btn-primary">Sign Up</a>
-</div>
-</div>
-</div>
-</div>
-</div>
-
+                        <li>Advanced product filtering and search functionality</li>
+                        <li>Customizable checkout fields</li>
+                        <li>Customizable email templates</li>
+                        <li>Multi-language support</li>
+                        <li>Advanced inventory management</li>
+                        <li>Advanced reporting and analytics</li>
+                    </ul>
+                    <div class="card-footer">
+                        <a href="#" class="btn btn-primary">Sign Up</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
 </div>

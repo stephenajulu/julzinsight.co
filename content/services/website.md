@@ -119,6 +119,8 @@ Our team of experts will work with you to create a website that perfectly fits y
 
 Don't miss this chance to boost your clientele. 
 
+> "Don't just build a website, build a masterpiece. Let us help you create a website that stands out from the crowd and drives results."
+> Stephen Ajulu, Founder
 
 <form class="form-horizontal">
 <fieldset>

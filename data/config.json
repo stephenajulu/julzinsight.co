@@ -20,20 +20,6 @@
                 "url": "/services/",
                 "style": "link",
                 "is_sub": false,
-                "sub_links": [
-                    {
-                        "label": "Service 1",
-                        "url": "/service-1/",
-                        "style": "link",
-                        "is_sub": true
-                    },
-                    {
-                        "label": "Service 2",
-                        "url": "/service-2/",
-                        "style": "link",
-                        "is_sub": true
-                    }
-                ]
             },
             {
                 "label": "Portfolio",

@@ -76,6 +76,10 @@
 
 .menu__item:hover .menu__sub-menu{
     display: block;
+    position: absolute;
+    left: 0;
+    min-width: 100%;
+    z-index: 1;
     animation-name: slideDown;
     animation-duration: 0.5s;
     animation-fill-mode: both;

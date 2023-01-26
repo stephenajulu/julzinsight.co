@@ -6,7 +6,7 @@ excerpt: >-
 date: '2022-1-26'
 thumb_image: https://picsum.photos/1600/900/
 thumb_image_alt: a random image from picsum
-image: hhttps://picsum.photos/1600/900/
+image: https://picsum.photos/1600/900/
 image_alt: a random image from picsum
 seo:
   title: Introduction to SEO - A Comprehensive Guide for Beginners

@@ -3,7 +3,7 @@ title: Introduction to SEO - A Comprehensive Guide for Beginners
 subtitle: Learn the latest SEO strategies and techniques to improve your website's visibility and drive more organic traffic
 excerpt: >-
   Want to improve your website's ranking in search engine results? Look no further! This ultimate guide to SEO covers everything you need to know, from keyword research and on-page optimization to technical SEO and backlink building. Discover the latest trends and best practices to dominate the search engines and drive more organic traffic to your website.
-date: '2022-12-25'
+date: '2022-1-26'
 thumb_image: https://picsum.photos/1600/900/
 thumb_image_alt: a random image from picsum
 image: hhttps://picsum.photos/1600/900/
@@ -39,6 +39,7 @@ seo:
       relativeUrl: true
 layout: post
 ---
+
 
 Search engine optimization, or SEO for short, is the process of optimizing a website to improve its visibility and ranking in search engine results pages (SERPs). The goal of SEO is to increase the quantity and quality of traffic to a website through organic search results.
 

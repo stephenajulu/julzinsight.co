@@ -14,22 +14,16 @@
     <div class="navbar__menu-container">
       <div class="navbar__scroller">
         <button id="navbar__close" class="navbar__toggle js-nav-toggle"><span class="screen-reader-text">Close Menu</span><span class="icon-close" aria-hidden="true"></span></button>
-       <ul class="navbar__menu menu">
-   {{ range $action := $.Site.Data.config.header.nav_links }}
-         {{ $pageUrl := trim $.URL "/" }}
-        {{ $actionUrl := trim $action.url "/" }}
-  <li class="menu__item{{ if eq $pageUrl $actionUrl }} menu__item--current{{ end }}{{ if ne $action.style "link" }} menu__item--button{{ end }}">
-    {{ $include_dict := dict "action" $action }}
-    {{ partial "action.html" $include_dict }}
-    {{ if $action.sub_links }}
-    <ul class="sub-menu">
-      {{ range $sub_link := $action.sub_links }}
-      <li class="sub-menu__item">
-        <a href="{{ $sub_link.url | relURL }}">{{ $sub_link.label }}</a>
-      </li>
-      {{ end }}
-    </ul>
-    {{ end }}
+        <ul class="navbar__menu menu">
+          {{ range $action := $.Site.Data.config.header.nav_links }}
+          {{ $pageUrl := trim $.URL "/" }}
+          {{ $actionUrl := trim $action.url "/" }}
+          <li class="menu__item{{ if eq $pageUrl $actionUrl }} menu__item--current{{ end }}{{ if ne $action.style "link" }} menu__item--button{{ end }}">
+            {{ $include_dict := dict "action" $action }}
+            {{ partial "action.html" $include_dict }}
+          </li>
+          {{ end }}
+        </ul>
       </div>
     </div>
     {{ end }}

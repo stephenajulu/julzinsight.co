@@ -63,16 +63,7 @@
         const el = document.createElement('pwa-update');
         document.body.appendChild(el);
     </script>
-</head>
-
-<body {{ if .IsHome}}style="background-image: url('/images/julz5.jpg');background-color: #000000;background-position: center center;background-repeat: no-repeat;background-size: center;" {{end}} class="font-{{ .Site.Data.config.base_font }} palette-{{ .Site.Data.config.color_scheme }} accent-{{ .Site.Data.config.accent_color }}">
-    <div id="site-wrap" class="site"> {{ partial "header.html" . }}
-        <main id="content" class="site-content"> {{ block "content" . }}{{ end }} </main> {{ partial "footer.html" . }}
-    </div>
-    <script src="{{ "js/init.js" | relURL }}"></script>
-    <script src="{{ "js/page-load.js" | relURL }}"></script>
-    
-    <!-- Google tag (gtag.js) -->
+        <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-3HDKHLQBNH"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
@@ -84,6 +75,25 @@
     {{ range .AlternativeOutputFormats -}}
     {{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
 {{ end -}}
+</head>
+
+    
+<body {{ if .IsHome}}style="background-image: url('/images/julz5.jpg');background-color: #000000;background-position: center center;background-repeat: no-repeat;background-size: center;" {{end}} class="font-{{ .Site.Data.config.base_font }} palette-{{ .Site.Data.config.color_scheme }} accent-{{ .Site.Data.config.accent_color }}">
+    <div id="site-wrap" class="site"> {{ partial "header.html" . }}
+        <main id="content" class="site-content"> {{ block "content" . }}{{ end }} </main> {{ partial "footer.html" . }}
+    </div>
+    <script src="{{ "js/init.js" | relURL }}"></script>
+    <script src="{{ "js/page-load.js" | relURL }}"></script>
+    
+    <script>
+    if ('serviceWorker' in navigator) {
+  navigator.serviceWorker.register('/sw.js').then(function(registration) {
+    console.log('Service worker registration successful');
+  }).catch(function(err) {
+    console.log('Service worker registration failed: ', err);
+  });
+}
+    </script>
 </body>
 
 </html>

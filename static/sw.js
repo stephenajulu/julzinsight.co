@@ -5,6 +5,7 @@ importScripts('https://storage.googleapis.com/workbox-cdn/releases/6.4.1/workbox
 import { registerRoute, setCatchHandler } from 'workbox-routing';
 import { precacheAndRoute } from 'workbox-precaching';
 import { NetworkFirst, StaleWhileRevalidate } from 'workbox-strategies';
+import { ExpirationPlugin } from 'workbox-expiration';
 
 // precache all files
 precacheAndRoute(self.__WB_MANIFEST);
@@ -36,3 +37,9 @@ registerRoute(
     ]
   })
 );
+
+// Add a fallback for offline page
+setCatchHandler(async ({ event }) => {
+    // You can use the precached files to show an offline page 
+    return caches.match('/offline');
+});

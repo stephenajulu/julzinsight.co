@@ -102,14 +102,7 @@ Overall, SEO is a crucial aspect of digital marketing and can greatly benefit an
 
 #### A Diagram of SEO
 
-```
-graph TD;
-A(Keyword Research) --> B(On-Page Optimization);
-B --> C(Off-Page Optimization);
-C --> D(Technical SEO);
-D --> E(Measuring and Tracking);
-E --> A;
-```
+[![](https://mermaid.ink/img/pako:eNptj0EKwjAQRa8yzCqCvUAFodquRCraZTZDMm2DZlrSFKni3Y1du5vPex_-vNEMljHHLtDYQ1PutBTqxMtzCBauPDEF028gy_ZwULVkF-oY6jE6714U3SCb1Dis_Kjqtv0vHFehVA2bXpyhB9yq-gfKFVTqzDTNwUkHJBaaQOaews-oVqPY4RY9B0_OprVvLQAaY8-eNebptBTuGrV8kkdzHG6LGMxjmHmL82gpcukoPekxb-kx8ecLJwdQuw?type=png)](https://mermaid.live/edit#pako:eNptj0EKwjAQRa8yzCqCvUAFodquRCraZTZDMm2DZlrSFKni3Y1du5vPex_-vNEMljHHLtDYQ1PutBTqxMtzCBauPDEF028gy_ZwULVkF-oY6jE6714U3SCb1Dis_Kjqtv0vHFehVA2bXpyhB9yq-gfKFVTqzDTNwUkHJBaaQOaews-oVqPY4RY9B0_OprVvLQAaY8-eNebptBTuGrV8kkdzHG6LGMxjmHmL82gpcukoPekxb-kx8ecLJwdQuw)
 
 This diagram illustrates the different aspects of SEO and how they are interconnected. Keyword research is the foundation for on-page optimization, which in turn affects off-page optimization. Technical SEO and measuring and tracking are also crucial parts of the process and inform each other.
 

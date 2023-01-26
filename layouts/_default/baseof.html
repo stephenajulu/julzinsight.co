@@ -70,6 +70,11 @@
     {{ range .AlternativeOutputFormats -}}
     {{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
 {{ end -}}
+        <script type="module">
+        import 'https://cdn.jsdelivr.net/npm/@pwabuilder/pwaupdate';
+        const el = document.createElement('pwa-update');
+        document.body.appendChild(el);
+    </script>
 </head>
 
     
@@ -79,16 +84,6 @@
     </div>
     <script src="{{ "js/init.js" | relURL }}"></script>
     <script src="{{ "js/page-load.js" | relURL }}"></script>
-    
-    <script>
-    if ('serviceWorker' in navigator) {
-  navigator.serviceWorker.register('/sw.js').then(function(registration) {
-    console.log('Service worker registration successful');
-  }).catch(function(err) {
-    console.log('Service worker registration failed: ', err);
-  });
-}
-    </script>
 </body>
 
 </html>

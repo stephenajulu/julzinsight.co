@@ -210,3 +210,13 @@
     }
   }
 }
+
+
+.sub-menu {
+  display: none;
+}
+
+.menu__item:hover .sub-menu,
+.menu__item--current .sub-menu {
+  display: block;
+}

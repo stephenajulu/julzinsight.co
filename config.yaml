@@ -2,11 +2,20 @@ title: Julz Insight
 baseURL: /
 taxonomies:
   stub: stub
-disableKinds:
-  - RSS
-  - taxonomy
-  - taxonomyTerm
+  tag: tags
 markup:
   goldmark:
     renderer:
       unsafe: true
+enableRobotsTXT: true
+sitemap:
+  changefreq: weekly
+  filename: sitemap.xml
+  priority: 0.5
+author:
+  name: Julz Insight
+copyright: This work is licensed under a Creative Commons Attribution-ShareAlike 4.0
+  International License.
+languageCode: en-us
+verbose: true
+watch: true

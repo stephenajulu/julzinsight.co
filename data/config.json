@@ -47,6 +47,11 @@
                 "label": "Contact",
                 "url": "/contact/",
                 "style": "link"
+            },
+            {
+                "label": "Schedule A FREE Call",
+                "url": "/contact/",
+                "style": "button"
             }
         ]
     },

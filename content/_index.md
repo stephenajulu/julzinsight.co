@@ -5,9 +5,9 @@ sections:
   - type: hero_section
     section_id: hero
     title: >-
-      We are a tech firm that's focused on building impactful products, brands and solutions.
+      We are a tech firm that builds impactful products, improves brands and develops cutting-edge IT solutions.
     content: >- 
-      We also improve brands & invest in ideas.
+      We also invest in ideas & create sub brands
     actions:
       - label: Get started right now! →
         url: /contact

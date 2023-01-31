@@ -5,9 +5,9 @@ sections:
   - type: hero_section
     section_id: hero
     title: >-
-      We are a tech firm that builds impactful products, improves brands and develops cutting-edge IT solutions.
+      We are a tech firm that builds impactful products, design brands and develops cutting-edge solutions.
     content: >- 
-      We also invest in ideas & create sub brands
+      We also invest in ideas & create sub brands for SAAND Holdings
     actions:
       - label: Get started right now! →
         url: /contact

@@ -35,7 +35,7 @@ sections:
           - Information Technology Consultation
           - Creative Strategy
           - Content Strategy
-          - Entrepreneul Tutorship
+          - Entrepreneurial Tutorship
   - type: cta_section
     section_id: cta
     title: Let’s Work Together!

@@ -8,35 +8,34 @@ sections:
     subtitle: What we do
     col_number: three
     grid_items:
-      - title: Technology
+      - title: Build & Create
         image: images/service-3.svg
         content: |-
-          - IT Consultation
-          - Storage as a Service
-          - Infrastructure as a Service
-          - Enterprise Network and Device Security
-      - title: Design/Branding
+          - Web/UI/UX Design
+          - Ecommerce & Web Development
+          - Content Writing
+          - Visual/Brand Identity Design
+      - title: Infrastructure
         image: images/service-2.svg
         content: |-
-          - Logo Design
-          - Visual Identity Design
-          - Poster Design
-          - UI/UX/Web Design
-      - title: Development/Crafting
+          - Infrastructure As A Service
+          - Storaged As A Service
+          - Web Hosting As A Service
+          - Bitdefender Applications
+      - title: Marketing & Content
         image: images/service-3.svg
         content: |-
-          - Website Development
-          - Landing Page Development
-          - Microsite Development
-          - E-commerce Store Development
-      - title: Marketing/Content
+          - Search Engine Optimization
+          - Paid AD Marketing
+          - Website & Landing Page Optimization
+          - Lead Funnel Building
+      - title: Consultation
         image: images/service-1.svg
         content: |-
-          - Content Writing
-          - Short Video Editing
-          - Paid AD Marketing
-          - Search Engine Optimization
-          - Progressive Web Application Conversion
+          - Information Technology Consultation
+          - Creative Strategy
+          - Content Strategy
+          - Entrepreneul Tutorship
   - type: cta_section
     section_id: cta
     title: Let’s Work Together!

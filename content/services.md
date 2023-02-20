@@ -12,7 +12,8 @@ sections:
         image: images/service-3.svg
         content: |-
           - Web/UI/UX Design
-          - Ecommerce & Web Development
+          - Web Development
+          - Ecommerce Store Development
           - Content Writing
           - Visual/Brand Identity Design
       - title: Infrastructure
@@ -27,7 +28,8 @@ sections:
         content: |-
           - Search Engine Optimization
           - Paid AD Marketing
-          - Website & Landing Page Optimization
+          - Landing Page Design
+          - Website Optimization
           - Lead Funnel Building
       - title: Consultation
         image: images/service-1.svg

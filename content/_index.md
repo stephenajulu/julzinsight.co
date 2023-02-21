@@ -12,7 +12,8 @@ sections:
       - label: Get started now! →
         url: https://cal.com/julzinsight/1hour
         style: button
-        action: new_window
+        new_window: true
+        action: new_windows
 seo:
   title: Julz Insight
   description: >-

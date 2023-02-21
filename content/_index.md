@@ -13,7 +13,7 @@ sections:
         url: https://cal.com/julzinsight/1hour
         style: button
         new_window: true
-        action: new_windows
+        action: new_window
 seo:
   title: Julz Insight
   description: >-

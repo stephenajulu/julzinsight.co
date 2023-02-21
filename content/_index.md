@@ -7,7 +7,7 @@ sections:
     title: >-
       We are a tech firm that builds impactful products, brands and cutting-edge solutions.
     content: >- 
-      We also invest in ideas
+      
     actions:
       - label: Get started now! →
         url: https://cal.com/julzinsight/1hour

@@ -10,12 +10,12 @@ sections:
       We also invest in ideas
     actions:
       - label: Get started right now! →
-        url: /contact
+        url: https://cal.com/julzinsight/1hour
         style: button
 seo:
   title: Julz Insight
   description: >-
-   Julz Insight is a tech & investment firm that's focused on building innovative and impactful products, brands, experiences and solutions.
+   Julz Insight is a tech firm that's focused on building impactful products, brands, and cutting-edge solutions.
   extra:
     - name: 'og:type'
       value: website
@@ -25,7 +25,7 @@ seo:
       keyName: property
     - name: 'og:description'
       value: >-
-        Julz Insight is a tech & investment firm that's focused on building innovative and impactful products, brands, experiences and solutions.
+        Julz Insight is a tech firm that's focused on building impactful products, brands, and cutting-edge solutions.
       keyName: property
     - name: 'twitter:card'
       value: summary
@@ -33,6 +33,6 @@ seo:
       value: Julz Insight
     - name: 'twitter:description'
       value: >-
-        Julz Insight is a tech & investment firm that's focused on building innovative and impactful products, brands, experiences and solutions.
+        Julz Insight is a tech firm that's focused on building impactful products, brands, and cutting-edge solutions.
 layout: advanced
 ---

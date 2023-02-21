@@ -49,6 +49,19 @@
       opacity: 1;
     }
   }
+  
+  &--secondary {
+    border: 2px solid $color-accent;
+    color:#fff;
+
+    &:hover,
+    &:focus,
+    &:active {
+      color: $color-accent;
+      background-position: left bottom;
+      opacity: 1;
+    }
+  }
 
   &--icon {
     border: 0;

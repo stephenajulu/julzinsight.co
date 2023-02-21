@@ -9,7 +9,7 @@ sections:
     content: >- 
       We also invest in ideas
     actions:
-      - label: Get started right now! →
+      - label: Get started now! →
         url: https://cal.com/julzinsight/1hour
         style: button
 seo:

@@ -5,7 +5,7 @@ sections:
   - type: hero_section
     section_id: hero
     title: >-
-      We are a tech firm that builds impactful products, brands and cutting-edge solutions.
+      Turn your ideas into products and brands. We'll help you with their actualization.
     content: >- 
       
     actions:

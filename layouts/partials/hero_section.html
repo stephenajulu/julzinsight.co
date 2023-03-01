@@ -2,8 +2,9 @@
 <section id="{{ $section.section_id }}" class="hero">
   <div class="container container--lg" style="margin: auto;">
     {{ if $section.title }}
-    <span style="font-size:14px;font-family: Poppins, sans-serif;font-weight:200;font-style: italic;">Ideate → Strategize → Design → Build/Dev → Test/Market → Launch</span>
-    <h1 class="hero__title introhero">{{ $section.title }}</h1>
+    <h1 class="hero__title introhero">
+      <span style="font-size:14px;font-family: Poppins, sans-serif;font-weight:200;font-style: italic;">Ideate → Strategize → Design → Build/Dev → Test/Market → Launch</span><br>
+      {{ $section.title }}</h1>
     {{ end }}
     {{ if $section.content }}
     <div class="hero__body text-block">

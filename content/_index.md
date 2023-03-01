@@ -5,7 +5,7 @@ sections:
   - type: hero_section
     section_id: hero
     title: >-
-      Turn your ideas into products and brands. We'll help you with their actualization.
+      We'll bring your ideas to life. Turning them into impactful products and brands.
     content: >- 
       
     actions:

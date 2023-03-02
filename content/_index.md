@@ -5,13 +5,13 @@ sections:
   - type: hero_section
     section_id: hero
     title: >-
-      We bring your ideas to life! From concept to market domination. We turn them into impactful products and brands.
+      We bring your ideas to life! From conception to market domination. We turn them into impactful products and brands.
     content: >- 
     
 seo:
   title: Julz Insight
   description: >-
-   Julz Insight is a tech firm focused on bringing your ideas to life. From concept to market dominance! Turning them into impactful products, projects and brands.
+   Julz Insight is a tech firm focused on bringing your ideas to life! From conception to market domination. We turn them into impactful products and brands.
   extra:
     - name: 'og:type'
       value: website
@@ -21,7 +21,7 @@ seo:
       keyName: property
     - name: 'og:description'
       value: >-
-        Julz Insight is a tech firm focused on bringing your ideas to life. From concept to market dominance! Turning them into impactful products, projects and brands.
+        Julz Insight is a tech firm focused on bringing your ideas to life! From conception to market domination. We turn them into impactful products and brands.
       keyName: property
     - name: 'twitter:card'
       value: summary
@@ -29,6 +29,6 @@ seo:
       value: Julz Insight
     - name: 'twitter:description'
       value: >-
-        Julz Insight is a tech firm focused on bringing your ideas to life. From concept to market dominance! Turning them into impactful products, projects and brands.
+        Julz Insight is a tech firm focused on bringing your ideas to life! From conception to market domination. We turn them into impactful products and brands.
 layout: advanced
 ---

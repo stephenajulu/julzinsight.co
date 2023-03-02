@@ -11,11 +11,8 @@
       {{ partial "markdownify-block" $section.content }}
     </div>
     {{ end }}
-    {{ if $section.actions }}
     <div class="hero__actions button-group">
-      {{ $include_dict := dict "actions" $section.actions }}
-      {{ partial "cta_buttons.html" $include_dict }}
+      {{ partial "julz1hr.html" . }}<a data-cal-link="julzinsight/1hour" class="button button--primary">Let's do it right now →</a>
     </div>
-    {{ end }}
   </div>
 </section>

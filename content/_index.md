@@ -7,12 +7,7 @@ sections:
     title: >-
       We'll bring your ideas to life. From concept to market dominance! Turning them into impactful products and brands.
     content: >- 
-      
-    actions:
-      - label: Get started now! →
-        url: 
-        style: button
-        new_window: true
+    
 seo:
   title: Julz Insight
   description: >-

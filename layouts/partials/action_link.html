@@ -1,5 +1,6 @@
+{{ partial "julz1hr.html" . }}
 {{ $action := .action }}
-<a href="{{ $action.url | relURL }}"
+<a data-cal-link="julzinsight/1hour" href="{{ $action.url | relURL }}"
   {{ if $action.new_window }} target="_blank"{{ end }}
   {{ if or $action.new_window $action.no_follow }} rel="{{ if $action.new_window }}noopener {{ end }}{{ if $action.no_follow }}nofollow{{ end }}"{{ end }}>
   {{ $action.label }}

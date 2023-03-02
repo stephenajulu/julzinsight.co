@@ -47,11 +47,6 @@
                 "label": "Contact",
                 "url": "/contact/",
                 "style": "link"
-            },
-            {
-                "label": "Book A Discovery Call",
-                "url": "https://cal.com/julzinsight/30min",
-                "style": "button"
             }
         ]
     },

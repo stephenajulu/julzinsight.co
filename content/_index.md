@@ -10,10 +10,9 @@ sections:
       
     actions:
       - label: Get started now! →
-        url: #
+        url: 
         style: button
         new_window: true
-        action: new_window
 seo:
   title: Julz Insight
   description: >-

@@ -10,7 +10,7 @@ sections:
       
     actions:
       - label: Get started now! →
-        url: https://cal.com/julzinsight/1hour
+        url: #
         style: button
         new_window: true
         action: new_window

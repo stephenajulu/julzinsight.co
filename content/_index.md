@@ -5,7 +5,7 @@ sections:
   - type: hero_section
     section_id: hero
     title: >-
-      We bring your ideas to life! From conception to market domination. We turn them into impactful products and brands.
+      We bring ideas to life! From conception to market domination. We build impactful products and brands.
     content: >- 
     
 seo:

@@ -1,5 +1,5 @@
 .site-footer {
-  border-top: 1px solid $color-gray-100;
+  border-top: 0px solid $color-gray-100;
   //padding-bottom: 1.333em;
   padding-top: 1.5em;
   backdrop-filter: blur(2rem);
@@ -7,7 +7,7 @@
 
   a {
     &:not(.button) {
-      border-bottom: 1px solid rgba($color-gray-600, .4);
+      border-bottom: 0px solid rgba($color-gray-600, .4);
       -webkit-transition: opacity .3s;
       transition: opacity .3s;
 

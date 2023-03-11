@@ -5,13 +5,13 @@ sections:
   - type: hero_section
     section_id: hero
     title: >-
-      We build impactful products and brands. From conception to market dominance.
+      We build impactful products, brands and experiences.
     content: >- 
     
 seo:
   title: Julz Insight
   description: >-
-   Julz Insight is a tech firm focused on bringing your ideas to life! From conception to market domination. We turn them into impactful products and brands.
+   Julz Insight is a tech firm builds impactful products, brands and experiences. From conception to market dominance. We turn ideas into reality.
   extra:
     - name: 'og:type'
       value: website
@@ -21,7 +21,7 @@ seo:
       keyName: property
     - name: 'og:description'
       value: >-
-        Julz Insight is a tech firm focused on bringing your ideas to life! From conception to market domination. We turn them into impactful products and brands.
+        Julz Insight is a tech firm builds impactful products, brands and experiences. From conception to market dominance. We turn ideas into reality.
       keyName: property
     - name: 'twitter:card'
       value: summary
@@ -29,6 +29,6 @@ seo:
       value: Julz Insight
     - name: 'twitter:description'
       value: >-
-        Julz Insight is a tech firm focused on bringing your ideas to life! From conception to market domination. We turn them into impactful products and brands.
+        Julz Insight is a tech firm builds impactful products, brands and experiences. From conception to market dominance. We turn ideas into reality.
 layout: advanced
 ---

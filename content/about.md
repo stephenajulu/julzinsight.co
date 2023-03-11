@@ -4,6 +4,8 @@ hide_title: false
 sections:
   - type: content_section
     content: >-
+      Julz Insight is a tech firm builds impactful products, brands and solutions. From conception to market dominance. Turning ideas into reality.
+      
       At Julz Insight, we like to think of ourselves as the mad scientists of the tech world. We're constantly cooking up innovative and impactful products, brands, and solutions that will shape the future and make the world a better place. But don't worry, we're not the type to accidentally create a giant mutant lizard (unless it's for a really good cause).
       
       

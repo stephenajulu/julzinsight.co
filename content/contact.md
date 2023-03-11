@@ -5,12 +5,12 @@ sections:
   - type: form_section
     section_id: contact-form
     content: >-
-      Are you tired of dealing with frustrating IT issues and inefficient technology solutions? Look no further! Julz Insight is here to help. Our team of highly skilled IT       professionals is ready to provide the solutions and guidance you need to take your business to the next level. Don't waste any more time struggling with outdated or         inadequate technology. Contact Julz Insight today and see how our expertise and personalized approach can benefit your company. Take the first step towards                 streamlined and effective IT solutions by reaching out to us now.
+      Are you tired of dealing with frustrating IT issues and inefficient technology solutions? Look no further! Julz Insight is here to help. Our team of highly skilled IT professionals is ready to provide the solutions and guidance you need to take your business to the next level. Don't waste any more time struggling with outdated or inadequate technology. Contact Julz Insight today and see how our expertise and personalized approach can benefit your company. Take the first step towards streamlined and effective IT solutions by reaching out to us now.
     
-      Let’s build something great together.<br>
+      Let’s build something impactful together.<br>
 
       Complete our contact form or send us an email at
-      [julzinsight@gmail.com](mailto:julzinsight@gmail.com).
+      [info@julzinsight.co](mailto:info@julzinsight.co).
 
     form_id: contactForm
     form_action: /thank-you

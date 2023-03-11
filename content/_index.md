@@ -5,7 +5,7 @@ sections:
   - type: hero_section
     section_id: hero
     title: >-
-      We build impactful products and brands. From conception to market dominance. We'll turn ideas to reality.
+      We build impactful products and brands. From conception to market dominance.
     content: >- 
     
 seo:

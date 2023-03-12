@@ -5,7 +5,7 @@ sections:
   - type: hero_section
     section_id: hero
     title: >-
-      We build impactful products, brands and provide consultation.
+      We build impactful products, brands and solutions.
     content: >- 
     
 seo:

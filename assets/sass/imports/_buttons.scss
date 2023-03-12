@@ -52,7 +52,8 @@
   
   &--secondary {
     border: 2px solid $color-accent;
-    color:#fff;
+    color: #542bff;
+    transition: transform .2s; /* Animation */
 
     &:hover,
     &:focus,
@@ -60,6 +61,7 @@
       color: $color-accent;
       background-position: left bottom;
       opacity: 1;
+      transform: scale(1.5);
     }
   }
 

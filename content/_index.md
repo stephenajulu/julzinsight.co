@@ -5,7 +5,7 @@ sections:
   - type: hero_section
     section_id: hero
     title: >-
-      We are a tech firm building impactful products and brands.
+      We are a tech firm that builds impactful products and brands.
     content: >- 
     
 seo:

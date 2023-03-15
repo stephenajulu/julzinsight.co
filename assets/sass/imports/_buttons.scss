@@ -51,9 +51,8 @@
   }
   
   &--secondary {
-    border: 2px solid $color-accent;
-    /*color: #542bff;*/
-    transition: transform .2s; /* Animation */
+    border: 1px solid $color-accent;
+    transition: transform .2s;
 
     &:hover,
     &:focus,

@@ -5,7 +5,7 @@ sections:
   - type: hero_section
     section_id: hero
     title: >-
-      We are a firm that builds impactful & revolutionary products and brands.
+      We are a firm that's focused on building revolutionary products and impactful brands.
     content: >- 
     
 seo:

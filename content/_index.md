@@ -5,7 +5,7 @@ sections:
   - type: hero_section
     section_id: hero
     title: >-
-      We are a firm that builds impactful products, brands & solutions.
+      We build innovative and impactful products, brands & solutions.
     content: >- 
     
 seo:

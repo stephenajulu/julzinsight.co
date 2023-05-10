@@ -8,7 +8,7 @@
   backdrop-filter: blur(20px);
   -webkit-backdrop-filter: blur(20px);
   border-top: 1px solid rgba(0, 0, 0, 0.3);
-  z-index: 1;
+  z-index: -1;
   a {
     &:not(.button) {
       //border-bottom: 0px solid rgba($color-gray-600, .4);

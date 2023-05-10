@@ -1,9 +1,9 @@
 {{ $section := .section }}
 <section id="{{ $section.section_id }}" class="hero">
-  <div class="container container--lg" style="margin: auto;">
+  <div class="container container--lg" style="margin: auto;top: 50%;-ms-transform: translateY(-50%);transform: translateY(-50%)">
     {{ if $section.title }}
     <h1 class="hero__title introhero">
-      <span style="font-size:12px;font-family: Poppins, sans-serif;font-weight:400;top: 50%;-ms-transform: translateY(-50%);transform: translateY(-50%)">Research • Technology • Design • Strategy • Marketing</span><br>
+      <span style="font-size:12px;font-family: Poppins, sans-serif;font-weight:400;">Research • Technology • Design • Strategy • Marketing</span><br>
       {{ $section.title }}</h1>
     {{ end }}
     {{ if $section.content }}

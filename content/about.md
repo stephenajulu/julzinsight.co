@@ -25,6 +25,42 @@ sections:
     image: images/julzinsightheader.png
     image_alt: Our team in the meeting room
   - type: grid_section
+    section_id: services
+    title: Services
+    subtitle: What we do
+    col_number: three
+    grid_items:
+      - title: Build & Create
+        image: images/service-3.svg
+        content: |-
+          - Web/UI/UX Design
+          - Web Development
+          - Ecommerce Store Development
+          - Content Writing
+          - Visual/Brand Identity Design
+      - title: Infrastructure
+        image: images/service-2.svg
+        content: |-
+          - Infrastructure As A Service
+          - Storaged As A Service
+          - Web Hosting As A Service
+          - Bitdefender Applications
+      - title: Marketing & Content
+        image: images/service-3.svg
+        content: |-
+          - Search Engine Optimization
+          - Paid AD Marketing
+          - Landing Page Design
+          - Website Optimization
+          - Lead Funnel Building
+      - title: Consultation
+        image: images/service-1.svg
+        content: |-
+          - Information Technology Consultation
+          - Creative Strategy
+          - Content Strategy
+          - Entrepreneurial Tutorship
+  - type: grid_section
     section_id: team
     title: The Team
     col_number: three

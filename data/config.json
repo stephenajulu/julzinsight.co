@@ -5,7 +5,7 @@
     "base_font": "playfair",
     "header": {
         "title": "Julz Insight",
-        "logo": "images/logo.svg",
+        "logo": "images/logo3.svg",
         "logo_alt": "Julz logo",
         "has_nav": true,
         "nav_links": [
@@ -14,25 +14,6 @@
                 "url": "/about/",
                 "style": "link"
             },
-            {
-                 "label": "Services",
-                 "url": "/services/",
-                 "style": "link",
-                 "sub_links": [
-                    {
-                      "label": "Service 1",
-                      "url": "/services/service-1"
-                    },
-                    {
-                      "label": "Service 2",
-                      "url": "/services/service-2"
-                    },
-                    {
-                      "label": "Service 3",
-                      "url": "/services/service-3"
-                    }
-                  ]
-                },
             {
                 "label": "Portfolio",
                 "url": "/portfolio/",

@@ -9,26 +9,26 @@ sections:
     content: >- 
     
 seo:
-  title: Welcome to Julz Insight
+  title: Welcome to Julz Insight →— Pioneering Innovation for a Sustainable Future
   description: >-
-   Julz Insight is a tech firm that builds innovative and impactful products, brands and solutions. From conception to market dominance. Turning ideas into reality.
+   Julz Insight is a tech firm that builds innovative and impactful products, brands and solutions. From conception to market dominance. Turning ideas into reality. Pioneering Innovation for a Sustainable Future
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Welcome to Julz Insight
+      value: Welcome to Julz Insight →— Pioneering Innovation for a Sustainable Future
       keyName: property
     - name: 'og:description'
       value: >-
-        Julz Insight is a tech firm that builds innovative and impactful products, brands and solutions. From conception to market dominance. Turning ideas into reality.
+        Julz Insight is a tech firm that builds innovative and impactful products, brands and solutions. From conception to market dominance. Turning ideas into reality. Pioneering Innovation for a Sustainable Future
       keyName: property
     - name: 'twitter:card'
       value: summary
     - name: 'twitter:title'
-      value: Welcome to Julz Insight
+      value: Welcome to Julz Insight →— Pioneering Innovation for a Sustainable Future
     - name: 'twitter:description'
       value: >-
-        Julz Insight is a tech firm that builds innovative and impactful products, brands and solutions. From conception to market dominance. Turning ideas into reality.
+        Julz Insight is a tech firm that builds innovative and impactful products, brands and solutions. From conception to market dominance. Turning ideas into reality. Pioneering Innovation for a Sustainable Future
 layout: advanced
 ---

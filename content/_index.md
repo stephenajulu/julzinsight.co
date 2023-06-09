@@ -9,7 +9,7 @@ sections:
     content: >- 
     
 seo:
-  title: Julz Insight →— Pioneering Innovation for a Sustainable Future
+  title: Julz Insight — Pioneering Innovation for a Sustainable Future
   description: >-
    Julz Insight is a tech firm that's pioneering innovation for a sustainable future by building impactful products, brands, and solutions
   extra:
@@ -17,7 +17,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Julz Insight →— Pioneering Innovation for a Sustainable Future
+      value: Julz Insight — Pioneering Innovation for a Sustainable Future
       keyName: property
     - name: 'og:description'
       value: >-
@@ -26,7 +26,7 @@ seo:
     - name: 'twitter:card'
       value: summary
     - name: 'twitter:title'
-      value: Julz Insight →— Pioneering Innovation for a Sustainable Future
+      value: Julz Insight — Pioneering Innovation for a Sustainable Future
     - name: 'twitter:description'
       value: >-
         Julz Insight is a tech firm that's pioneering innovation for a sustainable future by building impactful products, brands, and solutions

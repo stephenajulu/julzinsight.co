@@ -5,15 +5,15 @@ sections:
   - type: hero_section
     section_id: hero
     title: >-
-      Building impactful products, brands and solutions.
+      Pioneering innovation for a sustainable future by building impactful products, brands and solutions.
     content: >- 
     
 seo:
-  title: Julz Insight — Pioneering Innovation For A Sustainable Future
+  title: Julz Insight — Pioneering Innovation for a Sustainable Future
   description: >-
    Julz Insight is a tech firm that's pioneering innovation for a sustainable future by building impactful products, brands, and solutions
   extra:
-    - name: 'og:type
+    - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'

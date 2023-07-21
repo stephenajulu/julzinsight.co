@@ -5,7 +5,7 @@ sections:
   - type: hero_section
     section_id: hero
     title: >-
-      Pioneering innovation for a sustainable future by building impactful products, brands and solutions.
+      Pioneering innovation for a sustainable future through building impactful products, brands and solutions.
     content: >- 
     
 seo:

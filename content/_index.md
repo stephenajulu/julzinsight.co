@@ -5,7 +5,11 @@ sections:
   - type: hero_section
     section_id: hero
     title: >-
+<<<<<<< HEAD
       Pioneering innovation for a sustainable future by building impactful products, brands and solutions.
+=======
+      We build impactful products, brands and solutions.
+>>>>>>> parent of e065aba (Update _index.md)
     content: >- 
     
 seo:

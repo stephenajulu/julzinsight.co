@@ -5,7 +5,7 @@ sections:
   - type: hero_section
     section_id: hero
     title: >-
-      We build impactful products, brands and solutions.
+      Pioneering Innovation for a Sustainable Future Through Building Impactful Products, Brands, and Solutions.
     content: >- 
     
 seo:

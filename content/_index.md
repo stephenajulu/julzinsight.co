@@ -9,9 +9,9 @@ sections:
     content: >- 
     
 seo:
-  title: Welcome to Julz Insight
+  title: Welcome to Julz Insight - Tech, Marketing, and Consulting Firm
   description: >-
-   Julz Insight is a tech firm that builds innovative and impactful products, brands and solutions. From conception to market dominance. Turning ideas into reality.
+   Julz Insight is a tech firm that focuses on pioneering innovation for a sustainable future through building impactful products, brands, and solutions.
   extra:
     - name: 'og:type'
       value: website
@@ -21,7 +21,7 @@ seo:
       keyName: property
     - name: 'og:description'
       value: >-
-        Julz Insight is a tech firm that builds innovative and impactful products, brands and solutions. From conception to market dominance. Turning ideas into reality.
+        Julz Insight is a tech firm that focuses on pioneering innovation for a sustainable future through building impactful products, brands, and solutions.
       keyName: property
     - name: 'twitter:card'
       value: summary
@@ -29,6 +29,6 @@ seo:
       value: Welcome to Julz Insight
     - name: 'twitter:description'
       value: >-
-        Julz Insight is a tech firm that builds innovative and impactful products, brands and solutions. From conception to market dominance. Turning ideas into reality.
+        Julz Insight is a tech firm that focuses on pioneering innovation for a sustainable future through building impactful products, brands, and solutions.
 layout: advanced
 ---

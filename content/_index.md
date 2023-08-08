@@ -9,7 +9,7 @@ sections:
     content: >- 
     
 seo:
-  title: Welcome to Julz Insight - Tech, Marketing, and Consulting Firm
+  title: Julz Insight - Tech, Marketing, and Consulting Firm
   description: >-
    Julz Insight is a tech firm that focuses on pioneering innovation for a sustainable future through building impactful products, brands, and solutions.
   extra:

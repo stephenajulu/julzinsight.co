@@ -5,7 +5,7 @@ sections:
   - type: hero_section
     section_id: hero
     title: >-
-      At Julz Insight, we empower businesses through cutting-edge technology, innovative marketing, strategic consulting, and digital transformation, ushering them into a future of boundless possibilities.
+      We empower businesses through cutting-edge technology, innovative marketing, consulting, and digital transformation.
     content: >- 
     
 seo:

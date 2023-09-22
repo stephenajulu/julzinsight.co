@@ -5,30 +5,30 @@ sections:
   - type: hero_section
     section_id: hero
     title: >-
-      Pioneering Innovation for a Sustainable Future Through Building Impactful Products, Brands, Ideas, and Solutions.
+      At Julz Insight, we empower businesses through cutting-edge technology, innovative marketing, strategic consulting, and digital transformation, ushering them into a future of boundless possibilities.
     content: >- 
     
 seo:
-  title: Julz Insight - Tech, Marketing, and Consulting Firm
+  title: JULZ INSIGHT - Marketing, Tech & Consulting Firm
   description: >-
-   Julz Insight is a tech firm focusing on pioneering innovation for a sustainable future by building impactful products, brands, ideas, and solutions.
+   At Julz Insight, we empower businesses through cutting-edge technology, innovative marketing, strategic consulting, and digital transformation, ushering them into a future of boundless possibilities..
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Welcome to Julz Insight
+      value: JULZ INSIGHT - Marketing, Tech & Consulting Firm
       keyName: property
     - name: 'og:description'
       value: >-
-        Julz Insight is a tech firm focusing on pioneering innovation for a sustainable future by building impactful products, brands, ideas, and solutions.
+        At Julz Insight, we empower businesses through cutting-edge technology, innovative marketing, strategic consulting, and digital transformation, ushering them into a future of boundless possibilities.
       keyName: property
     - name: 'twitter:card'
       value: summary
     - name: 'twitter:title'
-      value: Welcome to Julz Insight
+      value: JULZ INSIGHT - Marketing, Tech & Consulting Firm
     - name: 'twitter:description'
       value: >-
-        Julz Insight is a tech firm focusing on pioneering innovation for a sustainable future by building impactful products, brands, ideas, and solutions.
+        At Julz Insight, we empower businesses through cutting-edge technology, innovative marketing, strategic consulting, and digital transformation, ushering them into a future of boundless possibilities.
 layout: advanced
 ---

@@ -5,7 +5,7 @@ sections:
   - type: hero_section
     section_id: hero
     title: >-
-      At Julz Insight, we are The Tech Visionaries, dedicated to illuminating possibilities in tech and marketing. Explore our cutting-edge solutions, digital transformation expertise, and innovative R&D. Join us in shaping the future.
+      We build impactful products, brands, & solutions by providing cutting-edge tech, marketing, & consulting solutions.
     content: >- 
     
 seo:

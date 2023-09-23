@@ -4,22 +4,19 @@ hide_title: false
 sections:
   - type: content_section
     content: >-
-      Welcome to Julz Insight, a tech firm on a mission to build innovative and impactful products, brands, and solutions that have the potential of changing the world. Our vision is to create a sustainable and tech-empowered future, and we believe that addressing the pressing challenges facing humanity today is the key to achieving that goal.
+      Welcome to Julz Insight, a marketing and tech firm based in Nairobi, Kenya that focuses on building innovative, influential, and impactful products, brands, and solutions by providing cutting-edge tech, marketing, and consulting solutions. Our vision is to create a tech-empowered world, and we believe that we can do it.
       
       
-      We understand that creating a sustainable future is not an easy task, but at Julz Insight, we believe that by bringing together a community of the brightest minds, we can reimagine what the future will look like in 20 to 30 years and build it today. Our team is committed to addressing these challenges head-on, and we're excited to be redefining the future now.
+      Competition is inevitable but at Julz Insight through 9 years of knowledge and experience brewing all kinds of things in Tech, we can help you rise so high above the curve such that you are the curve.
       
       
-      While our vision is grand, we're starting small by helping brands thrive. Our team is focused on creating innovative solutions that allow brands to connect with their customers in new and exciting ways. We work closely with our clients to understand their needs and challenges, and we use our expertise in technology and sustainability to develop solutions that can help them succeed.
-      
-      
-      At Julz Insight, we believe that by helping brands thrive, we can play a small but significant role in creating a sustainable future. We're committed to doing our part, and we're excited to see where this journey will take us. 
+      While our vision is grand, our team is just that focused on creating innovative solutions for you. We work closely with our clients to understand their needs, wants, and challenges, and we use our expertise in technology and marketing to help you thrive.
       
       
       Thank you for considering Julz Insight, and we look forward to working with you.
       
       
-      Come and let's do build something great together!
+      Come now and let's build something great together!
       
       [Get in touch](/contact/)
     image: images/julzinsightheader.png

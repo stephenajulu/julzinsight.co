@@ -85,14 +85,14 @@ sections:
     image_alt: Illustration
     bg_color: dark
 seo:
-  title: About Us - Julz Insight
+  title: About Julz Insight - The Tech Visionaries
   description: Learn more about Julz Insight, our team, our processes and more
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: About Us - Julz Insight
+      value: About Julz Insight - The Tech Visionaries
       keyName: property
     - name: 'og:description'
       value: Learn more about Julz Insight, our team, our processes and more
@@ -104,7 +104,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: About Us - Julz Insight
+      value: About Julz Insight - The Tech Visionaries
     - name: 'twitter:description'
       value: Learn more about Julz Insight, our team, our processes and more
     - name: 'twitter:image'

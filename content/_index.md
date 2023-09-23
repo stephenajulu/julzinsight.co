@@ -5,7 +5,7 @@ sections:
   - type: hero_section
     section_id: hero
     title: >-
-      We empower businesses through cutting-edge technology, innovative marketing, consulting, and digital transformation.
+      We build impactful products, brands, and solutions by providing cutting-edge tech, marketing, and consulting. Illuminating possibilities.
     content: >- 
     
 seo:

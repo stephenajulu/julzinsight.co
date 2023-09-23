@@ -10,7 +10,7 @@ sections:
       Competition is inevitable but at Julz Insight through 9 years of knowledge and experience brewing all kinds of things in Tech, we can help you rise so high above the curve such that you are the curve.
       
       
-      While our vision is grand, our team is just that focused on creating innovative solutions for you. We work closely with our clients to understand their needs, wants, and challenges, and we use our expertise in technology and marketing to help you thrive.
+      While our vision is grand, our team is just that focused on creating innovative solutions to help you. We work closely with our clients to understand their needs, wants, and challenges, and we use our expertise in technology and marketing to help you thrive.
       
       
       Thank you for considering Julz Insight, and we look forward to working with you.

@@ -5,13 +5,13 @@ sections:
   - type: hero_section
     section_id: hero
     title: >-
-      We build impactful products, brands, & solutions by providing cutting-edge tech, marketing, & consulting solutions.
+      We build impactful products, brands, & solutions by providing cutting-edge tech, marketing, and consulting solutions.
     content: >- 
     
 seo:
   title: JULZ INSIGHT - Marketing, Tech & Consulting Firm
   description: >-
-   At Julz Insight, we empower businesses through cutting-edge technology, innovative marketing, strategic consulting, and digital transformation, ushering them into a future of boundless possibilities..
+   At Julz Insight, we empower businesses through cutting-edge technology, innovative marketing, strategic consulting, and digital transformation, ushering them into a future of boundless possibilities. Illuminating possibilities
   extra:
     - name: 'og:type'
       value: website
@@ -21,7 +21,7 @@ seo:
       keyName: property
     - name: 'og:description'
       value: >-
-        At Julz Insight, we empower businesses through cutting-edge technology, innovative marketing, strategic consulting, and digital transformation, ushering them into a future of boundless possibilities.
+        At Julz Insight, we empower businesses through cutting-edge technology, innovative marketing, strategic consulting, and digital transformation, ushering them into a future of boundless possibilities. Illuminating possibilities.
       keyName: property
     - name: 'twitter:card'
       value: summary
@@ -29,6 +29,6 @@ seo:
       value: JULZ INSIGHT - Marketing, Tech & Consulting Firm
     - name: 'twitter:description'
       value: >-
-        At Julz Insight, we empower businesses through cutting-edge technology, innovative marketing, strategic consulting, and digital transformation, ushering them into a future of boundless possibilities.
+        At Julz Insight, we empower businesses through cutting-edge technology, innovative marketing, strategic consulting, and digital transformation, ushering them into a future of boundless possibilities. Illuminating possibilities.
 layout: advanced
 ---

@@ -9,11 +9,15 @@ sections:
       products, brands, businesses, and solutions by providing cutting-edge
       tech, marketing, and consulting solutions. 
 
+
       Our Mission at Julz Insight is to illuminate possibilities for businesses, brands, and even individuals by leveraging cutting-edge technology, innovative marketing strategies, and expert consulting services. We are dedicated to empowering our clients to unlock their fullest potential and thrive in the rapidly evolving landscape of tech and marketing, never having to worry about the best tech stack, the newest marketing platform, or whether you should go cloud or go home (onpremise).
+
 
       Our vision at Julz Insight is to be a global leader recognized for our innovative spirit, unwavering commitment to our craft, and the transformative impact we bring to the world. We aspire to shape the future with our innovations and our solutions in a world where possibilities are limitless.
 
+
       While our vision is grand, our team is just that focused on creating tech-empowered businesses and a tech-empowered future. We work closely with our clients to understand their needs, wants, and challenges, and we use our expertise in technology and marketing to help you thrive. We cover and understand all facets of technology, such as cloud computing, IoT, AI, design, automation, data, blockchain, cybersecurity, and more.
+
 
       Come now and lets build something great together!
 

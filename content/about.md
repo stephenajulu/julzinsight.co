@@ -6,11 +6,7 @@ sections:
     content: >-
       Welcome to Julz Insight, a tech firm based in Nairobi, Kenya, that builds innovative, influential, and impactful products, brands, businesses, and solutions by providing cutting-edge tech, marketing, and consulting solutions. 
       
-      
-     #### Mission
-    At Julz Insight, our mission is to illuminate possibilities for businesses, brands, and individuals by leveraging cutting-edge technology, innovative marketing strategies, and expert consulting services. We are dedicated to empowering our clients to unlock their fullest potential and thrive in the rapidly evolving landscapes of tech and marketing.
-    #### Vision
-    Our vision at Julz Insight is to be a global leader recognized for our pioneering spirit, bleeding-edge solutions, unwavering commitment to excellence, and the transformative impact we bring to the world. We aspire to shape a future where innovation knows no bounds and possibilities limitless
+      Our mission - At Julz Insight, our mission is to illuminate possibilities for businesses and individuals by leveraging cutting-edge technology, innovative marketing strategies, and expert consulting services. We are dedicated to empowering our clients to unlock their full potential and thrive in the rapidly evolving landscapes of tech and marketing.
       
       
       Thank you and we are looking forward to working with you to build your dreams.

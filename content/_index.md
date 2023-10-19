@@ -5,7 +5,7 @@ sections:
   - type: hero_section
     section_id: hero
     title: >-
-      We build impactful products, brands, businesses, & solutions by utilizing cutting-edge technology, marketing, & consulting.
+      We build impactful products, brands, & businesses by utilizing cutting-edge technology, marketing, and consulting solutions.
     content: >- 
     
 seo:

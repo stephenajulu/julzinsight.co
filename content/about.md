@@ -88,7 +88,7 @@ sections:
     image_alt: Illustration
     bg_color: dark
 seo:
-  title: About Julz Insight - The Tech Visionaries
+  title: About JULZ INSIGHT - The Tech Visionaries
   description: Learn more about Julz Insight, our team, our processes and more
   extra:
     - name: og:type

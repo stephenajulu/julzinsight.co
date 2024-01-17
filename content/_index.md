@@ -5,13 +5,13 @@ sections:
   - type: hero_section
     section_id: hero
     title: >-
-      We build impactful products, brands, businesses, and solutions powered by cutting-edge tech, marketing, and consulting.
+      We build impactful products, brands, businesses, and solutions.
     content: >- 
-    
+      We also provide cutting-edge tech, innovative marketing, and strategic consulting.
 seo:
   title: JULZ INSIGHT - Marketing, Tech & Consulting Firm
   description: >-
-   At Julz Insight, we empower businesses through cutting-edge technology, innovative marketing, strategic consulting, and digital transformation, ushering them into a future of boundless possibilities. Illuminating possibilities
+   At Julz Insight, we build impactful and innovative products, brands, businesses, and solutions. We also empower businesses through cutting-edge technology, innovative marketing, and strategic consulting. Ushering them into a future of boundless possibilities. Illuminating possibilities
   extra:
     - name: 'og:type'
       value: website
@@ -21,7 +21,7 @@ seo:
       keyName: property
     - name: 'og:description'
       value: >-
-        At Julz Insight, we empower businesses through cutting-edge technology, innovative marketing, strategic consulting, and digital transformation, ushering them into a future of boundless possibilities. Illuminating possibilities.
+        At Julz Insight, we build impactful and innovative products, brands, businesses, and solutions. We also empower businesses through cutting-edge technology, innovative marketing, and strategic consulting. Ushering them into a future of boundless possibilities. Illuminating possibilities
       keyName: property
     - name: 'twitter:card'
       value: summary
@@ -29,6 +29,6 @@ seo:
       value: JULZ INSIGHT - Marketing, Tech & Consulting Firm
     - name: 'twitter:description'
       value: >-
-        At Julz Insight, we empower businesses through cutting-edge technology, innovative marketing, strategic consulting, and digital transformation, ushering them into a future of boundless possibilities. Illuminating possibilities.
+        At Julz Insight, we build impactful and innovative products, brands, businesses, and solutions. We also empower businesses through cutting-edge technology, innovative marketing, and strategic consulting. Ushering them into a future of boundless possibilities. Illuminating possibilities
 layout: advanced
 ---

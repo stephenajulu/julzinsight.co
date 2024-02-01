@@ -5,4 +5,4 @@ We are a tech firm based in Nairobi, Kenya dedicated to building impactful, infl
 
 We are visionaries, focused on setting the pace and changing the world with our insights and expertise.
 
-Learn more here: https://julzinsight.co/about
+Learn more here: https://julzinsight.co/about or email us at info@julzinsight.co

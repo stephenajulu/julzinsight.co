@@ -5,11 +5,11 @@ sections:
   - type: hero_section
     section_id: hero
     title: >-
-      We're a tech firm that builds impactful products, brands and solutions.
+      We're a tech firm that builds impactful products, brands, and solutions.
     content: >- 
       
 seo:
-  title: JULZ INSIGHT - Marketing, Tech & Consulting Firm
+  title: JULZ INSIGHT - Tech, Marketing & Consulting Firm
   description: >-
    At Julz Insight, we build impactful and innovative products, brands, businesses, and solutions. We also empower businesses through cutting-edge technology, innovative marketing, and strategic consulting. Ushering them into a future of boundless possibilities. Illuminating possibilities
   extra:
@@ -17,7 +17,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: JULZ INSIGHT - Marketing, Tech & Consulting Firm
+      value: JULZ INSIGHT - Tech, Marketing & Consulting Firm
       keyName: property
     - name: 'og:description'
       value: >-
@@ -26,7 +26,7 @@ seo:
     - name: 'twitter:card'
       value: summary
     - name: 'twitter:title'
-      value: JULZ INSIGHT - Marketing, Tech & Consulting Firm
+      value: JULZ INSIGHT - Tech, Marketing, & Consulting Firm
     - name: 'twitter:description'
       value: >-
         At Julz Insight, we build impactful and innovative products, brands, businesses, and solutions. We also empower businesses through cutting-edge technology, innovative marketing, and strategic consulting. Ushering them into a future of boundless possibilities. Illuminating possibilities

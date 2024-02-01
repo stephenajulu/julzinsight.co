@@ -5,9 +5,9 @@ sections:
   - type: hero_section
     section_id: hero
     title: >-
-      We build impactful products, brands, businesses, and solutions.
+      We're a tech firm that builds impactful solutions.
     content: >- 
-      We also provide cutting-edge tech, innovative marketing, and strategic consulting. We focus on creating tech-empowered businesses and a tech-empowered world!
+      
 seo:
   title: JULZ INSIGHT - Marketing, Tech & Consulting Firm
   description: >-

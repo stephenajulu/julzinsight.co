@@ -30,36 +30,40 @@ sections:
     subtitle: What we do
     col_number: three
     grid_items:
-      - title: Build & Create
+      - title: Tech Solutions
         image: images/service-3.svg
         content: |-
-          - Web/UI/UX Design
-          - Web Development
-          - Ecommerce Store Development
-          - Content Writing
-          - Visual/Brand Identity Design
-      - title: Infrastructure
+          - Web Design (Figma, Webflow, Framerm JAMstack, WordPress, Shopify & Ghost)
+          - Visual/Brand Identity Design (Logo, Colors, Typography, Design System & Marketing Materials)
+          - ICT Equipment Vendor (Servers, Net Devices, Laptops, Desktops, Computer Accessories & Smartphones)
+          - Managed Solutions Provision
+      - title: Digital Transformation
         image: images/service-2.svg
         content: |-
-          - Infrastructure As A Service
-          - Storaged As A Service
-          - Web Hosting As A Service
-          - Bitdefender Applications
+          - Managed Cloud (Google Cloud, AWS, Microsoft Azure)
+          - Storage, File Sharing and File Manager (Nextcloud)
+          - Project Management (Monday.com, Asana)
+          - Customer Relationship Management (Hubspot, Zoho, Salesforce, Odoo)
+          - Collaboration (Slack, Google Workspace, Microsoft 365, Zoho)
+          - Enterprise Resource Planning (Microsoft Dynamics NAV 2016, SAP & Odoo)
+          - Customer Support, Helpdesk & Chat (Zendesk, Intercom, Jira, Tiledesk, Tidio & Freshdesk)
+          - Media Management (Cloudinary)
+          - Content Delivery Networks (Cloudflare & CloudFront)
+          - Marketing Automation (Mailchimp, Hunter.io, Zapier, Campaigner & Hubspot
       - title: Marketing & Content
         image: images/service-3.svg
         content: |-
           - Search Engine Optimization
-          - Paid AD Marketing
-          - Landing Page Design
-          - Website Optimization
-          - Lead Funnel Building
+          - Content Marketing (Contently & Hubspot)
+          - Copywriting (Perplexity, ChatGPT, Copilot,)
+          - Marketing Workflow & AI Automation (Mailchimp, Hubspot, Zapier, IFTTT, Buffer, Web Analytics, Tidio, ManyChat & Chatfuel)
       - title: Consultation
         image: images/service-1.svg
         content: |-
-          - Information Technology Consultation
-          - Creative Strategy
-          - Content Strategy
-          - Entrepreneurial Tutorship
+          - IT Infrastructure Consulting
+          - Cloud Consulting
+          - Digital Transformation Consulting
+          - Creative & Content Strategy
   - type: grid_section
     section_id: team
     title: The Team

@@ -43,29 +43,34 @@ layout: post
 ## Introduction
 Julz Insight is a leading provider of comprehensive tech solutions. Our services are designed to help businesses leverage technology to achieve their goals. We offer a wide range of services, from web design and visual identity design to ICT equipment vending and managed solutions provisioning.
 
-### Web Design
+### Solutions
+#### Web Design
 Our team of experienced web designers uses a variety of tools to create engaging, user-friendly websites that meet your business needs:
 
-1. Figma: We use Figma for collaborative design, allowing us to work together in real-time to create stunning designs.
+1. Figma: We use Figma for collaborative design, allowing us to work together in real time to create stunning designs.
 2. Webflow: With Webflow, we can design, build, and launch responsive websites visually, while writing clean, semantic code for you.
 3. Framer: Framer helps us create interactive and responsive layouts that look great on any device.
 4. JAMstack: We use JAMstack technologies for building fast and secure sites and apps.
 5. WordPress: As one of the most popular content management systems, WordPress allows us to create websites that are easy to update and manage.
 6. Shopify: For e-commerce sites, we use Shopify to create a powerful and user-friendly shopping experience.
-7. Ghost: Ghost allows us to create professional, modern online publications with a focus on content.
+7. Ghost: Ghost allows us to create professional, modern online publications focusing on content.
 
-### Visual/Brand Identity Design
+#### Visual/Brand Identity Design
 We understand that a strong brand identity is crucial for business success. Our visual identity design services include:
 
 1. Logo Design: We create unique and memorable logos that reflect your brand’s identity.
 2. Color Selection: We help you choose a color palette that aligns with your brand’s message and appeals to your target audience.
 3. Typography: We select fonts that complement your brand’s style and enhance readability.
 4. Design System: We establish a design system that ensures consistency across all your brand’s visual elements.
-5. ICT Equipment Vendor
-6. As an ICT equipment vendor, we provide a variety of equipment to meet your business needs: Servers: We offer servers that provide high performance and reliability for your business operations. Laptops and Desktops: We provide a range of laptops and desktops from leading manufacturers. Computer Accessories: From keyboards and mice to monitors and printers, we have all the accessories you need to complete your computer setup.
-Smartphones: We offer a selection of smartphones from top brands, ensuring you stay connected wherever you are. Managed Solutions Provisioning Our managed solutions provisioning service takes the hassle out of managing your IT infrastructure. We handle everything from system design and installation to maintenance and support, allowing you to focus on what you do best: running your business.
 
-##Conclusion
+#### ICT Equipment Vendor
+As an ICT equipment vendor, we provide a variety of equipment to meet your business needs: Servers: We offer servers that provide high performance and reliability for your business operations. Laptops and Desktops: We provide a range of laptops and desktops from leading manufacturers. Computer Accessories: From keyboards and mice to monitors and printers, we have all the accessories you need to complete your computer setup.
+Smartphones: We offer a selection of smartphones from top brands, ensuring you stay connected wherever you are.
+
+#### Managed Solutions Provisioning
+Our managed solutions provisioning service takes the hassle out of managing your IT infrastructure. We handle everything from system design and installation to maintenance and support, allowing you to focus on what you do best: running your business.
+
+## Conclusion
 At Julz Insight, we’re committed to providing our clients with top-notch tech solutions. Whether you need a new website, a fresh brand identity, reliable ICT equipment, or managed IT services, we have the expertise and resources to deliver. Contact us today to learn more about how we can help your business thrive.
 
 

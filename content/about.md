@@ -33,30 +33,30 @@ sections:
       - title: Tech Solutions
         image: images/service-3.svg
         content: |-
-          - Web Design (Figma, Webflow, Framerm JAMstack, WordPress, Shopify & Ghost)
-          - Visual/Brand Identity Design (Logo, Colors, Typography, Design System & Marketing Materials)
-          - ICT Equipment Vendor (Servers, Net Devices, Laptops, Desktops, Computer Accessories & Smartphones)
+          - Web Design (Figma, Webflow, Framer, JAMstack, WordPress, Shopify & Ghost)
+          - Visual/Brand Identity Design (Logo, Colors, Typography & Design System)
+          - ICT Equipment Vendor (Servers, Laptops, Desktops, Computer Accessories & Smartphones)
           - Managed Solutions Provision
       - title: Digital Transformation
         image: images/service-2.svg
         content: |-
           - Managed Cloud (Google Cloud, AWS, Microsoft Azure)
           - Storage, File Sharing and File Manager (Nextcloud)
-          - Project Management (Monday.com, Asana)
-          - Customer Relationship Management (Hubspot, Zoho, Salesforce, Odoo)
-          - Collaboration (Slack, Google Workspace, Microsoft 365, Zoho)
+          - Project Management (Monday.com & Asana)
+          - Customer Relationship Management (Hubspot, Zoho, Salesforce & Odoo)
+          - Collaboration (Slack, Google Workspace, Microsoft 365 & Zoho)
           - Enterprise Resource Planning (Microsoft Dynamics NAV 2016, SAP & Odoo)
           - Customer Support, Helpdesk & Chat (Zendesk, Intercom, Jira, Tiledesk, Tidio & Freshdesk)
           - Media Management (Cloudinary)
-          - Content Delivery Networks (Cloudflare & CloudFront)
-          - Marketing Automation (Mailchimp, Hunter.io, Zapier, Campaigner & Hubspot
+          - Content Delivery Networks (Cloudflare)
+          - Marketing Automation (Mailchimp, Hunter.io, Zapier, Campaigner & Hubspot)
       - title: Marketing & Content
         image: images/service-3.svg
         content: |-
-          - Search Engine Optimization
+          - Search Engine Optimization (Semrush & Ahrefs)
           - Content Marketing (Contently & Hubspot)
           - Copywriting (Perplexity, ChatGPT, Copilot,)
-          - Marketing Workflow & AI Automation (Mailchimp, Hubspot, Zapier, IFTTT, Buffer, Web Analytics, Tidio, ManyChat & Chatfuel)
+          - Marketing Workflow & AI Automation (Mailchimp, Hubspot, Zapier, Buffer, Web Analytics, Tidio & ManyChat)
       - title: Consultation
         image: images/service-1.svg
         content: |-
@@ -71,10 +71,10 @@ sections:
     grid_items:
       - title: Stephen Ajulu
         image: https://stephenajulu.com/images/rsz_2.png
-        subtitle: Founder & Director
+        subtitle: Founder & Chief Executive Officer
         content: Hello I'm the founder of Julz Insight. I founded the company with the
-          ultimate goal of crafting impactful products, brands and solutions.
-          It's nice to                       meet you.
+          ultimate goal of crafting impactful tech products, brands, and solutions.
+          It's nice to meet you.
         actions:
           - label: Twitter
             url: https://twitter.com/stephenajulu

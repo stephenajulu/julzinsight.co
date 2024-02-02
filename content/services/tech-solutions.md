@@ -64,8 +64,11 @@ We understand that a strong brand identity is crucial for business success. Our 
 4. Design System: We establish a design system that ensures consistency across all your brand’s visual elements.
 
 #### ICT Equipment Vendor
-As an ICT equipment vendor, we provide a variety of equipment to meet your business needs: Servers: We offer servers that provide high performance and reliability for your business operations. Laptops and Desktops: We provide a range of laptops and desktops from leading manufacturers. Computer Accessories: From keyboards and mice to monitors and printers, we have all the accessories you need to complete your computer setup.
-Smartphones: We offer a selection of smartphones from top brands, ensuring you stay connected wherever you are.
+As an ICT equipment vendor, we provide a variety of equipment to meet your business needs:
+1. Servers: We offer servers that provide high performance and reliability for your business operations.
+2. Laptops and Desktops: We provide a range of laptops and desktops from leading manufacturers.
+3. Computer Accessories: From keyboards and mice to monitors and printers, we have all the accessories you need to complete your computer setup.
+4. Smartphones: We offer a selection of smartphones from top brands, ensuring you stay connected wherever you are.
 
 #### Managed Solutions Provisioning
 Our managed solutions provisioning service takes the hassle out of managing your IT infrastructure. We handle everything from system design and installation to maintenance and support, allowing you to focus on what you do best: running your business.

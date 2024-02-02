@@ -1,6 +1,6 @@
 ---
 title: Digital Transformation Solutions
-subtitle: Empowering Your Business with Industry-leading Digital Transformational Solutions
+subtitle: Transforming Your Business for the Digital Age with Julz Insight
 excerpt: >-
   Julz Insight is a leading provider of digital transformation services. Our offerings are designed to help businesses leverage technology to achieve their goals. We offer a wide range of services, from managed cloud and storage solutions to project management, customer relationship management, collaboration tools, enterprise resource planning, customer support, media management, content delivery networks, and marketing automation.
 thumb_image: images/brooke-cagle-WHWYBmtn3_0-unsplash (1).jpg
@@ -74,7 +74,7 @@ We provide Cloudflare as a content delivery network to ensure fast and secure de
 Our marketing automation solutions include Mailchimp, Hunter.io, Zapier, Campaigner, and Hubspot. These tools automate repetitive marketing tasks, allowing businesses to focus on more strategic initiatives.
 
 ## Conclusion
-At Julz Insight, we’re committed to helping businesses navigate their digital transformation journey. Whether you need cloud services, project management tools, a CRM system, or marketing automation, we have the expertise and resources to deliver. Contact us today to learn more about how we can help your business thrive in the digital age. user write a catchy subtitle for this assistant’ “Transforming Your Business for the Digital Age with Julz Insight”
+At Julz Insight, we’re committed to helping businesses navigate their digital transformation journey. Whether you need cloud services, project management tools, a CRM system, or marketing automation, we have the expertise and resources to deliver. Contact us today to learn more about how we can help your business thrive in the digital age.
 
 <form class="form-horizontal">
 <fieldset>

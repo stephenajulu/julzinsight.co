@@ -5,7 +5,7 @@ sections:
   - type: hero_section
     section_id: hero
     title: >-
-      We build impactful tech solutions that solve complex challenges.
+      We build impactful tech & marketing solutions that solve complex challenges.
     content: >- 
       
 seo:

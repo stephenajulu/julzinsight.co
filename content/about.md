@@ -69,13 +69,9 @@ sections:
           - Marketing Workflow & AI Automation (Mailchimp, Hubspot, Zapier, Buffer, Web Analytics, Tidio & ManyChat)
       - title: Consultation
         image: images/service-1.svg
-        content: |-
-          - IT Infrastructure Consulting
-          - Cloud Consulting
-          - Digital Transformation Consulting
-          - Creative & Content Strategy
+        content: The “Marketing & Content” category at Julz Insight offers comprehensive solutions to enhance your business’s market presence. It includes content creation and marketing strategies to engage your target audience effectively. Additionally, we provide IT Infrastructure Consulting for robust system design, Cloud Consulting for leveraging cloud technologies, Digital Transformation Consulting for integrating digital technologies into your business, and Creative & Content Strategy for developing effective content distribution strategies. Each service is designed to work cohesively, providing a comprehensive solution for your business’s marketing and content needs.
         actions:
-          - label: Learn more about our consultation services
+          - label: Learn more →
             url: /services/consultation-solutions
             style: button
   - type: grid_section

@@ -1,0 +1,27 @@
+  <style>
+     .marquee {
+      width: 100%;
+      white-space: nowrap;
+      overflow: hidden;
+      position: relative;
+    }
+
+    .marquee span {
+      display: inline-block;
+      animation: marquee 20s linear infinite;
+      font-size: 60px;
+      font-style: bold;
+    }
+
+    @keyframes marquee {
+      0% {
+        transform: translateX(100vw);
+      }
+      100% {
+        transform: translateX(-50%);
+      }
+    }
+  </style>
+  <div class="marquee">
+    <span class="marqueetext">CUTTING-EDGE TECHNOLOGY / INNOVATIVE MARKETING / STRATEGIC CONSULTING / DIGITAL TRANSFORMATION SOLUTIONS </span>
+  </div>

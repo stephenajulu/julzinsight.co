@@ -1,7 +1,5 @@
 <br>
-{{ partial "services-slider.html" . }}
-<footer id="colophon" class="site-footer">
-  <div class="container container--lg">
+{{ if not .IsHome }} {{ partial "services-slider.html" . }} {{ end }}
     <div class="site-footer__inside">
       <div class="site-footer__info">
         {{ if .Site.Data.config.footer.content }}

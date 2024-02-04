@@ -24,6 +24,14 @@ sections:
       [Get in touch](/contact/)
     image: images/julzinsightheader.png
     image_alt: Our team in the meeting room
+  - type: portfolio_section
+    section_id: latest-projects
+    layout_style: tiles
+    title: Projects
+    subtitle: What we have done or are doing
+    projects_number: 6
+    view_all_label: View All
+    view_all_url: portfolio
   - type: grid_section
     section_id: services
     title: Services

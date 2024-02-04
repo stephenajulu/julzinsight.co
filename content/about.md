@@ -26,10 +26,10 @@ sections:
     image_alt: Our team in the meeting room
   - type: portfolio_section
     section_id: latest-projects
-    layout_style: tiles
+    layout_style: mosaic
     title: Projects
     subtitle: What we have done or are doing
-    projects_number: 6
+    projects_number:2
     view_all_label: View All
     view_all_url: portfolio
   - type: grid_section

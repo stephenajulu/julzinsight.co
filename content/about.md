@@ -45,6 +45,12 @@ sections:
           - Visual/Brand Identity Design (Logo, Colors, Typography & Design System)
           - ICT Equipment Vendor (Servers, Laptops, Desktops, Computer Accessories & Smartphones)
           - Managed Solutions Provision
+          - *Our Own Cloud Computing Platform (Coming Soon}
+          - *World Class Affordable MBA Tech Course  (Coming Soon}
+          - *Cybersecurity and Penetration Testing (Coming Soon)
+          - *Product Design and Development (Coming Soon)
+          - *Virtual Reality and Augmented Reality (Coming Soon)
+          - *Blockchain Development and Marketing (Coming Soon)
       - title: Digital Transformation
         image: images/service-2.svg
         content: |-

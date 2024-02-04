@@ -40,32 +40,32 @@ sections:
     grid_items:
       - title: Tech Solutions
         image: images/service-3.svg
-        content: Julz Insight's "Tech Solutions" category offers a comprehensive suite of services. Our Web Design services leverage tools like Figma, Webflow, Framer, Shopify, Hugo, Ghost, and WordPress to create engaging websites. Our Visual/Brand Identity Design services help businesses establish a strong brand presence with unique logos, color schemes, brand guidelines, imagery, packaging, and typography. As an ICT Equipment Vendor, we provide essential hardware like servers, laptops, desktops, accessories, and smartphones. Our Managed Solutions Provision service removes the hassle of managing your IT infrastructure and software, allowing you to focus on your core business.
         actions:
           - label: Learn more →
             url: /services/tech-solutions
             style: button
+        content: Julz Insight's "Tech Solutions" category offers a comprehensive suite of services. Our Web Design services leverage tools like Figma, Webflow, Framer, Shopify, Hugo, Ghost, and WordPress to create engaging websites. Our Visual/Brand Identity Design services help businesses establish a strong brand presence with unique logos, color schemes, brand guidelines, imagery, packaging, and typography. As an ICT Equipment Vendor, we provide essential hardware like servers, laptops, desktops, accessories, and smartphones. Our Managed Solutions Provision service removes the hassle of managing your IT infrastructure and software, allowing you to focus on your core business.
       - title: Digital Transformation
         image: images/service-2.svg
-        content: Digital Transformation at Julz Insight is a comprehensive service that revolutionizes your business operations. We offer Managed Cloud services with Google Cloud, AWS, and Microsoft Azure. Our solutions include Storage, File Sharing, and File Manager through Nextcloud. We streamline your workflow with Project Management tools like Monday.com and Asana. Our CRM solutions include Hubspot, Zoho, Salesforce, and Odoo. We enhance team collaboration using Slack, Google Workspace, Microsoft 365, and Zoho. We offer ERP solutions with Microsoft Dynamics NAV 2016, SAP, and Odoo. Our customer support includes Zendesk, Intercom, Jira, Tiledesk, Tidio, Many Chat, and Freshdesk. We manage your media with Cloudinary, ensure fast content delivery with Cloudflare, and automate your marketing with Mailchimp, Hunter.io, Zapier, Campaigner, and Hubspot.
         actions:
           - label: Learn more →
             url: /services/digital-transformation-solutions
             style: button
+        content: Digital Transformation at Julz Insight is a comprehensive service that revolutionizes your business operations. We offer Managed Cloud services with Google Cloud, AWS, and Microsoft Azure. Our solutions include Storage, File Sharing, and File Manager through Nextcloud. We streamline your workflow with Project Management tools like Monday.com and Asana. Our CRM solutions include Hubspot, Zoho, Salesforce, and Odoo. We enhance team collaboration using Slack, Google Workspace, Microsoft 365, and Zoho. We offer ERP solutions with Microsoft Dynamics NAV 2016, SAP, and Odoo. Our customer support includes Zendesk, Intercom, Jira, Tiledesk, Tidio, Many Chat, and Freshdesk. We manage your media with Cloudinary, ensure fast content delivery with Cloudflare, and automate your marketing with Mailchimp, Hunter.io, Zapier, Campaigner, and Hubspot.
       - title: Marketing & Content
         image: images/service-3.svg
-        content: The “Marketing & Content” category at Julz Insight offers comprehensive solutions to enhance your business’s market presence. It includes content creation and marketing strategies to engage your target audience effectively. Additionally, we provide IT Infrastructure Consulting for robust system design, Cloud Consulting for leveraging cloud technologies, Digital Transformation Consulting for integrating digital technologies into your business, and Creative & Content Strategy for developing effective content distribution strategies. Each service is designed to work cohesively, providing a comprehensive solution for your business’s marketing and content needs.
-         actions:
+        actions:
           - label: Learn more →
             url: /services/marketing-solutions
-            style: button       
+            style: button     
+        content: The “Marketing & Content” category at Julz Insight offers comprehensive solutions to enhance your business’s market presence. It includes content creation and marketing strategies to engage your target audience effectively. Additionally, we provide IT Infrastructure Consulting for robust system design, Cloud Consulting for leveraging cloud technologies, Digital Transformation Consulting for integrating digital technologies into your business, and Creative & Content Strategy for developing effective content distribution strategies. Each service is designed to work cohesively, providing a comprehensive solution for your business’s marketing and content needs.      
       - title: Consultation
         image: images/service-1.svg
-        content: Consultation Solutions at Julz Insight are designed to guide your business towards success. We offer IT Infrastructure Consulting to optimize your technology environment. Our Cloud Consulting services help you leverage the power of cutting-edge cloud technologies. With our Digital Transformation Consulting, we assist you in embracing digital changes to improve and automate business processes. Our Creative & Content Strategy consulting helps you create compelling content that resonates with your audience. We provide expert advice and innovative solutions to meet your unique business needs and drive growth. We focus on putting you on the digital world map.
         actions:
           - label: Learn more →
             url: /services/consultation-solutions
             style: button
+        content: Consultation Solutions at Julz Insight are designed to guide your business towards success. We offer IT Infrastructure Consulting to optimize your technology environment. Our Cloud Consulting services help you leverage the power of cutting-edge cloud technologies. With our Digital Transformation Consulting, we assist you in embracing digital changes to improve and automate business processes. Our Creative & Content Strategy consulting helps you create compelling content that resonates with your audience. We provide expert advice and innovative solutions to meet your unique business needs and drive growth. We focus on putting you on the digital world map.
   - type: grid_section
     section_id: team
     title: The Team

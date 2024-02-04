@@ -29,7 +29,7 @@ sections:
     layout_style: mosaic
     title: Projects
     subtitle: What we have done or are doing
-    projects_number:2
+    projects_number: 2
     view_all_label: View All
     view_all_url: portfolio
   - type: grid_section

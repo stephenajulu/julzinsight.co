@@ -74,6 +74,10 @@ sections:
           - Cloud Consulting
           - Digital Transformation Consulting
           - Creative & Content Strategy
+        actions:
+          - label: Learn more
+            url: /services/consulting-solutions
+            style: button
   - type: grid_section
     section_id: team
     title: The Team

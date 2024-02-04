@@ -36,7 +36,7 @@ sections:
     section_id: services
     title: Services
     subtitle: What we do
-    col_number: three
+    col_number: four
     grid_items:
       - title: Tech Solutions
         image: images/service-3.svg

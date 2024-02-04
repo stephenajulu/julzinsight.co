@@ -75,8 +75,8 @@ sections:
           - Digital Transformation Consulting
           - Creative & Content Strategy
         actions:
-          - label: Learn more
-            url: /services/consulting-solutions
+          - label: Learn more about our consultation services
+            url: /services/consultation-solutions
             style: button
   - type: grid_section
     section_id: team

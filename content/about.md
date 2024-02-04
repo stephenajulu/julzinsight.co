@@ -51,7 +51,7 @@ sections:
           - label: Learn more →
             url: /services/digital-transformation-solutions
             style: button
-        content: Digital Transformation at Julz Insight is a comprehensive service that revolutionizes your business operations. We offer Managed Cloud services with Google Cloud, among others. Our solutions include File Sharing through Nextcloud. We streamline your workflow with Project Management tools like Monday.com and Asana. Our CRM solutions include Hubspot, Zoho, Salesforce, and Odoo. We enhance team collaboration using Slack, Google Workspace, Microsoft 365, and Zoho. We offer ERP solutions with Microsoft Dynamics NAV 2016, SAP, and Odoo. Our customer support includes Zendesk, Intercom, Jira, Tiledesk, Tidio, Many Chat, and Freshdesk. We automate your marketing with Mailchimp, Hunter.io, Zapier, Campaigner, and Hubspot.
+        content: Digital Transformation at Julz Insight is a comprehensive service that revolutionizes your business operations. We offer Managed Cloud services with Google Cloud, among others. Our solutions include File Sharing through Nextcloud. We streamline your workflow with Project Management tools like Monday.com and Asana. Our CRM solutions include Hubspot, Zoho, Salesforce, and Odoo. We enhance team collaboration using Slack, Google Workspace, Microsoft 365, and Zoho. We offer ERP solutions with Microsoft Dynamics NAV 2016, SAP, and Odoo. Our customer support includes Zendesk, Intercom, Jira, Tiledesk, Many Chat, and Freshdesk. We automate your marketing with Mailchimp, Hunter.io, Zapier, Campaigner, and Hubspot.
       - title: Marketing & Content
         image: images/service-3.svg
         actions:

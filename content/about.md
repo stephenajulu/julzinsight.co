@@ -4,14 +4,14 @@ hide_title: false
 sections:
   - type: content_section
     content: >-
-      Welcome to Julz Insight aka the tech visionaries, a tech firm based in Nairobi, Kenya, that is focused on building impactful tech products, brands, businesses, and solutions by leveraging cutting-edge tech, innovative marketing, and strategic consulting solutions.<br> <br>Our Mission is to empower businesses by leveraging cutting-edge technology and data-driven marketing strategies to solve complex challenges and drive digital transformation. <br> <br> Our vision is to be the pioneers of tech solutions that help achieve unprecedented success. <br> <br> Problem - In today's rapidly evolving digital landscape, businesses face numerous challenges such as fierce competition, changing consumer behavior, and the need to constantly adopt new technologies. Many business owners struggle to keep up with these changes and find it difficult to navigate the complexities of the digital realm. They often lack the expertise and resources to effectively utilize emerging technologies and implement innovative marketing strategies that can take their business to the next level. <br> <br> Solution - Julz Insight aims to address these challenges by providing businesses with comprehensive cutting-edge tech and marketing solutions. We leverage our expertise in AI-driven technologies, data analytics, and emerging tech trends to help businesses overcome their limitations and achieve their goals. Through strategic consulting, we guide businesses in adopting the right technologies and creating innovative marketing strategies that drive growth and enable digital transformation.<br> <br>Come now and let's start something great today: [Book a video call](/contact/) or [Get in touch with a representative](/contact/). <br> <br>Alternatively: [Communicate via Email](mailto:info@julzinsight.co) 
+      Welcome to Julz Insight, a tech firm based in Nairobi, Kenya, focused on building impactful tech products, brands, businesses, and solutions by leveraging cutting-edge tech, innovative marketing, and strategic consulting solutions.<br> <br>Our Mission is to empower businesses by leveraging cutting-edge technology and data-driven marketing strategies to solve complex challenges and drive digital transformation. <br> <br> Our vision is to be the pioneers of tech solutions that help achieve unprecedented success. <br> <br> Problem - In our rapidly evolving digital landscape, businesses face numerous challenges including fierce competition, changing consumer behavior, and the need to adopt new technologies. Many business owners struggle to keep up and find it difficult to navigate the complexities of the digital realm, often lacking the expertise or resources to effectively utilize emerging technologies and implement innovative marketing strategies that can take their business to the next level. <br> <br> Solution - Julz Insight aims to address these challenges by providing businesses with comprehensive cutting-edge tech and marketing solutions. We leverage our expertise in AI-driven technologies, data analytics, and emerging tech trends to help businesses overcome their limitations and achieve their goals. Through strategic consulting, we guide businesses in adopting the right technologies and creating innovative marketing strategies that drive growth and enable digital transformation.<br> <br>Come now and let's start something great today: [Book a video call](/contact/) or [Get in touch with a representative](/contact/). <br> <br>Alternatively: [Communicate via Email](mailto:info@julzinsight.co) 
     image: images/julzinsightheader.png
     image_alt: Our team in the meeting room
   - type: portfolio_section
     section_id: latest-projects
     layout_style: mosaic
     title: Projects
-    subtitle: Our portfolio, case studies and internal products
+    subtitle: Our portfolio, case studies, and internal products
     projects_number: 2
     view_all_label: View All
     view_all_url: portfolio
@@ -77,7 +77,7 @@ sections:
     content: We are always looking for great people to join our team. If you are
       interested in working for Julz Insight, please send us an email to
       [info@julzinsight.co](mailto:info@julzinsight.co) with your CV, which
-      positions you'd like to occupy and why we should hire you.
+      positions you are interested in and why we should hire you.
     image: images/cta-about.svg
     image_alt: Illustration
     bg_color: dark

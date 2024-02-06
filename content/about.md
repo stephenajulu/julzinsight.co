@@ -10,8 +10,8 @@ sections:
   - type: portfolio_section
     section_id: latest-projects
     layout_style: mosaic
-    title: Projects
-    subtitle: Our portfolio, case studies, and internal products
+    title: Portfolio
+    subtitle: Our projects, case studies, and internal products
     projects_number: 2
     view_all_label: View All
     view_all_url: portfolio

@@ -9,10 +9,10 @@ sections:
       products, brands, businesses, and solutions using cutting-edge
       tech, innovative marketing, and strategic consulting solutions. 
 
-      Mission and Vision - Julz Insight's mission is to empower businesses by leveraging cutting-edge technology and data-driven marketing strategies to solve complex challenges and drive digital transformation. Our vision is to be the leading provider of integrated tech and marketing solutions that enable businesses to achieve unprecedented success in the digital era. <br> <br> Problem - In today's rapidly evolving digital landscape, businesses face numerous challenges such as fierce competition, changing consumer behavior, and the need to constantly adopt new technologies. Many business owners struggle to keep up with these changes and find it difficult to navigate the complexities of the digital realm. They often lack the expertise and resources to effectively utilize emerging technologies and implement innovative marketing strategies that can take their business to the next level. <br> <br> Solution - Julz Insight aims to address these challenges by providing businesses with comprehensive tech and marketing solutions. We leverage our expertise in AI-driven technologies, data analytics, and emerging tech trends to help businesses overcome their limitations and achieve their goals. Through strategic consulting, we guide businesses in adopting the right technologies and creating innovative marketing strategies that drive growth and enable digital transformation. <br> <br> Unique Selling Proposition - What sets Julz Insight apart from other tech and marketing firms is our integrated approach. We understand that technology and marketing go hand in hand in today's digital landscape, and our expertise lies in seamlessly integrating the two to deliver powerful and effective solutions. By combining our cutting-edge tech stack and data-driven marketing strategies, we create a cohesive ecosystem that drives success for our clients. Additionally, our commitment to staying at the forefront of emerging technologies allows us to provide our clients with the most innovative solutions. We closely follow industry trends, conduct extensive research, and invest in continuous learning to ensure that our clients benefit from the latest advancements in technology and marketing.
+      Mission and Vision - Julz Insight's mission is to empower businesses by leveraging cutting-edge technology and data-driven marketing strategies to solve complex challenges and drive digital transformation. <br> <br> Our vision is to be the pioneers of tech solutions that help achieve unprecedented success. <br> <br> Problem - In today's rapidly evolving digital landscape, businesses face numerous challenges such as fierce competition, changing consumer behavior, and the need to constantly adopt new technologies. Many business owners struggle to keep up with these changes and find it difficult to navigate the complexities of the digital realm. They often lack the expertise and resources to effectively utilize emerging technologies and implement innovative marketing strategies that can take their business to the next level. <br> <br> Solution - Julz Insight aims to address these challenges by providing businesses with comprehensive cutting-edge tech and marketing solutions. We leverage our expertise in AI-driven technologies, data analytics, and emerging tech trends to help businesses overcome their limitations and achieve their goals. Through strategic consulting, we guide businesses in adopting the right technologies and creating innovative marketing strategies that drive growth and enable digital transformation. <br> <br> Unique Selling Point - Our integrated approach sets Julz Insight apart from other tech firms. We understand that technology and marketing go hand in hand in today's digital landscape, and our expertise lies in seamlessly integrating the two to deliver powerful and effective solutions. By combining our cutting-edge tech stack and data-driven marketing strategies, we create a cohesive ecosystem that drives success for our clients. Additionally, our commitment to staying at the forefront of emerging technologies allows us to provide our clients with the most innovative solutions. We closely follow industry trends, conduct extensive research, and invest in continuous learning to ensure that our clients benefit from the latest advancements in technology and marketing.
 
 
-      Come now and lets build something great!
+      Come now and let's build something great!
 
       [Get in touch](/contact/)
     image: images/julzinsightheader.png
@@ -21,14 +21,14 @@ sections:
     section_id: latest-projects
     layout_style: mosaic
     title: Projects
-    subtitle: What we have done or are doing
+    subtitle: Our portfolio, case studies and internal products
     projects_number: 2
     view_all_label: View All
     view_all_url: portfolio
   - type: grid_section
     section_id: services
     title: Services
-    subtitle: What we do
+    subtitle: Our solutions and services
     col_number: two
     grid_items:
       - title: Tech Solutions
@@ -37,28 +37,28 @@ sections:
           - label: Learn more →
             url: /services/tech-solutions
             style: button
-        content: Julz Insight's "Tech Solutions" category offers a comprehensive suite of services. Our Web Design services leverage tools like Figma, Webflow, Framer, Shopify, Hugo, Ghost, and WordPress to create engaging websites. Our Visual/Brand Identity Design services help businesses establish a strong brand presence with unique logos, color schemes, brand guidelines, imagery, packaging, and typography. As an ICT Equipment Vendor, we provide essential hardware like servers, laptops, desktops, accessories, and smartphones. Our Managed Solutions Provision service removes the hassle of managing your IT infrastructure and software, allowing you to focus on your core business.
-      - title: Digital Transformation
+        content: Attract your audience with stunning websites, logos, and packaging. Julz Insight creates engaging web and visual designs. We also supply IT equipment and manage your IT infrastructure.
+      - title: Digital Transformation Solutions
         image: images/service-2.svg
         actions:
           - label: Learn more →
             url: /services/digital-transformation-solutions
             style: button
-        content: Digital Transformation at Julz Insight is a comprehensive service that revolutionizes your business operations. We offer Managed Cloud services with Google Cloud, among others. Our solutions include File Sharing through Nextcloud. We streamline your workflow with Project Management tools like Monday.com and Asana. Our CRM solutions include Hubspot, Zoho, Salesforce, and Odoo. We enhance team collaboration using Slack, Google Workspace, Microsoft 365, and Zoho. We offer ERP solutions with Microsoft Dynamics NAV 2016, SAP, and Odoo. Our customer support includes Zendesk, Intercom, Jira, Tiledesk, Many Chat, and Freshdesk. We automate your marketing with Mailchimp, Hunter.io, Zapier, Campaigner, and Hubspot.
-      - title: Marketing & Content
+        content: Boost your business performance with cloud, CRM, ERP, project management, customer support solutions and more from Julz Insight. We help you leverage the best digital technologies to streamline your workflow and delight your customers.
+      - title: Marketing & Content Solutions
         image: images/service-3.svg
         actions:
           - label: Learn more →
             url: /services/marketing-solutions
             style: button     
-        content: The “Marketing & Content” category at Julz Insight offers comprehensive solutions to enhance your business’s market presence. It includes content creation and marketing strategies to engage your target audience effectively. Additionally, we provide IT Infrastructure Consulting for robust system design, Cloud Consulting for leveraging cloud technologies, Digital Transformation Consulting for integrating digital technologies into your business, and Creative & Content Strategy for developing effective content distribution strategies. Each service is designed to work cohesively, providing a comprehensive solution for your business’s marketing and content needs.      
+        content: Create and market captivating content with Julz Insight. We offer content creation, marketing, and consulting solutions to help you connect with your audience and increase sales. We also offer IT, cloud, and digital transformation consulting.      
       - title: Consultation
         image: images/service-1.svg
         actions:
           - label: Learn more →
             url: /services/consultation-solutions
             style: button
-        content: Consultation Solutions at Julz Insight are designed to guide your business towards success. We offer IT Infrastructure Consulting to optimize your technology environment. Our Cloud Consulting services help you leverage the power of cutting-edge cloud technologies. With our Digital Transformation Consulting, we assist you in embracing digital changes to improve and automate business processes. Our Creative & Content Strategy consulting helps you create compelling content that resonates with your audience. We provide expert advice and innovative solutions to meet your unique business needs and drive growth. We focus on putting you on the digital world map.
+        content: Navigate the digital world confidently with Julz Insight’s consultation services. We offer IT, cloud, digital transformation, and content strategy consulting to help you grow your business and resonate with your audience. Let us guide you toward success.
   - type: grid_section
     section_id: team
     title: The Team
@@ -76,28 +76,33 @@ sections:
             style: icon
             icon: twitter
             new_window: true
+          - label: Instagram
+            url: https://instagram.com/stephenajulu
+            style: icon
+            icon: instagram
+            new_window: true
   - type: cta_section
     section_id: cta
     title: Become a Team Player
     content: We are always looking for great people to join our team. If you are
       interested in working for Julz Insight, please send us an email to
       [info@julzinsight.co](mailto:info@julzinsight.co) with your CV, which
-      position you are interested in and why we should hire you.
+      positions you'd like to occupy and why we should hire you.
     image: images/cta-about.svg
     image_alt: Illustration
     bg_color: dark
 seo:
-  title: About JULZ INSIGHT - The Tech Visionaries
-  description: Learn more about Julz Insight, our team, our processes and more
+  title: About | Julz Insight - The Tech Visionaries
+  description: Learn more about Julz Insight, our team, our processes, our solutions, our work, and more
   extra:
     - name: og:type
       value: website
       keyName: property
     - name: og:title
-      value: About Julz Insight - The Tech Visionaries
+      value: About | Julz Insight - The Tech Visionaries
       keyName: property
     - name: og:description
-      value: Learn more about Julz Insight, our team, our processes and more
+      value: Learn more about Julz Insight, our team, our processes, our solutions, our work, and more
       keyName: property
     - name: og:image
       value: images/about.jpg
@@ -106,9 +111,9 @@ seo:
     - name: twitter:card
       value: summary_large_image
     - name: twitter:title
-      value: About Julz Insight - The Tech Visionaries
+      value: About | Julz Insight - The Tech Visionaries
     - name: twitter:description
-      value: Learn more about Julz Insight, our team, our processes and more
+      value: Learn more about Julz Insight, our team, our processes, our solutions, our work, and more
     - name: twitter:image
       value: images/about.jpg
       relativeUrl: true

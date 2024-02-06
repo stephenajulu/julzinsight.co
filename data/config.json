@@ -5,7 +5,7 @@
     "base_font": "playfair",
     "header": {
         "title": "Julz Insight",
-        "logo": "images/logo6.svg",
+        "logo": "images/logo.svg",
         "logo_alt": "Julz logo",
         "has_nav": true,
         "nav_links": [
@@ -20,7 +20,7 @@
                 "style": "link"
             },
             {
-                "label": "Articles",
+                "label": "Insights",
                 "url": "/blog/",
                 "style": "link"
             },
@@ -32,7 +32,7 @@
         ]
     },
     "footer": {
-        "content": "&copy; Julz Insight",
+        "content": "&copy; Julz Insight | Tech Firm",
         "has_social": true,
         "social_links": [
             {

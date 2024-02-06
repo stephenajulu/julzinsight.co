@@ -5,30 +5,30 @@ sections:
   - type: hero_section
     section_id: hero
     title: >-
-      Pioneering innovation for a sustainable future by building impactful products, brands and solutions.
+      We build impactful tech & marketing solutions that solve complex business challenges.
     content: >- 
-    
+      
 seo:
-  title: Julz Insight — Pioneering Innovation for a Sustainable Future
+  title: Julz Insight | Tech & Marketing Solutions with AI & Cloud Expertise
   description: >-
-   Julz Insight is a tech firm that's pioneering innovation for a sustainable future by building impactful products, brands, and solutions
+   We build impactful tech products, brands, businesses, and solutions. Illuminating possibilities.
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Julz Insight — Pioneering Innovation for a Sustainable Future
+      value: Julz Insight | Tech & Marketing Solutions with AI & Cloud Expertise
       keyName: property
     - name: 'og:description'
       value: >-
-        Julz Insight is a tech firm that's pioneering innovation for a sustainable future by building impactful products, brands, and solutions
+        We build impactful tech products, brands, businesses, and solutions. Illuminating possibilities.
       keyName: property
     - name: 'twitter:card'
       value: summary
     - name: 'twitter:title'
-      value: Julz Insight — Pioneering Innovation for a Sustainable Future
+      value: Julz Insight | Tech & Marketing Solutions with AI & Cloud Expertise
     - name: 'twitter:description'
       value: >-
-        Julz Insight is a tech firm that's pioneering innovation for a sustainable future by building impactful products, brands, and solutions
+        We build impactful tech products, brands, businesses, and solutions. Illuminating possibilities.
 layout: advanced
 ---

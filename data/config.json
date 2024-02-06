@@ -20,7 +20,7 @@
                 "style": "link"
             },
             {
-                "label": "Articles",
+                "label": "Insights",
                 "url": "/blog/",
                 "style": "link"
             },
@@ -32,7 +32,7 @@
         ]
     },
     "footer": {
-        "content": "&copy; Julz Insight - Tech & Marketing Solutions",
+        "content": "&copy; Julz Insight | Tech Firm",
         "has_social": true,
         "social_links": [
             {

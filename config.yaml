@@ -1,5 +1,5 @@
 title: Julz Insight
-baseURL: https://julzinsight.co
+baseURL: /
 taxonomies:
   stub: stub
   tag: tags

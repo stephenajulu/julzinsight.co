@@ -1,11 +1,11 @@
 /* ===== Scrollbar CSS ===== */
-  /* Firefox 
+  /* Firefox */
   * {
     scrollbar-width: auto;
     scrollbar-color: #542bff #000000;
   }
 
-  Chrome, Edge, and Safari 
+  /* Chrome, Edge, and Safari */
   *::-webkit-scrollbar {
     width: 14px;
   }
@@ -26,4 +26,4 @@
 	height: 100vh;
 	background: #000000 url('https://julzinsight.co/preloader.gif') no-repeat center;
 	z-index: 999;
-}*/
+}

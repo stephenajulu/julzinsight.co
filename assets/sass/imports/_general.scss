@@ -15,8 +15,6 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-rendering: optimizeLegibility;
-  backdrop-filter: blur(40px);
-  -webkit-backdrop-filter: blur(40px);
 }
 
 @each $font, $stack in $fonts {

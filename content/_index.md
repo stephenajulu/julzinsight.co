@@ -7,7 +7,7 @@ sections:
     title: >-
       We build impactful tech products, brands, and solutions that solve complex challenges  
 seo:
-  title: Julz Insight | Tech Solutions with Web, AI, Digitization & Cloud Expertise
+  title: Julz Insight | Tech Solutions with Web, AI, Digital Transformation & Cloud Expertise
   description: >-
    We build impactful tech products, brands, businesses, startups, and solutions that solve complex challenges. Illuminating possibilities.
   extra:
@@ -15,7 +15,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Julz Insight | Tech Solutions with Web, AI, Digitization & Cloud Expertise
+      value: Julz Insight | Tech Solutions with Web, AI, Digital Transformation & Cloud Expertise
       keyName: property
     - name: 'og:description'
       value: >-
@@ -24,7 +24,7 @@ seo:
     - name: 'twitter:card'
       value: summary
     - name: 'twitter:title'
-      value: Julz Insight | Tech Solutions with Web, AI, Digitization & Cloud Expertise
+      value: Julz Insight | Tech Solutions with Web, AI, Digital Transformation & Cloud Expertise
     - name: 'twitter:description'
       value: >-
         We build impactful tech products, brands, businesses, startups, and solutions that solve complex challenges. Illuminating possibilities.

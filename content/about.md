@@ -4,7 +4,7 @@ hide_title: false
 sections:
   - type: content_section
     content: >-
-      Welcome to Julz Insight, a Nairobi-based tech firm dedicated to crafting impactful products, brands, and solutions. We harness the power of cutting-edge technology, innovative marketing, and strategic consulting to make a difference.<br> <br>Our Mission - We strive to empower businesses, helping them navigate complex challenges and drive digital transformation with cutting-edge technology and data-driven marketing strategies. <br> <br>Our Vision - We aspire to be pioneers and trailblazers in the tech industry, delivering solutions that pave the way for unparalleled success. <br> <br> The Problem - In today's fast-paced digital landscape, businesses grapple with numerous challenges - intense competition, shifting consumer behavior, and the imperative to embrace new technologies. Many business owners find it daunting to navigate the intricacies of the digital world, often lacking the expertise or resources to effectively leverage emerging technologies and implement innovative marketing strategies that can elevate their business. <br> <br> Our Solution - We provide businesses with comprehensive tech and marketing solutions, leveraging our expertise in AI-driven technologies, data analytics, and emerging tech trends to help businesses transcend their limitations and achieve their objectives. Through strategic consulting, we guide businesses in adopting the right technologies and crafting innovative marketing strategies that fuel growth and enable digital transformation.<br> <br>Come now and let's start something great today: [Book a video call](/contact/) or [Get in touch with a representative](/contact/). <br> <br>Alternatively: [Communicate via Email](mailto:info@julzinsight.co) 
+      Welcome to Julz Insight, a Nairobi-based tech firm dedicated to crafting impactful products, brands, and solutions. We harness the power of cutting-edge technology, innovative marketing, and strategic consulting to make a difference.<br> <br>Our Mission - We strive to empower businesses, helping them navigate complex challenges and drive digital transformation with cutting-edge technology and data-driven marketing strategies. <br> <br>Our Vision - We aspire to be pioneers and trailblazers in the tech industry, delivering solutions that pave the way for unparalleled success. We provide businesses with comprehensive tech and marketing solutions, leveraging our expertise in AI-driven technologies, data analytics, and emerging tech trends to help businesses transcend their limitations and achieve their objectives. Through strategic consulting, we guide businesses in adopting the right technologies and crafting innovative marketing strategies that fuel growth and enable digital transformation.<br> <br>Come now and let's start something great today: [Book a video call](/contact/) or [Get in touch with a representative](/consultation/) or Alternatively: [Communicate via Email](mailto:info@julzinsight.co) 
     image: images/julzinsightheader.png
     image_alt: Marketing poster
   - type: portfolio_section
@@ -57,9 +57,7 @@ sections:
       - title: Stephen Ajulu
         image: https://stephenajulu.com/images/rsz_2.png
         subtitle: Founder & Chief Executive Officer
-        content: Hello I'm the founder of Julz Insight. I founded the company with the
-          ultimate goal of crafting impactful tech products, brands, and solutions.
-          It's nice to meet you.
+        content: Hello, my name is Stephen, it's nice to meet you! Welcome to Julz Insight. 
         actions:
           - label: Twitter
             url: https://twitter.com/stephenajulu

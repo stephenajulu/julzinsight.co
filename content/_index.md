@@ -5,7 +5,28 @@ sections:
   - type: hero_section
     section_id: hero
     title: >-
-      We build impactful tech products, brands, and solutions that solve complex challenges  
+      We build impactful tech products, brands, and solutions that solve complex challenges
+  - type: portfolio_section
+    section_id: latest-projects
+    layout_style: tiles
+    title:
+    subtitle:
+    projects_number: 6
+    view_all_label: View All
+    view_all_url: portfolio
+  - type: cta_section
+    section_id: cta
+    title: Let’s Build Together!
+    content: >-
+      Say hello at [ajulu@julzinsight.co](mailto:ajulu@julzinsight.co) or tell us more
+      about your project by getting started below.
+    actions:
+      - label: Let's start
+        url: /contact
+        style: button
+    image: images/cta.svg
+    image_alt: Illustration
+    bg_color: light
 seo:
   title: Julz Insight | Tech Solutions with Web, AI, Digital Transformation & Cloud Expertise
   description: >-

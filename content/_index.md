@@ -6,13 +6,6 @@ sections:
     section_id: hero
     title: >-
       We build impactful tech products, brands, and solutions that solve complex challenges
-    actions:
-      - label: Learn More
-        url: /about
-        style: button
-      - label: Get Strated
-        url: /contact
-        style: button
   - type: portfolio_section
     section_id: latest-projects
     layout_style: tiles

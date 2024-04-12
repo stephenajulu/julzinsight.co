@@ -29,6 +29,11 @@
                 "url": "/contact/",
                 "style": "link"
             }
+            {
+                "label": "Get Started Now →",
+                "url": "/consultation/",
+                "style": "link"
+            }
         ]
     },
     "footer": {

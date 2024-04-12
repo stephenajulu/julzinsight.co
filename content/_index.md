@@ -26,7 +26,7 @@ sections:
         style: button
     image: images/cta.svg
     image_alt: Illustration
-    bg_color: dark
+    bg_color: light
 seo:
   title: Julz Insight | Tech Solutions with Web, AI, Digital Transformation & Cloud Expertise
   description: >-

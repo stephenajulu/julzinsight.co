@@ -1,8 +1,8 @@
 <br>
 <br>
 {{ $section := .section }}
-<section id="{{ $section.section_id }}" class="hero" style="display: flex;justify-content:center; align-items:center; text-align:center;">
-  <div class="container container--lg" style="margin: auto;">
+<section id="{{ $section.section_id }}" class="hero">
+  <div class="container container--lg">
     {{ if $section.title }}
     <h1 class="hero__title introhero">
       <span style="font-size:12px;font-family: Poppins, sans-serif;font-weight:400;">Illuminating possibilities →</span><br>
@@ -14,8 +14,8 @@
       {{ partial "markdownify-block" $section.content }}
     </div>
     {{ end }}
-    <div class="hero__actions button-group center" style=" display: flex; justify-content: center; align-items: center; text-align: center;">
-      <a href="/about" class="button button--primary" style="text-color: white;">Learn more →</a>
+    <div class="hero__actions button-group center">
+      <a href="/consultation/" class="button button--primary" style="text-color: white;">Get Started Now →</a>
     </div>
   </div>
 </section>

@@ -8,7 +8,7 @@ sections:
       We build impactful cutting-edge tech solutions and systems that solve complex business challenges
   - type: portfolio_section
     section_id: latest-projects
-    layout_style: tiles
+    layout_style: mosaic
     title:
     subtitle:
     projects_number: 6

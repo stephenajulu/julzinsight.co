@@ -71,13 +71,10 @@ sections:
             new_window: true
   - type: cta_section
     section_id: cta
-    title: Become a Team Player
-    content: We are always looking for great people to join our team. If you are
-      interested in working for Julz Insight, please send us an email to
-      [info@julzinsight.co](mailto:info@julzinsight.co) with your CV, which
-      positions you are interested in and why we should hire you.
-    image: images/cta-about.svg
-    image_alt: Illustration
+    title: Ready to work together?
+    content: Let’s link up. Complete our quick form below to schedule a 30-minute consult with our team. We invite businesses, startups and individuals looking to collaborate to build bespoke tech solutions with Julz Insight.  
+    image: images/61698b486fd1aeecf2742be8_shutterstock_1753918412 1.jpg
+    image_alt: A web designer on laptop waving at computer
     bg_color: dark
 seo:
   title: About | Julz Insight - The Tech Visionaries

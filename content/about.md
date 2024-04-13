@@ -76,6 +76,10 @@ sections:
     image: images/61698b486fd1aeecf2742be8_shutterstock_1753918412 1.jpg
     image_alt: A web designer on laptop waving at computer
     bg_color: dark
+    actions:
+      - label: Schedule a consultation now →
+        url: /contact
+        style: button
 seo:
   title: About | Julz Insight - The Tech Visionaries
   description: Learn more about Julz Insight, our team, our processes, our solutions, our work, and more

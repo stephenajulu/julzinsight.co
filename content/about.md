@@ -81,14 +81,14 @@ sections:
         url: /contact
         style: button
 seo:
-  title: About | Julz Insight - The Tech Visionaries
+  title: About - Julz Insight - The Tech Visionaries | Tech Solutions with Web, AI, Digital Transformation & Cloud Expertise
   description: Learn more about Julz Insight, our team, our processes, our solutions, our work, and more
   extra:
     - name: og:type
       value: website
       keyName: property
     - name: og:title
-      value: About | Julz Insight - The Tech Visionaries
+      value: About - Julz Insight - The Tech Visionaries | Tech Solutions with Web, AI, Digital Transformation & Cloud Expertise
       keyName: property
     - name: og:description
       value: Learn more about Julz Insight, our team, our processes, our solutions, our work, and more
@@ -100,7 +100,7 @@ seo:
     - name: twitter:card
       value: summary_large_image
     - name: twitter:title
-      value: About | Julz Insight - The Tech Visionaries
+      value: About - Julz Insight - The Tech Visionaries | Tech Solutions with Web, AI, Digital Transformation & Cloud Expertise
     - name: twitter:description
       value: Learn more about Julz Insight, our team, our processes, our solutions, our work, and more
     - name: twitter:image

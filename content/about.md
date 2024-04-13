@@ -55,7 +55,7 @@ sections:
     col_number: three
     grid_items:
       - title: Stephen Ajulu
-        image: https://stephenajulu.com/images/rsz_2.png
+        image: /images/1653516600275.jpg
         subtitle: Founder & Chief Executive Officer
         content: Hello, my name is Stephen, it's nice to meet you! Welcome to Julz Insight. 
         actions:

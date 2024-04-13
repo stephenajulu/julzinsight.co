@@ -18,10 +18,10 @@ sections:
     section_id: cta
     title: Let’s Build Together!
     content: >-
-      Say hello at [ajulu@julzinsight.co](mailto:ajulu@julzinsight.co) 📩 or book a 1-on-1 consultation call and let's kickstart your project now 📞.
+      Say hello at [ajulu@julzinsight.co](mailto:ajulu@julzinsight.co) or book a 1-on-1 consultation call and let's kickstart your project now.
     actions:
       - label: Book a consultation now →
-        url: /consultation
+        url: /contact
         style: button
     image: images/cta.svg
     image_alt: Illustration

@@ -14,6 +14,34 @@ sections:
     projects_number: 6
     view_all_label: View All
     view_all_url: portfolio
+  - type: grid_section
+    section_id: services
+    title: Services
+    subtitle: Our top solutions and services
+    col_number: two
+    grid_items:
+      - title: Open Source Managed Solutions Provision
+        image: images/service-1.svg
+        actions:
+          - label: Learn more →
+            url: /services/tech-solutions
+            style: button
+        content: |-
+          - Self-h
+          - Brand Identity Design
+          - Open Source Managed Solutions Provider
+          - ICT Equipment
+      - title: Tech Solutions
+        image: images/service-3.svg
+        actions:
+          - label: Learn more →
+            url: /services/tech-solutions
+            style: button
+        content: |-
+          - Web Development and Design
+          - Brand Identity Design
+          - Open Source Managed Solutions Provider
+          - ICT Equipment
   - type: cta_section
     section_id: cta
     title: Let’s Build Together!

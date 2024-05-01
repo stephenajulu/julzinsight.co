@@ -7,14 +7,6 @@ sections:
       Welcome to Julz Insight, a Nairobi-based tech firm dedicated to crafting impactful products, brands, and solutions. We harness the power of cutting-edge technology, innovative marketing, and strategic consulting to make a difference.<br> <br>Our Mission - We strive to empower businesses, helping them navigate complex challenges and drive digital transformation with cutting-edge technology and data-driven marketing strategies. <br> <br>Our Vision - We aspire to be pioneers and trailblazers in INNOVATION, SUSTAINABILITY and TECHNOLOGY. That's why we build impactful and innovative products , brands, businesses and solutions, and we will continue to do so to build a tech empowered world. That's our Vision.<br> <br>Come now and let's start something great today: [Book a video call](/contact/) or [Get in touch with a representative](/consultation/) or Alternatively: [Communicate via Email](mailto:info@julzinsight.co) 
     image: images/julzinsightheader.png
     image_alt: Marketing poster
-  - type: portfolio_section
-    section_id: latest-projects
-    layout_style: mosaic
-    title: Portfolio
-    subtitle: Our projects, case studies, and internal products
-    projects_number: 2
-    view_all_label: View All
-    view_all_url: portfolio
   - type: grid_section
     section_id: services
     title: Services
@@ -65,6 +57,14 @@ sections:
           - Digital Transformation Consultation
           - Creative and Content Strategy
           - Cloud Consultation
+  - type: portfolio_section
+    section_id: latest-projects
+    layout_style: mosaic
+    title: Portfolio
+    subtitle: Our projects, case studies, and internal products
+    projects_number: 2
+    view_all_label: View All
+    view_all_url: portfolio
   - type: grid_section
     section_id: team
     title: The Team

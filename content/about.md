@@ -27,28 +27,44 @@ sections:
           - label: Learn more →
             url: /services/tech-solutions
             style: button
-        content: Attract your audience with stunning websites, logos, and packaging. Julz Insight creates engaging web and visual designs. We also supply IT equipment and manage your IT infrastructure.
+        content: |-
+          - Web Development and Design
+          - Brand Identity Design
+          - Open Source Managed Solutions Provider
+          - ICT Equipment
       - title: Digital Transformation Solutions
         image: images/service-2.svg
         actions:
           - label: Learn more →
             url: /services/digital-transformation-solutions
             style: button
-        content: Boost your business performance with cloud, CRM, ERP, project management, customer support solutions and more from Julz Insight. We help you leverage the best digital technologies to streamline your workflow and delight your customers.
+        content: |-
+          - Managed Cloud and Hosting
+          - Project Management Solutions
+          - Customer Relationship Management Solutions
+          - and more
       - title: Marketing & Content Solutions
         image: images/service-3.svg
         actions:
           - label: Learn more →
             url: /services/marketing-solutions
             style: button     
-        content: Create and market captivating content with Julz Insight. We offer content creation, marketing, and consulting solutions to help you connect with your audience and increase sales. We also offer IT, cloud, and digital transformation consulting.      
+        content: |-
+          - Search Engine Optimization
+          - Content Marketing
+          - Marketing Workflow and AI Automation
+          - and more     
       - title: Consultation
         image: images/service-1.svg
         actions:
           - label: Learn more →
             url: /services/consultation-solutions
             style: button
-        content: Navigate the digital world confidently with Julz Insight’s consultation services. We offer IT, cloud, digital transformation, and content strategy consulting to help you grow your business and resonate with your audience. Let us guide you toward success.
+        content: |-
+          - IT Consultation
+          - Digital Transformation Consultation
+          - Creative and Content Strategy
+          - Cloud Consultation
   - type: grid_section
     section_id: team
     title: The Team

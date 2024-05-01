@@ -9,7 +9,7 @@ thumb_image_alt: tatooed women with laptop looking at our client's ecommerce sto
 image: images/brooke-cagle-WHWYBmtn3_0-unsplash (1).jpg
 image_alt: tatooed women with laptop looking at our client's ecommerce store with a smile on her face
 seo:
-  title: E-Commerce Development Services for Store Owners - Upgrade Your Business Today
+  title: Consultation Solutions
   description: >-
     Julz Insight is a leading provider of comprehensive consulting solutions. Our services are designed to help businesses leverage technology to achieve their goals. We offer a wide range of services, from IT infrastructure consulting and cloud consulting to digital transformation consulting and creative & content strategy.
   extra:
@@ -17,7 +17,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: E-Commerce Development Services for Store Owners - Upgrade Your Business Today
+      value: Consultation Solutions
       keyName: property
     - name: 'og:description'
       value: >-
@@ -30,7 +30,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: E-Commerce Development Services for Store Owners - Upgrade Your Business Today
+      value: Consultation Solutions
     - name: 'twitter:description'
       value: >-
         Julz Insight is a leading provider of comprehensive consulting solutions. Our services are designed to help businesses leverage technology to achieve their goals. We offer a wide range of services, from IT infrastructure consulting and cloud consulting to digital transformation consulting and creative & content strategy.

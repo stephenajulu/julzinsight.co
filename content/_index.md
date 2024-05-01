@@ -26,22 +26,14 @@ sections:
           - label: Learn more →
             url: /services/tech-solutions
             style: button
-        content: |-
-          - Self-h
-          - Brand Identity Design
-          - Open Source Managed Solutions Provider
-          - ICT Equipment
+        content: We streamline open-source software for clients. We handle hosting, customization, and ongoing management. Our experts tailor the software to fit unique needs, ensuring security, compliance, and optimal performance.
       - title: Tech Solutions
         image: images/service-3.svg
         actions:
           - label: Learn more →
             url: /services/tech-solutions
             style: button
-        content: |-
-          - Web Development and Design
-          - Brand Identity Design
-          - Open Source Managed Solutions Provider
-          - ICT Equipment
+        content:  We offer a wide range of tech solutions, from web design and visual identity design to ICT equipment vending and managed solutions provisioning. Our goal is to leverage tech in empowering businesses.
   - type: cta_section
     section_id: cta
     title: Let’s Build Together!

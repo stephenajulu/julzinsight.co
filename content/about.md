@@ -23,7 +23,7 @@ sections:
           - Web Development and Design
           - Brand Identity Design
           - Open Source Managed Solutions Provider
-          - ICT Equipment
+          - and more
       - title: Digital Transformation Solutions
         image: images/service-2.svg
         actions:
@@ -55,8 +55,8 @@ sections:
         content: |-
           - IT Consultation
           - Digital Transformation Consultation
-          - Creative and Content Strategy
-          - Cloud Consultation
+          - Open Source Managed Solutions Provision Consultation
+          - and more
   - type: portfolio_section
     section_id: latest-projects
     layout_style: mosaic

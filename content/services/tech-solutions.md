@@ -44,7 +44,7 @@ layout: post
 Julz Insight is a leading provider of comprehensive tech solutions. Our services are designed to help businesses leverage technology to achieve their goals. We offer a wide range of services, from web design and visual identity design to ICT equipment vending and managed solutions provisioning.
 
 ### Solutions
-#### Web Design
+#### Web Development and Design
 Our team of experienced web designers uses a variety of tools to create engaging, user-friendly websites that meet your business needs:
 
 1. Figma: We use Figma for collaborative design, allowing us to work together in real time to create stunning designs.
@@ -54,6 +54,11 @@ Our team of experienced web designers uses a variety of tools to create engaging
 5. WordPress: As one of the most popular content management systems, WordPress allows us to create websites that are easy to update and manage.
 6. Shopify: For e-commerce sites, we use Shopify to create a powerful and user-friendly shopping experience.
 7. Ghost: Ghost allows us to create professional, modern online publications focusing on content.
+
+#### Backup and Disaster Recovery
+In the event of a disaster (such as a flood, fire, or computer virus), would your important data remain safe and sound? If your business isn’t already following the 3-2-1 backup rule, the answer is probably no. This rule states that your data should be stored in three separate locations: the source device (likely a computer or office workstation), your local backup device, and an off-site location (preferably through a cloud backup solution). Following the 3-2-1 backup rule ensures that the probability of all three copies of your data being lost are slim to none.
+
+We set this up for you following the 3-2-1 rule, ensuring a secure, permanent and trouble free backup and disaster recovery
 
 #### Visual/Brand Identity Design
 We understand that a strong brand identity is crucial for business success. Our visual identity design services include:
@@ -72,6 +77,17 @@ As an ICT equipment vendor, we provide a variety of equipment to meet your busin
 
 #### Managed Solutions Provisioning
 Our managed solutions provisioning service takes the hassle out of managing your IT infrastructure. We handle everything from system design and installation to maintenance and support, allowing you to focus on what you do best: running your business. See: [Open Source Manged Software Solutions](/open-source-solutions)
+
+#### Help Desk and Technical Support
+Help desk support is a vital tool for any business that doesn’t have an in-house IT team. Help desk support can vary depending on your business’s needs, but it’s most commonly used as a single point of contact for users who need occasional help with troubleshooting computers, printers, networks, wifi, etc.
+
+We help troubleshoot and sort out your IT troubles.
+
+#### IT Training
+Our specialized IT training prepares organizations and government agency teams for success in the ever-evolving tech landscape. From enhancing cybersecurity practices to mastering cloud solutions, we empower your team to excel in their roles.
+ 
+ Join us to build a resilient, tech-savvy workforce!
+
 
 ## Conclusion
 At Julz Insight, we’re committed to providing our clients with top-notch tech solutions. Whether you need a new website, a fresh brand identity, reliable ICT equipment, or managed IT services, we have the expertise and resources to deliver. Contact us today to learn more about how we can help your business thrive.

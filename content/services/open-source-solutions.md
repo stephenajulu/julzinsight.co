@@ -98,6 +98,8 @@ Our Offerings:
 - VPN Security: Safeguard your network.
 - Domain Name Provision: Establish your online presence.
 - Hybrid Management Dashboard: Centralized control.
+- Remote and onsite technical support
+- Managed cloud or self managed cloud or our data center, your choice.
 
 ### Conclusion
 Choose Julz Insight for expertly managed open-source solutions tailored to your unique needs. Let’s transform your business together!

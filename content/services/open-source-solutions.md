@@ -84,6 +84,7 @@ Our Offerings:
 - Zabbix/Grafana/Prometheus: IT infrastructure monitoring
 - Wazuh: Unified endpoint protection, threat detection, security operations and cloud security.
 - Cal.com: Automated appointment setting
+- KASM: Virtual desktop interface in your browser
 
 ### Our Comprehensive Services:
 - Remote Monitoring and Maintenance: Keep your systems running smoothly.

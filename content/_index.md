@@ -24,7 +24,7 @@ sections:
         image: images/service-1.svg
         actions:
           - label: Learn more →
-            url: /services/open-source-managed-solutions
+            url: /services/open-source-solutions
             style: button
         content: We streamline open-source software for clients. We handle hosting, customization, and ongoing management. Our experts tailor the software to fit unique needs, ensuring security, compliance, and optimal performance.
       - title: Tech Solutions

@@ -77,7 +77,7 @@ Our Offerings:
 - IT Tools: Tackle most challenges with this multi tool.
 - Xibo Digital Signage: Market your organization through your spare office screens/tvs.
 - Snipe-it: Mange helpdesk, IT Licensing and assests.
-- Gitlab: Git repository management.
+- Gitlab: Git repository management + complete CI/CD toolchain.
 - Zammad: Support and ticketing.
 - Penpot: Inhouse design tool
 - Passbolt: Enterprise password management for teams
@@ -85,6 +85,10 @@ Our Offerings:
 - Wazuh: Unified endpoint protection, threat detection, security operations and cloud security.
 - Cal.com: Automated appointment setting
 - KASM: Virtual desktop interface in your browser
+- MongoDB: Popular database platform
+- Sonatype Nexus: integrated governeance platform that accelerates innovation and improves application security
+- ERPNext/Dolibar: Robust ERP
+- Sequent: Verifiable online voting solution
 
 ### Our Comprehensive Services:
 - Remote Monitoring and Maintenance: Keep your systems running smoothly.

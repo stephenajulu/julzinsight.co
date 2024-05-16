@@ -121,7 +121,7 @@ At Julz Insight, we’re committed to providing our clients with top-notch tech 
 <div class="form-group">
   <label class="col-md-4 control-label" for="textinput">Monthly Budget</label>  
   <div class="col-md-4">
-  <input id="textinput" name="textinput" type="text" placeholder="IT budget per financial year" class="form-control input-md">
+  <input id="textinput" name="textinput" type="text" placeholder="IT budget for financial year" class="form-control input-md">
     
   </div>
 </div>

@@ -1,5 +1,5 @@
 ---
-title: Cutting-edge Tech Solutions
+title: Cutting Edge Tech Solutions
 subtitle: Empowering Your Business with Bespoke Cutting-Edge Tech Solutions
 excerpt: >-
   Julz Insight is a leading provider of comprehensive tech solutions. Our services are designed to help businesses leverage technology to achieve their goals. We offer a wide range of services, from web design and visual identity design to ICT equipment vending and managed solutions provisioning.
@@ -9,7 +9,7 @@ thumb_image_alt: tatooed women with laptop looking at our client's article with 
 image: images/brooke-cagle-WHWYBmtn3_0-unsplash (1).jpg
 image_alt: tatooed women with laptop looking at our client's article with a smile on her face
 seo:
-  title: Cutting-edge Tech Solutions
+  title: Cutting Edge Tech Solutions
   description: >-
     Julz Insight is a leading provider of comprehensive tech solutions. Our services are designed to help businesses leverage technology to achieve their goals. We offer a wide range of services, from web design and visual identity design to ICT equipment vending and managed solutions provisioning.
   extra:
@@ -17,7 +17,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Cutting-edge Tech Solutions
+      value: Cutting Edge Tech Solutions
       keyName: property
     - name: 'og:description'
       value: >-
@@ -30,7 +30,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Cutting-edge Tech Solutions
+      value: Cutting Edge Tech Solutions
     - name: 'twitter:description'
       value: >-
         Julz Insight is a leading provider of comprehensive tech solutions. Our services are designed to help businesses leverage technology to achieve their goals. We offer a wide range of services, from web design and visual identity design to ICT equipment vending and managed solutions provisioning.
@@ -71,7 +71,7 @@ As an ICT equipment vendor, we provide a variety of equipment to meet your busin
 4. Smartphones: We offer a selection of smartphones from top brands, ensuring you stay connected wherever you are.
 
 #### Managed Solutions Provisioning
-Our managed solutions provisioning service takes the hassle out of managing your IT infrastructure. We handle everything from system design and installation to maintenance and support, allowing you to focus on what you do best: running your business.
+Our managed solutions provisioning service takes the hassle out of managing your IT infrastructure. We handle everything from system design and installation to maintenance and support, allowing you to focus on what you do best: running your business. See: [Open Source Manged Software Solutions](/open-source-solutions)
 
 ## Conclusion
 At Julz Insight, we’re committed to providing our clients with top-notch tech solutions. Whether you need a new website, a fresh brand identity, reliable ICT equipment, or managed IT services, we have the expertise and resources to deliver. Contact us today to learn more about how we can help your business thrive.
@@ -105,45 +105,8 @@ At Julz Insight, we’re committed to providing our clients with top-notch tech 
 <div class="form-group">
   <label class="col-md-4 control-label" for="textinput">Monthly Budget</label>  
   <div class="col-md-4">
-  <input id="textinput" name="textinput" type="text" placeholder="Marketing budget per month in dollars" class="form-control input-md">
+  <input id="textinput" name="textinput" type="text" placeholder="IT budget per financial year" class="form-control input-md">
     
-  </div>
-</div>
-
-<!-- Multiple Radios -->
-<div class="form-group">
-  <label class="col-md-4 control-label" for="plan">Plan</label>
-  <div class="col-md-4">
-  <div class="radio">
-    <label for="plan-0">
-      <input type="radio" name="plan" id="plan-0" value="1" checked="checked">
-      Online publication plan
-    </label>
-	</div>
-  <div class="radio">
-    <label for="plan-1">
-      <input type="radio" name="plan" id="plan-1" value="2">
-      Social media influencer plan
-    </label>
-	</div>
-  <div class="radio">
-    <label for="plan-2">
-      <input type="radio" name="plan" id="plan-2" value="3">
-      Paid social media advertising plan
-    </label>
-	</div>
-  <div class="radio">
-    <label for="plan-3">
-      <input type="radio" name="plan" id="plan-3" value="4">
-      Email marketing plan
-    </label>
-	</div>
-  <div class="radio">
-    <label for="plan-4">
-      <input type="radio" name="plan" id="plan-4" value="5">
-      Public relations plan
-    </label>
-	</div>
   </div>
 </div>
 

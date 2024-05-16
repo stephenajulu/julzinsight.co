@@ -130,45 +130,8 @@ Choose Julz Insight for expertly managed open-source solutions tailored to your 
 <div class="form-group">
   <label class="col-md-4 control-label" for="textinput">Monthly Budget</label>  
   <div class="col-md-4">
-  <input id="textinput" name="textinput" type="text" placeholder="Marketing budget per month in dollars" class="form-control input-md">
+  <input id="textinput" name="textinput" type="text" placeholder="IT budget per month" class="form-control input-md">
     
-  </div>
-</div>
-
-<!-- Multiple Radios -->
-<div class="form-group">
-  <label class="col-md-4 control-label" for="plan">Plan</label>
-  <div class="col-md-4">
-  <div class="radio">
-    <label for="plan-0">
-      <input type="radio" name="plan" id="plan-0" value="1" checked="checked">
-      Online publication plan
-    </label>
-	</div>
-  <div class="radio">
-    <label for="plan-1">
-      <input type="radio" name="plan" id="plan-1" value="2">
-      Social media influencer plan
-    </label>
-	</div>
-  <div class="radio">
-    <label for="plan-2">
-      <input type="radio" name="plan" id="plan-2" value="3">
-      Paid social media advertising plan
-    </label>
-	</div>
-  <div class="radio">
-    <label for="plan-3">
-      <input type="radio" name="plan" id="plan-3" value="4">
-      Email marketing plan
-    </label>
-	</div>
-  <div class="radio">
-    <label for="plan-4">
-      <input type="radio" name="plan" id="plan-4" value="5">
-      Public relations plan
-    </label>
-	</div>
   </div>
 </div>
 

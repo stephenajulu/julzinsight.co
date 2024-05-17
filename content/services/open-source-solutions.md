@@ -63,11 +63,15 @@ Our Offerings:
 #### Stirling PDF: Fine-Tuned PDF Manipulation
 - Edit, merge, split, and secure PDFs effortlessly.
 - Ensure compliance and professional document handling.
+#### LogicalDOC
+- Manage your documents with this web based document management software with a user friendly platform.
+- It including a sleek and intuitive workflow designer, agenda management capabilities, and various options for uploading, organizing and distributing your documents.
+- With LogicalDOC, you and your coworkers will be able to share a variety of coauthored documents and keep track of changes made to them, that is the version control.
 #### GLPI: Your open source tool to manage Helpdesk and IT assets
 - Organize your support easily with GLPI: manage incidents/requests, create forms, define SLAs, deliver the best experience to your customers
 - Manage hardware, software and data centers. Link Asset inventory to Helpdesk and get 360° control of your IT and business infrastructure.
-- Track your expenses, contracts and suppliers, create new inventory objects, manage user database and make reports
-
+- Track your expenses, contracts and suppliers, create new inventory objects, manage user database and make reports.
+- Track licenses including SSL, software licenses and be notified when they expire.
 #### Additional Solutions for Enterprise and GovTech:
 - mirotalk: Video conferencing for seamless virtual meetings.
 - rocketchat: Real-time chat and collaboration.
@@ -79,16 +83,18 @@ Our Offerings:
 - Snipe-it: Mange helpdesk, IT Licensing and assests.
 - Gitlab: Git repository management + complete CI/CD toolchain.
 - Zammad: Support and ticketing.
-- Penpot: Inhouse design tool
-- Passbolt: Enterprise password management for teams
-- Zabbix/Grafana/Prometheus: IT infrastructure monitoring
+- Penpot: Inhouse design tool.
+- Passbolt: Enterprise password management for teams.
+- Zabbix/Grafana/Prometheus: IT infrastructure monitoring.
 - Wazuh: Unified endpoint protection, threat detection, security operations and cloud security.
-- Cal.com: Automated appointment setting
-- KASM: Virtual desktop interface in your browser
-- MongoDB: Popular database platform
-- Sonatype Nexus: integrated governeance platform that accelerates innovation and improves application security
-- ERPNext/Dolibar: Robust ERP
-- Sequent: Verifiable online voting solution
+- Cal.com: Automated appointment setting platform.
+- KASM: Virtual desktop interface in your browser.
+- MongoDB/Postgres: Popular database platform.
+- Sonatype Nexus: integrated governeance platform that accelerates innovation and improves application security.
+- ERPNext/Dolibar: Robust ERP.
+- Sequent: Verifiable online voting solution.
+- Seafile: Open Source File Sync, Share and Document Collaboration Platform.
+- Docspell/Alfresco: Robust Document Management System
 
 ### Our Comprehensive Services:
 - Remote Monitoring and Maintenance: Keep your systems running smoothly.

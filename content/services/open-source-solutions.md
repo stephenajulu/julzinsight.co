@@ -115,6 +115,7 @@ Choose Julz Insight for expertly managed open-source solutions tailored to your 
 
 <h1 class="post__title line-top">Book a consult</h1>
 <div class="post__subtitle">Transform Your Business with Some of Our Open-Source Managed Solutions Now!</div>
+<br>
 {{< julz1hr >}}
 <br>
 <form class="form-horizontal">

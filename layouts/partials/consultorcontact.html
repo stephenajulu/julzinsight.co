@@ -1,5 +1,5 @@
 <h1 class="post__title line-top">Book a consult</h1>
-<div class="post__subtitle">{{ if .Params.subtitle }}{{ $.Params.subtitle }}{{ end }}</div>
+<div class="post__subtitle">{{ if .Params.subtitle }}{{ .Params.subtitle }}{{ end }}</div>
 
 <br>
 {{ partial "julz1hour.html" .}}

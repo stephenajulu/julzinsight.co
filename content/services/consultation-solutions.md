@@ -58,39 +58,3 @@ Our creative and content strategy services help businesses create compelling con
 
 ## Conclusion
 At Julz Insight, we’re committed to helping businesses leverage technology to achieve their goals. Whether you need IT infrastructure consulting, cloud consulting, digital transformation consulting, or creative & content strategy, we have the expertise and resources to deliver. Contact us today to learn more about how we can help your business thrive in the digital age.
-
-
-<form class="form-horizontal">
-<fieldset>
-
-<!-- Form Name -->
-<legend>Book Now!</legend>
-
-<!-- Text input-->
-<div class="form-group">
-  <label class="col-md-4 control-label" for="name">Name</label>  
-  <div class="col-md-4">
-  <input id="name" name="name" type="text" placeholder="John Doe or Jewlry Inc" class="form-control input-md" required="">
-    
-  </div>
-</div>
-
-<!-- Text input-->
-<div class="form-group">
-  <label class="col-md-4 control-label" for="email">Email</label>  
-  <div class="col-md-4">
-  <input id="email" name="email" type="text" placeholder="info@example.com" class="form-control input-md" required="">
-    
-  </div>
-</div>
-
-<!-- Textarea -->
-<div class="form-group">
-  <label class="col-md-4 control-label" for="message">Message</label>
-  <div class="col-md-4">                     
-    <textarea class="form-control" id="message" name="message"></textarea>
-  </div>
-</div>
-
-</fieldset>
-</form>

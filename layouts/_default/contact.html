@@ -20,7 +20,148 @@
   {{ end }}
 <div class="container container--md">
   <div class="post__body text-block">
-{{ partial "consultorcontact.html" . }}
+<!-- Cal inline embed code begins -->
+<div style="width:100%;height:100%;overflow:scroll" id="my-cal-inline"></div>
+<script type="text/javascript">
+  (function (C, A, L) { let p = function (a, ar) { a.q.push(ar); }; let d = C.document; C.Cal = C.Cal || function () { let cal = C.Cal; let ar = arguments; if (!cal.loaded) { cal.ns = {}; cal.q = cal.q || []; d.head.appendChild(d.createElement("script")).src = A; cal.loaded = true; } if (ar[0] === L) { const api = function () { p(api, arguments); }; const namespace = ar[1]; api.q = api.q || []; if(typeof namespace === "string"){cal.ns[namespace] = cal.ns[namespace] || api;p(cal.ns[namespace], ar);p(cal, ["initNamespace", namespace]);} else p(cal, ar); return;} p(cal, ar); }; })(window, "https://app.cal.com/embed/embed.js", "init");
+Cal("init",  {origin:"https://cal.com"});
+
+  Cal("inline", {
+	elementOrSelector:"#my-cal-inline",
+	calLink: "julzinsight/1hour",
+	layout: "column_view"
+  });
+
+  Cal("ui", {"styles":{"branding":{"brandColor":"#4320d6"}},"hideEventTypeDetails":false,"layout":"column_view"});
+  </script>
+  <!-- Cal inline embed code ends -->
+<br>
+<h3>OR</h3>
+<br>
+
+<form class="form-horizontal">
+<fieldset>
+<!-- Form Name -->
+<legend>Contact us</legend>
+<!-- Text input-->
+<div class="form-group">
+  <label class="col-md-4 control-label" for="name">Name</label>  
+  <div class="col-md-4">
+  <input id="name" name="name" type="text" placeholder="Name or Company Name" class="form-control input-md" required="">
+  </div>
+</div>
+<!-- Text input-->
+<div class="form-group">
+  <label class="col-md-4 control-label" for="name">Position or Title</label>  
+  <div class="col-md-4">
+  <input id="name" name="name" type="text" placeholder="Position or Title" class="form-control input-md">
+  </div>
+</div>
+<!-- Text input-->
+<div class="form-group">
+  <label class="col-md-4 control-label" for="name">Website or Social Media Handle</label>  
+  <div class="col-md-4">
+  <input id="name" name="name" type="text" placeholder="Website or Social Media Handle" class="form-control input-md" required="">
+  </div>
+</div>
+<!-- Text input-->
+<div class="form-group">
+  <label class="col-md-4 control-label" for="email">Email</label>  
+  <div class="col-md-4">
+  <input id="email" name="email" type="text" placeholder="info@example.com" class="form-control input-md" required="">
+  </div>
+</div>
+<!-- Text input-->
+<div class="form-group">
+  <label class="col-md-4 control-label" for="textinput">Budget</label>  
+  <div class="col-md-4">
+  <input id="textinput" name="textinput" type="text" placeholder="Potential Budget" class="form-control input-md">
+  </div>
+</div>
+<!-- Multiple Checkboxes -->
+<div class="form-group">
+  <label class="col-md-4 control-label" for="checkboxes">Solution or Inquiry</label>
+  <div class="col-md-4">
+  <div class="checkbox">
+    <label for="checkboxes-0">
+      <input type="checkbox" name="checkboxes" id="checkboxes-0" value="Open-Source Managed Software Solution">
+      Open-Source Managed Software Solution
+    </label>
+	</div>
+  <div class="checkbox">
+    <label for="checkboxes-1">
+      <input type="checkbox" name="checkboxes" id="checkboxes-1" value="Cutting-Edge Tech Solutions">
+      Cutting-Edge Tech Solutions
+    </label>
+	</div>
+  <div class="checkbox">
+    <label for="checkboxes-2">
+      <input type="checkbox" name="checkboxes" id="checkboxes-2" value="Digital Transformation, Digitalization and Digitization Solutions">
+      Digital Transformation, Digitalization and Digitization Solutions
+    </label>
+	</div>
+  <div class="checkbox">
+    <label for="checkboxes-3">
+      <input type="checkbox" name="checkboxes" id="checkboxes-3" value="Digital Marketing Solutions">
+      Digital Marketing Solutions
+    </label>
+	</div>
+  <div class="checkbox">
+    <label for="checkboxes-4">
+      <input type="checkbox" name="checkboxes" id="checkboxes-4" value="Consulting">
+      Consulting
+    </label>
+	</div>
+  </div>
+  <div class="checkbox">
+    <label for="checkboxes-5">
+      <input type="checkbox" name="checkboxes" id="checkboxes-5" value="Other">
+      Other
+    </label>
+	</div>
+  </div>
+  <div class="checkbox">
+    <label for="checkboxes-6">
+      <input type="checkbox" name="checkboxes" id="checkboxes-6" value="Inquiry">
+      Inquiry
+    </label>
+	</div>
+  </div>
+<div class="checkbox">
+    <label for="checkboxes-7">
+      <input type="checkbox" name="checkboxes" id="checkboxes-7" value="Collaboration/Partnership">
+      Collaboration/Partnership
+    </label>
+	</div>
+  </div>
+</div>
+<!-- Textarea -->
+<div class="form-group">
+  <label class="col-md-4 control-label" for="message">Message</label>
+  <div class="col-md-4">                     
+    <textarea class="form-control" id="message" name="message"></textarea>
+  </div>
+</div>
+<!-- Multiple Checkboxes (inline) -->
+<div class="form-group">
+  <label class="col-md-4 control-label" for="dataprivacyand security"></label>
+  <div class="col-md-4">
+    <label class="checkbox-inline" for="dataprivacyand security-0">
+      <input type="checkbox" name="dataprivacyand security" id="dataprivacyand security-0" value="">
+      I agree that the submitted data is being collected and stored.
+    </label>
+  </div>
+</div>
+<!-- Button -->
+<div class="form-group">
+  <label class="col-md-4 control-label" for="submit"></label>
+  <div class="col-md-4">
+    <button id="submit" name="submit" class="btn btn-primary">Submit</button>
+  </div>
+</div>
+	
+</fieldset>
+</form>
     </div>
   </div>
   <footer class="post__meta">

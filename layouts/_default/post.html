@@ -29,7 +29,7 @@
     </div>
 
     <div class="post">
-    {{ if or (eq .Section "services") }}
+    {{ if eq .Section "services" }}
     {{ partial "consultorcontact.html" . }}
     {{ end }}
     </div>

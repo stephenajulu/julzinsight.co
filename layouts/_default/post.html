@@ -27,7 +27,7 @@
     <div class="container container--md">
       Posted on <time class="published" datetime="{{ .Date | dateFormat "2006-01-02 15:04" }}">{{ .Date | dateFormat "January 02, 2006" }}</time>
     </div>
-    <div class="post">
+    <div class="post__body">
     {{ if eq .Section "services" }}
     {{ partial "consultorcontact.html" . }}
     </div>

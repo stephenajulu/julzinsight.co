@@ -27,6 +27,10 @@
     <div class="container container--md">
       Posted on <time class="published" datetime="{{ .Date | dateFormat "2006-01-02 15:04" }}">{{ .Date | dateFormat "January 02, 2006" }}</time>
     </div>
+
+    {{ if or (eq .Section "services") }}
+    {{ partial "consultorcontact.html" . }}
+    {{ end }}
   </footer>
 </article>
 

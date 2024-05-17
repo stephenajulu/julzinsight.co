@@ -63,6 +63,19 @@ Cal("init",  {origin:"https://cal.com"});
   <input id="textinput" name="textinput" type="text" placeholder="Potential Budget" class="form-control input-md">
   </div>
 </div>
+<!-- Select Multiple -->
+<div class="form-group">
+  <label class="col-md-4 control-label" for="solution">Solution</label>
+  <div class="col-md-4">
+    <select id="solution" name="solution" class="form-control" multiple="multiple">
+      <option value="1">Open-Source Managed Software Solutions</option>
+      <option value="2">Cutting-Edge Tech Solutions</option>
+      <option value="3">Digital Transformation, Digitalization and Digitization Solutions</option>
+      <option value="4">Digital Marketing Solutions</option>
+      <option value="5">Consulting</option>
+    </select>
+  </div>
+</div>
 <!-- Textarea -->
 <div class="form-group">
   <label class="col-md-4 control-label" for="message">Message</label>
@@ -70,6 +83,24 @@ Cal("init",  {origin:"https://cal.com"});
     <textarea class="form-control" id="message" name="message"></textarea>
   </div>
 </div>
+<!-- Multiple Checkboxes (inline) -->
+<div class="form-group">
+  <label class="col-md-4 control-label" for="dataprivacyand security"></label>
+  <div class="col-md-4">
+    <label class="checkbox-inline" for="dataprivacyand security-0">
+      <input type="checkbox" name="dataprivacyand security" id="dataprivacyand security-0" value="">
+      I agree that the submitted data is being collected and stored.
+    </label>
+  </div>
+</div>
+<!-- Button -->
+<div class="form-group">
+  <label class="col-md-4 control-label" for="submit"></label>
+  <div class="col-md-4">
+    <button id="submit" name="submit" class="btn btn-primary">Submit</button>
+  </div>
+</div>
+	
 </fieldset>
 </form>
   

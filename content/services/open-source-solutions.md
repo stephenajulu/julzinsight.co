@@ -72,6 +72,9 @@ Our Offerings:
 - Manage hardware, software and data centers. Link Asset inventory to Helpdesk and get 360° control of your IT and business infrastructure.
 - Track your expenses, contracts and suppliers, create new inventory objects, manage user database and make reports.
 - Track licenses including SSL, software licenses and be notified when they expire.
+#### Odoo: All your business on one platform
+- It's suite of open source business apps
+- It covers all your company needs: CRM, eCommerce, accounting, inventory, point of sale, project management, digital signing, knowledge base, human resource, helpdesk, website builder, elearning, live chat, blog, document management, spreadsheets, invoicing, marketing, voip,  etc
 #### Additional Solutions for Enterprise and GovTech:
 - mirotalk: Video conferencing for seamless virtual meetings.
 - rocketchat: Real-time chat and collaboration.

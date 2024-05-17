@@ -113,9 +113,10 @@ Our Offerings:
 ### Conclusion
 Choose Julz Insight for expertly managed open-source solutions tailored to your unique needs. Let’s transform your business together!
 
-## Book a consult
+<h1 class="post__title line-top">Book a consult</h1>
+<div class="post__subtitle">Transform Your Business with Some of Our Open-Source Managed Solutions Now!</div>
 {{< julz1hr >}}
-
+<br>
 <form class="form-horizontal">
 <fieldset>
 

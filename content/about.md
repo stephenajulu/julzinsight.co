@@ -14,7 +14,7 @@ sections:
     col_number: two
     grid_items:
       - title: Managed Open Source Software Solutions
-        image: images/cta.svg
+        image: images/service-3.svg
         actions:
           - label: Learn more →
             url: /services/open-source-solutions

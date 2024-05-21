@@ -13,8 +13,19 @@ sections:
     subtitle: Our solutions and services
     col_number: two
     grid_items:
+      - title: Managed Open Source Software Solutions
+        image: images/cta.svg
+        actions:
+          - label: Learn more →
+            url: /services/open-source-solutions
+            style: button
+        content: |-
+          - Private Cloud and Office Suite
+          - Streamlined Document Workflow
+          - Electronic Document Management and Digitization
+          - and more
       - title: Tech Solutions
-        image: images/service-3.svg
+        image: images/service-1.svg
         actions:
           - label: Learn more →
             url: /services/tech-solutions

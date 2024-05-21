@@ -61,8 +61,13 @@ seo:
       value: >-
         We build impactful tech products, brands, businesses, startups, and solutions that solve complex challenges. Illuminating possibilities.
       keyName: property
+    - name: 'og:image'
+      value: https://julzinsight.co/images/socialimage.png
+      keyName: property
     - name: 'twitter:card'
       value: summary
+    - name: 'twitter:image'
+      value: https://julzinsight.co/images/socialimage.png
     - name: 'twitter:title'
       value: Julz Insight | Tech Solutions with Web, AI, Digital Transformation & Cloud Expertise
     - name: 'twitter:description'

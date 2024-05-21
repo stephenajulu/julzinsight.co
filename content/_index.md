@@ -66,7 +66,7 @@ seo:
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
-      value: summary
+      value: summary_large_image
     - name: 'twitter:image'
       value: images/socialimage.png
       relativeUrl: true

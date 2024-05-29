@@ -100,8 +100,8 @@ sections:
     section_id: cta
     title: Ready to work together?
     content: Let’s link up. Complete our quick form below to schedule a 30-minute consult with our team. We invite businesses, startups and individuals looking to collaborate to build bespoke tech solutions with Julz Insight.  
-    image: images/61698b486fd1aeecf2742be8_shutterstock_1753918412 1.jpg
-    image_alt: A web designer on laptop waving at computer
+    image: images/cta-about.svg
+    image_alt: An abstract shape for the call to action
     bg_color: dark
     actions:
       - label: Schedule a consultation now →

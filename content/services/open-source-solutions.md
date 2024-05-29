@@ -2,7 +2,7 @@
 title: Open Source Managed Solutions
 subtitle: Empowering Your Business with Open-Source Software Excellence
 excerpt: >-
-  At Julz Insight, we’re your trusted partner in open-source technology. Our Open Source Managed Solutions streamline powerful software, enhance security, and optimize performance. Whether you’re a startup, enterprise, or government agency, we tailor solutions to meet your unique needs.
+  At Julz Insight, we’re your trusted partner in open-source technology. We streamline powerful software, enhance security, and optimize performance. Whether you’re a startup, enterprise, or government agency, we tailor solutions to your needs.
 date: '2024-5-16'
 thumb_image: images/brooke-cagle-WHWYBmtn3_0-unsplash (1).jpg
 thumb_image_alt: tatooed women with laptop looking at our client's article with a smile on her face
@@ -11,7 +11,7 @@ image_alt: tatooed women with laptop looking at our client's article with a smil
 seo:
   title: Open Source Managed Solutions
   description: >-
-    At Julz Insight, we’re your trusted partner in open-source technology. Our Open Source Managed Solutions streamline powerful software, enhance security, and optimize performance. Whether you’re a startup, enterprise, or government agency, we tailor solutions to meet your unique needs.
+    At Julz Insight, we’re your trusted partner in open-source technology. We streamline powerful software, enhance security, and optimize performance. Whether you’re a startup, enterprise, or government agency, we tailor solutions to your needs.
   extra:
     - name: 'og:type'
       value: website
@@ -21,7 +21,7 @@ seo:
       keyName: property
     - name: 'og:description'
       value: >-
-        At Julz Insight, we’re your trusted partner in open-source technology. Our Open Source Managed Solutions streamline powerful software, enhance security, and optimize performance. Whether you’re a startup, enterprise, or government agency, we tailor solutions to meet your unique needs.
+        At Julz Insight, we’re your trusted partner in open-source technology. We streamline powerful software, enhance security, and optimize performance. Whether you’re a startup, enterprise, or government agency, we tailor solutions to your needs.
       keyName: property
     - name: 'og:image'
       value: images/brooke-cagle-WHWYBmtn3_0-unsplash (1).jpg
@@ -33,7 +33,7 @@ seo:
       value: Open Source Managed Solutions
     - name: 'twitter:description'
       value: >-
-        At Julz Insight, we’re your trusted partner in open-source technology. Our Open Source Managed Solutions streamline powerful software, enhance security, and optimize performance. Whether you’re a startup, enterprise, or government agency, we tailor solutions to meet your unique needs.
+        At Julz Insight, we’re your trusted partner in open-source technology. We streamline powerful software, enhance security, and optimize performance. Whether you’re a startup, enterprise, or government agency, we tailor solutions to your needs.
     - name: 'twitter:image'
       value: images/brooke-cagle-WHWYBmtn3_0-unsplash (1).jpg
       relativeUrl: true
@@ -41,7 +41,7 @@ layout: post
 ---
 
 ## Introduction
-At Julz Insight, we’re your trusted partner in open-source technology. Our Open Source Managed Solutions streamline powerful software, enhance security, and optimize performance. Whether you’re a startup, enterprise, or government agency, we tailor solutions to meet your unique needs. Here's what we offer:
+At Julz Insight, we’re your trusted partner in open-source technology. We streamline powerful software, enhance security, and optimize performance. Whether you’re a startup, enterprise, or government agency, we tailor solutions to your needs. Here's what we offer:
 
 ### Solutions
 Our Offerings:
@@ -64,40 +64,69 @@ Our Offerings:
 - Edit, merge, split, and secure PDFs effortlessly.
 - Ensure compliance and professional document handling.
 #### LogicalDOC
-- Manage your documents with this web based document management software with a user friendly platform.
-- It including a sleek and intuitive workflow designer, agenda management capabilities, and various options for uploading, organizing and distributing your documents.
-- With LogicalDOC, you and your coworkers will be able to share a variety of coauthored documents and keep track of changes made to them, that is the version control.
+- Manage your documents with this web-based document management software with a user-friendly platform.
+- It includes a sleek and intuitive workflow designer, agenda management capabilities, and various options for uploading, organizing, and distributing your documents.
+- With LogicalDOC, you and your coworkers will be able to share a variety of coauthored documents and keep track of changes made to them, that is version control.
 #### GLPI: Your open source tool to manage Helpdesk and IT assets
-- Organize your support easily with GLPI: manage incidents/requests, create forms, define SLAs, deliver the best experience to your customers
-- Manage hardware, software and data centers. Link Asset inventory to Helpdesk and get 360° control of your IT and business infrastructure.
-- Track your expenses, contracts and suppliers, create new inventory objects, manage user database and make reports.
-- Track licenses including SSL, software licenses and be notified when they expire.
+- Organize your support easily with GLPI: manage incidents/requests, create forms, define SLAs, and deliver the best experience to your customers
+- Manage hardware, software, and data centers. Link Asset inventory to the Helpdesk and get 360° control of your IT and business infrastructure.
+- Track your expenses, contracts, and suppliers, create new inventory objects, manage user databases, and make reports.
+- Track licenses including SSL, and software licenses, and be notified when they expire.
 #### Odoo: All your business on one platform
-- It's suite of open source business apps
-- It covers all your company needs: CRM, eCommerce, accounting, inventory, point of sale, project management, digital signing, knowledge base, human resource, helpdesk, website builder, elearning, live chat, blog, document management, spreadsheets, invoicing, marketing, voip,  etc
+- It's a suite of open source business apps
+- It covers all your company needs: CRM, eCommerce, accounting, inventory, point of sale, project management, digital signing, knowledge base, human resource, helpdesk, website builder, elearning, live chat, blog, document management, spreadsheets, invoicing, marketing, VoIP,  etc
+#### OpenStack: Your Very Own Online Cloud Platform
+- Provides comprehensive services for managing computing, storage, and networking resources.
+- Government agencies and private enterprises widely adopt it.
+#### MediaWiki: Company Knowledgebase
+- It's a wiki platform that powers Wikipedia.
+- It's used to create collaborative websites and online knowledge bases.
+- Organize organizational and procedural knowledge.
+#### Rocket.Chat: Real-time Chat and Collaboration
+- It's an open-source web-based team communication platform.
+- Features chat, video conferencing, and file sharing.
+#### DocuSeal: Digital Signing Platform
+- Sign documents online.
+- Send documents for signing.
+- Supports creating, managing, and signing documents
+- Multiple parties can review, fill, and sign documents making collaboration seamless and efficient
+#### Wazuh: Open-Source XDR, SIEM, Threat Detection, and Security Platform
+- It does unified extended detection and response.
+- Also has security information and event management.
+- It collects, aggregates, indexes, and analyzes security data, helping organizations detect intrusions, threats, and behavioral anomalies
+#### Stirling PDF: Comprehensive PDF Manipulation Tool
+- Supports merging, splitting, converting, reorganizing, rotating and compressing PDFs
+#### Passbolt: Enterprise Password Management for Teams
+- Does password management, secure sharing, and sensitive data storage
+- It monitors credentials
+#### Zabbix: Powerful IT Infrastructure & Networking Monitoring Tool
+- Monitors applications, servers, databases, websites, cloud services, containers, and networks(bandwidth, performance, metrics)
+- Supports agent-based and agentless monitoring
+- Can detect problems, alert, visualize, and collect data
 #### Additional Solutions for Enterprise and GovTech:
-- mirotalk: Video conferencing for seamless virtual meetings.
-- rocketchat: Real-time chat and collaboration.
-- bookstack: Organize and share documentation.
-- odoo: Integrated business management suite.
-- MediaWiki: Organize organizational and procederal knowldge.
-- IT Tools: Tackle most challenges with this multi tool.
-- Xibo Digital Signage: Market your organization through your spare office screens/tvs.
-- Snipe-it: Mange helpdesk, IT Licensing and assests.
+- Mirotalk/Jitsi: Video conferencing for seamless virtual meetings.
+- IT Tools: Tackle most technical challenges with this multi-tool.
+- Xibo Digital Signage: Market your organization through spare office screens/TVs/tablets.
+- Snipe-it: Mange helpdesk, IT Licensing, and assets.
 - Gitlab: Git repository management + complete CI/CD toolchain.
 - Zammad: Support and ticketing.
 - Penpot: Inhouse design tool.
-- Passbolt: Enterprise password management for teams.
-- Zabbix/Grafana/Prometheus: IT infrastructure monitoring.
-- Wazuh: Unified endpoint protection, threat detection, security operations and cloud security.
+- Grafana/Prometheus: IT infrastructure monitoring.
 - Cal.com: Automated appointment setting platform.
 - KASM: Virtual desktop interface in your browser.
 - MongoDB/Postgres: Popular database platform.
-- Sonatype Nexus: integrated governeance platform that accelerates innovation and improves application security.
+- Sonatype Nexus: integrated governance platform that accelerates innovation and improves application security.
 - ERPNext/Dolibar: Robust ERP.
 - Sequent: Verifiable online voting solution.
-- Seafile: Open Source File Sync, Share and Document Collaboration Platform.
+- Seafile: Open Source File Sync, Share, and Document Collaboration Platform.
 - Docspell/Alfresco: Robust Document Management System
+- OpenProject: Project management tool for collaboration, task tracking and resource management
+- SuiteCRM/CiviCRM: Customer relationship manager
+- Obsidian/Affine: Powerful note-taking software with sync
+- Photprism/Immich: AP Powered photo gallery and backup
+- Webmin/Cockpit - Web GUI Server Management Tool
+- Tailscale/Twingate/Cloudflare Tunnels/Netbird: Secure remote access
+- Portainer CE/Yacht: GUI web docker container management tool
 
 ### Our Comprehensive Services:
 - Remote Monitoring and Maintenance: Keep your systems running smoothly.

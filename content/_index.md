@@ -47,7 +47,7 @@ sections:
     image_alt: Illustration
     bg_color: light
 seo:
-  title: Julz Insight | Tech Solutions with Web, AI, Digital Transformation & Cloud Expertise
+  title: Julz Insight | Tech Solutions with Web, AI, Digital Transformation, Cloud & Open-Source Expertise
   description: >-
    We build impactful tech products, brands, businesses, startups, and solutions that solve complex challenges. Illuminating possibilities.
   extra:
@@ -55,7 +55,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Julz Insight | Tech Solutions with Web, AI, Digital Transformation & Cloud Expertise
+      value: Julz Insight | Tech Solutions with Web, AI, Digital Transformation, Cloud & Open-Source Expertise
       keyName: property
     - name: 'og:description'
       value: >-
@@ -71,7 +71,7 @@ seo:
       value: images/socialimage.png
       relativeUrl: true
     - name: 'twitter:title'
-      value: Julz Insight | Tech Solutions with Web, AI, Digital Transformation & Cloud Expertise
+      value: Julz Insight | Tech Solutions with Web, AI, Digital Transformation, Cloud & Open-Source Expertise
     - name: 'twitter:description'
       value: >-
         We build impactful tech products, brands, businesses, startups, and solutions that solve complex challenges. Illuminating possibilities.

@@ -60,13 +60,13 @@ Our Offerings:
 - Uses machine learning to automatically add tags, correspondents, and document types to your documents.
 - Digitally Transform Your Company and streamline your document workflow.
 - Reduce paper clutter and enhance efficiency.
-#### BigCapital
+#### BigCapital: Your Automated Accounting Software
 - Online accounting software, built to automate business financial processes.
 - Control your business bookkeeping with automated accounting, to run intelligent reports for faster decision-making.
 - Built with a multi-tenancy architecture that allows multiple organizations to use the same software while keeping their data separate from each other.
 - A QuickBooks alternative
 - The ultimate goal is to build advanced modern core accounting financial software that can integrate with other sales platforms like Stripe and Shopify and banking systems to make Bigcapital the core financial backbone system that tracks all the financial transactions of the business and then generates concluded financial reports, statements and insights to the accountant and business owner for faster decision-making.
-#### LogicalDOC
+#### LogicalDOC: Your Solution to Going Paperless in the Office
 - It is a management tool, a specialized form of document management software designed to help its users in organizing and storing digital or paper documents.
 - Streamline the Management of Health Information Using a Document Control System.
 - The ability to trace documents for commercial negotiation from their beginning to conclusion anywhere and at any time gives you a unique opportunity for the work quality of agents and commercials.
@@ -80,6 +80,18 @@ Our Offerings:
 - Manage hardware, software, and data centers. Link Asset inventory to the Helpdesk and get 360° control of your IT and business infrastructure.
 - Track your expenses, contracts, and suppliers, create new inventory objects, manage user databases, and make reports.
 - Track licenses including SSL, and software licenses, and be notified when they expire.
+#### Immich: Never lose marketing material and organization photos again
+- It's a photo and video management solution
+- Comes with facial recognition
+- Has machine learning
+- You can share entire albums or individual pictures
+#### InvoiceNinja: Make it easy for clients to pay you
+- It's an invoicing  software
+- Allows you to accept payments online
+- Features time-tracking tasks & projects
+- Track inventory, categorize vendors, re-invoice expenses
+- Connect bank & financial accounts to import & sync transactions automatically from your bank, credit cards, and PayPal data.
+- Includes ready-made templates
 #### Odoo: All your business on one platform
 - It's a suite of open source business apps
 - It covers all your company needs: CRM, eCommerce, accounting, inventory, point of sale, project management, digital signing, knowledge base, human resource, helpdesk, website builder, elearning, live chat, blog, document management, spreadsheets, invoicing, marketing, VoIP,  etc

@@ -20,6 +20,7 @@ sections:
             url: /services/open-source-solutions
             style: button
         content: |-
+          We streamline open-source software for clients. We handle hosting, customization, and ongoing management. Our experts tailor the software to fit unique needs, ensuring security, compliance, and optimal performance. Whether it is the following or other customized solutions.
           - Private Cloud and Office Suite
           - Streamlined Document Workflow
           - Electronic Document Management and Digitization
@@ -31,9 +32,10 @@ sections:
             url: /services/tech-solutions
             style: button
         content: |-
+          We offer a wide range of tech solutions, from web design and visual identity design to ICT equipment vending and managed solutions. Our goal is to leverage tech in empowering businesses.
           - Web Development and Design
           - Brand Identity Design
-          - Open Source Managed Solutions Provider
+          - Managed Open-Source Solutions
           - and more
   - type: portfolio_section
     section_id: latest-projects

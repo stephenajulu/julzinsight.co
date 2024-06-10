@@ -4,7 +4,7 @@ hide_title: false
 sections:
   - type: content_section
     content: >-
-      Welcome to Julz Insight, a Nairobi-based tech firm dedicated to crafting impactful products, brands, and solutions. We harness the power of cutting-edge technology, innovative marketing, and strategic consulting to make a difference.<br> <br>Our Mission - We strive to empower businesses, helping them navigate complex challenges and drive digital transformation with cutting-edge technology and data-driven marketing strategies. <br> <br>Our Vision - We aspire to be pioneers and trailblazers in TECHNOLOGY, INNOVATION, SUSTAINABILITY and ENGINEERING. That's why we focus on building impactful, influential and innovative products, brands, businesses and solutions, and we will continue to do so in order to build our vision of a tech-empowered world.<br> <br>Come now and let's start something great today: [Book a video call](/contact/) or [Get in touch with a representative](/consultation/) or Alternatively: [Communicate via Email](mailto:info@julzinsight.co) 
+      Welcome to Julz Insight, a Nairobi-based tech firm dedicated to crafting impactful products, brands, and solutions. We harness the power of cutting-edge technology, design thinking, and strategic consulting to make cutting-edge solutions.<br> <br>Our Mission - We strive to empower businesses, helping them navigate complex challenges and drive digital transformation with cutting-edge technology and data-driven strategies. <br> <br>Our Vision - We aspire to be pioneers, trailblazers, and thought leaders, in the actual frontier of Technology, Innovation, and Sustainability. To achieve this we focus on building impactful cutting-edge products & solutions using Tech and Design, and we will continue to do so to build our vision of a tech-powered world.<br> <br>Come now and let's do something great: [Book a free consultation](/contact/)
     image: images/julzinsightheader.png
     image_alt: Marketing poster
   - type: grid_section
@@ -20,7 +20,7 @@ sections:
             url: /services/open-source-solutions
             style: button
         content: |-
-          We streamline open-source software for clients. We handle hosting, customization, and ongoing management. Our experts tailor the software to fit unique needs, ensuring security, compliance, and optimal performance. Whether it is the following or other customized solutions.
+          We streamline open-source software for clients. We handle hosting, customization, and ongoing management. Our experts tailor the software to fit unique needs, ensuring security, compliance, and optimal performance. Whether it is the following or other bespoke open-source software solutions. We've got your back. 
           - Private Cloud and Office Suite
           - Streamlined Document Workflow
           - Electronic Document Management and Digitization
@@ -32,7 +32,7 @@ sections:
             url: /services/tech-solutions
             style: button
         content: |-
-          We offer a wide range of tech solutions, from web design and visual identity design to ICT equipment vending and managed solutions. Our goal is to leverage tech in empowering businesses.
+          We offer a wide range of tech solutions, from web design and visual identity design to ICT equipment vending, managed software solutions, automation, cloud, SEO, landing pages, sales funnel building, and AI. Our goal is to leverage tech in empowering businesses. Trust us we've got over a decade of hands-on experience.
           - Web Development and Design
           - Brand Identity Design
           - Managed Open-Source Solutions

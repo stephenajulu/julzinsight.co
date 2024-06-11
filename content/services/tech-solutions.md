@@ -2,7 +2,7 @@
 title: Cutting Edge Tech Solutions
 subtitle: Empowering Your Business with Bespoke Cutting-Edge Tech Solutions
 excerpt: >-
-  Julz Insight is a leading provider of comprehensive tech solutions. Our services are designed to help businesses leverage technology to achieve their goals. We offer a wide range of services, from web design and visual identity design to ICT equipment vending and managed solutions provisioning.
+  Julz Insight is a leading provider of comprehensive tech  and digital transformation solutions. Our services are designed to help businesses leverage technology to achieve their goals. We offer a wide range of services, from web design and visual identity design to ICT equipment vending, managed solutions provisioning and more. We also offer managed cloud, storage, project management, customer relationship management, collaboration platforms, enterprise resource planning software, customer support, media management, content delivery networks, and marketing automation.
 date: '2024-2-3'
 thumb_image: images/brooke-cagle-WHWYBmtn3_0-unsplash (1).jpg
 thumb_image_alt: tatooed women with laptop looking at our client's article with a smile on her face
@@ -11,7 +11,7 @@ image_alt: tatooed women with laptop looking at our client's article with a smil
 seo:
   title: Cutting Edge Tech Solutions
   description: >-
-    Julz Insight is a leading provider of comprehensive tech solutions. Our services are designed to help businesses leverage technology to achieve their goals. We offer a wide range of services, from web design and visual identity design to ICT equipment vending and managed solutions provisioning.
+    Julz Insight is a leading provider of comprehensive tech solutions. Our services are designed to help businesses leverage technology to achieve their goals. We offer a wide range of services, from web design and visual identity design to ICT equipment vending and managed solutions provisioning. We also offer managed cloud, storage, project management, customer relationship management, collaboration platforms, enterprise resource planning software, customer support, media management, content delivery networks, and marketing automation.
   extra:
     - name: 'og:type'
       value: website
@@ -21,7 +21,7 @@ seo:
       keyName: property
     - name: 'og:description'
       value: >-
-        Julz Insight is a leading provider of comprehensive tech solutions. Our services are designed to help businesses leverage technology to achieve their goals. We offer a wide range of services, from web design and visual identity design to ICT equipment vending and managed solutions provisioning.
+        Julz Insight is a leading provider of comprehensive tech solutions. Our services are designed to help businesses leverage technology to achieve their goals. We offer a wide range of services, from web design and visual identity design to ICT equipment vending and managed solutions provisioning. We also offer managed cloud, storage, project management, customer relationship management, collaboration platforms, enterprise resource planning software, customer support, media management, content delivery networks, and marketing automation.
       keyName: property
     - name: 'og:image'
       value: images/brooke-cagle-WHWYBmtn3_0-unsplash (1).jpg
@@ -33,7 +33,7 @@ seo:
       value: Cutting Edge Tech Solutions
     - name: 'twitter:description'
       value: >-
-        Julz Insight is a leading provider of comprehensive tech solutions. Our services are designed to help businesses leverage technology to achieve their goals. We offer a wide range of services, from web design and visual identity design to ICT equipment vending and managed solutions provisioning.
+        Julz Insight is a leading provider of comprehensive tech solutions. Our services are designed to help businesses leverage technology to achieve their goals. We offer a wide range of services, from web design and visual identity design to ICT equipment vending and managed solutions provisioning. We also offer managed cloud, storage, project management, customer relationship management, collaboration platforms, enterprise resource planning software, customer support, media management, content delivery networks, and marketing automation.
     - name: 'twitter:image'
       value: images/brooke-cagle-WHWYBmtn3_0-unsplash (1).jpg
       relativeUrl: true
@@ -41,7 +41,7 @@ layout: post
 ---
 
 ## Introduction
-Julz Insight is a leading provider of comprehensive tech solutions. Our services are designed to help businesses leverage technology to achieve their goals. We offer a wide range of services, from web design and visual identity design to ICT equipment vending and managed solutions provisioning.
+Julz Insight is a leading provider of comprehensive tech solutions. Our services are designed to help businesses leverage technology to achieve their goals. We offer a wide range of services, from web design and visual identity design to ICT equipment vending and managed solutions provisioning. We also offer managed cloud, storage, project management, customer relationship management, collaboration platforms, enterprise resource planning software, customer support, media management, content delivery networks, and marketing automation.
 
 ### Solutions
 #### Web Development and Design

@@ -1,10 +1,4 @@
-<article class="post">
-<header class="post__header">
-<div class="container container--md">
-<h1 class="post__title line-top">Book a consult</h1>
-<div class="post__subtitle">{{ if .Params.subtitle }}{{ .Params.subtitle }}{{ end }}</div>
 
-<br>
 <!-- Cal inline embed code begins -->
 <div style="width:100%;height:100%;overflow:scroll" id="my-cal-inline"></div>
 <script type="text/javascript">
@@ -20,9 +14,14 @@ Cal("init",  {origin:"https://cal.com"});
   Cal("ui", {"styles":{"branding":{"brandColor":"#4320d6"}},"hideEventTypeDetails":false,"layout":"column_view"});
   </script>
   <!-- Cal inline embed code ends -->
+
 <br>
-<h3>OR</h3>
-<br>
+
+<article class="post">
+<header class="post__header">
+<div class="container container--md">
+<h1 class="post__title line-top">Book a consult</h1>
+<div class="post__subtitle">{{ if .Params.subtitle }}{{ .Params.subtitle }}{{ end }}</div>
 
 <form class="form-horizontal" name="Consult or Contact Form" method="POST" data-netlify="true" id="contactForm" action="https://formspree.io/f/xyyrvazz">
 <fieldset>

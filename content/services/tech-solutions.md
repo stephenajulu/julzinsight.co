@@ -115,9 +115,21 @@ We provide Cloudflare as a content delivery network to ensure fast and secure de
 
 #### Marketing Automation
 Our marketing automation solutions include Mailchimp, Hunter.io, Zapier, Campaigner, and Hubspot. These tools automate repetitive marketing tasks, allowing businesses to focus on more strategic initiatives.
+
+#### IT Infrastructure Consulting
+Our IT infrastructure consulting services help businesses build a robust and scalable IT infrastructure that supports their business operations. We assess your current IT infrastructure, identify gaps and inefficiencies, and provide recommendations for improvement. Our team of experts can help you design and implement an IT infrastructure that is secure, reliable, and capable of supporting your business growth.
+
+#### Cloud Consulting
+Our cloud consulting services help businesses leverage the power of the cloud to improve their operations and drive innovation. We work with leading cloud providers to deliver tailored cloud solutions that meet your specific business needs. Whether you’re looking to migrate to the cloud, optimize your cloud operations, or develop a cloud-native application, our team of experts can guide you through the process.
+
+#### Digital Transformation Consulting
+Our digital transformation consulting services help businesses navigate the complexities of digital transformation. We work with you to understand your business objectives, assess your digital maturity, and develop a digital transformation strategy that aligns with your business goals. Our team can help you implement new technologies, optimize your business processes, and foster a culture of digital innovation.
+
+#### Creative & Content Strategy
+Our creative and content strategy services help businesses create compelling content that resonates with their target audience. We work with you to understand your brand, your audience, and your marketing goals. Based on this understanding, we develop a content strategy that drives engagement and conversions. Our team can help you create a variety of content, from blog posts and social media content to videos and infographics.
  
  Join us to build a resilient, tech-savvy workforce!
 
 
 ## Conclusion
-At Julz Insight, we’re committed to providing our clients with top-notch tech solutions. Whether you need a new website, a fresh brand identity, reliable ICT equipment, or managed IT services, we have the expertise and resources to deliver. Contact us today to learn more about how we can help your business thrive.
+At Julz Insight, we’re committed to providing our clients with top-notch tech solutions. Whether you need a new website, a fresh brand identity, reliable ICT equipment, or managed IT services, we have the expertise and resources to deliver. We’re also committed to helping businesses navigate their digital transformation journey. Whether you need cloud services, project management tools, a CRM system, or marketing automation, we have the expertise and resources to deliver. Contact us today to learn more about how we can help your business thrive in the digital age. Contact us today to learn more about how we can help your business thrive in this age of rapid information and technological advancement.

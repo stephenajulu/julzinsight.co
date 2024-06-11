@@ -1,6 +1,12 @@
-
-<!-- Cal inline embed code begins -->
-<div style="width:100%;height:500px;overflow:scroll" id="my-cal-inline"></div>
+<article class="post">
+<header class="post__header">
+<div class="container container--md">
+<h1 class="post__title line-top">Book a consult</h1>
+<div class="post__subtitle">{{ if .Params.subtitle }}{{ .Params.subtitle }}{{ end }}</div>
+	
+<br>
+	<!-- Cal inline embed code begins -->
+<div style="width:100%;height:100%;overflow:scroll" id="my-cal-inline"></div>
 <script type="text/javascript">
   (function (C, A, L) { let p = function (a, ar) { a.q.push(ar); }; let d = C.document; C.Cal = C.Cal || function () { let cal = C.Cal; let ar = arguments; if (!cal.loaded) { cal.ns = {}; cal.q = cal.q || []; d.head.appendChild(d.createElement("script")).src = A; cal.loaded = true; } if (ar[0] === L) { const api = function () { p(api, arguments); }; const namespace = ar[1]; api.q = api.q || []; if(typeof namespace === "string"){cal.ns[namespace] = cal.ns[namespace] || api;p(cal.ns[namespace], ar);p(cal, ["initNamespace", namespace]);} else p(cal, ar); return;} p(cal, ar); }; })(window, "https://app.cal.com/embed/embed.js", "init");
 Cal("init",  {origin:"https://cal.com"});
@@ -8,20 +14,14 @@ Cal("init",  {origin:"https://cal.com"});
   Cal("inline", {
 	elementOrSelector:"#my-cal-inline",
 	calLink: "julzinsight/1hour",
-	layout: "column_view"
+	layout: "month_view"
   });
 
-  Cal("ui", {"styles":{"branding":{"brandColor":"#4320d6"}},"hideEventTypeDetails":false,"layout":"column_view"});
+  Cal("ui", {"theme":"dark","styles":{"branding":{"brandColor":"#000000"}},"hideEventTypeDetails":false,"layout":"month_view"});
   </script>
   <!-- Cal inline embed code ends -->
-
 <br>
-
-<article class="post">
-<header class="post__header">
-<div class="container container--md">
-<h1 class="post__title line-top">Book a consult</h1>
-<div class="post__subtitle">{{ if .Params.subtitle }}{{ .Params.subtitle }}{{ end }}</div>
+	
 
 <form class="form-horizontal" name="Consult or Contact Form" method="POST" data-netlify="true" id="contactForm" action="https://formspree.io/f/xyyrvazz">
 <fieldset>
@@ -110,11 +110,11 @@ Cal("init",  {origin:"https://cal.com"});
 </div>
 <!-- Multiple Checkboxes (inline) -->
 <div class="form-group">
-  <label class="col-md-4 control-label" for="dataprivacyand security"></label>
+  <label class="col-md-4 control-label" for="dataprivacy"></label>
   <div class="col-md-4">
-    <label class="checkbox-inline" for="dataprivacyand security-0">
-      <input type="checkbox" name="dataprivacyandsecurity consent" id="dataprivacyand security-0" value="">
-      I understand that this form is storing my submitted information so I can be contacted.
+    <label class="checkbox-inline" for="dataprivacy-0">
+      <input type="checkbox" name="dataprivacy consent" id="dataprivacy-0" value="">
+      I understand that this form stores my submitted information so I can be contacted.
     </label>
   </div>
 </div>

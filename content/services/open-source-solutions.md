@@ -4,10 +4,6 @@ subtitle: Empowering Your Business with Open-Source Software Excellence
 excerpt: >-
   At Julz Insight, we’re your trusted partner in open-source technology. We streamline powerful software, enhance security, and optimize performance. Whether you’re a startup, enterprise, or government agency, we tailor solutions to your needs.
 date: '2024-5-16'
-thumb_image: images/brooke-cagle-WHWYBmtn3_0-unsplash (1).jpg
-thumb_image_alt: tatooed women with laptop looking at our client's article with a smile on her face
-image: images/brooke-cagle-WHWYBmtn3_0-unsplash (1).jpg
-image_alt: tatooed women with laptop looking at our client's article with a smile on her face
 seo:
   title: Open Source Managed Solutions
   description: >-
@@ -168,7 +164,7 @@ Our Offerings:
 - Domain Name Provision: Establish your online presence.
 - Hybrid Management Dashboard: Centralized control.
 - Remote and onsite technical support
-- Managed cloud or self managed cloud or our data center, your choice.
+- Managed cloud or self-managed cloud or our data center, your choice.
 
 ### Conclusion
 Choose Julz Insight for expertly managed open-source solutions tailored to your unique needs. Let’s transform your business together!

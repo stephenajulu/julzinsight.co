@@ -23,7 +23,7 @@ sections:
           We streamline open-source software for clients. We handle hosting, customization, and ongoing management. Our experts tailor the software to fit unique needs, ensuring security, compliance, and optimal performance. Whether it is the following or other bespoke open-source software solutions. We've got your back. 
           - Private Cloud and Office Suite
           - Streamlined Document Workflow
-          - Electronic Document Management, Digitization, and Going Paperless
+          - Electronic Document Management and Going Paperless
           - Automated Accounting
           - and more
       - title: Tech Solutions

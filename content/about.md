@@ -4,7 +4,7 @@ hide_title: false
 sections:
   - type: content_section
     content: >-
-      Welcome to Julz Insight, a Nairobi-based tech firm dedicated to crafting impactful products, brands, and solutions. We harness the power of cutting-edge technology, analytical thinking, and data-driven strategies to make the next level of solutions designed bespoke for your business.<br> <br>Our Mission - We strive to empower businesses, helping them navigate complex challenges and drive digital transformation with cutting-edge technology. <br> <br>Our Vision - We aspire to be <span style="font-style: italic;">pioneers, trailblazers, and thought leaders</span>, in the actual frontier of <span style="font-style: italic;">SCIENCE, TECHNOLOGY, INNOVATION, and SUSTAINABILITY</span>. To achieve this we focus on building impactful cutting-edge products & solutions using Tech and Design, and we will continue to do so as we build our vision of a tech-powered world.<br> <br>Come now, let's do a great thing together and illuminate possibilities: [Book a free consultation](/contact/)
+      Welcome to Julz Insight, a Nairobi-based tech firm dedicated to crafting impactful products, brands, and solutions. We harness the power of cutting-edge technology, analytical thinking, and data-driven strategies to make the next level of solutions designed bespoke for your business.<br> <br>Our Mission - We strive to empower businesses, helping them navigate complex challenges and drive digital transformation with cutting-edge technology. <br> <br>Our Vision - We aspire to be <span style="font-style: italic;">pioneers, trailblazers, and thought leaders</span>, in the actual frontier of <span style="font-style: italic;">Science, Technology, Innovation, and Sustainability</span>. To achieve this we focus on building impactful cutting-edge products & solutions using Tech and Design, and we will continue to do so as we build our vision of a tech-powered world.<br> <br>Come now, let's do a great thing together and illuminate possibilities: [Book a free consultation](/contact/)
     image: images/julzinsightheader.png
     image_alt: Marketing poster
   - type: grid_section
@@ -23,7 +23,8 @@ sections:
           We streamline open-source software for clients. We handle hosting, customization, and ongoing management. Our experts tailor the software to fit unique needs, ensuring security, compliance, and optimal performance. Whether it is the following or other bespoke open-source software solutions. We've got your back. 
           - Private Cloud and Office Suite
           - Streamlined Document Workflow
-          - Electronic Document Management and Digitization
+          - Electronic Document Management, Digitization, and Going Paperless
+          - Automated Accounting
           - and more
       - title: Tech Solutions
         image: images/service-1.svg
@@ -36,6 +37,7 @@ sections:
           - Web Development and Design
           - Brand Identity Design
           - Managed Open-Source Solutions
+          - Search Engine Optimization
           - and more
   - type: portfolio_section
     section_id: latest-projects

@@ -25,6 +25,7 @@ sections:
           - Streamlined Document Workflow
           - Electronic Document Management and Going Paperless
           - Automated Accounting
+          - XDR, SIEM, Threat Detection, and Security Monitoring
           - and more
       - title: Tech Solutions
         image: images/service-1.svg
@@ -38,6 +39,7 @@ sections:
           - Brand Identity Design
           - Managed Open-Source Solutions
           - Search Engine Optimization
+          - Managed Cloud
           - and more
   - type: portfolio_section
     section_id: latest-projects

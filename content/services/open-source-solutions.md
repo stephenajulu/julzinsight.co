@@ -76,6 +76,11 @@ Our Offerings:
 - Manage hardware, software, and data centers. Link Asset inventory to the Helpdesk and get 360° control of your IT and business infrastructure.
 - Track your expenses, contracts, and suppliers, create new inventory objects, manage user databases, and make reports.
 - Track licenses including SSL, and software licenses, and be notified when they expire.
+#### Wazuh: Open-source Extended Detection and Response, Security Information and Event Management, Threat Detection, and Security Platform
+- It does unified extended detection and response.
+- Also has security information and event management.
+- It collects, aggregates, indexes, and analyzes security data, helping organizations detect intrusions, threats, and behavioral anomalies
+- Supports XDR, SIEM, Threat Detection and Security Monitoring
 #### Immich: Never lose marketing material and organization photos again
 - It's a photo and video management solution
 - Comes with facial recognition
@@ -117,10 +122,6 @@ Our Offerings:
 - Send documents for signing.
 - Supports creating, managing, and signing documents
 - Multiple parties can review, fill, and sign documents making collaboration seamless and efficient
-#### Wazuh: Open-Source XDR, SIEM, Threat Detection, and Security Platform
-- It does unified extended detection and response.
-- Also has security information and event management.
-- It collects, aggregates, indexes, and analyzes security data, helping organizations detect intrusions, threats, and behavioral anomalies
 #### Stirling PDF: Comprehensive PDF Manipulation Tool
 - Supports merging, splitting, converting, reorganizing, rotating and compressing PDFs
 #### Passbolt: Enterprise Password Management for Teams

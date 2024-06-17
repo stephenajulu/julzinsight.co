@@ -1,5 +1,6 @@
 ---
 title: Our Story
+sub_title: Pioneering innovation. Illuminating possibilities →
 hide_title: false
 sections:
   - type: content_section

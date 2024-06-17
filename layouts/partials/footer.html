@@ -1,15 +1,16 @@
 <footer id="colophon" class="site-footer">
-  <div class="container container--lg">
-    <div class="site-footer__inside">
-      <div class="site-footer__info">
-        <br>
+          <br>
 
         <span style="font-size: 50px; align: center; text-align: center;">+ 254 740 128 010</span>
+        
         <span style="font-size: 50px; align: center; text-align: center;">hello@julzinsight.co</span>
         
         </br>
         </br>
       </br>
+  <div class="container container--lg">
+    <div class="site-footer__inside">
+      <div class="site-footer__info">
         {{ if .Site.Data.config.footer.content }}
         <span class="site-footer__copyright">{{ $.Site.Data.config.footer.content | safeHTML }}</span>
         {{ end }}

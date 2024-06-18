@@ -6,10 +6,6 @@ sections:
     section_id: hero
     title: >-
       We build impactful cutting-edge tech solutions that solve complex business challenges
-    actions:
-      - label: Learn more →
-        url: /services/open-source-solutions
-        style: button
   - type: portfolio_section
     section_id: latest-projects
     layout_style: mosaic

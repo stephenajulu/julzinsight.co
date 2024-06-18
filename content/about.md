@@ -35,7 +35,7 @@ sections:
             url: /services/tech-solutions
             style: button
         content: |-
-          We offer various tech solutions, including but not limited to web development and design, managed software solutions, business process automation, enterprise software solutions, ICT equipment supply, RPA, cloud, SEO, landing pages, sales funnel building, and AI. Our goal is to leverage tech in empowering businesses. We've got over a decade of hands-on experience in this industry.
+          We offer various tech solutions, including but not limited to web development and design, managed software solutions, business process automation, enterprise software solutions, ICT equipment supply, RPA, cloud, SEO, landing pages, sales funnel building, and AI. Our goal is to leverage tech in empowering businesses.
           - Web Development and Design
           - Brand Identity Design
           - Helpdesk and Technical Support

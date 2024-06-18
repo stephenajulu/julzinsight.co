@@ -5,7 +5,7 @@ hide_title: false
 sections:
   - type: content_section
     content: >-
-      Welcome to Julz Insight, a Nairobi-based tech firm dedicated to crafting impactful products, brands, and solutions. We harness the power of cutting-edge technology, analytical thinking, and data-driven strategies to make the next level of solutions designed bespoke for your business.<br> <br>Our Mission - We strive to empower businesses, helping them navigate complex challenges and drive digital transformation with cutting-edge technology. <br> <br>Our Vision - We aspire to be <span style="font-style: italic;">pioneers, trailblazers, and thought leaders</span>, in the actual frontier of <span style="font-style: italic;">Science, Technology, Innovation, and Sustainability</span>. To achieve this we focus on building impactful cutting-edge products & solutions using Tech and Design, and we will continue to do so as we build our vision of a tech-powered world.<br> <br>Come now, let's do a great thing together and illuminate possibilities: [Book a free consultation](/contact/)
+      Welcome to Julz Insight, a Nairobi-based tech firm dedicated to crafting impactful cutting-edge tech solutions that solve complex challenges. We harness the power of technology, analytical thinking, and data-driven strategies to make the next level of solutions designed bespoke for your business or brand.<br> <br>Our Mission - We strive to empower businesses, helping them navigate complex challenges and drive digital transformation with cutting-edge technology. <br> <br>Our Vision - We aspire to be <span style="font-style: italic;">recognized pioneers, trailblazers, visionaries and thought leaders</span>, leading in the frontier of <span style="font-style: italic;">Technology, Innovation, and Sustainability</span>. To achieve this we focus on building impactful cutting-edge products & solutions using Tech, Copy and Design. We continue to do so as we build our vision of a tech-empowered world.<br> <br>Come now, let's do a great thing together: [Book a free consultation](/contact/)
     image: images/julzinsightheader.png
     image_alt: Marketing poster
   - type: grid_section
@@ -37,9 +37,9 @@ sections:
         content: |-
           We offer various tech solutions, including but not limited to web development and design, managed software solutions, business process automation, enterprise software solutions, ICT equipment supply, RPA, cloud, SEO, landing pages, sales funnel building, and AI. Our goal is to leverage tech in empowering businesses.
           - Web Development and Design
-          - Brand Identity Design
-          - Helpdesk and Technical Support
-          - Search Engine Optimization
+          - Business Process Automation
+          - Enterprise Software
+          - Managed Software
           - Managed Cloud
           - and more
   - type: portfolio_section
@@ -82,17 +82,17 @@ sections:
         url: /contact
         style: button
 seo:
-  title: About - Julz Insight - The Tech Visionaries | Tech Solutions with Web, AI, Digital Transformation & Cloud Expertise
-  description: Learn more about Julz Insight, our team, our processes, our solutions, our work, and more
+  title: About - Julz Insight - Tech Visionaries | Tech Solutions with Software, Web, AI, Cloud, Design & Digital Transformation Expertise
+  description: Learn more about Julz Insight, our team, our processes, our solutions, our work, and more. We are a tech solutions firm & lab based in Nairobi, Kenya that has over a decade of experience with Software, Web, AI, Cloud, Design & Digital Transformation Expertise. We build impactful tech products and solutions that solve complex challenges. Pioneering innovation. Illuminating possibilities.
   extra:
     - name: og:type
       value: website
       keyName: property
     - name: og:title
-      value: About - Julz Insight - The Tech Visionaries | Tech Solutions with Web, AI, Digital Transformation & Cloud Expertise
+      value: About - Julz Insight - The Tech Visionaries | Tech Solutions with Software, Web, AI, Cloud, Design & Digital Transformation Expertise
       keyName: property
     - name: og:description
-      value: Learn more about Julz Insight, our team, our processes, our solutions, our work, and more
+      value: Learn more about Julz Insight, our team, our processes, our solutions, our work, and more. We are a tech solutions firm & lab based in Nairobi, Kenya that has over a decade of experience with Software, Web, AI, Cloud, Design & Digital Transformation Expertise. We build impactful tech products and solutions that solve complex challenges. Pioneering innovation. Illuminating possibilities.
       keyName: property
     - name: og:image
       value: images/about.jpg
@@ -101,9 +101,9 @@ seo:
     - name: twitter:card
       value: summary_large_image
     - name: twitter:title
-      value: About - Julz Insight - The Tech Visionaries | Tech Solutions with Web, AI, Digital Transformation & Cloud Expertise
+      value: About - Julz Insight - The Tech Visionaries | Tech Solutions with Software, Web, AI, Cloud, Design & Digital Transformation Expertise
     - name: twitter:description
-      value: Learn more about Julz Insight, our team, our processes, our solutions, our work, and more
+      value: Learn more about Julz Insight, our team, our processes, our solutions, our work, and more. We are a tech solutions firm & lab based in Nairobi, Kenya that has over a decade of experience with Software, Web, AI, Cloud, Design & Digital Transformation Expertise. We build impactful tech products and solutions that solve complex challenges. Pioneering innovation. Illuminating possibilities.
     - name: twitter:image
       value: images/about.jpg
       relativeUrl: true

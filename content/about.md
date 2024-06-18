@@ -25,8 +25,8 @@ sections:
           - Private Cloud and Office Suite
           - Streamlined Document Workflow
           - Electronic Document Management and Going Paperless
-          - Automated Accounting
-          - XDR, SIEM, Threat Detection, and Security Monitoring
+          - Automated Accounting and Human Resources
+          - Threat Detection, and Security Monitoring
           - and more
       - title: Tech Solutions
         image: images/service-1.svg

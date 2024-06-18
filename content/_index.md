@@ -47,19 +47,19 @@ sections:
     image_alt: Illustration
     bg_color: light
 seo:
-  title: Julz Insight | Tech Solutions with Web, AI, Digital Transformation, Cloud & Open-Source Expertise
+  title: Julz Insight | Tech Solutions with Software, Web, AI, Cloud & Digital Transformation Expertise
   description: >-
-   We are a tech solotuions firm & lab based in Nairobi, Kenya that has over a decade of experience with Web, AI, Digital Transformation, Cloud & Open-Source Expertise. We build impactful tech products and solutions that solve complex challenges. Illuminating possibilities.
+   We are a tech solutions firm & lab based in Nairobi, Kenya that has over a decade of experience with Software, Web, AI, Cloud, Design & Digital Transformation Expertise. We build impactful tech products and solutions that solve complex challenges. Pioneering innovation. Illuminating possibilities.
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Julz Insight | Tech Solutions with Web, AI, Digital Transformation, Cloud & Open-Source Expertise
+      value: Julz Insight | Tech Solutions with Software, Web, AI, Cloud & Digital Transformation Expertise
       keyName: property
     - name: 'og:description'
       value: >-
-        We are a tech solotuions firm & lab based in Nairobi, Kenya that has over a decade of experience with Web, AI, Digital Transformation, Cloud & Open-Source Expertise. We build impactful tech products and solutions that solve complex challenges. Illuminating possibilities.
+        We are a tech solutions firm & lab based in Nairobi, Kenya that has over a decade of experience with Software, Web, AI, Cloud, Design & Digital Transformation Expertise. We build impactful tech products and solutions that solve complex challenges. Pioneering innovation. Illuminating possibilities.
       keyName: property
     - name: 'og:image'
       value: images/socialimage.png
@@ -71,9 +71,9 @@ seo:
       value: images/socialimage.png
       relativeUrl: true
     - name: 'twitter:title'
-      value: Julz Insight | Tech Solutions with Web, AI, Digital Transformation, Cloud & Open-Source Expertise
+      value: Julz Insight | Tech Solutions with Software, Web, AI, Cloud & Digital Transformation Expertise
     - name: 'twitter:description'
       value: >-
-        We are a tech solotuions firm & lab based in Nairobi, Kenya that has over a decade of experience with Web, AI, Digital Transformation, Cloud & Open-Source Expertise. We build impactful tech products and solutions that solve complex challenges. Illuminating possibilities.
+        We are a tech solutions firm & lab based in Nairobi, Kenya that has over a decade of experience with Software, Web, AI, Cloud, Design & Digital Transformation Expertise. We build impactful tech products and solutions that solve complex challenges. Pioneering innovation. Illuminating possibilities.
 layout: advanced
 ---

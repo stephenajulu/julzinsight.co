@@ -1,5 +1,5 @@
 ---
-title: Solutions and Services - Julz Insight | Tech Solutions with Software, Web, AI, Cloud & Digital Transformation Expertise
+title: Solutions and Services
 subtitle: Discover the impactful cutting-edge solutions we offer at Julz Insight from Managed Open-Source Software to Digital Transformation and Tech Solutions
 hide_title: false
 col_number: two

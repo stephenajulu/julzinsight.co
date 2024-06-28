@@ -17,11 +17,6 @@
       {{ $services_sorted := ((.Site.GetPage "section" "/services").Pages).ByDate.Reverse }}
       {{ range $service := $services_sorted }}
       <article class="cell post-card">
-        {{ if $service.Params.thumb_image }}
-        <a class="post-card__image" href="{{ $service.URL }}">
-          <img src="{{ $service.Params.thumb_image | relURL }}" alt="{{ $service.thumb_image_alt }}" />
-        </a>
-        {{ end }}
         <header class="post-card__header">
           <h2 class="post-card__title"><a href="{{ $service.URL }}">{{ $service.Params.title }}</a></h2>
           <div class="post-card__meta">

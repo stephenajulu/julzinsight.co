@@ -20,6 +20,7 @@
   {{ end }}
   <div class="post__body text-block">
     <div class="container container--md">
+      {{ if and (gt .WordCount 400 ) (ne .Params.toc "false") }}<aside>{{ .TableOfContents }}</aside>{{ end }}
       {{ .Content }}
     </div>
   </div>

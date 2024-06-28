@@ -5,7 +5,7 @@ excerpt: >-
   At Julz Insight, we specialize in comprehensive tech solutions designed to help your business leverage technology and achieve your goals. From web design and visual identity creation to ICT equipment and managed services, we provide a wide array of offerings to meet your unique needs. Our services include managed cloud, storage, project management, CRM, collaboration platforms, ERP software, customer support, media management, content delivery networks, and marketing automation.
 date: '2024-2-3'
 seo:
-  title: Cutting Edge Tech Solutions
+  title: Cutting Edge Tech Solutions - Julz Insight | Tech Solutions with Software, Web, AI, Cloud & Digital Transformation Expertise
   description: >-
     At Julz Insight, we specialize in comprehensive tech solutions designed to help your business leverage technology and achieve your goals. From web design and visual identity creation to ICT equipment and managed services, we provide a wide array of offerings to meet your unique needs. Our services include managed cloud, storage, project management, CRM, collaboration platforms, ERP software, customer support, media management, content delivery networks, and marketing automation.
   extra:
@@ -13,7 +13,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Cutting Edge Tech Solutions
+      value: Cutting Edge Tech Solutions - Julz Insight | Tech Solutions with Software, Web, AI, Cloud & Digital Transformation Expertise
       keyName: property
     - name: 'og:description'
       value: >-
@@ -26,7 +26,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Cutting Edge Tech Solutions
+      value: Cutting Edge Tech Solutions - Julz Insight | Tech Solutions with Software, Web, AI, Cloud & Digital Transformation Expertise
     - name: 'twitter:description'
       value: >-
         At Julz Insight, we specialize in comprehensive tech solutions designed to help your business leverage technology and achieve your goals. From web design and visual identity creation to ICT equipment and managed services, we provide a wide array of offerings to meet your unique needs. Our services include managed cloud, storage, project management, CRM, collaboration platforms, ERP software, customer support, media management, content delivery networks, and marketing automation.

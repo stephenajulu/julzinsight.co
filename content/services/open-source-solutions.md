@@ -102,6 +102,8 @@ Protect your organization with open-source security and network solutions that o
 - **pfSense**: An open-source firewall and router software distribution based on FreeBSD, offering comprehensive security features and flexibility.
 - **Wazuh**: A free and open-source security platform that unifies XDR and SIEM protection for endpoints and cloud workloads.
 - **OpenVAS**: An open-source vulnerability scanner and management tool that helps identify and manage security vulnerabilities in IT infrastructure, supporting comprehensive security assessments.
+- **Pi.alert**: A WIFI / LAN intruder detector. Check the devices connected and alert you to unknown devices. It also warns of the disconnection of "always connected" devices.
+- **AdGuard DNS**: A self-hostable DNS-based ad blocker. Choose what exactly will the server block or not block. Monitor your network activity. Add your own custom filtering rules.
 
 ### 8. Monitoring Tools
 Ensure the health and performance of your IT infrastructure with open-source monitoring tools. Gain real-time insights, proactive alerts, and comprehensive reporting to maintain optimal operations.

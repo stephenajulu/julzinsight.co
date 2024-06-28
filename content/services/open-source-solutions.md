@@ -110,6 +110,8 @@ Ensure the health and performance of your IT infrastructure with open-source mon
 - **Nagios**: A powerful open-source monitoring system that provides comprehensive monitoring of systems, networks, and infrastructure, with alerting capabilities.
 - **Prometheus**: An open-source monitoring and alerting toolkit designed for reliability and scalability, suitable for both application and infrastructure monitoring.
 - **Zabbix**: An open-source monitoring solution for networks and applications, offering real-time monitoring, alerting, and visualization features.
+- **Icinga**: An open-source network monitoring tool that checks the availability of network resources, notifies users of outages, and generates performance data for reporting and planning.
+- **NetBox**: An open-source IP address management (IPAM) and data center infrastructure management (DCIM) tool that provides IP address tracking, device inventory, and cable management capabilities, supporting comprehensive IT asset management.
 
 ### 9. Document Management and Workflow
 Optimize your document management and workflow processes with open-source solutions that offer secure, scalable, and customizable features. Improve efficiency and collaboration with community-driven tools.
@@ -119,6 +121,7 @@ Optimize your document management and workflow processes with open-source soluti
 - **OpenKM**: A versatile open-source document management system that helps organizations manage their electronic documents, workflows, and records efficiently.
 - **ONLYOFFICE**: An open-source office suite that includes document management, project management, CRM, and email tools, with powerful collaboration features.
 - **Paperless-ngx**: An open-source document management system that transforms your physical documents into a searchable online archive so you can keep less paper.
+- **LogicalDoc**: An Open Source Document Management Software. It's a high-performance, intuitive document management platform that offers the power of enterprise document management to mid-sized companies and more
 
 ### 10. Collaboration and Communication
 Foster collaboration and enhance communication within your organization with open-source tools. Benefit from customizable, scalable solutions designed to improve teamwork and productivity.
@@ -127,6 +130,7 @@ Foster collaboration and enhance communication within your organization with ope
 - **Mattermost**: An open-source messaging platform that provides secure, self-hosted communication for team collaboration, with extensive integration capabilities.
 - **Rocket.Chat**: An open-source communication hub that offers team messaging, video conferencing, file sharing, and more, with a focus on privacy and customization.
 - **Nextcloud Talk**: Part of the Nextcloud suite, this open-source communication tool provides secure audio and video calls, chat, and screen sharing, integrated with your data.
+- **Jitsi**: An open-source video conferencing platform that offers secure, scalable, and customizable video meetings and collaboration tools for remote teams.
 
 ### 11. Financial Accounting and Invoicing
 Manage your finances with confidence using open-source accounting and invoicing solutions. Enjoy robust, flexible, and scalable tools that help streamline financial operations and ensure accuracy.
@@ -136,6 +140,7 @@ Manage your finances with confidence using open-source accounting and invoicing 
 - **FrontAccounting**: A web-based open-source ERP system specifically designed for small and medium-sized businesses, with a focus on accounting and financial management.
 - **InvoicePlane**: An open-source invoicing application that provides an easy way to manage quotes, invoices, payments, and client details.
 - **InvoiceNinja**: A leading open-source invoice generator and accounting software for freelancers and small businesses. Invoice clients, accept payments, track expenses & time billable tasks online.
+- **Big Capital**: An open-source accounting software, built to automate business financial processes. Control your business bookkeeping with automated accounting, to run intelligent reports for faster decision-making.
 
 ### 12. Education and Learning Management
 Enhance learning and education with open-source LMS solutions that provide flexible, customizable, and scalable features. Empower educators and students with community-driven innovation.
@@ -302,7 +307,7 @@ Build resilient and scalable IT environments with open-source infrastructure sol
 - **Docker**: An open-source software container platform designed for developing, shipping, and running apps leveraging container technology thereby providing infrastructure-as-a-service (IaaS).
 
 ### 31. Supply Chain Management (SCM)
-**Marketing Description**: Optimize your supply chain operations with open-source solutions that offer transparency, efficiency, and scalability. Manage procurement, logistics, and inventory seamlessly to meet customer demands and reduce costs.
+Optimize your supply chain operations with open-source solutions that offer transparency, efficiency, and scalability. Manage procurement, logistics, and inventory seamlessly to meet customer demands and reduce costs.
 
 **Examples**:
 - **OpenBoxes**: An open-source inventory and supply chain management system that helps organizations manage their logistics and supply chain operations efficiently.
@@ -310,7 +315,7 @@ Build resilient and scalable IT environments with open-source infrastructure sol
 - **Tryton**: An open-source business application platform that includes modules for inventory, purchase, and supply chain management, designed for scalability and customization.
 
 ### 32. Knowledge Management Systems (KMS)
-**Marketing Description**: Foster collaboration and knowledge sharing with open-source knowledge management systems. Capture, organize, and distribute knowledge across your organization to enhance productivity and innovation.
+Foster collaboration and knowledge sharing with open-source knowledge management systems. Capture, organize, and distribute knowledge across your organization to enhance productivity and innovation.
 
 **Examples**:
 - **XWiki**: An open-source platform for developing collaborative web applications, including wikis and knowledge management systems, with strong customization and extension capabilities.
@@ -319,30 +324,61 @@ Build resilient and scalable IT environments with open-source infrastructure sol
 - **MediaWiki**: The open-source software behind Wikipedia, it’s a powerful platform for collaborative content creation.
 - **DocuWiki**: An open-source wiki-based system for creating and maintaining documentation.
 
-## Open-Source Software Supported +800 More
+### 33. E-commerce
+Power your online store with open-source e-commerce solutions that offer flexibility, scalability, and customization. Deliver seamless shopping experiences, manage inventory, and drive sales growth with robust, feature-rich platforms.
 
-The customized open-source software solutions we provide with support for 800+ more:
+**Examples**:
+- **WooCommerce**: An open-source e-commerce plugin for WordPress that enables businesses to build and manage online stores with features like product listings, checkout, and payment processing.
+- **Magento Open Source**: An open-source e-commerce platform that provides customizable themes, extensive extensions, and tools for managing products, orders, and customer relationships.
+- **OpenCart**: An open-source e-commerce platform that allows businesses to create online stores with features for product management, payment gateways, and customer support.
 
-### Nextcloud: Your Private Cloud and More
-- It's a modern, easy-to-use content collaboration platform accessible through mobile, desktop, and web interfaces.
-- Teams can collaborate in real-time on documents, chat and engage in video calls, access their email, or plan meetings in calendars. 
-- Private Cloud Solution: Securely store, sync, and share files.
-- Collaboration Tool: Real-time document editing and communication.
-- Office Suite: Create, edit, and collaborate seamlessly.
-- EDMS (Electronic Document Management System): Efficiently manage records.
-### Paperless ngx: Streamlined Document Management Workflow
-- It's a document management system that transforms your physical documents into a searchable online archive so you can keep, well, less paper.
-- Organize and index your scanned documents with tags, correspondents, types, and more.
-- Performs OCR on your documents, adding searchable and selectable text, even to documents scanned with only images.
-- Uses machine learning to automatically add tags, correspondents, and document types to your documents.
-- Digitally Transform Your Company and streamline your document workflow.
-- Reduce paper clutter and enhance efficiency.
-### BigCapital: Your Automated Accounting Software
-- Online accounting software, built to automate business financial processes.
-- Control your business bookkeeping with automated accounting, to run intelligent reports for faster decision-making.
-- Built with a multi-tenancy architecture that allows multiple organizations to use the same software while keeping their data separate from each other.
-- A QuickBooks alternative
-- The ultimate goal is to build advanced modern core accounting financial software that can integrate with other sales platforms like Stripe and Shopify and banking systems to make Bigcapital the core financial backbone system that tracks all the financial transactions of the business and then generates concluded financial reports, statements and insights to the accountant and business owner for faster decision-making.
+### 34. POS (Point of Sale)
+Modernize retail operations with open-source POS solutions that streamline transactions, inventory management, and customer interactions. Enhance efficiency, accuracy, and customer satisfaction with intuitive, customizable POS systems.
+
+**Examples**:
+- **Odoo POS**: An open-source point of sale system that integrates with Odoo ERP to manage sales, inventory, and customer data in retail environments.
+- **Floreant POS**: An open-source POS software designed for restaurants and hospitality businesses, offering features like order management, menu customization, and reporting.
+- **uniCenta oPOS**: An open-source POS system that provides retail businesses with capabilities for sales transactions, inventory tracking, and customer management, supporting multi-location and multi-register operations.
+
+### 35. Secure Remote Access, Virtual Desktop Interface (VDI) and Tunneling
+Enable secure and seamless remote access to your network resources with open-source solutions for remote access and tunneling. Ensure encrypted connections, authentication, and access control for remote workers and distributed teams.
+
+**Examples**:
+
+- **OpenVPN**: An open-source VPN (Virtual Private Network) solution that creates secure point-to-point connections over the internet, providing remote access and tunneling capabilities for secure communication.
+- **WireGuard**: An open-source VPN protocol that offers fast, modern, and secure VPN tunneling for remote access and private networking, with minimal overhead and strong encryption.
+- **SoftEther VPN**: An open-source VPN software that supports multiple VPN protocols, including SSL VPN, L2TP/IPsec, and OpenVPN, providing flexible and scalable remote access solutions for various platforms and devices.
+- **Tailscale**: Secure remote access to servers, Docker, Kubernetes, on-premise, databases, and VPCs. Tailscale makes creating software-defined networks easy: securely connecting users, services, and devices.
+- **Twingate**: Remote access for the modern Zero Trust network. Reduce your attack surface and empower your team with lightning-fast remote access backed by powerful security controls
+- **Cloudflare Tunnels**: Fast, reliable Zero Trust Network Access (ZTNA). Cloudflare Tunnel provides you with a secure way to connect your resources to Cloudflare without a publicly routable IP address. The Tunnel daemon creates an encrypted tunnel between your origin web server and Cloudflare's nearest data center, all without opening any public inbound ports.
+- **RustDesk**: A full-featured open-source remote control alternative for self-hosting and security with minimal configuration.
+- **Netbird**: Connect and Secure Your IT Infrastructure in Minutes. NetBird combines a configuration-free peer-to-peer private network and a centralized access control system in a single open-source platform
+- **Apache Guacamole**: A clientless remote desktop gateway. It supports standard protocols like VNC, RDP, and SSH. Also supports VDI, providing access to virtual desktops and applications through a web browser without requiring client software installation.
+- **KASM Workspaces**: An open-source workspace streaming platform. Supports browser-based access to a secure and customized work environment. Work from any location on any device. Does Desktop as a Service with support for Windows, Linux, MacOS, Android, and more including GPU passthrough. Virtual desktop interface in your browser.
+- **oVirt**: An open-source virtualization platform that supports VDI deployment, enabling centralized management of virtual desktops and integration with hypervisors like KVM and VMware.
+- **Proxmox Virtual Environment**: While primarily a virtualization platform, Proxmox VE supports VDI deployment through integration with QEMU/KVM and LXC, providing virtual desktops and applications for enterprise environments.
+
+### 36. Data Backup and Restore
+Protect your critical data and ensure business continuity with open-source data backup and restore solutions. Safeguard against data loss, streamline recovery processes, and maintain data integrity with scalable and reliable backup solutions.
+
+**Examples**:
+- **Bacula**: An open-source backup and recovery software that supports data backup, restore, and verification across heterogeneous networks, providing robust data protection capabilities.
+- **Duplicati**: An open-source backup client that securely stores encrypted, incremental backups to cloud storage providers, ensuring data availability and disaster recovery.
+- **UrBackup**: An open-source client/server backup system that supports file and image backups for Windows and Linux systems, offering centralized management and efficient data protection.
+
+### 37. Identity, Single Sign-On, Authentification and Access Management
+Simplify user authentication and enhance security with open-source identity and access management solutions. Enable seamless access to applications, enforce security policies, and streamline user provisioning and management.
+
+**Examples**:
+- **Keycloak**: An open-source identity and access management solution that provides single sign-on (SSO), identity brokering, and social login capabilities, supporting secure access to applications and services.
+- **FreeIPA**: An open-source identity management system for Linux and Unix environments that integrates LDAP directory services, Kerberos authentication, and DNS services, facilitating centralized user management and authentication.
+- **Shibboleth**: An open-source identity federation system that enables secure single sign-on across organizational boundaries, supporting interoperability and federated authentication for web applications and services.
+- **Authentik**: An IdP (Identity Provider) and SSO (single sign-on) that is built with security at the forefront of every piece of code, every feature, with an emphasis on flexibility and versatility.
+
+## Other Open-Source Software Supported +800 More
+
+Other open-source software solutions we offer with support for 800+ more:
+
 ### LogicalDOC: Your Solution to Going Paperless in the Office
 - It is a management tool, a specialized form of document management software designed to help its users in organizing and storing digital or paper documents.
 - Streamline the Management of Health Information Using a Document Control System.
@@ -352,89 +388,35 @@ The customized open-source software solutions we provide with support for 800+ m
 - It includes a sleek and intuitive workflow designer, agenda management capabilities, and various options for uploading, organizing, and distributing your documents.
 - With LogicalDOC, you and your coworkers will be able to share a variety of coauthored documents and keep track of changes made to them, that is version control.
 - Features an audit trail, workflow management, 
-### GLPI: Your open source tool to manage Helpdesk and IT assets
-- Organize your support easily with GLPI: manage incidents/requests, create forms, define SLAs, and deliver the best experience to your customers
-- Manage hardware, software, and data centers. Link Asset inventory to the Helpdesk and get 360° control of your IT and business infrastructure.
-- Track your expenses, contracts, and suppliers, create new inventory objects, manage user databases, and make reports.
-- Track licenses including SSL, and software licenses, and be notified when they expire.
-### Wazuh: Open-source Extended Detection and Response, Security Information and Event Management, Threat Detection, and Security Platform
-- It does unified extended detection and response.
-- Also has security information and event management.
-- It collects, aggregates, indexes, and analyzes security data, helping organizations detect intrusions, threats, and behavioral anomalies
-- Supports XDR, SIEM, Threat Detection, and Security Monitoring
-### Immich: Never lose marketing material and organization photos again
-- It's a photo and video management solution
-- Comes with facial recognition
-- Has machine learning
-- You can share entire albums or individual pictures
-### InvoiceNinja: Make it easy for clients to pay you
-- It's an invoicing  software
-- Allows you to accept payments online
-- Features time-tracking tasks & projects
-- Track inventory, categorize vendors, re-invoice expenses
-- Connect bank & financial accounts to import & sync transactions automatically from your bank, credit cards, and PayPal data.
-- Includes ready-made templates
-### Odoo: All your business on one platform
-- It's a suite of open-source business apps
-- It covers all your company needs: CRM, eCommerce, accounting, inventory, point of sale, project management, digital signing, knowledge base, human resource, helpdesk, website builder, elearning, live chat, blog, document management, spreadsheets, invoicing, marketing, VoIP,  etc
 ### Twenty: CRM for Professional Relationships
 - It's a modern, powerful, affordable platform to manage your customer relationships.
 - Great UI/UX Design
 - Manage contacts, interactions, and relationships seamlessly.
 - Strengthen client and customer engagement.
-### n8n: Workflow Automation Made Easy
-- Automate repetitive tasks across applications.
-- Boost productivity and reduce manual effort.
-### Stirling PDF: Fine-Tuned PDF Manipulation
-- Edit, merge, split, and secure PDFs effortlessly.
-- Ensure compliance and professional document handling.
-### OpenStack: Your Very Own Online Cloud Platform
-- Provides comprehensive services for managing computing, storage, and networking resources.
-- Government agencies and private enterprises widely adopt it.
-### MediaWiki: Company Knowledgebase
-- It's a wiki platform that powers Wikipedia.
-- It's used to create collaborative websites and online knowledge bases.
-- Organize organizational and procedural knowledge.
-### Rocket.Chat: Real-time Chat and Collaboration
-- It's an open-source web-based team communication platform.
-- Features chat, video conferencing, and file sharing.
 ### DocuSeal: Digital Signing Platform
 - Sign documents online.
 - Send documents for signing.
 - Supports creating, managing, and signing documents
 - Multiple parties can review, fill, and sign documents making collaboration seamless and efficient
-### Stirling PDF: Comprehensive PDF Manipulation Tool
-- Supports merging, splitting, converting, reorganizing, rotating and compressing PDFs
 ### Passbolt: Enterprise Password Management for Teams
 - Does password management, secure sharing, and sensitive data storage
 - It monitors credentials
-### Zabbix: Powerful IT Infrastructure & Networking Monitoring Tool
-- Monitors applications, servers, databases, websites, cloud services, containers, and networks(bandwidth, performance, metrics)
-- Supports agent-based and agentless monitoring
-- Can detect problems, alert, visualize, and collect data
 ### Additional Solutions for Enterprise and GovTech:
 - Mirotalk/Jitsi: Video conferencing for seamless virtual meetings.
 - IT Tools: Tackle most technical challenges with this multi-tool.
 - Xibo Digital Signage: Market your organization through spare office screens/TVs/tablets.
-- Snipe-it: Mange helpdesk, IT Licensing, and assets.
 - Gitlab: Git repository management + complete CI/CD toolchain.
 - Zammad: Support and ticketing.
 - Penpot: Inhouse design tool.
-- Grafana/Prometheus: IT infrastructure monitoring.
 - Cal.com: Automated appointment setting platform.
-- KASM: Virtual desktop interface in your browser.
 - MongoDB/Postgres: Popular database platform.
 - Sonatype Nexus: integrated governance platform that accelerates innovation and improves application security.
-- ERPNext/Dolibar: Robust ERP.
 - Sequent: Verifiable online voting solution.
 - Seafile: Open Source File Sync, Share, and Document Collaboration Platform.
-- Docspell/Alfresco: Robust Document Management System
-- OpenProject: Project management tool for collaboration, task tracking and resource management
-- SuiteCRM/CiviCRM: Customer relationship manager
+- Docspell: Robust Document Management System
 - Obsidian/Affine: Powerful note-taking software with sync
 - Photprism/Immich: AP Powered photo gallery and backup
 - Webmin/Cockpit - Web GUI Server Management Tool
-- Tailscale/Twingate/Cloudflare Tunnels/Netbird: Secure remote access
 - Portainer CE/Yacht: GUI web docker container management tool
 - and MORE
 

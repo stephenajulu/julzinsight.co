@@ -377,33 +377,9 @@ Simplify user authentication and enhance security with open-source identity and 
 - **Shibboleth**: An open-source identity federation system that enables secure single sign-on across organizational boundaries, supporting interoperability and federated authentication for web applications and services.
 - **Authentik**: An IdP (Identity Provider) and SSO (single sign-on) that is built with security at the forefront of every piece of code, every feature, with an emphasis on flexibility and versatility.
 
-## Other Open-Source Software Supported +800 More
+### Additional OSS Solutions for Enterprise and GovTech:
+Other open-source software solutions we offer with support for 800+ more tailored to fit.
 
-Other open-source software solutions we offer with support for 800+ more:
-
-### LogicalDOC: Your Solution to Going Paperless in the Office
-- It is a management tool, a specialized form of document management software designed to help its users in organizing and storing digital or paper documents.
-- Streamline the Management of Health Information Using a Document Control System.
-- The ability to trace documents for commercial negotiation from their beginning to conclusion anywhere and at any time gives you a unique opportunity for the work quality of agents and commercials.
-- File storage and quick retrieval of the documents.
-- Manage your documents with this web-based document management software with a user-friendly platform.
-- It includes a sleek and intuitive workflow designer, agenda management capabilities, and various options for uploading, organizing, and distributing your documents.
-- With LogicalDOC, you and your coworkers will be able to share a variety of coauthored documents and keep track of changes made to them, that is version control.
-- Features an audit trail, workflow management, 
-### Twenty: CRM for Professional Relationships
-- It's a modern, powerful, affordable platform to manage your customer relationships.
-- Great UI/UX Design
-- Manage contacts, interactions, and relationships seamlessly.
-- Strengthen client and customer engagement.
-### DocuSeal: Digital Signing Platform
-- Sign documents online.
-- Send documents for signing.
-- Supports creating, managing, and signing documents
-- Multiple parties can review, fill, and sign documents making collaboration seamless and efficient
-### Passbolt: Enterprise Password Management for Teams
-- Does password management, secure sharing, and sensitive data storage
-- It monitors credentials
-### Additional Solutions for Enterprise and GovTech:
 - Mirotalk/Jitsi: Video conferencing for seamless virtual meetings.
 - IT Tools: Tackle most technical challenges with this multi-tool.
 - Xibo Digital Signage: Market your organization through spare office screens/TVs/tablets.
@@ -420,7 +396,9 @@ Other open-source software solutions we offer with support for 800+ more:
 - Photprism/Immich: AP Powered photo gallery and backup
 - Webmin/Cockpit - Web GUI Server Management Tool
 - Portainer CE/Yacht: GUI web docker container management tool
-- and MORE
+- Twenty - Professional CRM
+- DocuSeal - Digital signing platform for documents
+- Passbold/Vaultwarden - Password Management
 
 ## Our Promise To You:
 - Remote Monitoring and Maintenance: Keep your systems running smoothly 24/7.

@@ -19,7 +19,7 @@
       <article class="cell post-card">
         {{ if $service.Params.thumb_image }}
         <a class="post-card__image" href="{{ $service.URL }}">
-          <img src="{{ $service.Params.thumb_image | relURL }}" alt="{{ $post.service.thumb_image_alt }}" />
+          <img src="{{ $service.Params.thumb_image | relURL }}" alt="{{ $service.thumb_image_alt }}" />
         </a>
         {{ end }}
         <header class="post-card__header">

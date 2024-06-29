@@ -36,6 +36,8 @@ seo:
 layout: post
 ---
 
+<a href="/open-source-solutions" class="button button--primary" style="text-color: white;>Simplyfiy</a>
+
 At Julz Insight, we’re your trusted partner in open-source technology. We streamline powerful software, enhance security, and optimize performance. Whether you’re a startup, enterprise, or government agency, we tailor solutions to your needs.
 
 Here's what we offer:

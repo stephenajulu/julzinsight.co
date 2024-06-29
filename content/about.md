@@ -18,7 +18,7 @@ sections:
         image: images/service-3.svg
         actions:
           - label: Learn more →
-            url: /services/open-source-solutions
+            url: /services/open-source-solutions-extended
             style: button
         content: |-
           We streamline open-source software for clients. We handle hosting, customization, and ongoing management. Our experts tailor the software to fit unique needs, ensuring security, compliance, and optimal performance. Whether it is the following or other bespoke open-source software solutions. We've got your back. 
@@ -32,7 +32,7 @@ sections:
         image: images/service-1.svg
         actions:
           - label: Learn more →
-            url: /services/tech-solutions
+            url: /services/tech-solutions-extended
             style: button
         content: |-
           We offer various tech solutions, including but not limited to web development and design, managed software solutions, business process automation, enterprise software solutions, ICT equipment supply, RPA, cloud, SEO, landing pages, sales funnel building, and AI. Our goal is to leverage tech in empowering businesses.

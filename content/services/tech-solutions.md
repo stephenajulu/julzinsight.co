@@ -36,7 +36,7 @@ seo:
 layout: post
 ---
 
-<a href="/tech-solutions-extended" class="button button--primary" style="text-color:white;">Extend</a>
+<a href="services/tech-solutions-extended" class="button button--primary" style="text-color:white;">Extend</a>
 
 At Julz Insight, we provide a comprehensive suite of tech solutions tailored to drive your business forward. Whether you need robust web development, reliable cloud management, or strategic consulting, our expert team is here to help you thrive in the digital era.
 

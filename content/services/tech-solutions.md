@@ -3,7 +3,7 @@ title: Cutting-Edge Tech Solutions
 subtitle: Empowering Your Business with Innovative Technology
 excerpt: >-
   At Julz Insight, we provide a comprehensive suite of tech solutions tailored to drive your business forward. Whether you need robust web development, reliable cloud management, or strategic consulting, our expert team is here to help you thrive in the digital era. Explore our diverse offerings and discover how we can transform your digital landscape.
-date: '2024-2-3'
+date: '2024-6-29'
 seo:
   title: Cutting-Edge Tech Solutions - Julz Insight | Tech Solutions with Software, Web, AI, Cloud, Open-Source & Digital Transformation Expertise
   description: >-

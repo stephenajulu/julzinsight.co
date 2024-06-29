@@ -36,7 +36,7 @@ seo:
 layout: post
 ---
 
-***[Simplified](/tech-solutions)***
+<a href="/tech-solutions" class="button button--primary" style="text-color: white;>Simplyfiy</a>
 
 At Julz Insight, we offer a comprehensive suite of tech solutions designed to propel your business forward. Whether you're seeking cutting-edge web development, dependable cloud management, or strategic consulting, our team of experts is ready to help you excel in the digital age. Discover our diverse range of services and see how we can transform your digital landscape.
 

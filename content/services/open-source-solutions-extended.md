@@ -40,7 +40,7 @@ At Julz Insight, we’re your trusted partner in open-source technology. We stre
 
 Here's what we offer:
 
-## Solutions
+## OSS Solutions
 
 We provide solutions that solve the following critical pain points and challenges using OSS:
 

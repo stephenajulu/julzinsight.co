@@ -36,7 +36,7 @@ seo:
 layout: post
 ---
 
-<span><a href="/open-source-solutions-extended" class="button button--primary" style="text-color: white;>Extend</a></span>
+<a href="/open-source-solutions-extended" class="button button--primary" style="text-color: white;">Extend</a>
 
 At Julz Insight, we provide a comprehensive suite of managed open-source software solutions designed to meet the diverse needs of modern businesses. Our expertise spans multiple domains, ensuring you have all the tools to enhance productivity, streamline operations, and drive innovation. 
 

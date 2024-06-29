@@ -40,7 +40,7 @@ At Julz Insight, we provide a comprehensive suite of managed open-source softwar
 
 Explore our offerings and discover how we can help you leverage the power of open-source technology to achieve your business goals and mandate.
 
-## Solutions
+## OSS Solutions
 
 Our Solutions Include:
 

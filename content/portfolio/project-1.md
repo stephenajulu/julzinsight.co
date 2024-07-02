@@ -2,7 +2,7 @@
 title: Case Study | Julz Insight - Revolutionizing Technology Solutions
 subtitle: Web Design and Development
 date: '2024-07-02'
-thumb_image: images/julzinsight2.png
+thumb_image: images/julzinsight2.jpeg
 thumb_image_alt: our website on a laptop
 sections:
   - type: image_section
@@ -28,7 +28,7 @@ sections:
     content: >-
       ***Solution***: A sleek, responsive website was developed, featuring a dark-themed aesthetic highlighting Julz Insight’s innovative approach. The site includes detailed service descriptions, case studies, and a portfolio of their cutting-edge projects.
   - type: image_section
-    image: images/julzinsight2.png
+    image: images/julzinsight2.jpeg
     image_alt: Our website's responsiveness is seen through 4 devices
     width: wide
   - type: text_section

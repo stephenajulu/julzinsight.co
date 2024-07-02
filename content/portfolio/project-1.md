@@ -1,5 +1,5 @@
 ---
-title: Case Study: Julz Insight - Revolutionizing Technology Solutions
+title: Case Study | Julz Insight - Revolutionizing Technology Solutions
 subtitle: Web Design and Development
 date: '2024-07-02'
 thumb_image: images/julzinsight1.png
@@ -35,14 +35,14 @@ sections:
     content: >-
       ***Results***: The new website effectively communicates Julz Insight's mission to build impactful tech solutions, resulting in increased engagement and a surge in project inquiries.
 seo:
-  title: Case Study: Julz Insight - Revolutionizing Technology Solutions
+  title: Case Study | Julz Insight - Revolutionizing Technology Solutions
   description: The firm needed a robust online presence to showcase their expertise in managed open-source software, digital transformation, and automation services.
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Case Study: Julz Insight - Revolutionizing Technology Solutions
+      value: Case Study | Julz Insight - Revolutionizing Technology Solutions
       keyName: property
     - name: 'og:description'
       value: The firm needed a robust online presence to showcase their expertise in managed open-source software, digital transformation, and automation services.
@@ -54,7 +54,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Case Study: Julz Insight - Revolutionizing Technology Solutions
+      value: Case Study | Julz Insight - Revolutionizing Technology Solutions
     - name: 'twitter:description'
       value: The firm needed a robust online presence to showcase their expertise in managed open-source software, digital transformation, and automation services.
     - name: 'twitter:image'

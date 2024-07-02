@@ -21,7 +21,7 @@ sections:
     content: >-
       ***Challenge***: The firm needed a robust online presence to showcase its expertise in managed open-source software, digital transformation, and automation services.
   - type: image_section
-    image: images/julzinsight0.png
+    image: images/julzinsight4.png
     image_alt: Our website on a ProDisplay XDR
     width: wide
   - type: text_section

@@ -34,14 +34,6 @@ sections:
   - type: text_section
     content: >-
       ***Results***: The new website effectively communicates Julz Insight's mission to build impactful tech solutions, resulting in increased engagement and a surge in project inquiries.
-  - type: image_section
-    image: images/julzinsight4.png
-    image_alt: The partial screenshot of our homepage on smartphones
-    width: wide
-  - type: image_section
-    image: images/julzinsight5.png
-    image_alt: The full screenshot of our homepage on smartphones
-    width: wide
 seo:
   title: Case Study | Julz Insight - Revolutionizing Technology Solutions
   description: The firm needed a robust online presence to showcase its expertise in managed open-source software, digital transformation, and automation services.

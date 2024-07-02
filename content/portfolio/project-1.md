@@ -2,11 +2,11 @@
 title: Design Is One
 subtitle: Print
 date: '2020-02-10'
-thumb_image: images/work-poster-1-thumb.jpg
+thumb_image: images/julzinsight0.png
 thumb_image_alt: Design Is One preview
 sections:
   - type: image_section
-    image: images/work-poster-1.jpg
+    image: images/julzinsight1.png
     image_alt: Design Is One 1
     caption: This is the caption of the image
     width: wide
@@ -21,7 +21,7 @@ sections:
       euismod nunc adipiscing lacinia erat ut sit. Arcu amet. Id massa aliquet
       arcu accumsan lorem amet accumsan.
   - type: image_section
-    image: images/work-poster-2.jpg
+    image: images/julzinsight3.png
     image_alt: Design Is One 2
     width: wide
   - type: text_section
@@ -31,7 +31,7 @@ sections:
       placerat lorem turpis at. Aliquet lorem porttitor interdum. Amet lacus.
       Aliquam lobortis faucibus blandit ac phasellus.
   - type: image_section
-    image: images/work-poster-3.jpg
+    image: images/julzinsight4.png
     image_alt: Design Is One 3
     width: wide
   - type: text_section
@@ -58,7 +58,7 @@ seo:
       value: This is the sample project description
       keyName: property
     - name: 'og:image'
-      value: images/work-poster-1.jpg
+      value: images/julzinsight1.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
@@ -68,7 +68,7 @@ seo:
     - name: 'twitter:description'
       value: This is the sample project description
     - name: 'twitter:image'
-      value: images/work-poster-1.jpg
+      value: images/julzinsight1.png
       relativeUrl: true
 layout: project
 ---

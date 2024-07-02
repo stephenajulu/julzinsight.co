@@ -2,11 +2,11 @@
 title: Case Study | Julz Insight - Revolutionizing Technology Solutions
 subtitle: Web Design and Development
 date: '2024-07-02'
-thumb_image: images/julzinsight1.png
+thumb_image: images/julzinsight6.png
 thumb_image_alt: our website on a laptop
 sections:
   - type: image_section
-    image: images/julzinsight1.png
+    image: images/julzinsight6.png
     image_alt: our website on a laptop
     caption: This is the caption of the image
     width: wide

@@ -15,7 +15,7 @@ sections:
       ***Client Profile***: Julz Insight, a Nairobi-based tech firm, specializes in open-source software and offers comprehensive digital solutions to SMEs and government agencies.
   - type: image_section
     image: images/julzinsight3.png
-    image_alt: The full page of our homepage
+    image_alt: The full screenshot of our homepage on laptop and desktop devices
     width: wide
   - type: text_section
     content: >-
@@ -34,6 +34,14 @@ sections:
   - type: text_section
     content: >-
       ***Results***: The new website effectively communicates Julz Insight's mission to build impactful tech solutions, resulting in increased engagement and a surge in project inquiries.
+  - type: image_section
+    image: images/julzinsight4.png
+    image_alt: The partial screenshot of our homepage on smartphones
+    width: wide
+  - type: image_section
+    image: images/julzinsight5.png
+    image_alt: The full screenshot of our homepage on smartphones
+    width: wide
 seo:
   title: Case Study | Julz Insight - Revolutionizing Technology Solutions
   description: The firm needed a robust online presence to showcase its expertise in managed open-source software, digital transformation, and automation services.

@@ -81,11 +81,13 @@
 <body style="background-image: url('/images/julz5.jpg');background-color: #000000;background-position: center center;background-repeat: no-repeat;background-size: center; background-attachement: fixed;backdrop-filter: blur(40px);-webkit-backdrop-filter: blur(40px);" class="font-{{ .Site.Data.config.base_font }} palette-{{ .Site.Data.config.color_scheme }} accent-{{ .Site.Data.config.accent_color }}">
     <div id="site-wrap" class="site"> {{ partial "header.html" . }}
         <main id="content" class="site-content"> {{ block "content" . }}{{ end }} </main>
+        
          <div class="container container--lg" style="align:center;align-items:center;text-align:center;">
              <h2 style="text-align:center;">Subscribe To Our Newsletter</h2>
              <p style="font-family:Poppins;text-align:center;">Get our latest content, industry trends, expert insights, actionable tips, events and offers via email</p>
-             <script async data-uid="c2edbe965e" src="https://winning-inventor-367.ck.page/c2edbe965e/index.js"></script>
+             <div class="container container--lg" style="align:center;align-items:center;text-align:center;"><script async data-uid="c2edbe965e" src="https://winning-inventor-367.ck.page/c2edbe965e/index.js"></script></div>
          </div>
+        
         <br>
         {{ partial "footer.html" . }}
     </div>

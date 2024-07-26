@@ -26,14 +26,14 @@ sections:
           - label: Learn more →
             url: /services/open-source-solutions
             style: button
-        content: We streamline open-source software for clients. We handle hosting, customization, security, access and ongoing management. Our experts tailor the software to fit unique needs, ensuring security, compliance, and optimal performance.
+        content: We streamline open-source software for clients. We handle hosting, customization, security, access, and ongoing management. Our experts tailor the software to fit unique needs, ensuring security, compliance, and optimal performance.
       - title: Tech Solutions
         image: images/service-3.svg
         actions:
           - label: Learn more →
             url: /services/tech-solutions
             style: button
-        content:  We offer a wide range of tech solutions. We offer web development, visual identity design, ICT equipment vending, digital transformation, digitization, cloud, enterprise software, backup, disaster recovery, and managed services.
+        content:  We enhance business operations by offering web development, visual identity design, ICT equipment vending, digital transformation, digitization, cloud, enterprise software, backup, disaster recovery, and managed services.
   - type: cta_section
     section_id: cta
     title: Let’s Build Together!

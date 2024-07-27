@@ -25,13 +25,8 @@
                 "style": "link"
             },
             {
-                "label": "Contact",
+                "label": "Get in Touch →",
                 "url": "/contact/",
-                "style": "link"
-            },
-            {
-                "label": "Get Started Now →",
-                "url": "/consultation/",
                 "style": "button"
             }
         ]

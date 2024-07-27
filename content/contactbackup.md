@@ -5,65 +5,68 @@ sections:
   - type: form_section
     section_id: contact-form
     content: >-
-      Are you tired of dealing with frustrating IT issues and inefficient technology solutions? Look no further! Julz Insight is here to help. Our team of highly skilled IT professionals is ready to provide the solutions and guidance you need to take your business to the next level. Don't waste any more time struggling with outdated or inadequate technology. Contact Julz Insight today and see how our expertise and personalized approach can benefit your company. Take the first step towards streamlined and effective IT solutions by reaching out to us now.
+      Thank you for your interest in Julz Insight! We’re passionate about creating impactful tech solutions for businesses and individuals alike. Whether you’re looking for managed open-source solutions or custom tech services, we’re here to help. Reach out to us using the form below, and let’s discuss how we can collaborate.
     
-      Let’s build something impactful together.<br>
-
-      Complete our contact form or send us an email at
-      [info@julzinsight.co](mailto:info@julzinsight.co).
-
+      You can also send us an email at [info@julzinsight.co](mailto:info@julzinsight.co).
+    
     form_id: contactForm
     form_action: /thank-you
     form_fields:
       - input_type: text
         name: name
         label: Name
-        default_value: Your name
+        default_value: What's your name?
+        is_required: true
+      - input_type: text
+        name: company
+        label: Company
+        default_value: What's the name of your company?
         is_required: true
       - input_type: email
         name: email
         label: Email
-        default_value: Your email address
+        default_value: What's your email address?
         is_required: true
-      - input_type: select
-        name: subject
-        label: What services are you looking for?
-        default_value: Please select
-        options:
-          - Design
-          - Development
-          - Marketing
-          - IT Consultation
-          - As-a-service
-          - Other
+      - input_type: textarea
+        name: challenges
+        label: Challenges
+        default_value: What specific challenges is your company facing?
+      - input_type: text
+        name: timeline
+        label: Potential Timeline
+        default_value: What is your timeline for implementing a solution?
+      - input_type: text
+        name: budget
+        label: Budget Range
+        default_value: What budget range are you working with?
       - input_type: textarea
         name: message
         label: Message
-        default_value: Your message
+        default_value: What would you like to add?
       - input_type: checkbox
         name: consent
         label: >-
-          I understand that this form is storing my submitted information so I
-          can be contacted.
+          I understand that this form stores my submitted information so I
+          can be reached.
     submit_label: Send Message
 seo:
-  title: Contact - Julz Insight
-  description: Contact the Julz Insight team
+  title: Contact - Julz Insight | Tech Solutions with Software, Web, Cloud & Digital Transformation Expertise
+  description: We’re passionate about creating impactful tech solutions for businesses and individuals. Get in touch with us using the form below, and let’s discuss how we can collaborate.
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Contact - Julz Insight
+      value: Contact - Julz Insight | Tech Solutions with Software, Web, Cloud & Digital Transformation Expertise
       keyName: property
     - name: 'og:description'
-      value: Contact the Julz Insight team
+      value: We’re passionate about creating impactful tech solutions for businesses and individuals. Get in touch with us using the form below, and let’s discuss how we can collaborate.
       keyName: property
     - name: 'twitter:card'
       value: summary
     - name: 'twitter:title'
-      value: Contact - Julz Insight
+      value: Contact - Julz Insight | Tech Solutions with Software, Web, Cloud & Digital Transformation Expertise
     - name: 'twitter:description'
-      value: Contact the Julz Insight team
+      value: We’re passionate about creating impactful tech solutions for businesses and individuals. Get in touch with us using the form below, and let’s discuss how we can collaborate.
 layout: advanced
 ---

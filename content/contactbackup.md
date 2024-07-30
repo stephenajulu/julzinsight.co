@@ -7,7 +7,7 @@ sections:
     content: >-
       Thank you for your interest in Julz Insight! We’re passionate about creating impactful tech solutions for businesses and individuals alike. Whether you’re looking for managed open-source solutions or custom tech services, we’re here to help. Reach out using the form below and discuss how we can collaborate.
     
-      Alternatively, email us at [info@julzinsight.co](mailto:info@julzinsight.co).
+      Alternatively, send us an email at [info@julzinsight.co](mailto:info@julzinsight.co).
 
 
       ***

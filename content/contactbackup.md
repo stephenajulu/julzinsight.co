@@ -14,7 +14,7 @@ sections:
 
       ## Schedule a chat with our CEO Stephen
 
-      <a 
+      <a href="/contact/" class="button button--primary" style="text-color: white;">Schedule a Consult →</a>
     
     form_id: contactForm
     form_action: /thank-you

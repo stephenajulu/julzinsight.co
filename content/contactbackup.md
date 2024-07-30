@@ -13,16 +13,8 @@ sections:
       ***
 
 
-      ## Our Offices
-
-
-      ### Nairobi, Kenya
-
-      Galexon House<br>
-
-      Mbagathi Way<br>
-
-      +254 740 128 010<br>
+      ## Schedule a chat with our CEO Stephen
+      {{< consult.html >}}
     
     form_id: contactForm
     form_action: /thank-you

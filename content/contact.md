@@ -1,6 +1,6 @@
 ---
 title: Ready to collaborate? Contact us
-subtitle: Schedule a 1-on-1 consultation with our Stephen Ajulu, our CEO over video conferencing. Select a date from the calendar below and get expert advice for your needs. Join the video conference easily with our team's guidance. Alternatively fill in the contact form and start achieving your goals now.
+subtitle: Schedule a 1-on-1 consultation with Stephen, our CEO over video conferencing. Select a date from the calendar below and get expert advice. Join the video conference easily with our team's guidance. Alternatively, fill in the contact form and start achieving your goals now.
 hide_title: false
 sections:
   - type: content_section
@@ -9,7 +9,7 @@ sections:
     image_alt: Our team in the meeting room
 seo:
   title: Contact - Julz Insight | Tech Solutions with Web, AI, Digital Transformation & Cloud Expertise
-  description: Schedule a 1-on-1 consultation with our Stephen Ajulu, our CEO over video conferencing. Select a date from the calendar below and get expert advice for your needs. Join the video conference easily with our team's guidance. Alternatively fill in the contact form and start achieving your goals now.
+  description: Schedule a 1-on-1 consultation with Stephen Ajulu, our CEO over video conferencing. Select a date from the calendar below and get expert advice. Join the video conference easily with our team's guidance. Alternatively, fill in the contact form and start achieving your goals now.
   extra:
     - name: 'og:type'
       value: website
@@ -18,7 +18,7 @@ seo:
       value: Contact - Julz Insight | Tech Solutions with Web, AI, Digital Transformation & Cloud Expertise
       keyName: property
     - name: 'og:description'
-      value: Schedule a 1-on-1 consultation with our Stephen Ajulu, our CEO over video conferencing. Select a date from the calendar below and get expert advice for your needs. Join the video conference easily with our team's guidance. Alternatively fill in the contact form and start achieving your goals now.
+      value: Schedule a 1-on-1 consultation with Stephen Ajulu, our CEO over video conferencing. Select a date from the calendar below and get expert advice. Join the video conference easily with our team's guidance. Alternatively, fill in the contact form and start achieving your goals now.
       keyName: property
     - name: 'og:image'
       value: images/about.jpg
@@ -29,7 +29,7 @@ seo:
     - name: 'twitter:title'
       value: Contact - Julz Insight | Tech Solutions with Web, AI, Digital Transformation & Cloud Expertise
     - name: 'twitter:description'
-      value: Schedule a 1-on-1 consultation with our Stephen Ajulu, our CEO over video conferencing. Select a date from the calendar below and get expert advice for your needs. Join the video conference easily with our team's guidance. Alternatively fill in the contact form and start achieving your goals now.
+      value: Schedule a 1-on-1 consultation with Stephen Ajulu, our CEO over video conferencing. Select a date from the calendar below and get expert advice. Join the video conference easily with our team's guidance. Alternatively, fill in the contact form and start achieving your goals now.
     - name: 'twitter:image'
       value: images/about.jpg
       relativeUrl: true

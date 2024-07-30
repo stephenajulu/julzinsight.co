@@ -14,7 +14,7 @@ sections:
 
 
       ## Schedule a chat with our CEO Stephen
-      {{< consult.html >}}
+      {{< consult.html />}}
     
     form_id: contactForm
     form_action: /thank-you

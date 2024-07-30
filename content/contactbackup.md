@@ -8,6 +8,21 @@ sections:
       Thank you for your interest in Julz Insight! We’re passionate about creating impactful tech solutions for businesses and individuals alike. Whether you’re looking for managed open-source solutions or custom tech services, we’re here to help. Reach out to us using the form below, and let’s discuss how we can collaborate.
     
       You can also send us an email at [info@julzinsight.co](mailto:info@julzinsight.co).
+
+
+      ***
+
+
+      ## Our Offices
+
+
+      ### Nairobi, Kenya
+
+      Galexon House<br>
+
+      Mbagathi Way<br>
+
+      +254 740 128 010<br>
     
     form_id: contactForm
     form_action: /thank-you

@@ -14,7 +14,7 @@ sections:
 
       ## Schedule a chat with our CEO Stephen
 
-      {{< consult >}}
+      <div>{{< consult >}}</div>
     
     form_id: contactForm
     form_action: /thank-you
@@ -77,5 +77,3 @@ seo:
       value: We’re passionate about creating impactful tech solutions for businesses and individuals. Get in touch with us using the form below, and let’s discuss how we can collaborate.
 layout: advanced
 ---
-
-{{< consult >}}

@@ -15,6 +15,13 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-rendering: optimizeLegibility;
+   background-image: url('/images/julz5.jpg') !important;
+   background-position: center center !important;
+   background-repeat: no-repeat !important;
+   background-size: center !important;
+   background-attachment: fixed !important;
+   backdrop-filter: blur(40px) !important;
+   -webkit-backdrop-filter: blur(40px) !important;
 }
 
 @each $font, $stack in $fonts {

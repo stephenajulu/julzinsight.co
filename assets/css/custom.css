@@ -1,7 +1,7 @@
 /* ===== Background CSS ===== */
   *, body, .background-image {
     background-image: url('/images/julz5.jpg') !important;
-    background-color: #000000 !important;
+    background-color: #000000;
     background-position: center center !important;
     background-repeat: no-repeat !important;
     background-size: center !important;

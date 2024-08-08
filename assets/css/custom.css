@@ -25,7 +25,7 @@
     background-color: #000000;
     background-position: center center;
     background-repeat: no-repeat;
-    background-size: cover; /* center */
+    background-size: center; /* center */
     background-attachment: fixed;
     backdrop-filter: blur(40px);
     -webkit-backdrop-filter: blur(40px);

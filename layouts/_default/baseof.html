@@ -78,7 +78,7 @@
 </head>
 
     
-<body class="font-{{ .Site.Data.config.base_font }} palette-{{ .Site.Data.config.color_scheme }} accent-{{ .Site.Data.config.accent_color }} background-image">
+<body class="font-{{ .Site.Data.config.base_font }} palette-{{ .Site.Data.config.color_scheme }} accent-{{ .Site.Data.config.accent_color }} background">
     <div id="site-wrap" class="site content"> {{ partial "header.html" . }}
         <main id="content" class="site-content"> {{ block "content" . }}{{ end }} </main>
         

@@ -50,8 +50,8 @@
     }
   }
   
-  &--primary {
-    background: linear-gradient(to right, rgba(255, 255, 255, 0) 50%, $color-accent 50%);
+  &--secondary {
+    background: linear-gradient(to left, rgba(255, 255, 255, 0) 50%, $color-accent 50%);
     background-color: transparent;
     background-position: left bottom;
     background-repeat: no-repeat;

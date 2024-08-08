@@ -27,6 +27,7 @@
     background-repeat: no-repeat;
     background-size: center; /* center */
     background-attachment: fixed;
+    height: 100vh;
     width: 100%;
     backdrop-filter: blur(40px);
     -webkit-backdrop-filter: blur(40px);

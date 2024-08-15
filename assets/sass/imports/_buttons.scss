@@ -50,42 +50,21 @@
     }
   }
 
-&--secondary2 {
-  background: transparent;
-  border: 2px solid $color-accent;
-  color: $color-accent;
-  background-size: 200% 100%;
-  background-position: 0% 100%;
-  background-repeat: no-repeat;
-  -webkit-transition: background-position .3s, color .3s;
-  transition: background-position .3s, color .3s;
-
-  &:hover,
-  &:focus,
-  &:active {
-    background: linear-gradient(to right, rgba(255, 255, 255, 0) 50%, $color-accent 50%);
-    color: #fff;
-    background-position: 100% 100%;
-    opacity: 1;
+  &--tertiary {
+    background-color: transparent;
+    border: 2px solid $color-accent;
+    color: $color-accent;
+    -webkit-transition: color .3s, border-color .3s;
+    transition: color .3s, border-color .3s;
+  
+    &:hover,
+    &:focus,
+    &:active {
+      color: #fff;
+      background-color: $color-accent;
+      opacity: 1;
+    }
   }
-}
-
-
-&--tertiary {
-  background-color: transparent;
-  border: 2px solid $color-accent;
-  color: $color-accent;
-  -webkit-transition: color .3s, border-color .3s;
-  transition: color .3s, border-color .3s;
-
-  &:hover,
-  &:focus,
-  &:active {
-    color: #fff;
-    background-color: $color-accent;
-    opacity: 1;
-  }
-}
 }
 
 .button-group {

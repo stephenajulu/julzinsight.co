@@ -60,7 +60,7 @@
     &:hover,
     &:focus,
     &:active {
-      background: linear-gradient(to right, rgba(255, 255, 255, 0) 50%, $color-accent 50%);
+      background: linear-gradient(to left, rgba(255, 255, 255, 0) 50%, $color-accent 50%);
       background-position: right bottom;
       background-repeat: no-repeat;
       background-size: 204% 100%;

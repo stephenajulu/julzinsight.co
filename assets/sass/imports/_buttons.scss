@@ -54,8 +54,6 @@
     background-color: transparent;
     border: 2px solid $color-accent;
     color: $color-accent;
-    -webkit-transition: background-position .3s, color .3s;
-    transition: background-position .3s, color .3s;
 
     &:hover,
     &:focus,
@@ -65,6 +63,8 @@
       background-repeat: no-repeat;
       background-size: 204% 100%;
       color: #fff;
+      -webkit-transition: background-position .3s, color .3s;
+      transition: background-position .3s, color .3s;
       opacity: 1;
     }
   }

@@ -50,6 +50,21 @@
     }
   }
 
+  &--secondary {
+    background-color: transparent;
+    border: 2px solid $color-accent;
+    color: $color-accent;
+    -webkit-transition: color .3s, border-color .3s;
+    transition: color .3s, border-color .3s;
+  
+    &:hover,
+    &:focus,
+    &:active {
+      color: #fff;
+      border: 2px solid #fff;
+    }
+  }
+
   &--tertiary {
     background-color: transparent;
     border: 2px solid $color-accent;

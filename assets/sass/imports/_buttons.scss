@@ -50,12 +50,12 @@
     }
   }
 
-  &--secondary2 {
+&--secondary2 {
   background: transparent;
   border: 2px solid $color-accent;
   color: $color-accent;
   background-size: 200% 100%;
-  background-position: left bottom;
+  background-position: 0% 100%;
   background-repeat: no-repeat;
   -webkit-transition: background-position .3s, color .3s;
   transition: background-position .3s, color .3s;
@@ -65,10 +65,11 @@
   &:active {
     background: linear-gradient(to right, rgba(255, 255, 255, 0) 50%, $color-accent 50%);
     color: #fff;
-    background-position: right bottom;
+    background-position: 100% 100%;
     opacity: 1;
   }
 }
+
 
 &--tertiary {
   background-color: transparent;

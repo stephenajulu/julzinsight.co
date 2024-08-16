@@ -2,7 +2,7 @@
 title: Articles
 subtitle: Read Julz Insight's research, news, tips and highlights
 hide_title: false
-col_number: three
+col_number: two
 seo:
   title: Articles - Julz Insight
   description: Read Julz Insight's research, news, tips and highlights

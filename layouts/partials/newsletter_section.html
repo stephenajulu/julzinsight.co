@@ -1,0 +1,41 @@
+<style>
+    .newsletter-form {
+  display: flex;
+  border-radius: 10px;
+  overflow: hidden;
+  width: 471px;
+}
+
+.newsletter-form input[type="email"] {
+  flex: 1;
+  padding: 10px;
+  border: 1px solid #542bff;
+  border-radius: 30px 0 0 30px;
+}
+
+.newsletter-form input[type="email"]::placeholder {
+  color: #888;
+}
+
+
+.newsletter-form button {
+  padding: 10px 20px;
+  background-color: #542bff;
+  color: #fff;
+  border: none;
+  border-radius: 0 30px 30px 0;
+}
+    @media only screen and (max-width: 768px) {
+ .newsletter-form {
+  width: 60%;
+}
+}
+</style>
+<div class="container newsletter container--md" id="newsletter" align="center">
+        <h3 class="title">Subscribe to Our Newsletter</h3>
+        <p>Get our latest content, industry trends, insights, tips & offers to your email</p>
+    <form class="newsletter-form">
+    <input type="email" placeholder="your@email.com">
+    <button type="submit">Subscribe</button>
+  </form>
+  </div>

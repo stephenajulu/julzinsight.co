@@ -32,11 +32,12 @@
 }
 </style>
 
-<div class="container newsletter container--lg" id="newsletter" align="center">
+<div class="container newsletter container--lg" id="newsletter" style="align:center;align-items:center;text-align:center;">
         <h3 class="title">Subscribe to Our Newsletter</h3>
         <p>Get our latest insights, industry trends, resources & offers</p>
-    <form class="newsletter-form">
-    <input type="email" placeholder="your@email.com">
+    <form class="newsletter-form" method="POST" data-netlify="true">
+    <input type="email" placeholder="your@email.com" name="emailsubscription">
     <button type="submit">Subscribe</button>
   </form>
+    <br>
   </div>

@@ -1,5 +1,5 @@
 ---
-title: The Book
+title: The Book Case Study
 subtitle: Editorial Design
 date: '2020-04-10'
 thumb_image: images/work-book-cover-1-thumb.jpg
@@ -45,14 +45,14 @@ sections:
       euismod nunc adipiscing lacinia erat ut sit. Arcu amet. Id massa aliquet
       arcu accumsan lorem amet accumsan.
 seo:
-  title: The Book
+  title: The Book | Case Study - Julz Insight
   description: This is the sample project description
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: The Book
+      value: The Book Editorial Design | Case Study - Julz Insight
       keyName: property
     - name: 'og:description'
       value: This is the sample project description
@@ -64,7 +64,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: The Book
+      value: The Book | Case Study - Julz Insight
     - name: 'twitter:description'
       value: This is the sample project description
     - name: 'twitter:image'

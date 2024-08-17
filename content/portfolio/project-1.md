@@ -12,13 +12,7 @@ sections:
     width: wide
   - type: text_section
     content: >-
-      ***Client Profile***: Julz Insight, a Nairobi-based tech firm, specializes in open-source software and offers comprehensive digital solutions to SMEs and government agencies.<br>
-
-     ***Challenge***: The firm needed a robust online presence to showcase its expertise in managed open-source software, digital transformation, and automation services.<br>
-
-    ***Solution***: A sleek, responsive website was developed, featuring a dark-themed aesthetic highlighting Julz Insight’s innovative approach. The site includes detailed service descriptions, case studies, and a portfolio of their cutting-edge projects.<br>
-
-    ***Results***: The new website effectively communicates Julz Insight's mission to build impactful tech solutions, resulting in increased engagement and a surge in project inquiries.
+      ***Client Profile***: Julz Insight, a Nairobi-based tech firm, specializes in open-source software and offers comprehensive digital solutions to SMEs and government agencies.<br>***Challenge***: The firm needed a robust online presence to showcase its expertise in managed open-source software, digital transformation, and automation services.<br>***Solution***: A sleek, responsive website was developed, featuring a dark-themed aesthetic highlighting Julz Insight’s innovative approach. The site includes detailed service descriptions, case studies, and a portfolio of their cutting-edge projects.<br>***Results***: The new website effectively communicates Julz Insight's mission to build impactful tech solutions, resulting in increased engagement and a surge in project inquiries.
   - type: image_section
     image: images/julzinsight3.png
     image_alt: The full screenshot of our homepage on laptop and desktop devices

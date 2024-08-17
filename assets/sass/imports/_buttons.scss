@@ -65,6 +65,13 @@
       opacity: 1;
     }
   }
+
+  &--icon {
+    border: 0;
+    color: inherit;
+    font-size: 1em;
+    padding: 0.25em 0;
+  }
 }
 
 .button-group {

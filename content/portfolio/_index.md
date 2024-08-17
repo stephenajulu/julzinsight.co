@@ -1,6 +1,6 @@
 ---
 title: Portfolio
-subtitle: Check out Julz Insight's portfolio and review our case studies
+subtitle: Review our portfolio, projects, products and case studies
 layout_style: mosaic
 sections:
   - type: cta_section
@@ -16,17 +16,17 @@ sections:
     image_alt: Illustration
     bg_color: dark
 seo:
-  title: Portfolio - Julz Insight
-  description: Check out Julz Insight's portfolio and review our case studies
+  title: Portfolio - Julz Insight | Tech Solutions with Software, Web, Cloud & Digital Transformation Expertise
+  description: Check out Julz Insight's portfolio, projects, products, and case studies
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Portfolio - Julz Insight
+      value: Portfolio - Julz Insight | Tech Solutions with Software, Web, Cloud & Digital Transformation Expertise
       keyName: property
     - name: 'og:description'
-      value: Check out Julz Insight's portfolio and review our case studies
+      value: Check out Julz Insight's portfolio, projects, products, and case studies
       keyName: property
     - name: 'og:image'
       value: images/work-book-1.jpg
@@ -35,9 +35,9 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Portfolio - Julz Insight
+      value: Portfolio - Julz Insight | Tech Solutions with Software, Web, Cloud & Digital Transformation Expertise
     - name: 'twitter:description'
-      value: Check out Julz Insight's portfolio and review our case studies
+      value: Check out Julz Insight's portfolio, projects, products, and case studies
     - name: 'twitter:image'
       value: images/work-book-1.jpg
       relativeUrl: true

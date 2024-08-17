@@ -1,5 +1,5 @@
 ---
-title: Articles
+title: Articles & Resources
 subtitle: Read Julz Insight's research, news, tips and highlights
 hide_title: false
 col_number: two

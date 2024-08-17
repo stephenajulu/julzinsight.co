@@ -5,7 +5,7 @@ excerpt: >-
   At Julz Insight, we provide a comprehensive suite of managed open-source software solutions designed to meet the diverse needs of modern businesses. Our expertise spans across various domains, ensuring that you have the right tools to enhance productivity, streamline operations, and drive innovation. Explore our offerings and discover how we can help you leverage the power of open-source technology to achieve your business goals.
 date: '2024-5-29'
 seo:
-  title: Managed Open-Source Software Solutions - Julz Insight | Tech Solutions with Software, Web, AI, Cloud, Open-Source & Digital Transformation Expertise
+  title: Managed Open-Source Software Solutions | Solutions - Julz Insight
   description: >-
     At Julz Insight, we provide a comprehensive suite of managed open-source software solutions designed to meet the diverse needs of modern businesses. Our expertise spans across various domains, ensuring that you have the right tools to enhance productivity, streamline operations, and drive innovation. Explore our offerings and discover how we can help you leverage the power of open-source technology to achieve your business goals.
   extra:
@@ -13,7 +13,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Managed Open-Source Software Solutions - Julz Insight | Tech Solutions with Software, Web, AI, Cloud, Open-Source & Digital Transformation Expertise
+      value: Managed Open-Source Software Solutions | Solutions - Julz Insight
       keyName: property
     - name: 'og:description'
       value: >-
@@ -26,7 +26,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Managed Open-Source Software Solutions - Julz Insight | Tech Solutions with Software, Web, AI, Cloud, Open-Source & Digital Transformation Expertise
+      value: Managed Open-Source Software Solutions | Solutions - Julz Insight
     - name: 'twitter:description'
       value: >-
         At Julz Insight, we provide a comprehensive suite of managed open-source software solutions designed to meet the diverse needs of modern businesses. Our expertise spans across various domains, ensuring that you have the right tools to enhance productivity, streamline operations, and drive innovation. Explore our offerings and discover how we can help you leverage the power of open-source technology to achieve your business goals.

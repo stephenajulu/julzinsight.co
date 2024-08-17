@@ -4,14 +4,14 @@ subtitle: Read Julz Insight's research, news, tips and highlights
 hide_title: false
 col_number: two
 seo:
-  title: Articles - Julz Insight
+  title: Articles - Julz Insight | Tech Solutions with Software, Web, AI, Cloud & Digital Transformation Expertise
   description: Read Julz Insight's research, news, tips and highlights
   extra:
     - name: og:type
       value: website
       keyName: property
     - name: og:title
-      value: Articles - Julz Insight
+      value: Articles - Julz Insight | Tech Solutions with Software, Web, AI, Cloud & Digital Transformation Expertise
       keyName: property
     - name: og:description
       value: Read Julz Insight's research, news, tips and highlights
@@ -23,7 +23,7 @@ seo:
     - name: twitter:card
       value: summary_large_image
     - name: twitter:title
-      value: Articles - Julz Insight
+      value: Articles - Julz Insight | Tech Solutions with Software, Web, AI, Cloud & Digital Transformation Expertise
     - name: twitter:description
       value: Read Julz Insight's research, news, tips and highlights
     - name: twitter:image

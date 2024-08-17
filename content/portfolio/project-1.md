@@ -1,5 +1,5 @@
 ---
-title: Branding Julz Insight - A Tech Firm with Revolutionary Solutions
+title: Julz Insight Brand Development
 subtitle: Branding, Web Design and Development
 date: '2024-07-02'
 thumb_image: images/julzinsight6.png

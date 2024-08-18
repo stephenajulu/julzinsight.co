@@ -10,6 +10,11 @@
         "has_nav": true,
         "nav_links": [
             {
+                "label": "Home",
+                "url": "/",
+                "style": "link"
+            },
+            {
                 "label": "About",
                 "url": "/about/",
                 "style": "link"
@@ -32,7 +37,7 @@
         ]
     },
     "footer": {
-        "content": "&copy; Julz Insight | Tech Firm",
+        "content": "&copy; Julz Insight | Impactful Tech Solutions",
         "has_social": true,
         "social_links": [
             {

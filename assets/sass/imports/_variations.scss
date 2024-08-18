@@ -1,7 +1,15 @@
 // Alternative palettes and accent colors
 .palette-dark {
-  background: $color-gray-900;
+  // background: $color-gray-900;
   color: $color-gray-100;
+  background: url('/images/julz5.jpg') !important;
+  background-color: #000;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: center;
+  background-attachment: fixed;
+  backdrop-filter: blur(30px) !important;
+  -webkit-backdrop-filter: blur(30px) !important;
 
   hr,
   th,

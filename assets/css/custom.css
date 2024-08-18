@@ -3,6 +3,11 @@
   * {
     scrollbar-width: auto;
     scrollbar-color: #542bff #000000;
+    background-image: url('/images/julz5.jpg') !important;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    backdrop-filter: blur(30px) !important;
   }
 
   /* Chrome, Edge, and Safari */

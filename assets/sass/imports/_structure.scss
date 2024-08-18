@@ -5,14 +5,14 @@
   flex-direction: column;
   min-height: 100vh;
   position: relative;
-  background: url('/images/julz5.jpg') !important;
+  background-image: url('/images/julz5.jpg') !important;
   background-color: #000;
   background-position: center center;
   background-repeat: no-repeat;
   background-size: center;
   background-attachment: fixed;
   backdrop-filter: blur(30px) !important;
-  -webkit-backdrop-filter: blur(30px);
+  -webkit-backdrop-filter: blur(30px) !important;
 }
 
 .site-content {

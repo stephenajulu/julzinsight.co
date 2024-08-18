@@ -44,8 +44,8 @@
     <link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,wght@0,400;0,500;1,400;1,500&display=swap" rel="stylesheet"> {{ else if eq $font "playfair"}}
     <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700;800;900&display=swap" rel="stylesheet"> {{ end }}
     <link rel="stylesheet" href="{{ (resources.Get "sass/main.scss" | resources.ToCSS (dict "indentWidth" 4 "outputStyle" "nested" "precision" 10 "targetPath" "css/main.css")).Permalink }}">
-    <link rel="stylesheet" href="{{ (resources.Get "css/custom.css").Permalink }}"> {{ if .Site.Data.config.favicon }}
-    <link rel="icon" href="{{ $.Site.Data.config.favicon | relURL }}"> {{ end }}
+    <link rel="stylesheet" href="{{ (resources.Get "css/custom.css").Permalink }}">
+    {{ if .Site.Data.config.favicon }}<link rel="icon" href="{{ $.Site.Data.config.favicon | relURL }}"> {{ end }}
     <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="194x194" href="/favicon-194x194.png">
@@ -79,7 +79,7 @@
 
     
 <body class="font-{{ .Site.Data.config.base_font }} palette-{{ .Site.Data.config.color_scheme }} accent-{{ .Site.Data.config.accent_color }}">
-    <div id="site-wrap" class="site content" style="background-image: url('/images/julz5.jpg');background-color:#000000;background-position: center center;background-repeat: no-repeat;background-size: center;background-attachment:fixed;backdrop-filter: blur(30px);-webkit-backdrop-filter: blur(30px);">
+    <div id="site-wrap" class="site content">
         {{ partial "header.html" . }}
         <main id="content" class="site-content"> {{ block "content" . }}{{ end }} </main>
         

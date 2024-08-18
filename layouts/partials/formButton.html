@@ -1,13 +1,3 @@
-<style>
-.formbutton-button{
-  transition: all 0.5s;
-  z-index: 99;
-}
-.formbutton-button:hover{
-  transform: scale(1.2);
-}
-</style>
-
 <script src="https://formspree.io/js/formbutton-v1.min.js" defer></script>
 <script>
   window.formbutton = window.formbutton || function() {
@@ -15,9 +5,9 @@
   };
   formbutton("create", {
     action: "https://formspree.io/f/xoqrqnky",
-    title: "Contact us",
-    description: "Send me us a message & we'll reach out soon",
-    theme: "classic",
+    title: "Contact Us",
+    description: "Send me us a message & we'll reach out asap!",
+    theme: "minimal",
     fields: [
       {
         name: "email",
@@ -26,8 +16,15 @@
         required: true
       },
       {
+        name: "name",
+        type: "text",
+        label: "Your Name or Company Name",
+        required: true
+      },
+      {
         name: "Message",
-        type: "textarea"
+        type: "textarea",
+        required: true
       },
       {
         type: "submit"

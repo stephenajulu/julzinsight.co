@@ -29,6 +29,6 @@ seo:
     - name: twitter:image
       value: images/post-1.jpg
       relativeUrl: true
-layout: services
+layout: blog
 
 ---

@@ -87,6 +87,18 @@ Open-Source Software:
 - Restic: A fast, secure, and efficient backup program.
 - UrBackup: An easy-to-setup open-source client/server backup system.
 
+### 6. Web and Software Analytics
+Web and software analytics solutions provide insights into the performance and usage of web applications and software.
+
+Open-Source Software:
+- Matomo: An open-source web analytics platform.
+- GoAccess: A real-time web log analyzer.
+- AWStats: A free and powerful tool that generates advanced web, streaming, ftp, or mail server statistics.
+- Piwik PRO: An open-source analytics platform.
+- Countly: An open-source product analytics solution and innovation enabler.
+- Umami: Website analytics built for speed and efficiency
+- Plausible: Easy to use and privacy-friendly Google Analytics alternative.
+
 Our Data Management and Analytics Solutions are designed to help your business harness the full potential of your data. By leveraging the power of open-source software, we provide cost-effective, customizable, and scalable solutions that can adapt to your unique business requirements. Whether you’re looking to manage large volumes of data, gain actionable insights, or visualize data effectively, our expertly managed solutions have you covered.
 
 Ready to unlock the power of your data with our Data Management and Analytics Solutions? Contact us today to learn more about how our managed open-source software can help you achieve your business goals. Let’s take your business to the next level!

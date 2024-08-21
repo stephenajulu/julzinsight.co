@@ -109,7 +109,18 @@ Open-Source Software:
 - OpenCart: A free and open-source e-commerce platform.
 - Spree Commerce: A complete open-source e-commerce solution built with Ruby on Rails.
 
-Our Enterprise Software Solutions are designed to empower your business with the tools it needs to succeed. By leveraging the power of open-source software, we provide cost-effective, customizable, and scalable solutions that can adapt to your unique business requirements. Whether you’re looking to streamline operations, enhance customer relationships, or optimize your supply chain, our expertly managed solutions have you covered.
+### 8. Document Management and Workflow
+Document management and workflow solutions help businesses manage, store, and track electronic documents and automate document-centric processes.
+
+Open-Source Software:
+- Alfresco: An open-source enterprise content management system.
+- OpenKM: A document management system that provides a web interface for managing documents.
+- LogicalDOC: A document management system that is designed to handle and share documents within an organization.
+- Mayan EDMS: An electronic document management system.
+- Nuxeo: A content services platform for managing documents and digital assets.
+- Paperless-ngx: An open-source document management system that transforms your physical documents into a searchable online archive.
+
+Our Enterprise Software Solutions are designed to empower your business with the tools it needs to succeed. By leveraging the power of open-source software, we provide cost-effective, customizable, and scalable solutions that can adapt to your unique business requirements. Whether you’re looking to streamline operations, enhance customer relationships, or optimize your supply chain, our expertly managed-solutions have you covered.
 
 Ready to transform your business with our Enterprise Software Solutions? Book a call with us today to learn more about how our managed open-source software solutions can help you achieve your business goals. Let’s take your business to the next level!
 

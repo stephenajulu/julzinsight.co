@@ -70,8 +70,10 @@ Open-Source Software:
 - Twingate: Remote access for the modern Zero Trust network.
 - Cloudflare Tunnels: Fast, reliable Zero Trust Network Access (ZTNA).
 - Netbird: Connect and Secure Your IT Infrastructure in Minutes.
-- Apache Guacamole: A clientless remote desktop gateway.
+- RustDesk: A full-featured open-source remote control alternative for self-hosting and security with minimal configuration.
+- KASM Workspaces: An open-source workspace streaming platform.
+- Proxmox Virtual Environment: While primarily a virtualization platform, Proxmox VE supports VDI deployment through integration with QEMU/KVM and LXC, providing virtual desktops and applications for enterprise environments.
 
-Our Cloud and Virtualization Solutions are designed to help your business build and manage a robust IT infrastructure. By leveraging the power of open-source software, we provide cost-effective, customizable, and scalable solutions that can adapt to your unique business requirements. Whether you’re looking to enhance resource utilization, host web applications, or provide secure remote access, our expertly managed solutions have you covered.
+Our Cloud and Virtualization Solutions are designed to help your business build and manage a robust IT infrastructure. By leveraging the power of open-source software, we provide cost-effective, customizable, and scalable solutions that can adapt to your unique business requirements. Whether you’re looking to enhance resource utilization, host web applications, or provide secure remote access, our expertly managed-solutions have you covered.
 
 Ready to elevate your IT infrastructure with our Cloud and Virtualization Solutions? Contact us today to learn more about how our managed open-source software can help you achieve your business goals. Let’s take your business to the next level!

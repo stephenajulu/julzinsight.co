@@ -3,7 +3,7 @@ title: Process Automation Solutions
 subtitle: Empowering Your Business with Open-Source Process Automation Solutions
 excerpt: >-
   Unlock the full potential of your business with our comprehensive suite of enterprise software solutions. Streamline operations, enhance productivity, and drive growth with our expertly managed open-source software.
-date: '2024-5-29'
+date: '2024-8-21'
 seo:
   title: Process Automation Solutions | Solutions - Julz Insight
   description: >-

@@ -46,6 +46,7 @@ Open-Source Software:
 - Ansible: An open-source automation tool for IT tasks such as configuration management, application deployment, and task automation.
 - Terraform: An open-source infrastructure as code software tool.
 - Kubernetes: An open-source container orchestration platform.
+- Docker: An open-source containerization platform.
 
 ### 2. API Management
 API management solutions provide tools for creating, managing, and securing APIs, enabling businesses to integrate and share data across applications.

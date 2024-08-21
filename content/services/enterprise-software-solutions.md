@@ -109,7 +109,7 @@ Open-Source Software:
 - OpenCart: A free and open-source e-commerce platform.
 - Spree Commerce: A complete open-source e-commerce solution built with Ruby on Rails.
 
-### 8. Document Management and Workflow
+### 8. Document Management
 Document management and workflow solutions help businesses manage, store, and track electronic documents and automate document-centric processes.
 
 Open-Source Software:

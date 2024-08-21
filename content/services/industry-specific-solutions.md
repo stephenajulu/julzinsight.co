@@ -3,7 +3,7 @@ title: Industry-Specific Solutions (Healthcare, Education, Voting and Government
 subtitle: Tailored Solutions for Your Industry with Advanced Open-Source Software
 excerpt: >-
   Address the unique challenges of your industry with our Industry-Specific Solutions. Our expertly managed open-source software provides tailored solutions for healthcare, education, government, and more.
-date: '2024-5-29'
+date: '2024-8-21'
 seo:
   title: Industry-Specific Solutions | Solutions - Julz Insight
   description: >-

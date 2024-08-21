@@ -3,7 +3,7 @@ title: Security, Threat Detection, Network and Monitoring Solutions
 subtitle: Safeguard Your Business with Comprehensive Security, Threat Detection and Monitoring Software Solutions
 excerpt: >-
   Protect your business from threats and ensure optimal performance with our Security and Monitoring Solutions. Our expertly managed open-source software provides robust security measures and real-time monitoring capabilities.
-date: '2024-5-29'
+date: '2024-8-21'
 seo:
   title: Security, Threat Detection, Network and Monitoring Solutions | Solutions - Julz Insight
   description: >-

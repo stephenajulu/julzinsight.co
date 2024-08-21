@@ -85,7 +85,7 @@ Open-Source Software:
 - Zimbra: An open-source email and collaboration suite that includes email, calendar, contacts, tasks, and document sharing, designed to enhance productivity and communication in a digital workspace.
 - eXo Platform: An open-source social collaboration software that combines intranet, collaboration, and knowledge management.
 
-### 5. Document Management and Workflow
+### 5. Document Management
 Document management and workflow solutions help businesses manage, store, and track electronic documents and automate document-centric processes.
 
 Open-Source Software:

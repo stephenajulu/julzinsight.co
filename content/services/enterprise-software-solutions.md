@@ -1,11 +1,11 @@
 ---
-title: Enteprise Software Solutions
+title: Enterprise Software Solutions
 subtitle: Empowering Your Business with Open-Source Enterprise Software Solutions
 excerpt: >-
   Unlock the full potential of your business with our comprehensive suite of enterprise software solutions. Streamline operations, enhance productivity, and drive growth with our expertly managed open-source software.
 date: '2024-5-29'
 seo:
-  title: Enteprise Software Solutions | Solutions - Julz Insight
+  title: Enterprise Software Solutions | Solutions - Julz Insight
   description: >-
     Unlock the full potential of your business with our comprehensive suite of enterprise software solutions. Streamline operations, enhance productivity, and drive growth with our expertly managed open-source software.
   extra:
@@ -13,7 +13,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Enteprise Software Solutions | Solutions - Julz Insight
+      value: Enterprise Software Solutions | Solutions - Julz Insight
       keyName: property
     - name: 'og:description'
       value: >-
@@ -25,7 +25,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Enteprise Software Solutions | Solutions - Julz Insight
+      value: Enterprise Software Solutions | Solutions - Julz Insight
     - name: 'twitter:description'
       value: >-
         Unlock the full potential of your business with our comprehensive suite of enterprise software solutions. Streamline operations, enhance productivity, and drive growth with our expertly managed open-source software.

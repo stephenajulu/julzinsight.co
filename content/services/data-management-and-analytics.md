@@ -1,7 +1,8 @@
 ---
 title: Data Management and Analytics
 subtitle: Empowering Your Business with Open-Source Data Management and Analytics Solutions
-excerpt: >-Harness the full potential of your data with our comprehensive Data Management and Analytics Solutions. From data storage to advanced analytics, our expertly managed open-source software provides the tools you need to make data-driven decisions.
+excerpt: >-
+  Harness the full potential of your data with our comprehensive Data Management and Analytics Solutions. From data storage to advanced analytics, our expertly managed open-source software provides the tools you need to make data-driven decisions.
 date: '2024-8-21'
 seo:
   title: Data Management and Analytics | Solutions - Julz Insight

@@ -15,8 +15,8 @@ sections:
       Phone: [+254 (0) 740 128 010](tel:+254740128010)<br>
       Postal Address: P. O. Box 254740128010 - 00100, Nairobi, Kenya<br><br>
       **Social Media**: Follow us on:
-      - Twitter: [@julzinsight](https://x.com/julzinsight)
-      - LinkedIn: [Julz Insight](https://www.linkedin.com/julzinsight)
+      - Twitter: [@julzinsight](https://x.com/julzinsight)<br>
+      - LinkedIn: [Julz Insight](https://www.linkedin.com/julzinsight)<br>
       - Instagram: [Julz Insight](https://www.instagram.com/julzinsight)
       
 
@@ -36,11 +36,18 @@ sections:
         is_required: true
       - input_type: select
         name: subject
-        label: What services are you looking for?
+        label: What are you looking for?
         default_value: Please select
         options:
-          - Branding
-          - Design
+          - Open-Source Managed Software Solution
+          - Tech Solutions
+          - Enterprise Software Solutions
+          - Consulting
+          - Collaboration
+          - Partnership
+          - Guest Posting
+          - Open Vacancies
+          - Other Inquires
           - Digital
       - input_type: textarea
         name: message
@@ -54,7 +61,7 @@ sections:
       - input_type: checkbox
         name: newsletter
         label: >-
-          I accept to join the Julz Insight's newsletter email list for insights, offers and resources.
+          Join the Julz Insight's newsletter for insights, offers, resources and more?
     submit_label: Send Message
 seo:
   title: Contact Us

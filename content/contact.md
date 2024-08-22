@@ -48,7 +48,7 @@ sections:
           - Guest Posting
           - Open Vacancies
           - Other Inquires
-          - Digital
+          - Collaboration
       - input_type: textarea
         name: message
         label: Message
@@ -61,7 +61,7 @@ sections:
       - input_type: checkbox
         name: newsletter
         label: >-
-          Join the Julz Insight's newsletter for insights, offers, resources and more?
+          I also join Julz Insight's newsletter for insights, offers, resources and more.
     submit_label: Send Message
 seo:
   title: Contact Us

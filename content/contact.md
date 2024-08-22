@@ -10,7 +10,7 @@ sections:
       ***
     
       General Inquires: [info@julzinsight.co](mailto:info@julzinsight.co)<br>
-      Secondary Email(CC): [julzinsight@gmail.com](mailto:julzinsight@gmail.com)<br>
+      Secondary Email (CC): [julzinsight@gmail.com](mailto:julzinsight@gmail.com)<br>
       For Support: [support@julzinsight.co](mailto:support@julzinsight.co)<br>
       Phone: [+254 (0) 740 128 010](tel:+254740128010)<br><br>
       **Social Media**: Follow us on:<br>

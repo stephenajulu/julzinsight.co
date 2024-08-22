@@ -42,29 +42,26 @@
         ]
     },
     "footer": {
-        "content": "&copy; Julz Insight | Impactful Tech Solutions",
+        "content": "&copy; Julz Insight | Impactful Tech Solutions: info@julzinsight.co",
         "has_social": true,
         "social_links": [
             {
                 "label": "Twitter",
                 "url": "https://twitter.com/julzinsight",
                 "style": "icon",
-                "icon": "twitter",
-                "new_window": true
+                "icon": "twitter"
             },
             {
                 "label": "Instagram",
                 "url": "https://www.instagram.com/julzinsight",
                 "style": "icon",
-                "icon": "instagram",
-                "new_window": true
+                "icon": "instagram"
             },
             {
                 "label": "LinkedIn",
                 "url": "https://www.linkedin.com/julzinsight",
                 "style": "icon",
-                "icon": "linkedin",
-                "new_window": true
+                "icon": "linkedin"
             }
         ]
     }

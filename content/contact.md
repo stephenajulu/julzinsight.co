@@ -14,7 +14,7 @@ sections:
       For Support: [support@julzinsight.co](mailto:support@julzinsight.co)<br>
       Phone: [+254 (0) 740 128 010](tel:+254740128010)<br>
       Postal Address: P. O. Box 254740128010 - 00100, Nairobi, Kenya<br><br>
-      **Social Media**: Follow us on:
+      **Social Media**: Follow us on:<br>
       - Twitter: [@julzinsight](https://x.com/julzinsight)<br>
       - LinkedIn: [Julz Insight](https://www.linkedin.com/julzinsight)<br>
       - Instagram: [Julz Insight](https://www.instagram.com/julzinsight)

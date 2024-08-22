@@ -67,16 +67,6 @@ Open-Source Software:
 - Apache Airflow: A platform to programmatically author, schedule, and monitor workflows.
 - StackStorm: An event-driven automation platform.
 
-### 4. Document Management and Workflow
-Document management and workflow solutions help businesses manage, store, and track electronic documents and automate document-centric processes.
-
-Open-Source Software:
-- Alfresco: An open-source enterprise content management system.
-- OpenKM: A document management system that provides a web interface for managing documents.
-- LogicalDOC: A document management system that is designed to handle and share documents within an organization.
-- Mayan EDMS: An electronic document management system.
-- Nuxeo: A content services platform for managing documents and digital assets.
-
 Our Process Automation Solutions are designed to help your business achieve operational excellence by automating repetitive tasks and streamlining workflows. By leveraging the power of open-source software, we provide cost-effective, customizable, and scalable solutions that can adapt to your unique business requirements. Whether you’re looking to automate business processes, implement robotic process automation, or streamline document management, our expertly managed solutions have you covered.
 
 Ready to revolutionize your business with our Process Automation Solutions? Contact us today to learn more about how our managed open-source software can help you achieve your business goals. Let’s take your business to the next level!

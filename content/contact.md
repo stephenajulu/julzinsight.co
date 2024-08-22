@@ -10,15 +10,13 @@ sections:
       ***
     
       General Inquires: [info@julzinsight.co](mailto:info@julzinsight.co)<br>
-      Secondary Email: [julzinsight@gmail.com](mailto:julzinsight@gmail.com)<br>
+      Secondary Email(CC): [julzinsight@gmail.com](mailto:julzinsight@gmail.com)<br>
       For Support: [support@julzinsight.co](mailto:support@julzinsight.co)<br>
       Phone: [+254 (0) 740 128 010](tel:+254740128010)<br>
-      Postal Address: P. O. Box 254740128010 - 00100, Nairobi, Kenya<br><br>
       **Social Media**: Follow us on:<br>
       - Twitter: [@julzinsight](https://x.com/julzinsight)<br>
       - LinkedIn: [Julz Insight](https://www.linkedin.com/julzinsight)<br>
-      - Instagram: [Julz Insight](https://www.instagram.com/julzinsight)<br><br><br>
-      You can also book a consultation call via:
+      - Instagram: [Julz Insight](https://www.instagram.com/julzinsight)
 
 
     form_id: contactForm
@@ -40,15 +38,12 @@ sections:
         default_value: Please select
         options:
           - Open-Source Managed Software Solution
-          - Tech Solutions
+          - Cutting-Edge Tech Solutions
           - Enterprise Software Solutions
-          - Consulting
-          - Collaboration
-          - Partnership
-          - Guest Posting
+          - IT Consulting
+          - Partnerships & Collaborations
           - Open Vacancies
           - Other Inquires
-          - Collaboration
       - input_type: textarea
         name: message
         label: Message

@@ -47,7 +47,7 @@ sections:
           - Backup, Data, and Disaster Recovery
           - Brand Identity and Visual Design
           - Digital Transformation Solutions
-          - Consulting for IT Infrastructure and Digital Marketing
+          - Consulting for IT Infrastructure
           - Managed Open-Source Software Solutions
           - Enterprise Software Solutions
       - title: Managed Open-Source Software Solutions

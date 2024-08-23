@@ -29,7 +29,7 @@ sections:
         content: |-
           - Enterprise Resource Planning(ERP)
           - Human Resource Management(HRM)
-          - Customer Relationship Management(CRM)
+          - Customer Relationship Management
           - Financial Accounting and Invoicing
           - Supply Chain Management(SCM)
           - Point of Sales and E-commerce(POS)

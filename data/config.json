@@ -20,13 +20,13 @@
                 "style": "link"
             },
             {
-                "label": "Insights",
-                "url": "/blog/",
+                "label": "Portfolio",
+                "url": "/portfolio/",
                 "style": "link"
             },
             {
-                "label": "Portfolio",
-                "url": "/portfolio/",
+                "label": "Insights",
+                "url": "/blog/",
                 "style": "link"
             },
             {

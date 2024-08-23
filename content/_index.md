@@ -27,14 +27,14 @@ sections:
             url: /services/enterprise-software-solutions
             style: button
         content: |-
-          - Enterprise Resource Planning (ERP)
-          - Human Resource Management (HRM)
-          - Customer Relationship Management (CRM)
+          - Enterprise Resource Planning(ERP)
+          - Human Resource Management(HRM)
+          - Customer Relationship Management(CRM)
           - Financial Accounting and Invoicing
-          - Supply Chain Management (SCM)
-          - Point of Sales and E-commerce (POS)
+          - Supply Chain Management(SCM)
+          - Point of Sales and E-commerce(POS)
           - Document Management and Workflow
-          - Business Process Automation
+          - Business Process Automation(BPA)
       - title: Tech Solutions
         image: images/service-2.svg
         actions:

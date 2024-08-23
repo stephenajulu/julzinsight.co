@@ -85,7 +85,7 @@ sections:
   - type: cta_section
     section_id: cta
     title: Ready to work together?
-    content: Let’s link up. Complete our quick form or schedule a 1-hour consult with our team. We invite businesses, startups and individuals looking to collaborate to build bespoke tech solutions with Julz Insight.  
+    content: At Julz Insight, we are dedicated to building impactful tech products and solutions that drive innovation and success to *forward-thinking companies and brands*. Want to reach us to get started? Complete our quick form or schedule a 1-hour consult with our team.  
     image: images/cta-about.svg
     image_alt: An abstract shape for the call to action
     bg_color: dark

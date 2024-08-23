@@ -17,7 +17,7 @@ sections:
   - type: grid_section
     section_id: services
     title: Services
-    subtitle: Our top solutions and services
+    hide_title: true
     col_number: three
     grid_items:
       - title: Enterprise Software Solutions

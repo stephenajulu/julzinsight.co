@@ -51,14 +51,26 @@ sections:
     view_all_label: View All
     view_all_url: portfolio
   - type: grid_section
+    section_id: clients
+    title: Clients
+    subtitle: Our clients and partners
+    col_number: three
+    grid_items:
+      - image: images/logo-1.svg
+        image_alt: Logo 1
+      - image: images/logo-2.svg
+        image_alt: Logo 2
+      - image: images/logo-3.svg
+        image_alt: Logo 3
+  - type: grid_section
     section_id: team
     title: The Team
     col_number: three
     grid_items:
       - title: Stephen Ajulu
         image: /images/1653516600275.jpg
-        subtitle: Founder & Chief Executive Officer
-        content: Hello, my name is Stephen, it's nice to meet you! Welcome to Julz Insight. 
+        subtitle: Founder, Lead Tech Consultant, Solutions Architect, and Director
+        content: Nice to meet you and Welcome to Julz Insight. 
         actions:
           - label: Twitter
             url: https://twitter.com/stephenajulu

@@ -54,7 +54,7 @@ sections:
     section_id: clients
     title: Clients
     subtitle: Our clients and partners
-    col_number: three
+    col_number: four
     grid_items:
       - image: images/logo-1.svg
         image_alt: Logo 1
@@ -62,6 +62,8 @@ sections:
         image_alt: Logo 2
       - image: images/logo-3.svg
         image_alt: Logo 3
+      - image: images/logo-4.svg
+        image_alt: Logo 4
   - type: grid_section
     section_id: team
     title: The Team

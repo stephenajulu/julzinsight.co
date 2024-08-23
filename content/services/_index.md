@@ -1,20 +1,20 @@
 ---
-title: Tech Solutions with Software, Web, AI, Cloud, Open-Source & Digital Transformation Expertise
-subtitle: Discover the impactful cutting-edge solutions we offer at Julz Insight from Managed Open-Source Software to Digital Transformation and Tech Solutions
+title: Services
+subtitle: Innovative, Reliable, and Tailored Tech Services to Your Needs
 hide_title: false
 col_number: two
 seo:
-  title: Solutions - Julz Insight | Tech Solutions with Software, Web, AI, Cloud, Open-Source & Digital Transformation Expertise
-  description: Read Julz Insight's research, news, tips and highlights
+  title: Services - Julz Insight | Tech Solutions with Software, Web, AI, Cloud, Open-Source & Digital Transformation Expertise
+  description: Discover Julz Insight’s expert tech solutions, including Managed Open-Source Software, IT Infrastructure Management, Enterprise Software Solutions, and cloud technologies. Transform your business today!
   extra:
     - name: og:type
       value: website
       keyName: property
     - name: og:title
-      value: Solutions - Julz Insight | Tech Solutions with Software, Web, AI, Cloud, Open-Source & Digital Transformation Expertise
+      value: Services - Julz Insight | Tech Solutions with Software, Web, AI, Cloud, Open-Source & Digital Transformation Expertise
       keyName: property
     - name: og:description
-      value: Discover the impactful cutting-edge solutions we offer at Julz Insight from Managed Open-Source Software to Digital Transformation and Tech Solutions
+      value: Discover Julz Insight’s expert tech solutions, including Managed Open-Source Software, IT Infrastructure Management, Enterprise Software Solutions, and cloud technologies. Transform your business today!
       keyName: property
     - name: og:image
       value: images/post-1.jpg
@@ -23,12 +23,12 @@ seo:
     - name: twitter:card
       value: summary_large_image
     - name: twitter:title
-      value: Solutions - Julz Insight | Tech Solutions with Software, Web, AI, Cloud, Open-Source & Digital Transformation Expertise
+      value: Services - Julz Insight | Tech Solutions with Software, Web, AI, Cloud, Open-Source & Digital Transformation Expertise
     - name: twitter:description
-      value: Discover the impactful cutting-edge solutions we offer at Julz Insight from Managed Open-Source Software to Digital Transformation and Tech Solutions
+      value: Discover Julz Insight’s expert tech solutions, including Managed Open-Source Software, IT Infrastructure Management, Enterprise Software Solutions, and cloud technologies. Transform your business today!
     - name: twitter:image
       value: images/post-1.jpg
       relativeUrl: true
-layout: blog
+layout: services
 
 ---

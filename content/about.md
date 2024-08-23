@@ -53,7 +53,7 @@ sections:
   - type: grid_section
     section_id: clients
     title: Clients
-    subtitle: Our clients and partners
+    subtitle: Trusted by
     col_number: three
     grid_items:
       - image: images/logo-1.svg
@@ -62,8 +62,6 @@ sections:
         image_alt: Logo 2
       - image: images/logo-3.svg
         image_alt: Logo 3
-      - image: images/logo-4.svg
-        image_alt: Logo 4
   - type: grid_section
     section_id: team
     title: The Team

@@ -8,6 +8,18 @@ sections:
       Welcome to Julz Insight, a Nairobi-based tech firm dedicated to crafting impactful cutting-edge tech solutions that solve complex challenges. We harness the power of technology, analytical thinking, and data-driven strategies to make the next level of solutions designed bespoke for your business or brand.<br> <br><span style="font-weight: 700">Our Motto & Slogan</span> - Innovar, Iluminar - Pioneering Innovation, Illuminating Possibilities<br> <br><span style="font-weight: 700">Our Mission</span> - At Julz Insight, we create impactful tech products, brands, and solutions that inspire confidence and drive success. By pioneering innovation and illuminating possibilities, we empower our clients to excel in the ever-evolving tech landscape. <br> <br><span style="font-weight: 700">Our Vision</span> - At Julz Insight, we aspire to be industry-leading pioneers and thought leaders, continuously pushing the boundaries of technology and innovation. Our vision is to also empower our clients to excel and thrive in an ever-changing tech landscape.<br><br><span style="font-weight: 700">Our Values</span> - Innovation, Excellence, Sustainability, Adaptability, and Near Perfectionism <br><br>To achieve this we focus on building impactful cutting-edge products & solutions built on Tech and Design.<br> <br>Come now, let's build something great today: **[BOOK A CONSULTATION](/contact/)**
     image: images/julzinsightheader.png
     image_alt: Marketing poster
+- type: grid_section
+    section_id: clients
+    title: 
+    subtitle: Trusted by
+    col_number: three
+    grid_items:
+      - image: images/logo-1.svg
+        image_alt: Logo 1
+      - image: images/logo-2.svg
+        image_alt: Logo 2
+      - image: images/logo-3.svg
+        image_alt: Logo 3
   - type: grid_section
     section_id: services
     title: Services
@@ -50,18 +62,6 @@ sections:
     projects_number: 2
     view_all_label: View All
     view_all_url: portfolio
-  - type: grid_section
-    section_id: clients
-    title: 
-    subtitle: Trusted by
-    col_number: three
-    grid_items:
-      - image: images/logo-1.svg
-        image_alt: Logo 1
-      - image: images/logo-2.svg
-        image_alt: Logo 2
-      - image: images/logo-3.svg
-        image_alt: Logo 3
   - type: grid_section
     section_id: team
     title: The Team

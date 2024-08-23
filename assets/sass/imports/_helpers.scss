@@ -67,6 +67,14 @@
       max-width: 33.333%;
     }
   }
+  
+  @media only screen and (min-width: 992px) {
+    .grid--col-four & {
+      -ms-flex: 0 0 25%;
+      flex: 0 0 25%;
+      max-width: 25%;
+    }
+  } 
 }
 
 @media only screen and (max-width: 500px) {

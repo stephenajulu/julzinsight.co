@@ -18,7 +18,7 @@ sections:
     section_id: services
     title: Services
     subtitle: Our top solutions and services
-    col_number: two
+    col_number: three
     grid_items:
       - title: Enterprise Software Solution
         image: images/service-1.svg

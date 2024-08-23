@@ -59,7 +59,7 @@ sections:
         content:  |-
           - Virtualization and Cloud Infrastructure
           - Data Management and Analytics
-          - Security, Threat Detection, and Network Monitoring
+          - Security and Network Monitoring
           - Business Process Automation
           - Education and Learning Management
           - Inventory and Asset Management

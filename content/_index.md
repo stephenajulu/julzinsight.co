@@ -17,7 +17,7 @@ sections:
   - type: grid_section
     section_id: services
     title: 
-    col_number: three
+    col_number: two
     grid_items:
       - title: Enterprise Software Solutions
         image: images/service-1.svg

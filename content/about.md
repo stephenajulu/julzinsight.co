@@ -10,7 +10,6 @@ sections:
     image_alt: Marketing poster
   - type: grid_section
     section_id: clients
-    title: 
     subtitle: Trusted by
     col_number: three
     grid_items:

@@ -24,21 +24,21 @@ sections:
         actions:
           - label: Learn more →
             url: /services/enterprise-software-solutions
-            style: button
+            style: link
         content: 
       - title: Tech Solutions
         image: images/service-2.svg
         actions:
           - label: Learn more →
             url: /services/tech-solutions
-            style: button
+            style: link
         content:  
       - title: Managed Open Source Solutions
         image: images/service-3.svg
         actions:
           - label: Learn more →
             url: /services/tech-solutions
-            style: button
+            style: link
         content:  
   - type: cta_section
     section_id: cta

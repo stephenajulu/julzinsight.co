@@ -27,7 +27,7 @@ sections:
             url: /services/enterprise-software-solutions
             style: link
         content: 
-      - title: Tech Solutions
+      - title: Impactful Tech Solutions
         image: images/service-2.svg
         actions:
           - label: Learn more →

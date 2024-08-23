@@ -30,11 +30,6 @@
                 "style": "link"
             },
             {
-                "label": "Contact",
-                "url": "/contact/",
-                "style": "link"
-            },
-            {
                 "label": "Get Started Now →",
                 "url": "/contact/",
                 "style": "button"
@@ -42,7 +37,7 @@
         ]
     },
     "footer": {
-        "content": "&copy; Julz Insight | Impactful Tech Solutions: info@julzinsight.co",
+        "content": "&copy; Julz Insight - Impactful Tech Solutions →",
         "has_social": true,
         "social_links": [
             {

@@ -25,45 +25,21 @@ sections:
           - label: Learn more →
             url: /services/enterprise-software-solutions
             style: button
-        content: |-
-          - Enterprise Resource Planning(ERP)
-          - Human Resource Management(HRM)
-          - Customer Relationship Management
-          - Financial Accounting and Invoicing
-          - Supply Chain Management(SCM)
-          - Point of Sales and E-commerce(POS)
-          - Document Management and Workflow
-          - Business Process Automation(BPA)
+        content: 
       - title: Tech Solutions
         image: images/service-2.svg
         actions:
           - label: Learn more →
             url: /services/tech-solutions
             style: button
-        content:  |-
-          - Web Design and Development
-          - Managed Cloud and IT Infrastructure
-          - Backup, Data, and Disaster Recovery
-          - Brand Identity and Visual Design
-          - Digital Transformation Solutions
-          - Consulting for IT Infrastructure
-          - Managed Open-Source Software Solutions
-          - Enterprise Software Solutions
+        content:  
       - title: Managed Open Source Solutions
         image: images/service-3.svg
         actions:
           - label: Learn more →
             url: /services/tech-solutions
             style: button
-        content:  |-
-          - Virtualization and Cloud Infrastructure
-          - Data Management and Analytics
-          - Security and Network Monitoring
-          - Business Process Automation
-          - Education and Learning Management
-          - Inventory and Asset Management
-          - Web and Software Analytics
-          - IT Management Platform
+        content:  
   - type: cta_section
     section_id: cta
     title: Let’s Build Together!

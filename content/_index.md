@@ -20,7 +20,7 @@ sections:
     subtitle: Our top solutions and services
     col_number: three
     grid_items:
-      - title: Enterprise Software Solution
+      - title: Enterprise Software Solutions
         image: images/service-1.svg
         actions:
           - label: Learn more →
@@ -50,7 +50,7 @@ sections:
           - Consulting for IT Infrastructure
           - Managed Open-Source Software Solutions
           - Enterprise Software Solutions
-      - title: Managed Open-Source Solutions
+      - title: Managed Open Source Solutions
         image: images/service-3.svg
         actions:
           - label: Learn more →

@@ -52,7 +52,7 @@ sections:
     view_all_url: portfolio
   - type: grid_section
     section_id: clients
-    title: Clients
+    title: 
     subtitle: Trusted by
     col_number: three
     grid_items:

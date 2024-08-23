@@ -81,7 +81,7 @@ sections:
   - type: cta_section
     section_id: cta
     title: Ready to work together?
-    content: We are dedicated to building impactful tech products and solutions that drive innovation and success to *forward-thinking companies and brands*. Want to reach us and get started? Complete our quick form or schedule a 1-hour consult with our CEO.  
+    content: We are dedicated to building impactful tech products and solutions that drive innovation and success to *forward-thinking companies and brands*. Want to reach us and get started? 
     image: images/cta-about.svg
     image_alt: An abstract shape for the call to action
     bg_color: dark

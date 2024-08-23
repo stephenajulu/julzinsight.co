@@ -50,7 +50,7 @@ sections:
           - Consulting for IT Infrastructure
           - Managed Open-Source Software Solutions
           - Enterprise Software Solutions
-      - title: Managed Open-Source Software Solutions
+      - title: Managed Open-Source Solutions
         image: images/service-3.svg
         actions:
           - label: Learn more →

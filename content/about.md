@@ -110,5 +110,3 @@ seo:
 layout: advanced
 
 ---
-
-{{< consult >}}

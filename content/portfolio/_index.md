@@ -1,13 +1,13 @@
 ---
 title: Portfolio
-subtitle: Review our portfolio, projects, products and case studies
+subtitle: Explore Real-World Success Stories and Innovative Projects
 layout_style: mosaic
 sections:
   - type: cta_section
     section_id: cta
     title: Let’s Work Together!
     content: Say hello at [info@julzinsight.co](mailto:info@julzinsight.co) or tell
-      us more about your brand, mission and goals by getting started below.
+      us more about your brand, mission, and goals by getting started below.
     actions:
       - label: Let get started
         url: /contact
@@ -17,7 +17,7 @@ sections:
     bg_color: dark
 seo:
   title: Portfolio - Julz Insight | Tech Solutions with Software, Web, Cloud & Digital Transformation Expertise
-  description: Check out Julz Insight's portfolio, projects, products, and case studies
+  description: Discover Julz Insight’s portfolio showcasing successful tech projects, innovative solutions, and collaborations with esteemed clients. See our case studies, and internal products, and meet our expert team.
   extra:
     - name: 'og:type'
       value: website
@@ -26,7 +26,7 @@ seo:
       value: Portfolio - Julz Insight | Tech Solutions with Software, Web, Cloud & Digital Transformation Expertise
       keyName: property
     - name: 'og:description'
-      value: Check out Julz Insight's portfolio, projects, products, and case studies
+      value: Discover Julz Insight’s portfolio showcasing successful tech projects, innovative solutions, and collaborations with esteemed clients. See our case studies, and internal products, and meet our expert team.
       keyName: property
     - name: 'og:image'
       value: images/work-book-1.jpg
@@ -37,7 +37,7 @@ seo:
     - name: 'twitter:title'
       value: Portfolio - Julz Insight | Tech Solutions with Software, Web, Cloud & Digital Transformation Expertise
     - name: 'twitter:description'
-      value: Check out Julz Insight's portfolio, projects, products, and case studies
+      value: Discover Julz Insight’s portfolio showcasing successful tech projects, innovative solutions, and collaborations with esteemed clients. See our case studies, and internal products, and meet our expert team.
     - name: 'twitter:image'
       value: images/work-book-1.jpg
       relativeUrl: true

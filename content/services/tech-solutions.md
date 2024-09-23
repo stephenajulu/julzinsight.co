@@ -1,11 +1,11 @@
 ---
-title: Cutting-Edge Tech Solutions
-subtitle: Empowering Your Business with Innovative Technology
+title: Impactful Tech Solutions
+subtitle: Empowering Your Business with Impactful Technological Solutions
 excerpt: >-
   At Julz Insight, we provide a comprehensive suite of tech solutions tailored to drive your business forward. Whether you need robust web development, reliable cloud management, or strategic consulting, our expert team is here to help you thrive in the digital era. Explore our diverse offerings and discover how we can transform your digital landscape.
 date: '2024-6-29'
 seo:
-  title: Cutting-Edge Tech Solutions - Julz Insight | Tech Solutions with Software, Web, AI, Cloud, Open-Source & Digital Transformation Expertise
+  title: Impactful Tech Solutions | Solutions - Julz Insight
   description: >-
     At Julz Insight, we provide a comprehensive suite of tech solutions tailored to drive your business forward. Whether you need robust web development, reliable cloud management, or strategic consulting, our expert team is here to help you thrive in the digital era. Explore our diverse offerings and discover how we can transform your digital landscape.
   extra:
@@ -13,7 +13,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Cutting-Edge Tech Solutions - Julz Insight | Tech Solutions with Software, Web, AI, Cloud, Open-Source & Digital Transformation Expertise
+      value: Impactful Tech Solutions | Solutions - Julz Insight
       keyName: property
     - name: 'og:description'
       value: >-
@@ -26,7 +26,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Cutting-Edge Tech Solutions - Julz Insight | Tech Solutions with Software, Web, AI, Cloud, Open-Source & Digital Transformation Expertise
+      value: Impactful Tech Solutions | Solutions - Julz Insight
     - name: 'twitter:description'
       value: >-
         At Julz Insight, we provide a comprehensive suite of tech solutions tailored to drive your business forward. Whether you need robust web development, reliable cloud management, or strategic consulting, our expert team is here to help you thrive in the digital era. Explore our diverse offerings and discover how we can transform your digital landscape.

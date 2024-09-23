@@ -19,3 +19,15 @@
     border-radius: 10px;
     border: 3px solid #000000;
   }
+
+  /* .background {
+    background-image: url('/images/julz5.jpg');
+    background-color: #000000;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: center;
+    background-attachment: fixed;
+    backdrop-filter: blur(40px);
+    -webkit-backdrop-filter: blur(40px);
+    z-index: 1;
+  } */

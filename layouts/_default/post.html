@@ -20,7 +20,7 @@
   {{ end }}
   <div class="post__body text-block">
     <div class="container container--md">
-       {{ if and (gt .WordCount 400 ) (ne .Params.toc "false") }}<aside>{{ .TableOfContents }}</aside>{{ end }}
+       {{ if and (gt .WordCount 500 ) (ne .Params.toc "false") }}<aside>{{ .TableOfContents }}</aside>{{ end }}
       {{ .Content }}
     </div>
   </div>
@@ -29,7 +29,6 @@
       Posted on <time class="published" datetime="{{ .Date | dateFormat "2006-01-02 15:04" }}">{{ .Date | dateFormat "January 02, 2006" }}</time>
     </div>
     <div class="post__body text-block">
-    {{ partial "consultorcontact.html" . }}
     </div>
   </footer>
 </article>

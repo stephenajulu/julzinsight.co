@@ -25,7 +25,7 @@
             ],
             "contactPoint": {
                 "@type": "ContactPoint",
-                "telephone": "+254-707-60-7257",
+                "telephone": "+254-740-128-010",
                 "contactType": "customer service",
                 "email": "info@julzinsight.co",
                 "areaServed": "KE"
@@ -44,8 +44,8 @@
     <link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,wght@0,400;0,500;1,400;1,500&display=swap" rel="stylesheet"> {{ else if eq $font "playfair"}}
     <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700;800;900&display=swap" rel="stylesheet"> {{ end }}
     <link rel="stylesheet" href="{{ (resources.Get "sass/main.scss" | resources.ToCSS (dict "indentWidth" 4 "outputStyle" "nested" "precision" 10 "targetPath" "css/main.css")).Permalink }}">
-    <link rel="stylesheet" href="{{ (resources.Get "css/custom.css").Permalink }}"> {{ if .Site.Data.config.favicon }}
-    <link rel="icon" href="{{ $.Site.Data.config.favicon | relURL }}"> {{ end }}
+    <link rel="stylesheet" href="{{ (resources.Get "css/custom.css").Permalink }}">
+    {{ if .Site.Data.config.favicon }}<link rel="icon" href="{{ $.Site.Data.config.favicon | relURL }}"> {{ end }}
     <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="194x194" href="/favicon-194x194.png">
@@ -78,16 +78,12 @@
 </head>
 
     
-<body style="background-image: url('/images/julz5.jpg');background-color: #000000;background-position: center center;background-repeat: no-repeat;background-size: center; background-attachement: fixed;backdrop-filter: blur(40px);-webkit-backdrop-filter: blur(40px);" class="font-{{ .Site.Data.config.base_font }} palette-{{ .Site.Data.config.color_scheme }} accent-{{ .Site.Data.config.accent_color }}">
-    <div id="site-wrap" class="site"> {{ partial "header.html" . }}
+<body class="font-{{ .Site.Data.config.base_font }} palette-{{ .Site.Data.config.color_scheme }} accent-{{ .Site.Data.config.accent_color }}">
+    <div id="site-wrap" class="site content">
+        {{ partial "header.html" . }}
         <main id="content" class="site-content"> {{ block "content" . }}{{ end }} </main>
         
-         <div class="container container--lg" style="align:center;align-items:center;text-align:center;">
-             <h2 style="text-align:center;">Subscribe To Our Newsletter</h2>
-             <p style="font-family:Poppins;text-align:center;">Get our latest content, industry trends, insights, tips & offers to your email</p>
-             <div class="container container--md" style="align:center;align-items:center;text-align:center;"><script async data-uid="64c4f13631" src="https://winning-inventor-367.ck.page/64c4f13631/index.js"></script></div>
-         </div>
-        
+        {{ partial "newsletter_section.html" . }}
         <br>
         {{ partial "footer.html" . }}
     </div>

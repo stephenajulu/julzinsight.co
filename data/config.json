@@ -10,6 +10,11 @@
         "has_nav": true,
         "nav_links": [
             {
+                "label": "Home",
+                "url": "/",
+                "style": "link"
+            },
+            {
                 "label": "About",
                 "url": "/about/",
                 "style": "link"
@@ -25,41 +30,33 @@
                 "style": "link"
             },
             {
-                "label": "Contact",
-                "url": "/contact/",
-                "style": "link"
-            },
-            {
                 "label": "Get Started Now →",
-                "url": "/consultation/",
+                "url": "/contact/",
                 "style": "button"
             }
         ]
     },
     "footer": {
-        "content": "&copy; Julz Insight | Tech Firm",
+        "content": "&copy; Julz Insight 2024 → Impactful Tech Solutions",
         "has_social": true,
         "social_links": [
             {
                 "label": "Twitter",
                 "url": "https://twitter.com/julzinsight",
                 "style": "icon",
-                "icon": "twitter",
-                "new_window": true
+                "icon": "twitter"
             },
             {
                 "label": "Instagram",
                 "url": "https://www.instagram.com/julzinsight",
                 "style": "icon",
-                "icon": "instagram",
-                "new_window": true
+                "icon": "instagram"
             },
             {
                 "label": "LinkedIn",
                 "url": "https://www.linkedin.com/julzinsight",
                 "style": "icon",
-                "icon": "linkedin",
-                "new_window": true
+                "icon": "linkedin"
             }
         ]
     }

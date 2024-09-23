@@ -9,7 +9,7 @@ thumb_image_alt: an artist's depiction of AI computers
 image: images/google-deepmind-_HnJfS6WhA8-unsplash.jpg
 image_alt: an artist's depiction of AI computers
 seo:
-  title: Private Cloud for Enterprises Using Open-Source Products
+  title: Private Cloud for Enterprises Using Open-Source Products | Insights - Julz Insight
   description: >-
     Can a cheap and compact Private Cloud for Enterprises be built based on Open Source products? There is an opinion that this is either a path for strong-willed people or IT companies
   extra:
@@ -17,7 +17,7 @@ seo:
       value: article
       keyName: property
     - name: 'og:title'
-      value: Private Cloud for Enterprises Using Open Source Products
+      value: Private Cloud for Enterprises Using Open Source Products | Insights - Julz Insight
       keyName: property
     - name: 'og:description'
       value: >-
@@ -30,7 +30,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Private Cloud for Enterprises Using Open Source Products
+      value: Private Cloud for Enterprises Using Open Source Products | Insights - Julz Insight
     - name: 'twitter:description'
       value: >-
         Can a cheap and compact Private Cloud for Enterprises be built based on Open Source products? There is an opinion that this is either a path for strong-willed people or IT companies

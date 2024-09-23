@@ -49,18 +49,20 @@
       opacity: 1;
     }
   }
-  
-  &--secondary {
-    border: 1px solid $color-accent;
-    transition: transform .2s;
 
+  &--tertiary {
+    background-color: transparent;
+    border: 2px solid $color-accent;
+    color: $color-accent;
+    -webkit-transition: color .3s, border-color .3s;
+    transition: color .3s, border-color .3s;
+  
     &:hover,
     &:focus,
     &:active {
-      color: $color-accent;
-      background-position: left bottom;
+      color: #fff;
+      background-color: $color-accent;
       opacity: 1;
-      transform: scale(1.1);
     }
   }
 

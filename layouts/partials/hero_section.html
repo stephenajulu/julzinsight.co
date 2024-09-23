@@ -1,10 +1,10 @@
 <br>
 {{ $section := .section }}
 <section id="{{ $section.section_id }}" class="hero">
-  <div class="container container--lg">
+  <div class="container container--lg" style="align-items: center;text-align: center;">
     {{ if $section.title }}
     <h1 class="hero__title introhero">
-      <span style="font-size:12px;font-family: Poppins, sans-serif;font-weight:400;font-style:italic;">Pioneering innovation. Illuminating possibilities →</span><br>
+      <span style="font-size:12px;font-family: Poppins, sans-serif;font-weight:300;font-style:italic;">Innovar. Iluminar.</span><br>
       {{ $section.title }}
     </h1>
     {{ end }}
@@ -13,9 +13,11 @@
       {{ partial "markdownify-block" $section.content }}
     </div>
     {{ end }}
-    <div class="hero__actions button-group center">
-      <a href="/consultation/" class="button button--primary" style="text-color: white;">Get Started Now →</a>
+    <div class="hero__actions button-group center" style="justify-content: center;">
+      <a href="/contact/" class="button button--primary">Get Started</a>
+      <a href="/about/" class="button button--tertiary">Learn More</a>
     </div>
   </div>
 </section>
+<br>
 

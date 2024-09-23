@@ -5,7 +5,7 @@ excerpt: >-
   At Julz Insight, we’re your trusted partner in open-source technology. We streamline powerful software, enhance security, and optimize performance. Whether you’re a startup, enterprise, or government agency, we tailor OSS solutions to your needs.
 date: '2024-5-16 20:33'
 seo:
-  title: Managed Open-Source Software Solutions Extended - Julz Insight | Tech Solutions with Software, Web, AI, Cloud & Digital Transformation Expertise
+  title: Managed Open-Source Software Solutions Extended | Solutions - Julz Insight
   description: >-
     At Julz Insight, we’re your trusted partner in open-source technology. We streamline powerful software, enhance security, and optimize performance. Whether you’re a startup, enterprise, or government agency, we tailor OSS solutions to your needs.
   extra:
@@ -13,7 +13,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Managed Open-Source Software Solutions Extended - Julz Insight | Tech Solutions with Software, Web, AI, Cloud & Digital Transformation Expertise
+      value: Managed Open-Source Software Solutions Extended | Solutions - Julz Insight
       keyName: property
     - name: 'og:description'
       value: >-
@@ -26,7 +26,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Managed Open-Source Software Solutions Extended - Julz Insight | Tech Solutions with Software, Web, AI, Cloud & Digital Transformation Expertise
+      value: Managed Open-Source Software Solutions Extended | Solutions - Julz Insight
     - name: 'twitter:description'
       value: >-
         At Julz Insight, we’re your trusted partner in open-source technology. We streamline powerful software, enhance security, and optimize performance. Whether you’re a startup, enterprise, or government agency, we tailor OSS solutions to your needs.

@@ -5,9 +5,17 @@ hide_title: false
 sections:
   - type: content_section
     content: >-
-      Welcome to Julz Insight, a Nairobi-based tech firm dedicated to crafting impactful cutting-edge tech solutions that solve complex challenges. We harness the power of technology, analytical thinking, and data-driven strategies to make the next level of solutions designed bespoke for your business or brand.<br> <br>Our Motto - Pioneering Innovation, Illuminating Possibilities<br> <br>Our Mission - We strive to empower businesses, helping them navigate complex challenges and drive digital transformation with cutting-edge technology. <br> <br>Our Vision - We aspire to be <span style="font-style: italic;">industry-leading pioneers, visionaries, and thought leaders</span>, in the ever-changing frontier of <span style="font-style: italic;">Technology and Innovation</span>.<br> <br>To achieve this we focus on building impactful cutting-edge products & solutions built on Tech and Design.<br> <br>Come now, let's build something great today: ***[BOOK A CONSULTATION](/contact/)***
-    image: images/julzinsightheader.png
-    image_alt: Marketing poster
+      Welcome to Julz Insight, a Nairobi-based tech firm dedicated to crafting impactful cutting-edge tech solutions that solve complex challenges. We harness the power of technology, analytical thinking, and data-driven strategies to make the next level of solutions designed bespoke for your business or brand.<br> <br><span style="font-weight: 700">Our Slogan</span> - Innovar, Iluminar - Pioneering Innovation, Illuminating Possibilities<br> <br><span style="font-weight: 700">Our Mission</span> - At Julz Insight, we create impactful tech products, brands, and solutions that inspire confidence and drive success. By pioneering innovation and illuminating possibilities, we empower our clients to excel in the ever-evolving tech landscape. <br> <br><span style="font-weight: 700">Our Vision</span> - At Julz Insight, we aspire to be industry-leading pioneers and thought leaders, continuously pushing the boundaries of technology and innovation. Our vision is to also empower our clients to excel and thrive in an ever-changing tech landscape.<br><br><span style="font-weight: 700">Our Focus</span> - We are dedicated to building impactful cutting-edge tech products & solutions.<br><br>Come, let's build something great today! **[Book A Consultation](/contact/)**
+  - type: grid_section
+    section_id: clients
+    col_number: three
+    grid_items:
+      - image: images/logo-1.svg
+        image_alt: Logo 1
+      - image: images/logo-2.svg
+        image_alt: Logo 2
+      - image: images/logo-3.svg
+        image_alt: Logo 3
   - type: grid_section
     section_id: services
     title: Services
@@ -57,8 +65,8 @@ sections:
     grid_items:
       - title: Stephen Ajulu
         image: /images/1653516600275.jpg
-        subtitle: Founder & Chief Executive Officer
-        content: Hello, my name is Stephen, it's nice to meet you! Welcome to Julz Insight. 
+        subtitle: Founder, Lead Tech Consultant, Solutions Architect, and Director
+        content: Nice to meet you and Welcome to Julz Insight. 
         actions:
           - label: Twitter
             url: https://twitter.com/stephenajulu
@@ -73,12 +81,12 @@ sections:
   - type: cta_section
     section_id: cta
     title: Ready to work together?
-    content: Let’s link up. Complete our quick form below to schedule a 30-minute consult with our team. We invite businesses, startups and individuals looking to collaborate to build bespoke tech solutions with Julz Insight.  
+    content: We are dedicated to building impactful tech products and solutions that drive innovation and success to *forward-thinking companies and brands*. Want to reach us and get started? 
     image: images/cta-about.svg
     image_alt: An abstract shape for the call to action
     bg_color: dark
     actions:
-      - label: Schedule a consultation now →
+      - label: Schedule a consult now! →
         url: /contact
         style: button
 seo:

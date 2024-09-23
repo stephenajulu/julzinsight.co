@@ -9,7 +9,7 @@ thumb_image_alt: an artist's depiction of AI computers
 image: images/google-deepmind-D_YZmKGSyic-unsplash.jpg
 image_alt: an artist's depiction of AI computers
 seo:
-  title: Virtual Desktop Infrastructure (VDI)
+  title: Virtual Desktop Infrastructure (VDI) | Insights - Julz Insight
   description: >-
     Achieving financial benefits through virtualizing workstations is only possible with a significant number of users (more than 50) who work with a limited number of applications.
   extra:
@@ -17,7 +17,7 @@ seo:
       value: article
       keyName: property
     - name: 'og:title'
-      value: Virtual Desktop Infrastructure (VDI)
+      value: Virtual Desktop Infrastructure (VDI) | Insights - Julz Insight
       keyName: property
     - name: 'og:description'
       value: >-
@@ -30,7 +30,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Virtual Desktop Infrastructure (VDI)
+      value: Virtual Desktop Infrastructure (VDI) | Insights - Julz Insight
     - name: 'twitter:description'
       value: >-
         Achieving financial benefits through virtualizing workstations is only possible with a significant number of users (more than 50) who work with a limited number of applications.

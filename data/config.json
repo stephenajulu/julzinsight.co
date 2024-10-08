@@ -37,26 +37,29 @@
         ]
     },
     "footer": {
-        "content": "&copy; Julz Insight 2024 → Impactful Tech Solutions",
+        "content": "&copy; JULZ 2024 → Impactful Tech Solutions",
         "has_social": true,
         "social_links": [
             {
                 "label": "Twitter",
-                "url": "https://twitter.com/julzinsight",
+                "url": "https://twitter.com/julzinsight/",
                 "style": "icon",
-                "icon": "twitter"
+                "icon": "twitter",
+                "new_window": true
             },
             {
                 "label": "Instagram",
-                "url": "https://www.instagram.com/julzinsight",
+                "url": "https://www.instagram.com/julzinsight/",
                 "style": "icon",
-                "icon": "instagram"
+                "icon": "instagram",
+                "new_window": true
             },
             {
                 "label": "LinkedIn",
-                "url": "https://www.linkedin.com/julzinsight",
+                "url": "https://www.linkedin.com/julzinsight/",
                 "style": "icon",
-                "icon": "linkedin"
+                "icon": "linkedin",
+                "new_window": true
             }
         ]
     }

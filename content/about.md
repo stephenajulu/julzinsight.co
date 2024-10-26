@@ -20,36 +20,32 @@ sections:
     section_id: services
     title: Services
     subtitle: Our solutions and services
-    col_number: two
+    col_number: three
     grid_items:
+      - title: Enterprise Software Solutions
+        image: images/service-1.svg
+        actions:
+          - label: Learn more →
+            url: /services/enterprise-software-solutions
+            style: button
+        content: |-
+          Transform your business with JULZ INSIGHT’s Managed Enterprise Software Solutions1. From ERP and CRM to HRM and SCM, our solutions streamline operations, enhance customer relationships, and optimize your supply chain2. Achieve your business goals with our expertly managed, customizable, and scalable software solutions.
       - title: Managed Open Source Software Solutions
-        image: images/service-3.svg
+        image: images/service-2.svg
         actions:
           - label: Learn more →
             url: /services/open-source-solutions-extended
             style: button
         content: |-
           We streamline open-source software for clients. We handle hosting, customization, and ongoing management. Our experts tailor the software to fit unique needs, ensuring security, compliance, and optimal performance. Whether it is the following or other bespoke open-source software solutions. We've got your back. 
-          - Private Cloud and Office Suite
-          - Streamlined Document Workflow
-          - Electronic Document Management and Going Paperless
-          - Automated Accounting and Human Resources
-          - Threat Detection, and Security Monitoring
-          - and more
       - title: Tech Solutions
-        image: images/service-1.svg
+        image: images/service-3.svg
         actions:
           - label: Learn more →
             url: /services/tech-solutions-extended
             style: button
         content: |-
           We offer various tech solutions, including but not limited to web development and design, managed software solutions, business process automation, enterprise software solutions, ICT equipment supply, RPA, cloud, SEO, landing pages, sales funnel building, and AI. Our goal is to leverage tech in empowering businesses.
-          - Web Development and Design
-          - Business Process Automation
-          - Enterprise Software
-          - Managed Software
-          - Managed Cloud
-          - and more
   - type: portfolio_section
     section_id: latest-projects
     layout_style: mosaic

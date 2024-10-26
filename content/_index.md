@@ -5,7 +5,7 @@ sections:
   - type: hero_section
     section_id: hero
     title: >-
-      We build impactful tech solutions and products that solve complex business challenges.
+      We build impactful tech products and solutions that solve complex business challenges.
   - type: portfolio_section
     section_id: latest-projects
     layout_style: mosaic
@@ -16,7 +16,7 @@ sections:
     view_all_url: portfolio
   - type: grid_section
     section_id: services
-    title: Services
+    title: Featured Services
     subtitle: 
     col_number: three
     grid_items:

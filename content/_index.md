@@ -5,7 +5,7 @@ sections:
   - type: hero_section
     section_id: hero
     title: >-
-      Transform Your Business with Innovative and Impactful Technology Solutions
+      We build impactful tech products and solutions that solve complex business challenges.
   - type: portfolio_section
     section_id: latest-projects
     layout_style: mosaic

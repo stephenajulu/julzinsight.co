@@ -79,7 +79,7 @@
 
     
 <body class="font-{{ .Site.Data.config.base_font }} palette-{{ .Site.Data.config.color_scheme }} accent-{{ .Site.Data.config.accent_color }}">
-    <div id="site-wrap" class="site content" style="background-image: url('/images/julz5.jpg');background-color: #000000;background-repeat: no-repeat;backdrop-filter: blur(40px);-webkit-backdrop-filter: blur(40px);"> <!--background-position: center center;background-repeat: no-repeat;background-size: center; background-attachement: fixed;-->
+    <div id="site-wrap" class="site content" style="background-image: url('/images/julz5.jpg');"> <!--background-size: center; background-attachement: fixed;background-position: center center;background-repeat: no-repeat;background-size: center; background-attachement: fixed;-->
         {{ partial "header.html" . }}
         <main id="content" class="site-content"> {{ block "content" . }}{{ end }} </main>
         

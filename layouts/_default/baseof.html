@@ -80,6 +80,7 @@
     
 <body class="font-{{ .Site.Data.config.base_font }} palette-{{ .Site.Data.config.color_scheme }} accent-{{ .Site.Data.config.accent_color }}">
     <div id="site-wrap" class="site content">
+        {{ partial "header.html" . }}
         <main id="content" class="site-content"> {{ block "content" . }}{{ end }} </main>
         
         {{ partial "newsletter_section.html" . }}

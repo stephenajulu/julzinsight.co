@@ -6,6 +6,18 @@ sections:
     section_id: hero
     title: >-
       We build impactful tech products and solutions that solve complex business challenges.
+  - type: grid_section
+    section_id: clients
+    title: 
+    subtitle: 
+    col_number: three
+    grid_items:
+      - image: images/logo-1.svg
+        image_alt: Logo 1
+      - image: images/logo-2.svg
+        image_alt: Logo 2
+      - image: images/logo-3.svg
+        image_alt: Logo 3
   - type: portfolio_section
     section_id: latest-projects
     layout_style: mosaic
@@ -18,13 +30,13 @@ sections:
     section_id: services
     title: Featured Services
     subtitle: 
-    col_number: three
+    col_number: two
     grid_items:
-      - title: Enterprise Software Solutions
+      - title: Business Technology Consulting
         image: images/service-1.svg
         actions:
           - label: Learn more →
-            url: /services/enterprise-software-solutions
+            url: /services/enterprise-software-solution
             style: link
         content: 
       - title: Impactful Tech Solutions

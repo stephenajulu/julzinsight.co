@@ -5,7 +5,7 @@ sections:
   - type: hero_section
     section_id: hero
     title: >-
-      Transforming your business with impactful cutting-edge tech solutions that solve complex challenges.
+      Transforming your business with impactful cutting-edge tech solutions.
   - type: portfolio_section
     section_id: latest-projects
     layout_style: mosaic

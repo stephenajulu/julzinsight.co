@@ -1,11 +1,11 @@
 ---
 title: Our Story
-sub_title: Pioneering innovation. Illuminating possibilities →
+sub_title: Illuminating possibilities →
 hide_title: false
 sections:
   - type: content_section
     content: >-
-      JULZ INSIGHT, established in 2021, is a pioneering tech firm based in Nairobi that is dedicated to building impactful tech products and solutions that address complex global and business challenges. Our innovative approach and commitment to excellence have positioned us as a leader in the tech industry, driving transformative change across various sectors.<br> <br><span style="font-weight: 700">Our Slogan</span> - Illuminating Possibilities<br> <br><span style="font-weight: 700">Our Mission</span> - To leverage cutting-edge technology to develop solutions that not only meet but exceed the evolving needs of our clients, fostering sustainable growth and positive societal impact.<br> <br><span style="font-weight: 700">Our Vision</span> - To be a global leader in technological innovation, delivering solutions that transform industries and improve lives.<br><br><span style="font-weight: 700">Our Focus</span> - We prioritize continuous innovation, impact, and advancement, constantly pushing the boundaries of technology to develop new solutions that provide value and growth. <br><br><span style="font-weight: 700">Our Future</span> - We are dedicated to advancing our R&D efforts exploring new technologies and methodologies to create innovative solutions and products. Continous innovation is at the heart of our operations, driving us to introduce new, cutting-edge products that set industry standards. We also aim to expand our presence in international markets, establishing JULZ INSIGHT as a global leader in tech.<br><br>Come, let's build something great today! **[Book A Consultation](/contact/)**
+      Welcome to JULZ INSIGHT, a visionary technology firm based in Nairobi, dedicated to building impactful tech products and solutions that solve complex challenges. Our innovative approach and commitment to excellence have positioned us as a leader in the tech industry, driving transformative change across various sectors. Founded in 2020 with a vision to revolutionize the way businesses, individuals and the globe leverage technology, JULZ INSIGHT has grown into a trusted partner for organizations across various industries. Our team of experts brings years of experience and a passion for technology, ensuring we deliver solutions that are both innovative and practical.<br> <br><span style="font-weight: 700">Our Slogan</span> - Illuminating Possibilities<br> <br><span style="font-weight: 700">Our Mission</span> - To leverage cutting-edge technology to develop solutions that not only meet but exceed the evolving needs of our clients, fostering sustainable growth and positive societal impact.<br> <br><span style="font-weight: 700">Our Vision</span> - To be a global leader in technological innovation, delivering solutions that transform industries and improve lives.<br><br><span style="font-weight: 700">Our Focus</span> - We prioritize continuous innovation, impact, and advancement, constantly pushing the boundaries of technology to develop new solutions that provide value and growth. <br><br><span style="font-weight: 700">Our Future</span> - We are dedicated to advancing our R&D efforts exploring new technologies and methodologies to create innovative solutions and products. Continous innovation is at the heart of our operations, driving us to introduce new, cutting-edge products that set industry standards. We also aim to expand our presence in international markets, establishing JULZ INSIGHT as a global leader in tech.<br><br>Come, let's build something great today! **[Book A Consultation](/contact/)**
   - type: grid_section
     section_id: clients
     col_number: three
@@ -69,7 +69,7 @@ sections:
   - type: cta_section
     section_id: cta
     title: Ready to work together?
-    content: We are dedicated to building impactful tech products and solutions that drive innovation and success to *forward-thinking companies and brands*. Want to reach us and get started? 
+    content: Ready to transform your business with cutting-edge technology solutions? Book a discovery call with us today and let's explore how JULZ INSIGHT can help you achieve your strategic goals. Don't wait - Take the first step towards innovation and success now!
     image: images/cta-about.svg
     image_alt: An abstract shape for the call to action
     bg_color: dark

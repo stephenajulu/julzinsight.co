@@ -1,74 +1,60 @@
 ---
-title: Aimi Case Study
-subtitle: Brand Development
-date: '2020-03-10'
-thumb_image: images/work-branding-1-thumb.jpg
-thumb_image_alt: Aimi preview
+title: Logo, Mark and Symbol Collection Volume 1
+subtitle: Logo Design Collection
+date: '2024-12-11'
+thumb_image: images/logos-vol1-1.png
+thumb_image_alt: julz insight logo collection
 sections:
   - type: image_section
-    image: images/work-branding-1.jpg
-    image_alt: Aimi 1
-    caption: This is the caption of the image
+    image: images/logos-vol1-1.png
+    image_alt: julz insight logo collection logo 1
+    caption: 
     width: wide
-  - type: text_section
-    content: >-
-      Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit
-      accumsan sapien blandit ac amet faucibus aliquet placerat commodo.
-      Interdum ante aliquet commodo accumsan vis phasellus adipiscing. Ornare a
-      in lacinia. Vestibulum accumsan ac metus massa tempor. Accumsan in lacinia
-      ornare massa amet. Ac interdum ac non praesent. Cubilia lacinia interdum
-      massa faucibus blandit nullam. Accumsan phasellus nunc integer. Accumsan
-      euismod nunc adipiscing lacinia erat ut sit. Arcu amet. Id massa aliquet
-      arcu accumsan lorem amet accumsan.
   - type: image_section
-    image: images/work-branding-2.jpg
-    image_alt: Aimi 2
+    image: images/logos-vol1-2.png
+    image_alt: julz insight logo collection logo 2
+    caption: 
     width: wide
-  - type: text_section
-    content: >-
-      Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa
-      massa primis. Tempus condimentum tempus non ac varius cubilia adipiscing
-      placerat lorem turpis at. Aliquet lorem porttitor interdum. Amet lacus.
-      Aliquam lobortis faucibus blandit ac phasellus.
   - type: image_section
-    image: images/work-branding-3.jpg
-    image_alt: Aimi 3
+    image: images/logos-vol1-3.png
+    image_alt: julz insight logo collection logo 3
+    caption: 
     width: wide
-  - type: text_section
-    content: >-
-      Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit
-      accumsan sapien blandit ac amet faucibus aliquet placerat commodo.
-      Interdum ante aliquet commodo accumsan vis phasellus adipiscing. Ornare a
-      in lacinia. Vestibulum accumsan ac metus massa tempor. Accumsan in lacinia
-      ornare massa amet. Ac interdum ac non praesent. Cubilia lacinia interdum
-      massa faucibus blandit nullam. Accumsan phasellus nunc integer. Accumsan
-      euismod nunc adipiscing lacinia erat ut sit. Arcu amet. Id massa aliquet
-      arcu accumsan lorem amet accumsan.
+  - type: image_section
+    image: images/logos-vol1-4.png
+    image_alt: julz insight logo collection logo 4
+    caption: 
+    width: wide
+  - type: image_section
+    image: images/logos-vol1-5.png
+    image_alt: julz insight logo collection logo 5
+    caption: 
+    width: wide
 seo:
-  title: Aimi Brand Development | Case Studies - Julz Insight
-  description: This is the sample project description
+  title: Logo, Mark and Symbol Collection Volume 1 | Case Studies - Julz Insight
+  description: Logo, Mark and Symbol Collection Volume 1 by Julz Insight showcasing the logos we have worked on till now 2024
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Aimi Brand Development | Case Studies - Julz Insight
+      value: Logo, Mark and Symbol Collection Volume 1 | Case Studies - Julz Insight
       keyName: property
     - name: 'og:description'
-      value: This is the sample project description
+      value: Logo, Mark and Symbol Collection Volume 1 by Julz Insight showcasing the logos we have worked on till now 2024
       keyName: property
     - name: 'og:image'
-      value: images/work-branding-1.jpg
+      value: images/logos-vol1-1.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Aimi Brand Development | Case Studies - Julz Insight
+      value: Logo, Mark and Symbol Collection Volume 1 | Case Studies - Julz Insight
     - name: 'twitter:description'
-      value: This is the sample project description
+      value: Logo, Mark and Symbol Collection Volume 1 by Julz Insight showcasing the logos we have worked on till now 2024
     - name: 'twitter:image'
-      value: images/work-branding-1.jpg
+      value: images/logos-vol1-1.png
       relativeUrl: true
 layout: project
 ---

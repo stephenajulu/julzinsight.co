@@ -20,32 +20,24 @@ sections:
     section_id: services
     title: Services
     subtitle: Our solutions and services
-    col_number: three
+    col_number: two
     grid_items:
-      - title: Enterprise Software Solutions
+      - title: Business Technology Consulting
         image: images/service-1.svg
+        actions:
+          - label: Learn more →
+            url: /services/business-technology-consulting
+            style: button
+        content: |-
+          Transform your business with our comprehensive Business Technology Consulting services. From digital transformation and cloud solutions to IT infrastructure and project management, we provide tailored strategies that drive innovation and efficiency. Learn more or book a discovery call via Cal.com or schedule a physical meet-up to explore how we can help you achieve your strategic goals.
+      - title: Enterprise Software Solutions
+        image: images/service-2.svg
         actions:
           - label: Learn more →
             url: /services/enterprise-software-solutions
             style: button
         content: |-
-          Transform your business with JULZ INSIGHT’s Managed Enterprise Software Solutions1. From ERP and CRM to HRM and SCM, our solutions streamline operations, enhance customer relationships, and optimize your supply chain2. Achieve your business goals with our expertly managed, customizable, and scalable software solutions.
-      - title: Managed Open Source Software Solutions
-        image: images/service-2.svg
-        actions:
-          - label: Learn more →
-            url: /services/open-source-solutions-extended
-            style: button
-        content: |-
-          We streamline open-source software for clients. We handle hosting, customization, and ongoing management. Our experts tailor the software to fit unique needs, ensuring security, compliance, and optimal performance. Whether it is the following or other bespoke open-source software solutions. We've got your back. 
-      - title: Tech Solutions
-        image: images/service-3.svg
-        actions:
-          - label: Learn more →
-            url: /services/tech-solutions-extended
-            style: button
-        content: |-
-          We offer various tech solutions, including but not limited to web development and design, managed software solutions, business process automation, enterprise software solutions, ICT equipment supply, RPA, cloud, SEO, landing pages, sales funnel building, and AI. Our goal is to leverage tech in empowering businesses.
+          Revolutionize your operations with our cutting-edge Enterprise Software Solutions powered by open-source technology. Our offerings include ERP, CRM, BPM/A, and more, designed to streamline processes and enhance productivity. Discover more or schedule a discovery call via Cal.com or arrange a face-to-face consultation to unlock the full potential of your business. 
   - type: portfolio_section
     section_id: latest-projects
     layout_style: mosaic

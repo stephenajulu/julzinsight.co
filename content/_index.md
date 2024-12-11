@@ -6,18 +6,6 @@ sections:
     section_id: hero
     title: >-
       We build impactful tech products and solutions that solve complex business challenges.
-  - type: grid_section
-    section_id: clients
-    title: 
-    subtitle: 
-    col_number: three
-    grid_items:
-      - image: images/logo-1.svg
-        image_alt: Logo 1
-      - image: images/logo-2.svg
-        image_alt: Logo 2
-      - image: images/logo-3.svg
-        image_alt: Logo 3
   - type: portfolio_section
     section_id: latest-projects
     layout_style: mosaic
@@ -36,23 +24,16 @@ sections:
         image: images/service-1.svg
         actions:
           - label: Learn more →
-            url: /services/enterprise-software-solution
+            url: /services/tech-solutions
             style: link
-        content: 
-      - title: Impactful Tech Solutions
+        content: Transform your business with our comprehensive Business Technology Consulting services. From digital transformation and cloud solutions to IT infrastructure and project management, we provide tailored strategies that drive innovation and efficiency. Learn more or book a discovery call via Cal.com to explore how we can help you achieve your strategic goals.
+      - title: Enterprise Software Solutions
         image: images/service-2.svg
         actions:
           - label: Learn more →
-            url: /services/tech-solutions
+            url: /services/enterprise-software-solution
             style: link
-        content:  
-      - title: Managed Open Source Solutions
-        image: images/service-3.svg
-        actions:
-          - label: Learn more →
-            url: /services/tech-solutions
-            style: link
-        content:  
+        content:  Revolutionize your operations with our cutting-edge Enterprise Software Solutions powered by open-source technology. Our offerings include ERP, CRM, BPM/A, and more, designed to streamline processes and enhance productivity. Discover more or schedule a discovery call via Cal.com to unlock the full potential of your business.
   - type: cta_section
     section_id: cta
     title: Let’s Build Together!

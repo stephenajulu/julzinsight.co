@@ -31,7 +31,7 @@ sections:
         image: images/service-2.svg
         actions:
           - label: Learn more →
-            url: /services/enterprise-software-solution
+            url: /services/enterprise-software-solutions
             style: link
         content:  Revolutionize your operations with our cutting-edge Enterprise Software Solutions.
   - type: cta_section

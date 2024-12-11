@@ -82,6 +82,6 @@ Hear from our satisfied clients about their experiences working with JULZ INSIGH
 
 Ready to transform your business with cutting-edge technology solutions? Book a discovery call with us today and let's explore how JULZ INSIGHT can help you achieve your strategic goals. Whether you prefer a virtual meeting via Cal.com or an in-person consultation, we're here to guide you every step of the way. Don't wait—take the first step towards innovation and success now!
 
-{{< Consult >}}
+{{< consult >}}
 
 Subscribe to Our Newsletter: Stay ahead of the curve with our exclusive content! Join over 2,000 subscribers who receive our weekly newsletter packed with insightful articles, webinars, and eBooks on the latest in business technology. Sign up now and never miss an update!

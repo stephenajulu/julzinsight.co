@@ -69,7 +69,7 @@ sections:
   - type: cta_section
     section_id: cta
     title: Ready to work together?
-    content: Ready to transform your business with cutting-edge technology solutions? Book a discovery call with us today and let's explore how JULZ INSIGHT can help you achieve your strategic goals. Don't wait - Take the first step towards innovation and success now!
+    content: Ready to transform your business? Book a discovery call with us today and let's explore how JULZ INSIGHT can help you achieve your strategic goals.
     image: images/cta-about.svg
     image_alt: An abstract shape for the call to action
     bg_color: dark

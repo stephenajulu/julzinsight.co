@@ -26,14 +26,14 @@ sections:
           - label: Learn more →
             url: /services/tech-solutions
             style: link
-        content: Transform your business with our comprehensive Business Technology Consulting services. From digital transformation and cloud solutions to IT infrastructure and project management, we provide tailored strategies that drive innovation and efficiency. Learn more or book a discovery call via Cal.com to explore how we can help you achieve your strategic goals.
+        content: Transform your business with our comprehensive Business Technology Consulting services.
       - title: Enterprise Software Solutions
         image: images/service-2.svg
         actions:
           - label: Learn more →
             url: /services/enterprise-software-solution
             style: link
-        content:  Revolutionize your operations with our cutting-edge Enterprise Software Solutions powered by open-source technology. Our offerings include ERP, CRM, BPM/A, and more, designed to streamline processes and enhance productivity. Discover more or schedule a discovery call via Cal.com to unlock the full potential of your business.
+        content:  Revolutionize your operations with our cutting-edge Enterprise Software Solutions.
   - type: cta_section
     section_id: cta
     title: Let’s Build Together!

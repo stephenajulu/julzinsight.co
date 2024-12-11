@@ -2,11 +2,11 @@
 title: Logo, Mark and Symbol Collection Volume 1
 subtitle: Logo Design Collection
 date: '2024-12-11'
-thumb_image: images/logos-vol1-1.png
+thumb_image: images/logos-vol1-0.png
 thumb_image_alt: julz insight logo collection
 sections:
   - type: image_section
-    image: images/logos-vol1-1.png
+    image: images/logos-vol1-0.png
     image_alt: julz insight logo collection logo 1
     caption: 
     width: wide

@@ -1,7 +1,7 @@
 ---
 title: Julz Insight Case Study
 subtitle: Branding, Web Design and Development
-date: '2024-07-02'
+date: '2024-12-13'
 thumb_image: images/julzinsight6.png
 thumb_image_alt: our website on a laptop
 sections:

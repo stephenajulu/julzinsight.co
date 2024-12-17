@@ -18,7 +18,7 @@ sections:
     section_id: services
     title: Featured Services
     subtitle: 
-    col_number: two
+    col_number: three
     grid_items:
       - title: Business Technology Consulting
         image: images/service-1.svg

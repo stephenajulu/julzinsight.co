@@ -24,7 +24,7 @@ sections:
         image: images/service-1.svg
         actions:
           - label: Learn more →
-            url: /services/tech-solutions
+            url: /services/business-technology-consulting
             style: link
         content: Transform your business with our comprehensive Business Technology Consulting services.
       - title: Enterprise Software Solutions

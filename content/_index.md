@@ -34,13 +34,6 @@ sections:
             url: /services/enterprise-software-solutions
             style: link
         content:  Revolutionize your operations with our cutting-edge Enterprise Software Solutions.
-     - title: Branding Solutions
-        image: images/service-3.svg
-        actions:
-          - label: Learn more →
-            url: /services/branding
-            style: link
-        content:  Elevate your brand with our cohesive and impactful visual identity design.
   - type: cta_section
     section_id: cta
     title: Let’s Build Together!

@@ -1,0 +1,46 @@
+collections_config:
+  pages:
+    path: content
+    name: Pages
+    icon: wysiwyg
+  blog:
+    path: content/blog
+    name: Blog
+    icon: event_available
+    glob:
+      - '!_index.md'
+  portfolio:
+    path: content/portfolio
+    name: Portfolio
+    icon: portrait
+    glob:
+      - '!_index.md'
+  services:
+    path: content/services
+    name: Services
+    icon: devices
+    glob:
+      - '!_index.md'
+paths:
+  static: static
+  uploads: static/uploads
+timezone: Africa/Nairobi
+markdown:
+  engine: commonmark
+  options:
+    gfm: true
+    linkify: false
+    table: false
+    strikethrough: false
+    subscript: false
+    superscript: false
+    heading_ids: false
+    breaks: false
+    xhtml: false
+    attributes: false
+    typographer: false
+    treat_indentation_as_code: true
+_snippets_imports:
+  hugo:
+    exclude:
+      - hugo_instagram

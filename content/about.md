@@ -74,7 +74,7 @@ sections:
     image_alt: An abstract shape for the call to action
     bg_color: dark
     actions:
-      - label: Schedule a consult now! →
+      - label: Consult →
         url: /contact
         style: button
 seo:

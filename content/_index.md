@@ -8,7 +8,7 @@ sections:
       We build impactful tech products and solutions that solve complex challenges.
   - type: portfolio_section
     section_id: latest-projects
-    layout_style: mosaic
+    layout_style: grid
     title:
     subtitle:
     projects_number: 2

@@ -5,7 +5,7 @@ sections:
   - type: hero_section
     section_id: hero
     title: >-
-      We're a tech firm building impactful products and solutions.
+      We're a visionary tech firm building impactful cutting-edge tech products and solutions.
   - type: portfolio_section
     section_id: latest-projects
     layout_style: mosaic

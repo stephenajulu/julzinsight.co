@@ -12,8 +12,6 @@ sections:
     title:
     subtitle:
     projects_number: 2
-    view_all_label: View All
-    view_all_url: portfolio
   - type: grid_section
     section_id: services
     title: Featured Services

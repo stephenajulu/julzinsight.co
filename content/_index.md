@@ -5,7 +5,7 @@ sections:
   - type: hero_section
     section_id: hero
     title: >-
-      We build impactful tech products and solutions that solve complex challenges.
+      We build impactful cutting-edge products, brands, and solutions that solve complex challenges.
   - type: portfolio_section
     section_id: latest-projects
     layout_style: tiles

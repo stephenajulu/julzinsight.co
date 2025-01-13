@@ -9,13 +9,15 @@ sections:
   - type: portfolio_section
     section_id: latest-projects
     layout_style: tiles
-    title:
+    title: Blog
     subtitle:
     projects_number: 2
   - type: posts_section
     section_id: posts
     title:
     subtitle:
+    col_number: two
+    posts_number: 2
   - type: grid_section
     section_id: services
     title: Featured Services

@@ -14,7 +14,7 @@ sections:
     projects_number: 2
   - type: posts_section
     section_id: posts
-    title: Blog
+    title: Insights
     subtitle:
     col_number: two
     posts_number: 2

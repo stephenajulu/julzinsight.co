@@ -12,12 +12,6 @@ sections:
     title: Works
     subtitle:
     projects_number: 2
-  - type: posts_section
-    section_id: posts
-    title: Insights
-    subtitle:
-    col_number: two
-    posts_number: 2
   - type: grid_section
     section_id: services
     title: Featured Services
@@ -38,6 +32,12 @@ sections:
             url: /services/enterprise-software-solutions
             style: link
         content: Revolutionize your operations with our cutting-edge Enterprise Software Solutions.
+  - type: posts_section
+    section_id: posts
+    title: Insights
+    subtitle:
+    col_number: two
+    posts_number: 2
   - type: cta_section
     section_id: cta
     title: Let’s Build Together!

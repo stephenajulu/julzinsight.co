@@ -14,7 +14,7 @@ sections:
     projects_number: 2
   - type: grid_section
     section_id: services
-    title: Featured Services
+    title: Services
     subtitle: 
     col_number: two
     grid_items:

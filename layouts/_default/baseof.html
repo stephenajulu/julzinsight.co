@@ -81,8 +81,8 @@
 </head>
 
     
-<body class="font-{{ .Site.Data.config.base_font }} palette-{{ .Site.Data.config.color_scheme }} accent-{{ .Site.Data.config.accent_color }}" style="background:#ffffff !important;">
-    <div id="site-wrap" class="site content">
+<body class="font-{{ .Site.Data.config.base_font }} palette-{{ .Site.Data.config.color_scheme }} accent-{{ .Site.Data.config.accent_color }}" style="background:#ffffff;">
+    <div id="site-wrap" class="site content" style="background:#ffffff;">
         {{ partial "header.html" . }}
         <main id="content" class="site-content"> {{ block "content" . }}{{ end }} </main>
         

@@ -30,12 +30,7 @@
                 "style": "link"
             },
             {
-                "label": "Contact",
-                "url": "/contact/",
-                "style": "link"
-            },
-            {
-                "label": "Get Started Now →",
+                "label": "Get in touch →",
                 "url": "/contact/",
                 "style": "button"
             }

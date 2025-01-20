@@ -5,7 +5,7 @@ sections:
   - type: hero_section
     section_id: hero
     title: >-
-      We build impactful cutting-edge products, brands, and solutions that solve complex challenges.
+      We build impactful tech products and solutions that solve complex challenges.
 seo:
   title: Julz Insight | Tech Solutions with Software, Web, Cloud & Digital Transformation Expertise
   description: >-

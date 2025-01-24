@@ -68,14 +68,14 @@ sections:
         url: /contact
         style: button
 seo:
-  title: About - Julz Insight - Tech Visionaries | Tech Solutions with Software, Web, AI, Cloud, Design & Digital Transformation Expertise
+  title: About - Julz Insight - Tech Visionaries | Illuminating Possibilities Through Tech and Innovation
   description: Learn more about Julz Insight, our team, our processes, our solutions, our work, and more. We are a tech solutions firm & lab based in Nairobi, Kenya that has over a decade of experience with Software, Web, AI, Cloud, Design & Digital Transformation Expertise. We build impactful tech products and solutions that solve complex challenges. Pioneering innovation. Illuminating possibilities.
   extra:
     - name: og:type
       value: website
       keyName: property
     - name: og:title
-      value: About - Julz Insight - The Tech Visionaries | Tech Solutions with Software, Web, AI, Cloud, Design & Digital Transformation Expertise
+      value: About - Julz Insight - The Tech Visionaries | Illuminating Possibilities Through Tech and Innovation
       keyName: property
     - name: og:description
       value: Learn more about Julz Insight, our team, our processes, our solutions, our work, and more. We are a tech solutions firm & lab based in Nairobi, Kenya that has over a decade of experience with Software, Web, AI, Cloud, Design & Digital Transformation Expertise. We build impactful tech products and solutions that solve complex challenges. Pioneering innovation. Illuminating possibilities.
@@ -87,7 +87,7 @@ seo:
     - name: twitter:card
       value: summary_large_image
     - name: twitter:title
-      value: About - Julz Insight - The Tech Visionaries | Tech Solutions with Software, Web, AI, Cloud, Design & Digital Transformation Expertise
+      value: About - Julz Insight - The Tech Visionaries | Illuminating Possibilities Through Tech and Innovation
     - name: twitter:description
       value: Learn more about Julz Insight, our team, our processes, our solutions, our work, and more. We are a tech solutions firm & lab based in Nairobi, Kenya that has over a decade of experience with Software, Web, AI, Cloud, Design & Digital Transformation Expertise. We build impactful tech products and solutions that solve complex challenges. Pioneering innovation. Illuminating possibilities.
     - name: twitter:image

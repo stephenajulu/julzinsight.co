@@ -42,7 +42,7 @@
     </script> {{ end }} {{ $font := .Site.Data.config.base_font | default "fraunces" }} {{ if ne $font "system-sans" }}
     <link rel="preconnect" href="https://fonts.gstatic.com"> {{ end }} {{ if eq $font "fraunces" }}
     <link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,wght@0,400;0,500;1,400;1,500&display=swap" rel="stylesheet"> {{ else if eq $font "playfair"}}
-    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400,700;800;900&display=swap" rel="stylesheet"> {{ end }}
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700;800;900&display=swap" rel="stylesheet"> {{ end }}
     <link rel="stylesheet" href="{{ (resources.Get "sass/main.scss" | resources.ToCSS (dict "indentWidth" 4 "outputStyle" "nested" "precision" 10 "targetPath" "css/main.css")).Permalink }}">
     <link rel="stylesheet" href="{{ (resources.Get "css/custom.css").Permalink }}">
     {{ if .Site.Data.config.favicon }}<link rel="icon" href="{{ $.Site.Data.config.favicon | relURL }}"> {{ end }}

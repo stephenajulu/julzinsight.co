@@ -5,11 +5,11 @@ sections:
   - type: hero_section
     section_id: hero
     title: >-
-      We build impactful tech products and solutions that solve complex challenges.
+      We build impactful cutting-edge tech products, brands and solutions.
 seo:
   title: Julz Insight | Illuminating Possibilities Through Tech and Innovation
   description: >-
-   We are a tech firm & lab based in Nairobi, Kenya, with over a decade of experience with Software, Web, Cloud, Design, Open-Source & Digital Transformation Expertise. We build impactful tech products and solutions that solve complex challenges. Pioneering innovation. Illuminating possibilities.
+   We are a tech firm & lab based in Nairobi, Kenya, with over a decade of experience in Software, Web, Cloud, Design, Open-Source & Digital Transformation Expertise. We build impactful tech products and solutions that solve complex challenges. Illuminating possibilities.
   extra:
     - name: 'og:type'
       value: website
@@ -19,7 +19,7 @@ seo:
       keyName: property
     - name: 'og:description'
       value: >-
-        We are a tech firm & lab based in Nairobi, Kenya, with over a decade of experience with Software, Web, Cloud, Design, Open-Source & Digital Transformation Expertise. We build impactful tech products and solutions that solve complex challenges. Pioneering innovation. Illuminating possibilities.
+        We are a tech firm & lab based in Nairobi, Kenya, with over a decade of experience with Software, Web, Cloud, Design, Open-Source & Digital Transformation Expertise. We build impactful tech products and solutions that solve complex challenges. Illuminating possibilities.
       keyName: property
     - name: 'og:image'
       value: images/socialimage.png

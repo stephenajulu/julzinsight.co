@@ -10,29 +10,24 @@
         "has_nav": true,
         "nav_links": [
             {
-                "label": "Home",
-                "url": "/",
-                "style": "link"
-            },
-            {
                 "label": "About",
                 "url": "/about/",
                 "style": "link"
             },
             {
-                "label": "Portfolio",
+                "label": "Projects",
                 "url": "/portfolio/",
                 "style": "link"
             },
             {
-                "label": "Insight",
+                "label": "Articles",
                 "url": "/blog/",
                 "style": "link"
             },
             {
                 "label": "Get in touch →",
                 "url": "/contact/",
-                "style": "button"
+                "style": "link"
             }
         ]
     },

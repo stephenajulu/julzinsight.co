@@ -1,11 +1,11 @@
 ---
 title: Our Story
-sub_title: JULZ INSIGHT is a tight-knit team with senior tech & product experience
+sub_title: JULZ is a tight-knit team with senior tech & product experience
 hide_title: false
 sections:
   - type: content_section
     content: >-
-      Welcome to JULZ INSIGHT, a visionary technology firm based in Nairobi, dedicated to building impactful tech products and solutions that solve complex challenges. Our innovative approach and commitment to excellence have positioned us as a leader in the tech industry, driving transformative change across various sectors. Founded in 2020 to revolutionize how businesses, individuals and the globe leverage technology, JULZ INSIGHT has grown into a trusted partner for organizations across various industries seeking innovative solutions to complex challenges. Our team of experts brings years of experience and a passion for technology, ensuring we deliver solutions that are both innovative and practical.<br> <br><span style="font-weight: 700">Our Slogan</span> - Illuminating Possibilities<br> <br><span style="font-weight: 700">Our Mission</span> - To leverage cutting-edge technology to develop solutions that not only meet but exceed the evolving needs of our clients, fostering sustainable growth and positive societal impact.<br> <br><span style="font-weight: 700">Our Vision</span> - To be a global leader in technological research and development, delivering solutions that transform industries and improve lives.<br><br><span style="font-weight: 700">Our Focus</span> - We prioritize continuous innovation, impact, and advancement, constantly pushing the boundaries of technology to develop new solutions that provide value and growth. <br><br><span style="font-weight: 700">Our Future</span> - We are dedicated to advancing our R&D efforts by exploring new technologies and methodologies to create innovative solutions and products. Continuous innovation is at the heart of our operations, driving us to introduce new, cutting-edge products that set industry standards. We also aim to expand our presence in international markets, establishing JULZ INSIGHT as a global leader in tech.<br><br>Come, let's build something great today! **[Book A Consultation](/contact/)**
+      Welcome to JULZ INSIGHT, a visionary technology firm based in Nairobi, dedicated to building impactful tech products and solutions that solve complex challenges. Our innovative approach and commitment to excellence have positioned us as a leader in the tech industry, driving transformative change across various sectors. Founded in 2020 to revolutionize how businesses, individuals and the globe leverage technology, JULZ INSIGHT has grown into a trusted partner for organizations across various industries seeking innovative solutions to complex challenges. Our team of experts brings years of experience and a passion for technology, ensuring we deliver solutions that are both innovative and practical.<br> <br><span style="font-weight: 700">Our Slogan</span> - Illuminating Possibilities<br> <br><span style="font-weight: 700">Our Mission</span> - To leverage cutting-edge technology to develop solutions that not only meet but exceed the evolving needs of our clients, fostering sustainable growth and positive societal impact.<br> <br><span style="font-weight: 700">Our Vision</span> - To be a global leader in technological research and development, delivering solutions that transform industries and improve lives.<br><br><span style="font-weight: 700">Our Focus</span> - We prioritize continuous innovation, impact, and advancement, constantly pushing the boundaries of technology to develop new solutions that provide value and growth. <br><br><span style="font-weight: 700">Our Future</span> - We are dedicated to advancing our R&D efforts by exploring new technologies and methodologies to create impactful products and solutions. Continuous innovation is at the heart of our operations, driving us to introduce new, cutting-edge products that set industry standards. We also aim to expand our presence in international markets, establishing JULZ INSIGHT as a global leader in tech R&D.<br><br>Come, let's build something great today! **[Book A Consultation](/contact/)**
   - type: grid_section
     section_id: services
     title: Services
@@ -18,16 +18,13 @@ sections:
           - label: Learn more →
             url: /services/business-technology-consulting
             style: button
-        content: |-
-          Transform your business with our comprehensive Business Technology Consulting services. From digital transformation and cloud solutions to IT infrastructure and project management, we provide tailored strategies that drive innovation and efficiency. Learn more or book a discovery call via Cal.com or schedule a physical meet-up to explore how we can help you achieve your strategic goals.
-      - title: Enterprise Software Solutions
+        content:
         image: images/service-2.svg
         actions:
           - label: Learn more →
             url: /services/enterprise-software-solutions
             style: button
-        content: |-
-          Revolutionize your operations with our cutting-edge Enterprise Software Solutions powered by open-source technology. Our offerings include ERP, CRM, BPM/A, and more, designed to streamline processes and enhance productivity. Discover more or schedule a discovery call via Cal.com or arrange a face-to-face consultation to unlock the full potential of your business. 
+        content:
   - type: portfolio_section
     section_id: latest-projects
     layout_style: mosaic
@@ -43,8 +40,8 @@ sections:
     grid_items:
       - title: Stephen Ajulu
         image: /images/1653516600275.jpg
-        subtitle: Founder, Lead Tech Consultant, Solutions Architect, and Director
-        content: Nice to meet you and Welcome to Julz Insight. 
+        subtitle: Founder, Tech & Product Lead, and Director
+        content:
         actions:
           - label: Twitter
             url: https://twitter.com/stephenajulu

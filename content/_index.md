@@ -5,7 +5,7 @@ sections:
   - type: hero_section
     section_id: hero
     title: >-
-      We build impactful cutting-edge tech products, brands and solutions.
+      We are a tech firm building impactful products and solutions
 seo:
   title: Julz Insight | Illuminating Possibilities Through Tech and Innovation
   description: >-

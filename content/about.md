@@ -19,6 +19,7 @@ sections:
             url: /services/business-technology-consulting
             style: button
         content:
+      - title: Enterprise Software Solutions
         image: images/service-2.svg
         actions:
           - label: Learn more →

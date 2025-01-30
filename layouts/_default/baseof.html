@@ -82,7 +82,7 @@
 
     
 <body class="font-{{ .Site.Data.config.base_font }} palette-{{ .Site.Data.config.color_scheme }} accent-{{ .Site.Data.config.accent_color }}">
-    {{ if .IsHome }}<img src="/images/julz5.jpg" alt="hero image" loading="lazy" style="position: absolute; top: 0px; left: 0px; width: 100%; height: 100%; object-fit: cover; object-position: center center; opacity: 1; transition: none; filter: blur(40px); -webkit-filter: blur(40px);">{{ end }}
+    {{ if .IsHome }}<img src="/images/julz5-70blur.png" alt="hero image" loading="lazy" style="position: absolute; top: 0px; left: 0px; width: 100%; height: 100%; object-fit: cover; object-position: center center; opacity: 1; transition: none;>{{ end }}
     <div id="site-wrap" class="site content">
         {{ partial "header.html" . }}
         <main id="content" class="site-content"> {{ block "content" . }}{{ end }} </main>

@@ -32,8 +32,8 @@
         ]
     },
     "footer": {
-        "content": "&copy; JULZ INSIGHT 2025",
-        "has_social": true,
+        "content": "&copy; Julz Insight 2025",
+        "has_social": false,
         "social_links": [
             {
                 "label": "Twitter",

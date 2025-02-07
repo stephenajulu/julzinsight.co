@@ -80,7 +80,8 @@
 
     
 <body class="font-{{ .Site.Data.config.base_font }} palette-{{ .Site.Data.config.color_scheme }} accent-{{ .Site.Data.config.accent_color }}">
-    <img src="/images/julz5-90blur-edited.png" alt="hero image" loading="lazy" style="position: absolute; top: 0px; left: 0px; width: 100%; height: 100%; object-fit: cover; object-position: center center; opacity: 1; transition: none;background-repeat: no-repeat; background-attachment: fixed;">
+    <!--<img src="/images/julz5-90blur-edited.png" alt="hero image" loading="lazy" style="position: absolute; top: 0px; left: 0px; width: 100%; height: 100%; object-fit: cover; object-position: center center; opacity: 1; transition: none;background-repeat: no-repeat; background-attachment: fixed;">-->
+<img src="/images/julz5-90blur-edited.png" alt="hero image" loading="lazy" style="position: fixed; top: 0px; left: 0px; width: 100vw; height: 100vh; object-fit: cover; z-index: -1;">
     <div id="site-wrap" class="site content">
         {{ partial "header.html" . }}
         <main id="content" class="site-content"> {{ block "content" . }}{{ end }} </main>

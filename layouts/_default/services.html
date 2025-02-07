@@ -18,12 +18,12 @@
       {{ range $services := $services_sorted }}
       <article class="cell post-card">
         {{ if $services.Params.thumb_image }}
-        <a class="post-card__image" href="{{ $services.URL }}">
+        <a class="post-card__image" href="{{ $services.Permalink }}">
           <img src="{{ $services.Params.thumb_image | relURL }}" alt="{{ $services.Params.thumb_image_alt }}" />
         </a>
         {{ end }}
         <header class="post-card__header">
-          <h2 class="post-card__title"><a href="{{ $services.URL }}">{{ $services.Params.title }}</a></h2>
+          <h2 class="post-card__title"><a href="{{ $services.Permalink }}">{{ $services.Params.title }}</a></h2>
         </header>
         {{ if $services.Params.excerpt }}
         <p class="post-card__body">

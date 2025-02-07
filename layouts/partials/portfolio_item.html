@@ -1,6 +1,6 @@
 {{ $project := .project_page }}
 <article class="cell project-card">
-  <a href="{{ $project.URL }}" class="project-card__link">
+  <a href="{{ $project.Permalink }}" class="project-card__link">
     {{ if $project.Params.thumb_image }}
     <div class="project-card__image">
       <img src="{{ $project.Params.thumb_image | relURL }}" alt="{{ $project.Params.thumb_image_alt }}" />

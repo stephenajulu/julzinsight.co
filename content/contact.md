@@ -61,14 +61,14 @@ sections:
           I also join Julz Insight's newsletter for insights, offers, resources and more.
     submit_label: Send Message
 seo:
-  title: Contact Us
+  title: Contact Us - Julz Insight | Illuminating Possibilities Through Tech and Innovation
   description:  At Julz Insight, we are dedicated to building impactful tech products and solutions that drive innovation and success to forward-thinking companies and brands. Whether you have a question, need support, or want to discuss a potential project, we are here to help. Get in touch with us through any of the following methods.
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Contact - Julz Insight | Tech Solutions with Web, AI, Digital Transformation & Cloud Expertise
+      value: Contact Us - Julz Insight | Illuminating Possibilities Through Tech and Innovation
       keyName: property
     - name: 'og:description'
       value: At Julz Insight, we are dedicated to building impactful tech products and solutions that drive innovation and success to forward-thinking companies and brands. Whether you have a question, need support, or want to discuss a potential project, we are here to help. Get in touch with us through any of the following methods.
@@ -80,7 +80,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Contact - Julz Insight | Tech Solutions with Web, AI, Digital Transformation & Cloud Expertise
+      value: Contact Us - Julz Insight | Illuminating Possibilities Through Tech and Innovation
     - name: 'twitter:description'
       value: At Julz Insight, we are dedicated to building impactful tech products and solutions that drive innovation and success to forward-thinking companies and brands. Whether you have a question, need support, or want to discuss a potential project, we are here to help. Get in touch with us through any of the following methods.
     - name: 'twitter:image'

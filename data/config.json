@@ -10,40 +10,30 @@
         "has_nav": true,
         "nav_links": [
             {
-                "label": "Home",
-                "url": "/",
-                "style": "link"
-            },
-            {
                 "label": "About",
                 "url": "/about/",
                 "style": "link"
             },
             {
-                "label": "Portfolio",
+                "label": "Projects",
                 "url": "/portfolio/",
                 "style": "link"
             },
             {
-                "label": "Insight",
+                "label": "Articles",
                 "url": "/blog/",
                 "style": "link"
             },
             {
                 "label": "Contact",
                 "url": "/contact/",
-                "style": "link"
-            },
-            {
-                "label": "Get Started Now →",
-                "url": "/contact/",
                 "style": "button"
             }
         ]
     },
     "footer": {
-        "content": "&copy; Julz Insight 2024 → Impactful Tech Solutions",
-        "has_social": true,
+        "content": "&copy; Julz Insight 2025",
+        "has_social": false,
         "social_links": [
             {
                 "label": "Twitter",

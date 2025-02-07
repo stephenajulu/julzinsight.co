@@ -16,14 +16,14 @@ sections:
     image_alt: Illustration
     bg_color: dark
 seo:
-  title: Portfolio - Julz Insight | Tech Solutions with Software, Web, Cloud & Digital Transformation Expertise
+  title: Portfolio - Julz Insight | Illuminating Possibilities Through Tech and Innovation
   description: Discover Julz Insight’s portfolio showcasing successful tech projects, innovative solutions, and collaborations with esteemed clients. See our case studies, and internal products, and meet our expert team.
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Portfolio - Julz Insight | Tech Solutions with Software, Web, Cloud & Digital Transformation Expertise
+      value: Portfolio - Julz Insight | Illuminating Possibilities Through Tech and Innovation
       keyName: property
     - name: 'og:description'
       value: Discover Julz Insight’s portfolio showcasing successful tech projects, innovative solutions, and collaborations with esteemed clients. See our case studies, and internal products, and meet our expert team.
@@ -35,7 +35,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Portfolio - Julz Insight | Tech Solutions with Software, Web, Cloud & Digital Transformation Expertise
+      value: Portfolio - Julz Insight | Illuminating Possibilities Through Tech and Innovation
     - name: 'twitter:description'
       value: Discover Julz Insight’s portfolio showcasing successful tech projects, innovative solutions, and collaborations with esteemed clients. See our case studies, and internal products, and meet our expert team.
     - name: 'twitter:image'

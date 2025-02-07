@@ -36,7 +36,7 @@
 {{ $posts_sorted := ((.Site.GetPage "section" "/blog").Pages).ByDate.Reverse }}
 {{ $post_item_len := len $posts_sorted }}
 {{ range $post_item_idx, $post_item := $posts_sorted }}
-  {{ if eq $post_item.URL $.RelPermalink }}
+  {{ if eq $post_item.Permalink $.RelPermalink }}
     {{ $curr_index := $post_item_idx }}
     {{ $next_index := add $curr_index 1 }}
     {{ $prev_index := sub $curr_index 1 }}

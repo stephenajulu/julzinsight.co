@@ -23,7 +23,7 @@
 {{ $projects_sorted := ((.Site.GetPage "section" "/portfolio").Pages).ByDate.Reverse }}
 {{ $project_item_len := len $projects_sorted }}
 {{ range $project_item_idx, $project_item := $projects_sorted }}
-  {{ if eq $project_item.URL $.Permalink }}
+  {{ if eq $project_item.Permalink $.Permalink }}
     {{ $curr_index := $project_item_idx }}
     {{ $next_index := add $curr_index 1 }}
     {{ $prev_index := sub $curr_index 1 }}

@@ -1,8 +1,5 @@
 title: Julz Insight
 baseURL: https://julzinsight.netlify.app
-taxonomies:
-  stub: stub
-  tag: tags
 markup:
   goldmark:
     renderer:

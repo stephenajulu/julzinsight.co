@@ -6,10 +6,12 @@ sections:
     section_id: hero
     title: >-
       We are a tech firm building impactful products and solutions that solve complex challenges.
+    content: >-
+      with software, web, cloud, and digital transformation expertise
 seo:
   title: Julz Insight | Illuminating Possibilities Through Tech and Innovation
   description: >-
-   We are a tech firm & lab based in Nairobi, Kenya, with over a decade of experience in Software, Web, Cloud, Design, Open-Source & Digital Transformation Expertise. We build impactful tech products and solutions that solve complex challenges. Illuminating possibilities.
+   We are a tech firm and lab based in Nairobi, Kenya, with over a decade of experience in Software, Web, Cloud, Design, Open-Source, and digital Transformation Expertise. We build impactful tech products and solutions that solve complex challenges and illuminate possibilities.
   extra:
     - name: 'og:type'
       value: website
@@ -19,7 +21,7 @@ seo:
       keyName: property
     - name: 'og:description'
       value: >-
-        We are a tech firm & lab based in Nairobi, Kenya, with over a decade of experience with Software, Web, Cloud, Design, Open-Source & Digital Transformation Expertise. We build impactful tech products and solutions that solve complex challenges. Illuminating possibilities.
+        We are a tech firm and lab based in Nairobi, Kenya, with over a decade of experience in Software, Web, Cloud, Design, Open-Source, and digital Transformation Expertise. We build impactful tech products and solutions that solve complex challenges and illuminate possibilities.
       keyName: property
     - name: 'og:image'
       value: images/socialimage.png
@@ -34,6 +36,6 @@ seo:
       value: Julz Insight | Illuminating Possibilities Through Tech and Innovation
     - name: 'twitter:description'
       value: >-
-        We are a tech firm & lab based in Nairobi, Kenya, with over a decade of experience with Software, Web, Cloud, Design, Open-Source & Digital Transformation Expertise. We build impactful tech products and solutions that solve complex challenges. Pioneering innovation. Illuminating possibilities.
+        We are a tech firm and lab based in Nairobi, Kenya, with over a decade of experience in Software, Web, Cloud, Design, Open-Source, and digital Transformation Expertise. We build impactful tech products and solutions that solve complex challenges and illuminate possibilities.
 layout: advanced
 ---

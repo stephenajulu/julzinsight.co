@@ -6,8 +6,6 @@ sections:
     section_id: hero
     title: >-
       We are a tech firm building impactful products and solutions that solve complex challenges.
-    content: >-
-      with software, web, cloud, and digital transformation expertise
 seo:
   title: Julz Insight | Illuminating Possibilities Through Tech and Innovation
   description: >-

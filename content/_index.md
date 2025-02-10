@@ -5,7 +5,7 @@ sections:
   - type: hero_section
     section_id: hero
     title: >-
-      Illuminating Possibilities through Cutting-Edge Tech, Content and Design Solutions
+      Illuminating Possibilities with Cutting-Edge Tech, Design & Content Solutions
   - type: portfolio_section
     section_id: latest-projects
     layout_style: tiles

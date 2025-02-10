@@ -5,7 +5,7 @@ sections:
   - type: hero_section
     section_id: hero
     title: >-
-      We illuminate possibilities through cutting-edge tech, content and design, driving impact.
+      Illuminating Possibilities: Impactful Tech Solutions for Complex Challenges
 seo:
   title: Julz Insight | Illuminating Possibilities Through Tech and Innovation
   description: >-

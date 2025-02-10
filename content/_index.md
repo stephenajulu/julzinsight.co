@@ -5,7 +5,7 @@ sections:
   - type: hero_section
     section_id: hero
     title: >-
-      We build impactful products and solutions that solve complex challenges.
+      We build impactful products and solutions
 seo:
   title: Julz Insight | Illuminating Possibilities Through Tech and Innovation
   description: >-

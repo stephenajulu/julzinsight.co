@@ -5,7 +5,7 @@ sections:
   - type: hero_section
     section_id: hero
     title: >-
-      Illuminating Possibilities: Impactful Tech Solutions for Complex Challenges
+      Illuminating Possibilities with Impactful Tech Solutions for Complex Challenges
 seo:
   title: Julz Insight | Illuminating Possibilities Through Tech and Innovation
   description: >-

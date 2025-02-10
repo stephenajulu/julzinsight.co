@@ -5,7 +5,7 @@ sections:
   - type: hero_section
     section_id: hero
     title: >-
-      Illuminating Possibilities with Impactful Tech Solutions for Complex Challenges
+      Illuminating Possibilities through Cutting-Edge Tech, Content and Design Solutions
   - type: portfolio_section
     section_id: latest-projects
     layout_style: tiles

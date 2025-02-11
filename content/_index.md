@@ -5,7 +5,7 @@ sections:
   - type: hero_section
     section_id: hero
     title: >-
-      Impactful Tech Products and Solutions for Complex Challenges
+      Illuminating Possibilities with Impactful Tech Solutions for Complex Challenges
   - type: portfolio_section
     section_id: latest-projects
     layout_style: tiles

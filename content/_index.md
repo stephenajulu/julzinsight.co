@@ -5,13 +5,7 @@ sections:
   - type: hero_section
     section_id: hero
     title: >-
-      Illuminating Possibilities with Impactful Tech Solutions for Complex Challenges
-  - type: portfolio_section
-    section_id: latest-projects
-    layout_style: tiles
-    title: Works
-    subtitle:
-    projects_number: 2
+      Illuminating Possibilities with Impactful Tech Solutions for Complex Challenges.
   - type: grid_section
     section_id: services
     title: Services
@@ -32,6 +26,12 @@ sections:
             url: /services/enterprise-software-solutions
             style: link
         content: Revolutionize your operations with our cutting-edge Enterprise Software Solutions.
+  - type: portfolio_section
+    section_id: latest-projects
+    layout_style: tiles
+    title: Works
+    subtitle:
+    projects_number: 2
   - type: posts_section
     section_id: posts
     title: Insights

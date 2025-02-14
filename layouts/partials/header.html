@@ -2,7 +2,7 @@
   <nav class="navbar" aria-label="Main Navigation">
     {{ if .Site.Data.config.header.logo }}
     <div class="navbar__logo">
-      <a href="{{ "/" | relURL }}"><img src="{{ $.Site.Data.config.header.logo | relURL }}" alt="{{ $.Site.Data.config.header.logo_alt }}" /></a>
+      <a href="{{ "/" | relURL }}"><img src="{{ $.Site.Data.config.header.logo | relURL }}" alt="{{ $.Site.Data.config.header.logo_alt }}" style="width:140px !important"/></a>
     </div>
     {{ else }}
     <div class="navbar__title">
@@ -23,7 +23,7 @@
             {{ partial "action.html" $include_dict }}
           </li>
           {{ end }}
-          <!--<li class="menu__item">{{ partial "julz1hr.html" . }}<a data-cal-link="julzinsight/1hour" class="button button--primary">Get Started Now →</a></li>-->
+          <li class="menu__item">{{ partial "julz1hr.html" . }}<a data-cal-link="julzinsight/1hour" data-cal-namespace="1hour" data-cal-config='{"layout":"week_view"}' class="button button--primary">Get Started Now →</a></li>
         </ul>
       </div>
     </div>

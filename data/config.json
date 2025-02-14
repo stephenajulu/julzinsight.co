@@ -5,7 +5,7 @@
     "base_font": "playfair",
     "header": {
         "title": "Julz Insight",
-        "logo": "images/logo.svg",
+        "logo": "images/logo2.svg",
         "logo_alt": "Julz logo",
         "has_nav": true,
         "nav_links": [
@@ -25,14 +25,14 @@
                 "style": "link"
             },
             {
-                "label": "Articles",
+                "label": "Insights",
                 "url": "/blog/",
                 "style": "link"
             },
             {
                 "label": "Contact",
                 "url": "/contact/",
-                "style": "button"
+                "style": "link"
             }
         ]
     },

@@ -12,22 +12,29 @@ sections:
     section_id: services
     title: Services
     subtitle: Our solutions and services
-    col_number: two
+    col_number: three
     grid_items:
       - title: Business Technology Consulting
         image: images/service-1.svg
         actions:
           - label: Learn more →
             url: /services/business-technology-consulting
-            style: button
-        content: 
+            style: link
+        content: Transform your business with our comprehensive Technology Consulting.
       - title: Enterprise Software Solutions
         image: images/service-2.svg
         actions:
           - label: Learn more →
             url: /services/enterprise-software-solutions
-            style: button
-        content: 
+            style: link
+        content: Revolutionize your operations with our cutting-edge Enterprise Software Solutions.
+      - title: Managed Open Source Solutions
+        image: images/service-3.svg
+        actions:
+          - label: Learn more →
+            url: /services/open-source-solutions
+            style: link
+        content: Enhance your business with secure, scalable, and cost-effective open-source solutions.
   - type: portfolio_section
     section_id: latest-projects
     layout_style: mosaic

@@ -1,7 +1,6 @@
 ---
 title: >-
-  Adopting New Technologies: Overcoming Challenges and Embracing Solutions for
-  SMEs
+  Adopting New Technologies: Challenges and Solutions for SMEs
 subtitle: >-
   How Small and Medium-Sized Enterprises Can Navigate the Digital Transformation
   Landscape

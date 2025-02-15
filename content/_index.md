@@ -10,7 +10,7 @@ sections:
     section_id: services
     title: Services
     subtitle: 
-    col_number: two
+    col_number: three
     grid_items:
       - title: Business Technology Consulting
         image: images/service-1.svg
@@ -26,6 +26,13 @@ sections:
             url: /services/enterprise-software-solutions
             style: link
         content: Revolutionize your operations with our cutting-edge Enterprise Software Solutions.
+      - title: Managed Open Source Solutions
+        image: images/service-3.svg
+        actions:
+          - label: Learn more →
+            url: /services/open-source-solutions
+            style: link
+        content: Enhance your business with secure, scalable, and cost-effective open-source solutions.
   - type: portfolio_section
     section_id: latest-projects
     layout_style: tiles

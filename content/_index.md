@@ -43,8 +43,8 @@ sections:
     section_id: posts
     title: Insights
     subtitle:
-    col_number: two
-    posts_number: 2
+    col_number: three
+    posts_number: 3
   - type: cta_section
     section_id: cta
     title: Let’s Build Together!

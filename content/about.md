@@ -34,15 +34,7 @@ sections:
           - label: Learn more →
             url: /services/open-source-solutions
             style: link
-        content: Enhance your business with secure, scalable, and cost-effective open-source solutions.
-  - type: portfolio_section
-    section_id: latest-projects
-    layout_style: mosaic
-    title: Portfolio
-    subtitle: Our projects, case studies, and internal products
-    projects_number: 4
-    view_all_label: View All
-    view_all_url: portfolio
+        content: Enhance your business with secure, scalable, cost-effective open-source solutions.
   - type: grid_section
     section_id: team
     title: The Team

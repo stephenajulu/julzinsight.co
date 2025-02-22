@@ -33,18 +33,6 @@ sections:
             url: /services/open-source-solutions
             style: link
         content: Enhance your business with secure, scalable, and cost-effective open-source solutions.
-  - type: portfolio_section
-    section_id: latest-projects
-    layout_style: tiles
-    title: Works
-    subtitle:
-    projects_number: 2
-  - type: posts_section
-    section_id: posts
-    title: Insights
-    subtitle:
-    col_number: three
-    posts_number: 3
   - type: cta_section
     section_id: cta
     title: Let’s Build Together!

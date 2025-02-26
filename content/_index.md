@@ -5,7 +5,7 @@ sections:
   - type: hero_section
     section_id: hero
     title: >-
-      Illuminating Possibilities with Impactful Tech Solutions for Complex Challenges.
+      Illuminating Your Possibilities with Impactful Tech Solutions and Data-Driven Insights.
   - type: grid_section
     section_id: services
     title: Services

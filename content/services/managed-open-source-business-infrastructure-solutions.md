@@ -5,12 +5,9 @@ sections:
   - type: hero_section
     section_id: hero
     title: >-
-      This is an Award Winning Agency Based in San Francisco and Focusing on
-      Digital, Identity, and Print Design.
+      Powering Africa’s Digital Independence with Open-Source Business Solutions
     content: >-
-      We are a brand and design practice. We work closely with you, your team to
-      deliver inspiring work, which enables your organization to grow. [Let's
-      talk](/contact/).
+      Cut Software Costs by 70% & Scale with Enterprise-Grade IT Infrastructure. Julz Insight helps African businesses break free from expensive, restrictive software. Our fully managed open-source solutions provide the efficiency, security, and scalability you need—without the burden of licensing fees.
   - type: portfolio_section
     section_id: latest-projects
     layout_style: tiles

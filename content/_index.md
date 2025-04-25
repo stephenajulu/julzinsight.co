@@ -6,6 +6,8 @@ sections:
     section_id: hero
     title: >-
       Illuminating Possibilities with Impactful Tech & Data-Driven Insights.
+    content: >-
+      We engineer transformative tech solutions and cutting-edge products, driving innovation with expertly managed open-source infrastructure—empowering businesses to scale, adapt, and lead in a rapidly evolving digital landscape.
   - type: grid_section
     section_id: services
     title: Services

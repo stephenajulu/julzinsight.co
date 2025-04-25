@@ -68,8 +68,7 @@ sections:
     section_id: posts
     title: Insights
     col_number: two
-    posts_number: 2
-    
+    posts_number: 2    
 seo:
   title: Julz Insight | Impactful Tech Solutions, Innovative Products & Data-Driven Insights ⁕
   description: >-

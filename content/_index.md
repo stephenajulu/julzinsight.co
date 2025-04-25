@@ -52,9 +52,11 @@ sections:
     image: images/cta.svg
     image_alt: Illustration
     bg_color: light
-  - type: blog_section
-    title: Blog
+  - type: posts_section
+    section_id: posts
+    title: Insights
     col_number: three
+    posts_number: 3
 seo:
   title: Julz Insight | Impactful Tech Solutions, Innovative Products & Data-Driven Insights ⁕
   description: >-

@@ -7,7 +7,7 @@ sections:
     title: >-
       Illuminating Possibilities with Impactful Tech & Data-Driven Insights.
     content: >-
-      We engineer tech solutions and cutting-edge products, driving innovation with expertly managed open-source infrastructure, empowering businesses to scale, adapt, and lead in a rapidly evolving digital landscape.
+      We engineer tech solutions & cutting-edge products, driving innovation with expertly managed open-source infrastructure, empowering businesses to scale, adapt, and lead in a rapidly evolving landscape.
   - type: portfolio_section
     section_id: latest-projects
     layout_style: mosaic 
@@ -19,6 +19,13 @@ sections:
     subtitle: 
     col_number: three
     grid_items:
+      - title: Managed Open Source Business Infrastructure Solutions
+        image: images/service-3.svg
+        actions:
+          - label: Learn more →
+            url: /services/managed-open-source-business-infrastructure-solutions
+            style: link
+        content: Empower your business with secure, scalable, and cost-effective managed open-source.
       - title: Business Technology Consulting
         image: images/service-1.svg
         actions:
@@ -33,13 +40,6 @@ sections:
             url: /services/enterprise-software-solutions
             style: link
         content: Revolutionize your operations with our cutting-edge Enterprise Software Solutions.
-      - title: Managed Open Source Solutions
-        image: images/service-3.svg
-        actions:
-          - label: Learn more →
-            url: /services/open-source-solutions
-            style: link
-        content: Enhance your business with secure, scalable, and cost-effective open-source solutions.
   - type: cta_section
     section_id: cta
     title: Let’s Build Together!

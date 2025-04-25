@@ -7,7 +7,7 @@ sections:
     title: >-
       Illuminating Possibilities with Impactful Tech & Data-Driven Insights.
     content: >-
-      We engineer transformative tech solutions and cutting-edge products, driving innovation with expertly managed open-source infrastructure, empowering businesses to scale, adapt, and lead in a rapidly evolving digital landscape.
+      We engineer tech solutions and cutting-edge products, driving innovation with expertly managed open-source infrastructure, empowering businesses to scale, adapt, and lead in a rapidly evolving digital landscape.
   - type: portfolio_section
     section_id: latest-projects
     layout_style: mosaic 
@@ -53,7 +53,7 @@ sections:
     image_alt: Illustration
     bg_color: light
 seo:
-  title: Julz Insight | Illuminating Possibilities Through Tech and Innovation
+  title: Julz Insight | Illuminating Possibilities Through Tech Solutions and Innovative Products
   description: >-
    We are a tech firm and lab based in Nairobi, Kenya, with over a decade of experience in Software, Web, Cloud, Design, Open-Source, and digital Transformation Expertise. We build impactful tech products and solutions that solve complex challenges and illuminate possibilities.
   extra:
@@ -61,7 +61,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Julz Insight | Illuminating Possibilities Through Tech and Innovation
+      value: Julz Insight | Illuminating Possibilities Through Tech Solutions and Innovative Products
       keyName: property
     - name: 'og:description'
       value: >-
@@ -77,7 +77,7 @@ seo:
       value: images/socialimage.png
       relativeUrl: true
     - name: 'twitter:title'
-      value: Julz Insight | Illuminating Possibilities Through Tech and Innovation
+      value: Julz Insight | Illuminating Possibilities Through Tech Solutions and Innovative Products
     - name: 'twitter:description'
       value: >-
         We are a tech firm and lab based in Nairobi, Kenya, with over a decade of experience in Software, Web, Cloud, Design, Open-Source, and digital Transformation Expertise. We build impactful tech products and solutions that solve complex challenges and illuminate possibilities.

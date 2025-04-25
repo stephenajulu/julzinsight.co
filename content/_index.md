@@ -66,7 +66,7 @@ sections:
     bg_color: light
   - type: posts_section
     section_id: posts
-    title: Insights
+    title: 
     col_number: two
     posts_number: 2    
 seo:

@@ -59,8 +59,8 @@ sections:
     posts_number: 3
   - type: testimonials_section
     section_id: testimonials
-    title:
-    testimonial:
+    title: Testimonials
+    testimonials:
       - content: They provided top tier
         avatar: images/service-2.svg
         author: Jeremiah Aubrey

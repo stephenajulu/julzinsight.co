@@ -68,7 +68,7 @@ sections:
       - content: We scaled effortlessly without the burden of expensive licensing fees.
         avatar: images/service-3.svg
         author: Victor Sanches
-        Position: Director of Dandalione Logistics
+        position: Director of Dandalione Logistics
     
 seo:
   title: Julz Insight | Impactful Tech Solutions, Innovative Products & Data-Driven Insights ⁕

@@ -61,14 +61,14 @@ sections:
     section_id: testimonials
     title: Testimonials
     testimonials:
-      - content: They provided top tier
+      - content: Julz Insight transformed our business operations! We cut software costs by 65% and scaled seamlessly.
         avatar: images/service-2.svg
         author: Jeremiah Aubrey
-        position: CEO of Vanteri
-      - content: very good
+        position: CEO of Vanteri Ventures
+      - content: We scaled effortlessly without the burden of expensive licensing fees.
         avatar: images/service-3.svg
         author: Victor Sanches
-        Position: Director of Dandalione
+        Position: Director of Dandalione Logistics
     
 seo:
   title: Julz Insight | Impactful Tech Solutions, Innovative Products & Data-Driven Insights ⁕

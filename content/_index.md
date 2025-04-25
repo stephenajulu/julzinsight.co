@@ -13,18 +13,6 @@ sections:
     layout_style: mosaic 
     projects_number: 2
     view_all_url: portfolio
-  - type: testimonials_section
-    section_id: testimonials
-    title: 
-    testimonials:
-      - content: Julz Insight transformed our business operations! We cut software costs by 65% and scaled seamlessly.
-        avatar: images/linda.jpg
-        author: Linda Akome
-        position: CEO of Santa Abat Organics
-      - content: We scaled effortlessly without the burden of expensive licensing fees.
-        avatar: images/victor.jpg
-        author: Victor Sanches
-        position: Director of Lume Lightings
   - type: grid_section
     section_id: services
     title: Services

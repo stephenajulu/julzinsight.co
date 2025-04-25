@@ -11,9 +11,9 @@
       <time class="published" datetime="{{ $post.Date | dateFormat "2006-01-02 15:04" }}">{{ $post.Date | dateFormat "January 02, 2006" }}</time>
     </div>
   </header>
-  {{ if $post.Params.excerpt }}
+  <!--{{ if $post.Params.excerpt }}
   <p class="post-card__body">
     {{ $post.Params.excerpt | strings.Truncate 100 }}
   </p>
-  {{ end }}
+  {{ end }}-->
 </article>

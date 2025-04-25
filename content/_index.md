@@ -40,6 +40,18 @@ sections:
             url: /services/cloud-solutions
             style: link
         content: Revolutionize your operations with our cutting-edge Cloud Solutions.
+  - type: testimonials_section
+    section_id: testimonials
+    title: 
+    testimonials:
+      - content: Julz Insight transformed our business operations! We cut software costs by 65% and scaled seamlessly.
+        avatar: images/service-2.svg
+        author: Jeremiah Aubrey
+        position: CEO of Vanteri Ventures
+      - content: We scaled effortlessly without the burden of expensive licensing fees.
+        avatar: images/service-3.svg
+        author: Victor Sanches
+        position: Director of Dandalione Logistics
   - type: cta_section
     section_id: cta
     title: Let’s Build Together!
@@ -57,18 +69,6 @@ sections:
     title: Insights
     col_number: three
     posts_number: 3
-  - type: testimonials_section
-    section_id: testimonials
-    title: Testimonials
-    testimonials:
-      - content: Julz Insight transformed our business operations! We cut software costs by 65% and scaled seamlessly.
-        avatar: images/service-2.svg
-        author: Jeremiah Aubrey
-        position: CEO of Vanteri Ventures
-      - content: We scaled effortlessly without the burden of expensive licensing fees.
-        avatar: images/service-3.svg
-        author: Victor Sanches
-        position: Director of Dandalione Logistics
     
 seo:
   title: Julz Insight | Impactful Tech Solutions, Innovative Products & Data-Driven Insights ⁕

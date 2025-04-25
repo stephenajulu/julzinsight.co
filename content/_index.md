@@ -57,6 +57,19 @@ sections:
     title: Insights
     col_number: three
     posts_number: 3
+  - type: testimonials_section
+    section_id: testimonials
+    title:
+    testimonial:
+      - content: They provided top tier
+        avatar: images/service-2.svg
+        author: Jeremiah Aubrey
+        position: CEO of Vanteri
+      - content: very good
+        avatar: images/service-3.svg
+        author: Victor Sanches
+        Position: Director of Dandalione
+    
 seo:
   title: Julz Insight | Impactful Tech Solutions, Innovative Products & Data-Driven Insights ⁕
   description: >-

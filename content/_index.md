@@ -11,7 +11,6 @@ sections:
   - type: portfolio_section
     section_id: latest-projects
     layout_style: mosaic 
-    title: Recent Work
     projects_number: 2
     view_all_url: portfolio
   - type: grid_section

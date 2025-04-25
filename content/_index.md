@@ -42,7 +42,7 @@ sections:
         content: Revolutionize your operations with our cutting-edge Cloud Solutions.
   - type: testimonials_section
     section_id: testimonials
-    title: 
+    title: Testimonials
     testimonials:
       - content: Julz Insight transformed our business operations! We cut software costs by 65% and scaled seamlessly.
         avatar: images/linda.jpg

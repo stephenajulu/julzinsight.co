@@ -7,7 +7,13 @@ sections:
     title: >-
       Illuminating Possibilities with Impactful Tech & Data-Driven Insights.
     content: >-
-      We engineer transformative tech solutions and cutting-edge products, driving innovation with expertly managed open-source infrastructure—empowering businesses to scale, adapt, and lead in a rapidly evolving digital landscape.
+      We engineer transformative tech solutions and cutting-edge products, driving innovation with expertly managed open-source infrastructure, empowering businesses to scale, adapt, and lead in a rapidly evolving digital landscape.
+  - type: portfolio_section
+    section_id: latest-projects
+    layout_style: mosaic 
+    title: Recent Work
+    projects_number: 2
+    view_all_url: portfolio
   - type: grid_section
     section_id: services
     title: Services

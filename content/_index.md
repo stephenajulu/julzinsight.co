@@ -33,13 +33,13 @@ sections:
             url: /services/business-technology-consulting
             style: link
         content: Transform your business with our comprehensive Technology Consulting.
-      - title: Enterprise Software Solutions
+      - title: Cloud Solutions
         image: images/service-2.svg
         actions:
           - label: Learn more →
-            url: /services/enterprise-software-solutions
+            url: /services/cloud-solutions
             style: link
-        content: Revolutionize your operations with our cutting-edge Enterprise Software Solutions.
+        content: Revolutionize your operations with our cutting-edge Cloud Solutions.
   - type: cta_section
     section_id: cta
     title: Let’s Build Together!

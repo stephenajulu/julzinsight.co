@@ -3,7 +3,7 @@ baseURL: https://julzinsight.netlify.app
 markup:
   goldmark:
     renderer:
-      unsafe: true
+      unsafe: false
 enableRobotsTXT: true
 sitemap:
   changefreq: weekly

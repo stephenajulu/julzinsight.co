@@ -1,3 +1,10 @@
+<style>
+  @media screen and (max-width: 767px) {
+    .spacer {
+      height: 50px !important; /* Adjust as needed */
+    }
+  }
+</style>
 <div class="spacer" style="height:100px;"></div>
 {{ $section := .section }}
 <section id="{{ $section.section_id }}" class="hero">
@@ -17,4 +24,4 @@
     </div>
   </div>
 </section>
-<div class="spacer" style="height:100px;"></div>
+<div class="spacerbottom" style="height:100px;"></div>

@@ -1,11 +1,11 @@
 ---
 title: Our Story
-sub_title: JULZ is a tight-knit team with senior tech & product experience
+subtitle: JULZ is a tight-knit team with senior tech & product experience
 hide_title: false
 sections:
   - type: content_section
     content: >-
-      Welcome to JULZ INSIGHT, a visionary technology firm based in Nairobi, dedicated to building impactful tech products and solutions that solve complex challenges. Our innovative approach and commitment to excellence have positioned us as a leader in the tech industry, driving transformative change across various sectors. Founded in 2020 to revolutionize how businesses, individuals and the globe leverage technology, JULZ INSIGHT has grown into a trusted partner for organizations across various industries seeking innovative solutions to complex challenges. Our team of experts brings years of experience and a passion for technology, ensuring we deliver solutions that are both innovative and practical.<br> <br><span style="font-weight: 700">Our Slogan</span> - Illuminating Possibilities<br> <br><span style="font-weight: 700">Our Mission</span> - To leverage cutting-edge technology to develop solutions that not only meet but exceed the evolving needs of our clients, fostering sustainable growth and positive societal impact.<br> <br><span style="font-weight: 700">Our Vision</span> - To be a global leader in technological research and development, delivering solutions that transform industries and improve lives.<br><br>Come, let's build something great today! **[Book A Consultation](/contact/)**
+      Welcome to JULZ INSIGHT, a visionary technology firm based in Nairobi, dedicated to building impactful tech products and solutions that illuminate your possibilities. Our innovative approach and commitment to excellence have positioned us as a leader in the tech industry, driving transformative change across various sectors. Founded in 2020 to revolutionize how businesses, individuals, and the globe leverage technology, JULZ INSIGHT has grown into a trusted partner for organizations across various industries seeking innovative solutions to complex challenges. Our team of experts brings years of technical experience and a passion for technology, ensuring we deliver solutions that are both innovative and practical.<br> <br><span style="font-weight: 700">Our Slogan</span> - Illuminating Possibilities<br> <br><span style="font-weight: 700">Our Mission</span> - To leverage cutting-edge technology to develop solutions that not only meet but exceed the evolving needs & demands of our clients, fostering sustainable growth and positive societal impact.<br> <br><span style="font-weight: 700">Our Vision</span> - To be a global leader in technological research and development, delivering solutions that transform industries and improve lives.<br><br>Come, let's build something great today! **[Book A Consultation](/contact/)**
     image: images/julzbanner.png
     image_alt: JULZ Marketing Banner Illuminating Possibilities
   - type: grid_section
@@ -38,11 +38,11 @@ sections:
   - type: grid_section
     section_id: team
     title: The Team
-    col_number: two
+    col_number: three
     grid_items:
       - title: Stephen Ajulu
         image: /images/1653516600275.jpg
-        subtitle: Founder, Tech & Product Lead, and Director
+        subtitle: Founder, Tech & Product Lead
         content:
         actions:
           - label: Twitter
@@ -58,7 +58,7 @@ sections:
   - type: cta_section
     section_id: cta
     title: Ready to work together?
-    content: Ready to transform your business? Book a discovery call with us today and let's explore how JULZ INSIGHT can help you achieve your strategic goals.
+    content: Ready to transform your business? Book a discovery call with us today and explore how JULZ INSIGHT can help you achieve your strategic goals.
     image: images/cta-about.svg
     image_alt: An abstract shape for the call to action
     bg_color: dark
@@ -68,7 +68,7 @@ sections:
         style: button
 seo:
   title: About Us - Julz Insight | Illuminating Possibilities Through Tech and Innovation
-  description: Learn more about Julz Insight, our team, our processes, our solutions, our work, and more. We are a tech solutions firm & lab based in Nairobi, Kenya that has over a decade of experience with Software, Web, AI, Cloud, Design & Digital Transformation Expertise. We build impactful tech products and solutions that solve complex challenges. Pioneering innovation. Illuminating possibilities.
+  description: Learn more about Julz Insight, our team, our processes, our solutions, our work, and more. We are a tech solutions firm & lab based in Nairobi, Kenya, with over a decade of experience in Software, Web, AI, Cloud, Design & Digital Transformation Expertise. We build impactful tech products and solutions that solve complex challenges. Pioneering innovation. Illuminating possibilities.
   extra:
     - name: og:type
       value: website
@@ -77,7 +77,7 @@ seo:
       value: About Us - Julz Insight | Illuminating Possibilities Through Tech and Innovation
       keyName: property
     - name: og:description
-      value: Learn more about Julz Insight, our team, our processes, our solutions, our work, and more. We are a tech solutions firm & lab based in Nairobi, Kenya that has over a decade of experience with Software, Web, AI, Cloud, Design & Digital Transformation Expertise. We build impactful tech products and solutions that solve complex challenges. Pioneering innovation. Illuminating possibilities.
+      value: Learn more about Julz Insight, our team, our processes, our solutions, our work, and more. We are a tech solutions firm & lab based in Nairobi, Kenya, with over a decade of experience with Software, Web, AI, Cloud, Design & Digital Transformation Expertise. We build impactful tech products and solutions that solve complex challenges. Pioneering innovation. Illuminating possibilities.
       keyName: property
     - name: og:image
       value: images/about.jpg
@@ -88,7 +88,7 @@ seo:
     - name: twitter:title
       value: About Us - Julz Insight | Illuminating Possibilities Through Tech and Innovation
     - name: twitter:description
-      value: Learn more about Julz Insight, our team, our processes, our solutions, our work, and more. We are a tech solutions firm & lab based in Nairobi, Kenya that has over a decade of experience with Software, Web, AI, Cloud, Design & Digital Transformation Expertise. We build impactful tech products and solutions that solve complex challenges. Pioneering innovation. Illuminating possibilities.
+      value: Learn more about Julz Insight, our team, our processes, our solutions, our work, and more. We are a tech solutions firm & lab based in Nairobi, Kenya, with over a decade of experience with Software, Web, AI, Cloud, Design & Digital Transformation Expertise. We build impactful tech products and solutions that solve complex challenges. Pioneering innovation. Illuminating possibilities.
     - name: twitter:image
       value: images/about.jpg
       relativeUrl: true

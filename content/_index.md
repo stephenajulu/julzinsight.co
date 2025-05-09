@@ -5,7 +5,7 @@ sections:
   - type: hero_section
     section_id: hero
     title: >-
-      Illuminating Possibilities with {{< gradient >}} Impactful Tech, Innovative Products & Data-Driven Insights {{< /gradient >}}.
+      Illuminating Possibilities with Impactful Tech, Innovative Products & Data-Driven Insights.
     content: >-
       We engineer tech solutions & cutting-edge products, driving innovation with expertly managed open-source infrastructure, empowering businesses to scale, adapt, and lead in a rapidly evolving landscape.
   - type: portfolio_section

@@ -91,7 +91,7 @@ You can deploy just one app or build a full ERP that scales with you. It’s the
 
 For serious builders, this is your command center.
 
-### 5\. **Rocket.Chat** — Ditch Slack. Own Your Team Comms.
+### 5\. **Rocket.Chat**: Ditch Slack. Own Your Team Comms.
 
 Rocket.Chat feels like Slack. It even integrates like Slack. But it’s yours.
 

@@ -5,9 +5,9 @@ sections:
   - type: hero_section
     section_id: hero
     title: >-
-      Illuminating Possibilities with Impactful Tech, Innovative Products & Data-Driven Insights.
+      Delivering elegant design, resilient development, and modular business infrastructure tailored for today, built for tomorrow.
     content: >-
-      We engineer tech solutions & cutting-edge products, driving innovation with expertly managed open-source business infrastructure, business-technology consulting, and cloud solutions empowering businesses to scale, adapt, and lead in a rapidly evolving landscape.
+      Julz Insight is a technical and creative partner for founders, teams, and organizations building systems that matter. From open-source infrastructure to visual brand identities and scalable web development, we help you launch with confidence and clarity. Think of us as your digital Swiss Army Knife—focused, minimal, and built to perform.
   - type: portfolio_section
     section_id: latest-projects
     layout_style: mosaic 

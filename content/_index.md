@@ -5,9 +5,9 @@ sections:
   - type: hero_section
     section_id: hero
     title: >-
-      Delivering elegant design, resilient development, and modular business infrastructure tailored for today, built for tomorrow.
+      Illuminating Possibilities through Infrastructure, Design & Development.
     content: >-
-      Julz Insight is a technical and creative partner for founders, teams, and organizations building systems that matter. From open-source infrastructure to visual brand identities and scalable web development, we help you launch with confidence and clarity. Think of us as your digital Swiss Army Knife—focused, minimal, and built to perform.
+      We architect transformative ventures, managed systems, and design-first technologies—built to empower creators, communities, and civilization-scale innovation. Think of us as your digital Swiss Army Knife—focused, minimal, and built to perform.
   - type: portfolio_section
     section_id: latest-projects
     layout_style: mosaic 

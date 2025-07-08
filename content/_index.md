@@ -5,9 +5,9 @@ sections:
   - type: hero_section
     section_id: hero
     title: >-
-      Illuminating Possibilities with Impactful Tech, Innovative Products & Data-Driven Insights.
+      Illuminating Possibilities with Impactful Tech & Data-Driven Insights.
     content: >-
-      We engineer tech solutions & cutting-edge products, driving innovation with expertly managed open-source business infrastructure, business-technology consulting, and cloud solutions empowering businesses to scale, adapt, and lead in a rapidly evolving landscape.
+      We engineer tech solutions, driving innovation with expertly managed open-source business infrastructure, business-technology consulting, and cloud solutions empowering businesses to scale, adapt, and lead in a rapidly evolving landscape.
   - type: portfolio_section
     section_id: latest-projects
     layout_style: mosaic 

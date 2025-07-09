@@ -7,7 +7,7 @@ sections:
     title: >-
       Illuminating Possibilities with Impactful Tech Solutions.
     content: >-
-      We engineer tech solutions, driving innovation with expertly managed open-source business infrastructure, business-technology consulting, and cloud solutions empowering businesses to scale, adapt, and lead in a rapidly evolving landscape.
+      Delivering elegant design, resilient development, and modular business infrastructure—tailored for today, built for tomorrow.
   - type: grid_section
     section_id: services
     title: Services

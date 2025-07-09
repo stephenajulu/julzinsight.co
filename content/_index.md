@@ -7,7 +7,7 @@ sections:
     title: >-
       Illuminating Possibilities with Impactful Tech Solutions.
     content: >-
-      Delivering elegant design, resilient development, and modular business infrastructure—tailored for today, built for tomorrow.
+      Delivering elegant design, resilient development, and modular business infrastructure, tailored for today, built for tomorrow.
   - type: grid_section
     section_id: services
     title: Services

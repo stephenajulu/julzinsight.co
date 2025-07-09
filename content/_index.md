@@ -8,11 +8,6 @@ sections:
       Illuminating Your Possibilities with Impactful Tech Solutions.
     content: >-
       We engineer tech solutions, driving innovation with expertly managed open-source business infrastructure, business-technology consulting, and cloud solutions empowering businesses to scale, adapt, and lead in a rapidly evolving landscape.
-  - type: portfolio_section
-    section_id: latest-projects
-    layout_style: mosaic 
-    projects_number: 2
-    view_all_url: portfolio
   - type: grid_section
     section_id: services
     title: Services
@@ -40,6 +35,11 @@ sections:
             url: /services/cloud-solutions
             style: link
         content: Revolutionize your operations with our cutting-edge Cloud Solutions.
+  - type: portfolio_section
+    section_id: latest-projects
+    layout_style: mosaic 
+    projects_number: 2
+    view_all_url: portfolio
   - type: testimonials_section
     section_id: testimonials
     title: Testimonials

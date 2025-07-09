@@ -8,6 +8,11 @@ sections:
       Illuminating Possibilities with Impactful Tech Solutions.
     content: >-
       Delivering elegant design, resilient development, and modular business infrastructure, tailored for today, built for tomorrow.
+  - type: portfolio_section
+    section_id: latest-projects
+    layout_style: mosaic 
+    projects_number: 2
+    view_all_url: portfolio
   - type: grid_section
     section_id: services
     title: Services
@@ -35,11 +40,6 @@ sections:
             url: /services/cloud-solutions
             style: link
         content: Revolutionize your operations with our cutting-edge Cloud Solutions.
-  - type: portfolio_section
-    section_id: latest-projects
-    layout_style: mosaic 
-    projects_number: 2
-    view_all_url: portfolio
   - type: testimonials_section
     section_id: testimonials
     title: Testimonials

@@ -5,7 +5,7 @@ sections:
   - type: hero_section
     section_id: hero
     title: >-
-      Illuminating Your Possibilities with Impactful Tech Solutions.
+      Illuminating Possibilities with Impactful Tech Solutions.
     content: >-
       We engineer tech solutions, driving innovation with expertly managed open-source business infrastructure, business-technology consulting, and cloud solutions empowering businesses to scale, adapt, and lead in a rapidly evolving landscape.
   - type: grid_section

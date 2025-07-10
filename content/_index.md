@@ -5,9 +5,9 @@ sections:
   - type: hero_section
     section_id: hero
     title: >-
-      Illuminating Possibilities through Infrastructure, Design & Development.
+      Crafting Scalable Solutions for the Builders of Today.
     content: >-
-      We architect transformative ventures, managed systems, and design-first technologies—built to empower creators, communities, and civilization-scale innovation. Think of us as your digital Swiss Army Knife—focused, minimal, and built to perform.
+      This is where modular design, open-source infrastructure, and strategic clarity meet to solve real-world problems with elegance and precision.
   - type: portfolio_section
     section_id: latest-projects
     layout_style: mosaic 

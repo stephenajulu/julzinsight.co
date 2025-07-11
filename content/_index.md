@@ -5,7 +5,7 @@ sections:
   - type: hero_section
     section_id: hero
     title: >-
-      Crafting Scalable Solutions for the Builders of Today.
+      Crafting Impactful & Scalable Solutions for the Builders of Today.
     content: >-
       This is where modular design, open-source infrastructure, and strategic clarity meet to solve real-world problems with elegance and precision.
   - type: portfolio_section

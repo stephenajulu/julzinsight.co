@@ -7,7 +7,7 @@ sections:
     title: >-
       Illuminating Possibilities with Impactful Tech Solutions.
     content: >-
-      Delivering elegant design, resilient development, and modular business infrastructure, tailored for today, built for tomorrow.
+      This is where design, open-source infrastructure, and strategic clarity meet to solve real-world problems with elegance and precision.
   - type: portfolio_section
     section_id: latest-projects
     layout_style: mosaic 

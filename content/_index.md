@@ -5,9 +5,9 @@ sections:
   - type: hero_section
     section_id: hero
     title: >-
-      Illuminating Possibilities with Impactful Tech Solutions.
+      Building Impactful Solutions and Products at the Intersection of Technology, Design, and Engineering Strategically.
     content: >-
-      This is where design, open-source infrastructure, and strategic clarity meet to solve real-world problems with elegance and precision.
+      To solve real-world problems with elegance and precision.
   - type: portfolio_section
     section_id: latest-projects
     layout_style: mosaic 

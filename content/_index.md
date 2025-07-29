@@ -7,7 +7,7 @@ sections:
     title: >-
       Building Impactful Products and Solutions at the Intersection of Technology, Design, and Engineering.
     content: >-
-      At Julz Insight, we are strategically solving real-world problems with elegance & precision.
+      At Julz Insight, we are strategically solving real-world problems with elegance & precision. We also provide managed open-source business infrastructure to our esteemed clients.
   - type: portfolio_section
     section_id: latest-projects
     layout_style: mosaic 

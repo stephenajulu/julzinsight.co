@@ -22,10 +22,10 @@
     <div class="hero__body text-block">
       {{ partial "markdownify-block" $section.content }}
     </div>
-    {{ end }}
-    <div class="hero__actions button-group center" style="justify-content: center;"> <!--style="justify-content: center;"-->
-      <a href="/contact/" class="button button--primary">Let's Begin With A Free Call →</a>
+     <div class="hero__actions button-group center" style="justify-content: center;"> <!--style="justify-content: center;"-->
+      <a href="{{ $section.ctalink }}" class="button button--primary">{{ $section.ctatext }}</a>
     </div>
+    {{ end }}
   </div>
 </section>
 <div class="spacer"></div>

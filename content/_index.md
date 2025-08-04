@@ -5,7 +5,7 @@ sections:
   - type: hero_section
     section_id: hero
     title: >-
-      Building Impactful Products & Solutions using Technology, Design & Insight.
+      We build impactful products and provide strategic solutions.
     content: >-
       At Julz Insight, we strategically solve real-world problems with elegance & precision.<br>Piqued Your Interest?
     ctatext: Let's Begin →

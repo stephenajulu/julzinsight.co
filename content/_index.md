@@ -5,7 +5,7 @@ sections:
   - type: hero_section
     section_id: hero
     title: >-
-      We build digital infrastructure for visionaries.<br>Strategic, Scalable, Elegant, and Impactful.
+      We build digital infrastructure for visionaries. Strategic, Scalable, Elegant, and Impactful.
     content: >-
       At Julz Insight, we strategically solve real-world problems with elegance & precision.<br>Piqued Your Interest?
     ctatext: Let's Begin →

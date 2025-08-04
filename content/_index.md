@@ -5,9 +5,9 @@ sections:
   - type: hero_section
     section_id: hero
     title: >-
-      Building Impactful Products & Solutions at the Intersection of Technology, Design, and Engineering.
+      Building Impactful Products & Solutions using Technology, Design, and Engineering.
     content: >-
-      At Julz Insight, we strategically solve real-world problems with elegance & precision.<br>Interested?
+      At Julz Insight, we strategically solve real-world problems with elegance & precision.<br>Piqued Your Interest?
     ctatext: Let's Begin →
     ctalink: /contact
   - type: portfolio_section

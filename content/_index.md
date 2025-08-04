@@ -7,7 +7,7 @@ sections:
     title: >-
       Building Impactful Products & Solutions at the Intersection of Technology, Design, and Engineering.
     content: >-
-      At Julz Insight, we strategically solve real-world problems with elegance & precision. Interested?
+      At Julz Insight, we strategically solve real-world problems with elegance & precision.<br>Interested?
     ctatext: Let's Begin →
     ctalink: /contact
   - type: portfolio_section

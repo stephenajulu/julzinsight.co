@@ -5,7 +5,7 @@ sections:
   - type: hero_section
     section_id: hero
     title: >-
-      We build tech infrastructure and solutions for visionaries.
+      We Build Tech Infrastructure and Solutions for Visionaries.
     content: >-
       Strategic, Scalable, Elegant, and Impactful.<br>Piqued Your Interest?
     ctatext: Schedule A Free Call →

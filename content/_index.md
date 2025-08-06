@@ -8,7 +8,7 @@ sections:
       We build digital infrastructure and solutions for visionaries.
     content: >-
       Strategic, Scalable, Elegant, and Impactful.<br>Piqued Your Interest?
-    ctatext: Let's Begin →
+    ctatext: Schedule A Free Call →
     ctalink: /contact
   - type: portfolio_section
     section_id: latest-projects

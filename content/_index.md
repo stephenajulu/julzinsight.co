@@ -5,7 +5,7 @@ sections:
   - type: hero_section
     section_id: hero
     title: >-
-      We build digital infrastructure for visionaries.
+      We build digital infrastructure and tech solutions for visionaries.
     content: >-
       Strategic, Scalable, Elegant, and Impactful.<br>Piqued Your Interest?
     ctatext: Let's Begin →
@@ -42,18 +42,6 @@ sections:
             url: /services/cloud-solutions
             style: link
         content: Revolutionize your operations with our cutting-edge Cloud Solutions.
-  - type: cta_section
-    section_id: cta
-    title: Let’s Build Together!
-    content: >-
-      Say hello at [ajulu@julzinsight.co](mailto:ajulu@julzinsight.co) or book a 1-on-1 consultation call and let's kickstart your project now.
-    actions:
-      - label: Book a consultation now →
-        url: /contact
-        style: button
-    image: images/cta.svg
-    image_alt: Illustration
-    bg_color: light  
 seo:
   title: Julz Insight | Impactful Tech Solutions, Innovative Products & Data-Driven Insights ⁕
   description: >-

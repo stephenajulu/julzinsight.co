@@ -5,9 +5,9 @@ sections:
   - type: hero_section
     section_id: hero
     title: >-
-      We build digital infrastructure for visionaries - strategic, scalable, elegant, and impactful.
+      We build digital infrastructure for visionaries.
     content: >-
-      Rooted in truth. Designed for clarity. Built to scale.<br>Piqued Your Interest?
+      Strategic, Scalable, Elegant, and Impactful.<br>Piqued Your Interest?
     ctatext: Let's Begin →
     ctalink: /contact
   - type: portfolio_section

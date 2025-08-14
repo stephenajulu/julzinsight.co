@@ -7,8 +7,8 @@ sections:
     title: >-
       We build tech infrastructure and solutions for visionaries.
     content: >-
-      Strategically Engineered. Scalable by Design. Elegantly Crafted. Built to Create Impact.<br>Let's Build What's Next
-    ctatext: Start Your Project →
+      Strategically Engineered. Scalable by Design. Elegantly Crafted. Built to Create Impact.
+    ctatext: Schedule Your Call →
     ctalink: /contact
   - type: portfolio_section
     section_id: latest-projects

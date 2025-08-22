@@ -5,7 +5,7 @@ sections:
   - type: hero_section
     section_id: hero
     title: >-
-      We build tech infrastructure and solutions for visionaries.
+      We build tech solutions, tools and infrastructure for visionaries.
     content: >-
       Strategically Engineered. Scalable by Design. Elegantly Crafted. Built to Create Impact.
     ctatext: Schedule Your Call →

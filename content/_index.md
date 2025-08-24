@@ -5,14 +5,14 @@ sections:
   - type: hero_section
     section_id: hero
     title: >-
-      We build tech solutions and infrastructure for visionaries.
+      We build tech infrastructure and solutions for visionaries.
     content: >-
       Strategically Engineered. Scalable by Design. Elegantly Crafted. Built to Create Impact.
     ctatext: Schedule Your Call →
     ctalink: /contact
   - type: portfolio_section
     section_id: latest-projects
-    layout_style: mosaic 
+    layout_style: mosaic
     projects_number: 2
     view_all_url: portfolio
   - type: grid_section

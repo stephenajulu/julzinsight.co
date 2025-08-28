@@ -19,7 +19,7 @@ sections:
     section_id: services
     title: Services
     subtitle: 
-    col_number: three
+    col_number: two
     grid_items:
       - title: Managed Open-Source Business Infrastructure
         image: images/service-3.svg

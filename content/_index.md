@@ -36,7 +36,7 @@ sections:
             url: /services/business-technology-consulting
             style: link
         content: >-
-          Additional services and solutions we offer: <br>    + Business-Tech Consulting<br>    + Web Development<br>    + Cloud Solutions<br>    + Full Stack Development and Design<br>    + Automation Solutions<br>    + Product Development and Design<br>    + System Integrations<br>    + Organic Content Marketing
+          + Business-Tech Consulting<br>    + Web Development<br>    + Cloud Solutions<br>    + Full Stack Development and Design<br>    + Automation Solutions<br>    + Product Development and Design<br>    + System Integrations<br>    + Organic Content Marketing
 seo:
   title: Julz Insight | Impactful Tech Solutions
   description: >-

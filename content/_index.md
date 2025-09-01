@@ -8,7 +8,7 @@ sections:
       Where Vision Meets Infrastructure
     content: >-
       We build infrastructure and tech solutions for visionaries.<br>Strategically Engineered. Scalable by Design. Elegantly Crafted.<br>Built for Impact.
-    ctatext: Schedule Your Call →
+    ctatext: Schedule Your Infrastructure Audit →
     ctalink: /contact
   - type: portfolio_section
     section_id: latest-projects

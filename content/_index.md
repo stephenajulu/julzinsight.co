@@ -5,7 +5,7 @@ sections:
   - type: hero_section
     section_id: hero
     title: >-
-      Where vision meets infrastructure and tech.
+      Where Vision Meets Infrastructure.
     content: >-
       We build tech infrastructure and solutions for visionaries. Strategically Engineered. Scalable by Design. Elegantly Crafted. Built for Impact.
     ctatext: Schedule Your Call →
@@ -38,7 +38,7 @@ sections:
         content: >-
           + Business-Tech Consulting<br>    + Web Development<br>    + Cloud Solutions<br>    + Full Stack Development and Design<br>    + Automation Solutions<br>    + Product Development and Design<br>    + System Integrations<br>    + Organic Content Marketing
 seo:
-  title: Julz Insight | Impactful Tech Solutions
+  title: Julz Insight | Impactful Tech & Infrastructure Solutions
   description: >-
    We are a tech firm and lab based in Nairobi, Kenya, with over a decade of experience in Software, Web, Cloud, Design, Open-Source, and digital Transformation Expertise. We build impactful tech products and solutions that solve complex challenges and illuminate possibilities.
   extra:
@@ -46,7 +46,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Julz Insight | Impactful Tech Solutions
+      value: Julz Insight | Impactful Tech & Infrastructure Solutions
       keyName: property
     - name: 'og:description'
       value: >-
@@ -62,7 +62,7 @@ seo:
       value: images/socialimage.png
       relativeUrl: true
     - name: 'twitter:title'
-      value: Julz Insight | Impactful Tech Solutions
+      value: Julz Insight | Impactful Tech & Infrastructure Solutions
     - name: 'twitter:description'
       value: >-
         We are a tech firm and lab based in Nairobi, Kenya, with over a decade of experience in Software, Web, Cloud, Design, Open-Source, and digital Transformation Expertise. We build impactful tech products and solutions that solve complex challenges and illuminate possibilities.

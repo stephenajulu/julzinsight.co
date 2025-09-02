@@ -1,21 +1,13 @@
 ---
-title: Home
+title: Managed Open Source Business Infrastructure
 hide_title: true
 sections:
   - type: hero_section
     section_id: hero
     title: >-
-      Powering Africa’s Digital Independence with Open-Source Business Solutions
+      Scale Without Chaos. One Stack. Infinite Leverage.
     content: >-
-      Cut Software Costs by 70% & Scale with Enterprise-Grade IT Infrastructure. Julz Insight helps African businesses break free from expensive, restrictive software. Our fully managed open-source solutions provide the efficiency, security, and scalability you need—without the burden of licensing fees.
-  - type: portfolio_section
-    section_id: latest-projects
-    layout_style: tiles
-    title: Recent Work
-    subtitle: Explore case studies
-    projects_number: 6
-    view_all_label: View All
-    view_all_url: portfolio
+      Modular, automation-ready infrastructure for African founders and scale-ups
   - type: grid_section
     section_id: clients
     title: Clients

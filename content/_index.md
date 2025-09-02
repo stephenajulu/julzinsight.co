@@ -37,11 +37,11 @@ sections:
             style: link
         content: >-
           + Business-Tech Consulting<br>    + Web Development<br>    + Cloud Solutions<br>    + Full Stack Development and Design<br>    + Automation Solutions<br>    + Product Development and Design<br>    + System Integrations<br>    + Organic Content Marketing
-      - type: posts_section
-        section_id: posts
-        title: Insights
-        col_number: two
-        posts_number: 2  
+  - type: posts_section
+    section_id: posts
+    title: Insights
+    col_number: two
+    posts_number: 2  
 seo:
   title: Julz Insight | Impactful Tech & Infrastructure Solutions
   description: >-

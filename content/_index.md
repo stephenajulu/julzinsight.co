@@ -10,6 +10,11 @@ sections:
       We build infrastructure and tech solutions for visionaries.<br>Strategically Engineered. Scalable by Design. Elegantly Crafted.<br>Built for Impact.
     ctatext: Schedule Your Free Audit →
     ctalink: /contact
+  - type: portfolio_section
+    section_id: latest-projects
+    layout_style: mosaic
+    projects_number: 2
+    view_all_url: portfolio
   - type: grid_section
     section_id: services
     title: Solutions

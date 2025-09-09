@@ -61,11 +61,11 @@ sections:
       - title: Training & Support
         content: >-
           Onboarding, micro-trainings, and SLA-backed help
-- type: content_section
-  section_id: why_julz_insight
-   title: >-
-     Why Choose Julz Insight
-   content: |-
+ - type: content_section
+    section_id: why_julz_insight
+    title: >-
+      Why Choose Julz Insight
+    content: |-
       - **Architecture-first** - We design systems, not just deploy tools
       - **Modular & automation-ready** - Every component is extensible and triggerable
       - **Sovereign & secure** - No lock-in, full control, and local-first resilience

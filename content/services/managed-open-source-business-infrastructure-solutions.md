@@ -5,10 +5,10 @@ sections:
   - type: hero_section
     section_id: hero
     title: >-
-      Scale Without Chaos. One Stack. Infinite Leverage.
+      Managed Open Source Business Infrastructure
     content: >-
-      Modular, automation-ready managed open-source business infrastructure for African founders and scale-ups
-    ctatext: Schedule Your Free Infra Audit →
+      Scale Without Chaos. One Stack. Infinite Leverage. Modular, automation-ready managed open-source business infrastructure for African founders and scale-ups.
+    ctatext: Book Your Free Audit →
     ctalink: /contact
   - type: content_section
     section_id: what_is_it
@@ -75,7 +75,7 @@ sections:
         style: button
       - label: See Demo
         url: /demo
-        label: button
+        style: button
     image: images/cta.svg
     image_alt: Illustration
     bg_color: light

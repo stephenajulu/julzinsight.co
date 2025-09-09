@@ -8,6 +8,8 @@ sections:
       Scale Without Chaos. One Stack. Infinite Leverage.
     content: >-
       Modular, automation-ready managed open-source business infrastructure for African founders and scale-ups
+    ctatext: Schedule Your Free Infra Audit →
+    ctalink: /contact
   - type: content_section
     section_id: what_is_it
     title: >-

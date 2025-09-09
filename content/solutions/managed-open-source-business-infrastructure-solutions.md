@@ -73,23 +73,34 @@ sections:
     col_number: three
     grid_items:
       - title: CORE
-        content: "*Stabilize operations. Escape tool chaos.* - ERP + CRM - Docs + Wiki -
-          Project + Chat - Basic automation"
+        content: >-
+          "***Stabilize operations. Escape tool chaos.***"
+          - ERP + CRM
+          - Docs + Wiki
+          - Project + Chat
+          - Basic automation
         actions:
           - label: Explore →
             url: /contact
             style: button
       - title: GROWTH
-        content: "*Optimize performance. Scale with clarity.* - Everything in CORE - BI
-          Dashboard Platform - Customer portal - Advanced automation flows"
+        content: >-
+          "***Optimize performance. Scale with clarity.***"
+          - Everything in CORE
+          - BI Dashboard Platform
+          - Customer portal
+          - Advanced automation flows
         actions:
           - label: Explore →
             url: /contact
             style: button
       - title: ENTERPRISE
-        content: "*Precision infrastructure. Sovereign control.* - Everything in GROWTH
-          - Multi-region HA deployment - Advanced security and compliance -
-          Custom modules and integrations"
+        content: >-
+          "***Precision infrastructure. Sovereign control.***"
+          - Everything in GROWTH
+          - Multi-region HA deployment
+          - Advanced security and compliance
+          - Custom modules and integrations
         actions:
           - label: Explore →
             url: /contact

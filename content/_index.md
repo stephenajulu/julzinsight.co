@@ -29,7 +29,7 @@ sections:
             style: link
         content: >-
           Your business is drowning in disconnected tools and rising SaaS costs. Every workflow is a workaround, every report a reconciliation. You’re not inefficient, your infrastructure is.<br>We fix that.<br>Julz Insight delivers a unified, modular open-source stack—ERP, CRM, documents, automation, dashboards. All designed, deployed, and managed for scale. You get clarity, control, and speed. We handle the complexity.<br>**Let’s build the backbone your business deserves.**
-      - title: Cloud Computing Infrastructure
+      - title: Managed Cloud Computing Infrastructure
         image: images/service-1.svg
         actions:
           - label: Learn more →

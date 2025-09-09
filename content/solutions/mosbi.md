@@ -96,6 +96,8 @@ _“Dominion-grade infrastructure. Built for scale, resilience, and legacy.”_
 - Zero-downtime GitOps workflows
 - Advanced compliance (ISO, SOC2, local data laws)
 
+---
+
 ## 🧠 Why Julz Insight?
 
 - **Architecture-first**: We design systems, not just deploy tools  

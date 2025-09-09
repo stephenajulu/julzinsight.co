@@ -23,7 +23,7 @@ sections:
     content: |-
       - Founder scaling past tool chaos
       - Enterprises seeking sovereignty and automation
-      - Teams tired of vendor/SaaS lock-in and operational drift
+      - Teams are tired of vendor/SaaS lock-in and operational drift
       - Builders who want clarity, control, and conversion
       - Government ministries modernizing legacy systems
       - Agencies digitizing service delivery and citizen engagement
@@ -66,12 +66,11 @@ sections:
     title: >-
       Why Choose Julz Insight
     content: |-
-      - Founder scaling past tool chaos
-      - **Architecture-first**: We design systems, not just deploy tools
-      - **Modular & automation-ready**: Every component is extensible and triggerable
-      - **Sovereign & secure**: No lock-in, full control, and local-first resilience
-      - **Built for Africa**: Context-aware, founder-grade, and resource-optimized
-      - **Delivered as a service**: You focus on growth—we handle the infrastructure
+      - **Architecture-first** - We design systems, not just deploy tools
+      - **Modular & automation-ready** - Every component is extensible and triggerable
+      - **Sovereign & secure** - No lock-in, full control, and local-first resilience
+      - **Built for Africa** - Context-aware, founder-grade, and resource-optimized
+      - **Delivered as a service** - You focus on growth—we handle the infrastructure
  - type: grid_section
     section_id: tier_list
     title: Tier List

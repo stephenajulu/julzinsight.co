@@ -16,8 +16,8 @@ sections:
     projects_number: 2
     view_all_url: portfolio
   - type: grid_section
-    section_id: services
-    title: Solution
+    section_id: solutions
+    title: Solutions
     subtitle: 
     col_number: two
     grid_items:

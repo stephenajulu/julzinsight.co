@@ -11,7 +11,7 @@ sections:
     ctatext: Book Your Free Audit →
     ctalink: /contact
   - type: content_section
-    section_id: what_is_it
+    section_id: what_it_is
     title: >-
       What Is It?
     content: >-
@@ -61,6 +61,55 @@ sections:
       - title: Training & Support
         content: >-
           Onboarding, micro-trainings, and SLA-backed help
+  - type: content_section
+    section_id: why_julz_insight
+    title: >-
+      Why Choose Julz Insight
+    content: |-
+      - Founder scaling past tool chaos
+      - **Architecture-first**: We design systems, not just deploy tools
+      - **Modular & automation-ready**: Every component is extensible and triggerable
+      - **Sovereign & secure**: No lock-in, full control, and local-first resilience
+      - **Built for Africa**: Context-aware, founder-grade, and resource-optimized
+      - **Delivered as a service**: You focus on growth—we handle the infrastructure
+ - type: grid_section
+    section_id: tier_list
+    title: Tier List
+    col_number: three
+    grid_items:
+      - title: CORE
+        content: >-
+          *Stabilize operations. Escape tool chaos.*
+          - ERP + CRM
+          - Docs + Wiki
+          - Project + Chat
+          - Basic automation
+        actions:
+          - label: Explore →
+            url: /contact
+            style: button
+      - title: GROWTH
+        content: >-
+          *Optimize performance. Scale with clarity.*
+          - Everything in CORE
+          - BI Dashboard Platform
+          - Customer portal
+          - Advanced automation flows
+        actions:
+          - label: Explore →
+            url: /contact
+            style: button
+      - title: ENTERPRISE
+        content: >-
+          *Precision infrastructure. Sovereign control.*
+          - Everything in GROWTH
+          - Multi-region HA deployment
+          - Advanced security and compliance
+          - Custom modules and integrations
+        actions:
+          - label: Explore →
+            url: /contact
+            style: button
   - type: cta_section
     section_id: cta
     title: Ready To Scale?

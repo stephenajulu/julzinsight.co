@@ -98,7 +98,7 @@ _“Sovereign control. Zero-downtime infrastructure.”_
 
 **Book your cloud architecture session** and receive a deployment blueprint tailored to your stack, scale goals, and governance needs.
 
-👉 [Book Cloud Session]  👉 [Download Tier Comparison]  👉 [See GitOps Demo]
+👉 [Book Cloud Session](/contact)  👉 [Download Tier Comparison](/contact)  👉 [See GitOps Demo](/contact)
 
 ---
 

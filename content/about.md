@@ -11,7 +11,7 @@ sections:
   - type: grid_section
     section_id: services
     title: Solutions
-    col_number: three
+    col_number: two
     grid_items:
       - title: Managed Open Source Business Infrastructure
         image: images/service-3.svg
@@ -20,7 +20,15 @@ sections:
             url: /solutions/mosib
             style: link
         content: >-
-          Your business is drowning in disconnected tools and rising SaaS costs. Every workflow is a workaround, every report a reconciliation. You’re not inefficient — your infrastructure is. We fix that. Julz Insight delivers a unified, modular open-source stack—ERP, CRM, documents, automation, dashboards—all designed, deployed, and managed for scale. You get clarity, control, and speed. We handle the complexity. Let’s build the backbone your business deserves.
+          Your business is drowning in disconnected tools and rising SaaS costs. Every workflow is a workaround, every report a reconciliation. You’re not inefficient, your infrastructure is. We fix that. Julz Insight delivers a unified, modular open-source stack—ERP, CRM, documents, automation, dashboards—all designed, deployed, and managed for scale. You get clarity, control, and speed. We handle the complexity. Let’s build the backbone your business deserves.
+      - title: Cloud Computing Infrastructure
+        image: images/service-1.svg
+        actions:
+          - label: Learn more →
+            url: /solutions/cloud
+            style: link
+        content: >-
+          Your systems are scattered across vendors, regions, and fragile hosting setups. Every outage is a scramble, every deployment a gamble. You’re not unstable, your cloud strategy is. We fix that. Julz Insight delivers sovereign, automation-ready cloud environments—On-Prem, Hybrid, or Multi-region—built for uptime, control, and scale. You get resilience, observability, and speed. We handle the orchestration. Let’s deploy the infrastructure your systems deserve.
   - type: grid_section
     section_id: team
     title: The Team

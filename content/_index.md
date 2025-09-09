@@ -41,7 +41,7 @@ sections:
     section_id: posts
     title: Insights
     col_number: three
-    posts_number: 2  
+    posts_number: 3 
 seo:
   title: Julz Insight | Impactful Tech & Infrastructure Solutions
   description: >-

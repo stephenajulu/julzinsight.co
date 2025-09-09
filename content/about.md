@@ -20,7 +20,7 @@ sections:
             url: /solutions/mosib
             style: link
         content: >-
-          Your business is drowning in disconnected tools and rising SaaS costs. Every workflow is a workaround, every report a reconciliation. You’re not inefficient, your infrastructure is. We fix that. Julz Insight delivers a unified, modular open-source stack—ERP, CRM, documents, automation, dashboards—all designed, deployed, and managed for scale. You get clarity, control, and speed. We handle the complexity. Let’s build the backbone your business deserves.
+          Your business is drowning in disconnected tools and rising SaaS costs. Every workflow is a workaround, every report a reconciliation. You’re not inefficient, your infrastructure is. We fix that. Julz Insight delivers a unified, modular open-source stack. ERP, CRM, documents, automation, dashboards. All designed, deployed, and managed for scale. You get clarity, control, and speed. We handle the complexity. Let’s build the backbone your business deserves.
       - title: Cloud Computing Infrastructure
         image: images/service-1.svg
         actions:
@@ -28,7 +28,7 @@ sections:
             url: /solutions/cloud
             style: link
         content: >-
-          Your systems are scattered across vendors, regions, and fragile hosting setups. Every outage is a scramble, every deployment a gamble. You’re not unstable, your cloud strategy is. We fix that. Julz Insight delivers sovereign, automation-ready cloud environments—On-Prem, Hybrid, or Multi-region—built for uptime, control, and scale. You get resilience, observability, and speed. We handle the orchestration. Let’s deploy the infrastructure you deserve.
+          Your systems are scattered across vendors, regions, and fragile hosting setups. Every outage is a scramble, every deployment a gamble. You’re not unstable, your cloud strategy is. We fix that. Julz Insight delivers sovereign, automation-ready cloud environments. On-Prem, Hybrid, or Multi-region. Built for uptime, control, and scale. You get resilience, observability, and speed. We handle the orchestration. Let’s deploy the infrastructure you deserve.
   - type: grid_section
     section_id: team
     title: The Team
@@ -36,7 +36,7 @@ sections:
     grid_items:
       - title: Stephen Ajulu
         image: /images/1653516600275.jpg
-        subtitle: Founder, Tech & Product Lead
+        subtitle: Founder, Lead Tech Consultant and Systems Architect
         content:
         actions:
           - label: Twitter

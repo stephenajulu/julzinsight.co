@@ -1,103 +1,103 @@
 ---
 title: Managed Open Source Business Infrastructure
-hide_title: true
+hide_title: false
 sections:
   - type: hero_section
     section_id: hero
     title: >-
       Scale Without Chaos. One Stack. Infinite Leverage.
     content: >-
-      Modular, automation-ready infrastructure for African founders and scale-ups
+      Modular, automation-ready managed open-source business infrastructure for African founders and scale-ups
+  - type: content_section
+    section_id: what_is_it
+    title: >-
+      What Is It?
+    content: >-
+      Julz Insight’s Managed Open Source Business Infrastructure replaces fragmented tools and fragile workflows with a unified, modular system—designed, deployed, and managed for scale.<br>We architect your business backbone using open-source technologies: ERP, CRM, documents, automation, dashboards, and governance—all integrated, secure, and tailored to your growth.
+  - type: content_section
+    section_id: who_its_for
+    title: >-
+      Who It's For
+    content: |-
+      - Founder scaling past tool chaos
+      - Enterprises seeking sovereignty and automation
+      - Teams tired of vendor/SaaS lock-in and operational drift
+      - Builders who want clarity, control, and conversion
+      - Government ministries modernizing legacy systems
+      - Agencies digitizing service delivery and citizen engagement
+      - Public institutions building scalable, sovereign platforms
+      - Regulators seeking secure, auditable infrastructure
   - type: grid_section
-    section_id: clients
-    title: Clients
-    subtitle: A few of the companies we're proud to call partners
+    section_id: what_you_get
+    title: What You Get
     col_number: three
     grid_items:
-      - image: images/logo-1.svg
-        image_alt: Logo 1
-      - image: images/logo-2.svg
-        image_alt: Logo 2
-      - image: images/logo-3.svg
-        image_alt: Logo 3
-      - image: images/logo-4.svg
-        image_alt: Logo 4
-      - image: images/logo-5.svg
-        image_alt: Logo 5
-  - type: grid_section
-    section_id: services
-    title: Services
-    subtitle: What we do
-    col_number: three
-    grid_items:
-      - title: Business design
-        image: images/service-1.svg
-        content: |-
-          - Research and insight
-          - Business innovation and transformation
-          - Brand and strategy
-          - Brand portfolio strategy
-          - Design strategy
-          - Digital and experience strategy
-          - Communication strategy
-      - title: Brand design
-        image: images/service-2.svg
-        content: |-
-          - Brand development
-          - Naming
-          - Brand identity
-          - Design systems
-          - Concept development
-          - Brand implementation and management
-          - Typography
-      - title: Experience design
-        image: images/service-3.svg
-        content: |-
-          - Digital product design
-          - Service design
-          - Environmental and retail design
-          - Packaging design
-          - Art direction
-          - Communication design
-          - Social media
-          - Product design
+      - title: ERP + CRM
+        content: >-
+          Unified customer, sales, inventory, and finance workflows
+      - title: Docs + Wiki
+        content: >-
+          Secure document management and internal knowledge base
+      - title: Project + Chat
+        content: >-
+          Task tracking and team communication in one place
+      - title: Automation Engine
+        content: >-
+          Workflow triggers, integrations, and process flows
+      - title: BI Dashboards
+        content: >-
+          Real-time metrics, KPIs, and decision-grade insights
+      - title: Identity & Access
+        content: >-
+          Role-based permissions, MFA, and SSO
+      - title: Governance Protocols
+        content: >-
+          Change control, escalation paths, and audit logs
+      - title: GitOps Deployment
+        content: >-
+          Version-controlled infrastructure with rollback safety
+      - title: Training & Support
+        content: >-
+          Onboarding, micro-trainings, and SLA-backed help
   - type: cta_section
     section_id: cta
-    title: Let’s Work Together!
+    title: Ready To Scale?
     content: >-
-      Say hello at [email@example.com](mailto:email@example.com) or tell us more
-      about your project by getting started below.
+      Book your infrastructure audit and receive a 90-day blueprint tailored to your business.<br>Let’s unify your operations, automate your workflows, and build a system that scales with you.
     actions:
-      - label: Let's start
+      - label: Book Audit
         url: /contact
         style: button
+      - label: Download Tier Comparison
+        url: /tiers
+        style: button
+      - label: See Demo
+        url: /demo
+        label: button
     image: images/cta.svg
     image_alt: Illustration
     bg_color: light
 seo:
-  title: Award Winning Agency Based in San Francisco
+  title: Managed Open-Source Business Infrastructure Solution | Julz Insight
   description: >-
-    We are a brand and design practice. We work closely with you, your team to
-    deliver inspiring work, which enables your organization to grow.
+    Our Managed Open Source Business Infrastructure replaces fragmented tools and fragile workflows with a unified, modular system—designed, deployed, and managed for scale.
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Award Winning Agency Based in San Francisco
+      value:  Managed Open-Source Business Infrastructure Solution | Julz Insight
       keyName: property
     - name: 'og:description'
       value: >-
-        We are a brand and design practice. We work closely with you, your team
-        to deliver inspiring work, which enables your organization to grow.
+        Our Managed Open Source Business Infrastructure replaces fragmented tools and fragile workflows with a unified, modular system—designed, deployed, and managed for scale.
       keyName: property
     - name: 'twitter:card'
       value: summary
     - name: 'twitter:title'
-      value: Award Winning Agency Based in San Francisco
+      value:  Managed Open-Source Business Infrastructure Solution | Julz Insight
     - name: 'twitter:description'
       value: >-
-        We are a brand and design practice. We work closely with you, your team
-        to deliver inspiring work, which enables your organization to grow.
+        Our Managed Open Source Business Infrastructure replaces fragmented tools and fragile workflows with a unified, modular system—designed, deployed, and managed for scale.
 layout: advanced
 ---

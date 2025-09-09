@@ -84,7 +84,7 @@ sections:
             url: /contact
             style: button
       - title: GROWTH
-        content: >-
+        content: |-
           "***Optimize performance. Scale with clarity.***"
           - Everything in CORE
           - BI Dashboard Platform
@@ -95,7 +95,7 @@ sections:
             url: /contact
             style: button
       - title: ENTERPRISE
-        content: >-
+        content: |-
           "***Precision infrastructure. Sovereign control.***"
           - Everything in GROWTH
           - Multi-region HA deployment

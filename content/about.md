@@ -5,20 +5,19 @@ hide_title: false
 sections:
   - type: content_section
     content: >-
-      Welcome to JULZ INSIGHT, a visionary technology firm, business infrastructure provider and venture foundry based in Nairobi. ,We design, deploy, and manage modular open-source systems that unify your operations—from ERP and CRM to automation, dashboards, and governance. Beyond infrastructure, we forge impactful tech products, brands, solutions and startups—built with strategic clarity and delivered with founder-grade precision. Our team of experts brings decades of technical experience and a passion for technology, ensuring we deliver solutions that are both innovative and practical. So whether you're streamlining operations or interested in the launch of our next venture, Julz Insight equips you with the systems, tools, expertise and execution to scale without friction.<br> <br><span style="font-weight: 700">Our Slogan</span> - Where Vision Meets Infrastructure<br> <br><span style="font-weight: 700">Our Mission</span> - To build and manage modular, open-source infrastructure that empower founders and enterprises to scale with clarity, speed, and resilience.<br> <br><span style="font-weight: 700">Our Vision</span> - To become Africa's leading infrastructure provider and foundry, where visionary ideas are forged into scalable solutions, systems, brands and ventures that drive sustainable growth across industries.<br><br>Come, let's build something great today! **[Book A Consultation](/contact/)**
+      Welcome to JULZ INSIGHT, a visionary technology firm, business infrastructure provider and venture foundry based in Nairobi.<br>We design, deploy, and manage modular open-source systems that unify your operations. From ERP and CRM to automation, dashboards, and governance. Beyond infrastructure, we forge impactful tech products, brands, solutions and startups—built with strategic clarity and delivered with founder-grade precision. Our team of experts brings decades of technical experience and a passion for technology and open-source, ensuring we deliver solutions that are both innovative and practical. So whether you're streamlining operations or interested in the launch of our next venture, Julz Insight equips you with the systems, tools, expertise and execution to scale without friction.<br> <br><span style="font-weight: 700">Our Slogan</span> - Where Vision Meets Infrastructure<br> <br><span style="font-weight: 700">Our Mission</span> - To build and manage modular, open-source infrastructure that empower founders and enterprises to scale with clarity, speed, and resilience.<br> <br><span style="font-weight: 700">Problem Statement</span> - Founders and enterprises are drowning in tool sprawl, SaaS bloat, and operational fragmentation—wasting time, money, and strategic focus. They need infrastructure that scales with them, not against them. They need systems, products, and brands that are modular, automation-ready, and built to last.<br> <br><span style="font-weight: 700">Our Vision</span> - To become Africa's leading tech firm, infrastructure provider and R&D venture foundry, where visionary ideas are forged into scalable solutions, systems, brands and ventures that drive sustainable growth across industries.<br><br>Come, let's build something great today! **[Book A Consultation](/contact/)**
     image: images/julzbanner.png
     image_alt: JULZ Marketing Banner Illuminating Possibilities
   - type: grid_section
     section_id: services
-    title: Services
-    subtitle: Our solutions and services
+    title: Solutions
     col_number: three
     grid_items:
-      - title: Managed Open Source Solutions
+      - title: Managed Open Source Business Infrastructure
         image: images/service-3.svg
         actions:
           - label: Learn more →
-            url: /services/open-source-solutions
+            url: /solutions/mosib
             style: link
         content: >-
           Your business is drowning in disconnected tools and rising SaaS costs. Every workflow is a workaround, every report a reconciliation. You’re not inefficient — your infrastructure is. We fix that. Julz Insight delivers a unified, modular open-source stack—ERP, CRM, documents, automation, dashboards—all designed, deployed, and managed for scale. You get clarity, control, and speed. We handle the complexity. Let’s build the backbone your business deserves.

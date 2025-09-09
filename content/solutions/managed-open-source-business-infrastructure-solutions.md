@@ -73,7 +73,7 @@ sections:
     col_number: three
     grid_items:
       - title: CORE
-        content: >-
+        content: |-
           "***Stabilize operations. Escape tool chaos.***"
           - ERP + CRM
           - Docs + Wiki

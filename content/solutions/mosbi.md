@@ -1,6 +1,6 @@
 ---
 title: Managed Open Source Business Infrastructure
-subtitle: Scale without chaos. Operate with clarity. Build what lasts.
+subtitle: Scale without chaos. Operate with clarity. Build what lasts.  Modular, automation-ready managed open-source business infrastructure for African founders and scale-ups.
 seo:
   title: Managed Open Source Business Infrastructure - Julz Insight
   description: Our Managed Open Source Business Infrastructure replaces fragmented tools and fragile workflows with a unified, modular system—designed, deployed, and managed for scale.
@@ -25,7 +25,7 @@ seo:
 layout: page
 ---
 
-## 🧭 What Is It?  
+## 🧠 What It Is
 Julz Insight’s Managed Open Source Business Infrastructure replaces fragmented tools and fragile workflows with a unified, modular system—designed, deployed, and managed for scale.
 
 We architect your business backbone using open-source technologies: ERP, CRM, documents, automation, dashboards, and governance—all integrated, secure, and tailored to your growth.
@@ -35,12 +35,16 @@ We architect your business backbone using open-source technologies: ERP, CRM, do
 ## 🔍 Who It’s For  
 - Founders scaling past tool chaos  
 - Enterprises seeking sovereignty and automation  
-- Teams tired of SaaS lock-in and operational drift  
+- Teams who are tired of SaaS lock-in and operational drift  
 - Builders who want clarity, control, and conversion
+- Government ministries modernizing legacy systems
+- Agencies digitizing service delivery and citizen engagement
+- Public institutions building scalable, sovereign platforms
+- Regulators seeking secure, auditable infrastructure
 
 ---
 
-## 🧱 What You Get
+## 🏗️ What You Get
 
 | Module | Description |
 |--------|-------------|
@@ -64,32 +68,33 @@ _“Stabilize operations. Escape tool chaos.”_
 - Docs + Wiki  
 - Project + Chat  
 - Basic automation  
-- Monthly governance check-in  
-**Setup:** $5K–$8K **Monthly:** $1.2K–$2K
 
 ---
 
 ### 🔸 GROWTH  
 _“Optimize performance. Scale with clarity.”_  
 - Everything in CORE  
-- BI dashboards + KPI catalog  
+- BI dashboard platform
 - Advanced automation flows  
 - Customer portal  
-- Quarterly roadmap reviews  
-**Setup:** $12K–$20K **Monthly:** $3K–$5K
 
 ---
 
 ### 🔶 ENTERPRISE  
 _“Precision infrastructure. Sovereign control.”_  
 - Everything in GROWTH  
-- Multi-region HA deployment  
+- High availability disaster recovery  
 - Advanced security & compliance  
 - Custom modules & integrations  
-- Dedicated SRE hours  
-**Setup:** $30K+ **Monthly:** $8K–$15K
 
 ---
+
+### 🔷 ENTERPRISE+
+_“Dominion-grade infrastructure. Built for scale, resilience, and legacy.”_
+- Everything in ENTERPRISE
+- Multi-region deployment and high availability disaster recovery
+- Zero-downtime GitOps workflows
+- Advanced compliance (ISO, SOC2, local data laws)
 
 ## 🧠 Why Julz Insight?
 
@@ -106,4 +111,6 @@ _“Precision infrastructure. Sovereign control.”_
 **Book your infrastructure audit** and receive a 90-day blueprint tailored to your business.  
 Let’s unify your operations, automate your workflows, and build a system that scales with you.
 
-👉 [Book Audit]  👉 [Download Tier Comparison]  👉 [See Stack Demo]
+👉 [Book Audit](/contact) | 👉 [Download Tier Comparison](contact) | 👉 [See Stack Demo](/contact)
+
+{{< consult >}}

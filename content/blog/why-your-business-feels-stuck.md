@@ -47,7 +47,7 @@ seo:
       relativeUrl: true
 layout: post
 ---
-If your business feels like it’s running uphill with a backpack full of bricks, you’re not alone. Most founders aren’t inefficient—they’re trapped in broken infrastructure.
+If your business feels like it’s running uphill with a backpack full of bricks, you’re not alone. Most founders aren’t inefficient; they’re trapped in broken infrastructure.
 
 ### Your Tools Don’t Talk to Each Other
 

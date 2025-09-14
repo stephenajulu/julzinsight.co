@@ -1,5 +1,5 @@
 title: Julz Insight
-baseURL: https://julzinsight.netlify.app
+baseURL: https://julzinsight.co
 markup:
   goldmark:
     renderer:

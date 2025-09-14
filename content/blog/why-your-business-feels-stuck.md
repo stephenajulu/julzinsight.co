@@ -69,4 +69,4 @@ We deploy a unified, modular open-source stack—ERP, CRM, docs, dashboards, and
 
 Book your free audit today. Let’s build the backbone your business actually deserves.
 
-{{&lt; consult &gt;}}
+{{< consult >}}

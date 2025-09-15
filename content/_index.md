@@ -12,8 +12,10 @@ sections:
     ctalink: /contact
   - type: posts_section
     section_id: posts
-    col_number: three
-    posts_number: 3
+    layout_style: mosaic
+    col_number: two
+    posts_number: 2
+    view_all_url: posts
   - type: grid_section
     section_id: solutions
     title: Solutions

@@ -10,11 +10,11 @@ sections:
       We build infrastructure and tech solutions for visionaries.<br>Strategically Engineered. Scalable by Design. Excellently Crafted. Built for Impact.
     ctatext: Schedule Your Free Audit →
     ctalink: /contact
-  - type: portfolio_section
-    section_id: latest-projects
-    layout_style: mosaic
-    projects_number: 2
-    view_all_url: portfolio
+  - type: posts_section
+    section_id: posts
+    title: Insights
+    col_number: two
+    posts_number: 2 
   - type: grid_section
     section_id: solutions
     title: Solutions
@@ -37,11 +37,6 @@ sections:
             style: link
         content: >-
           Your systems are scattered across vendors, regions, and fragile hosting setups. Every outage is a scramble, every deployment a gamble. You’re not unstable; your cloud strategy is. <br>We fix that.<br>Julz Insight delivers sovereign, automation-ready cloud environments, On-Prem, Hybrid, or Multi-region. Built for uptime, control, and scale. You get resilience, observability, and speed. We handle the orchestration.<br>**Let’s deploy the infrastructure you deserve.**
-  - type: posts_section
-    section_id: posts
-    title: Insights
-    col_number: two
-    posts_number: 2 
 seo:
   title: Julz Insight | Impactful Tech & Infrastructure Solutions
   description: >-

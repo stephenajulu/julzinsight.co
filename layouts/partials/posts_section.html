@@ -1,4 +1,5 @@
 {{ $section := .section }}
+{{ $layout_style := $section.layout_style | default "mosaic" }}
 {{ $col_number := $section.col_number | default "three" }}
 <section id="{{ $section.section_id }}" class="section section--posts">
   <div class="container container--lg">
@@ -24,3 +25,4 @@
     {{ end }}
   </div>
 </section>
+{{ end }}

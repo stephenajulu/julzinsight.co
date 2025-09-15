@@ -1,6 +1,5 @@
 {{ $section := .section }}
 {{ $col_number := $section.col_number | default "three" }}
-{{ $layout_style := $section.layout_style | default "mosaic" }}
 <section id="{{ $section.section_id }}" class="section section--posts">
   <div class="container container--lg">
     {{ if $section.title }}
@@ -9,7 +8,7 @@
     {{ if $section.subtitle }}
     <p class="section__subtitle">{{ $section.subtitle }}</p>
     {{ end }}
-    <div class="grid post-feed post-feed--col-{{ $col_number }} portfolio-feed--{{ $layout_style }}">
+    <div class="grid post-feed post-feed--col-{{ $col_number }}">
       {{ $posts_sorted := ((.Site.GetPage "section" "/blog").Pages).ByDate.Reverse }}
       {{ $recent_posts := $posts_sorted | first $section.posts_number }}
       {{ range $post := $recent_posts }}

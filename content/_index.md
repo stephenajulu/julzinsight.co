@@ -12,9 +12,8 @@ sections:
     ctalink: /contact
   - type: posts_section
     section_id: posts
-    title: Insights
-    col_number: two
-    posts_number: 2 
+    col_number: three
+    posts_number: 3
   - type: grid_section
     section_id: solutions
     title: Solutions

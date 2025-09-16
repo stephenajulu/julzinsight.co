@@ -58,11 +58,11 @@ sections:
       - input_type: checkbox
         name: newsletter
         label: >-
-          I also join Julz Insight's newsletter for insights, offers, resources and more.
+          I also join Julz Insight's newsletter for insights, offers, resources, and more.
     submit_label: Send Message
 seo:
   title: Contact Us - Julz Insight | Illuminating Possibilities Through Tech and Innovation
-  description:  At Julz Insight, we are dedicated to building impactful tech products and solutions that drive innovation and success to forward-thinking companies and brands. Whether you have a question, need support, or want to discuss a potential project, we are here to help. Get in touch with us through any of the following methods.
+  description:  Welcome to Julz Insight. Where visionary tech meets modular infrastructure. Empowering founders and enterprises to scale with clarity, speed, and zero friction. From open-source systems to automation-ready ventures, we build the backbone your business deserves. Whether you have a question, need support, or want to discuss a potential project, we are here to help. Get in touch with us through any of the following methods.
   extra:
     - name: 'og:type'
       value: website
@@ -71,7 +71,7 @@ seo:
       value: Contact Us - Julz Insight | Illuminating Possibilities Through Tech and Innovation
       keyName: property
     - name: 'og:description'
-      value: At Julz Insight, we are dedicated to building impactful tech products and solutions that drive innovation and success to forward-thinking companies and brands. Whether you have a question, need support, or want to discuss a potential project, we are here to help. Get in touch with us through any of the following methods.
+      value: Welcome to Julz Insight. Where visionary tech meets modular infrastructure. Empowering founders and enterprises to scale with clarity, speed, and zero friction. From open-source systems to automation-ready ventures, we build the backbone your business deserves. Whether you have a question, need support, or want to discuss a potential project, we are here to help. Get in touch with us through any of the following methods.
       keyName: property
     - name: 'og:image'
       value: images/about.jpg
@@ -82,7 +82,7 @@ seo:
     - name: 'twitter:title'
       value: Contact Us - Julz Insight | Illuminating Possibilities Through Tech and Innovation
     - name: 'twitter:description'
-      value: At Julz Insight, we are dedicated to building impactful tech products and solutions that drive innovation and success to forward-thinking companies and brands. Whether you have a question, need support, or want to discuss a potential project, we are here to help. Get in touch with us through any of the following methods.
+      value: Welcome to Julz Insight. Where visionary tech meets modular infrastructure. Empowering founders and enterprises to scale with clarity, speed, and zero friction. From open-source systems to automation-ready ventures, we build the backbone your business deserves. Whether you have a question, need support, or want to discuss a potential project, we are here to help. Get in touch with us through any of the following methods.
     - name: 'twitter:image'
       value: images/about.jpg
       relativeUrl: true

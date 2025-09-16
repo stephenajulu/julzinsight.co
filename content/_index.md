@@ -12,7 +12,7 @@ sections:
     ctalink: /contact
   - type: grid_section
     section_id: solutions
-    title: Solutions
+    title: 
     subtitle: 
     col_number: two
     grid_items:

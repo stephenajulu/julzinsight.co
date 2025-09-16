@@ -40,7 +40,7 @@ sections:
 seo:
   title: Julz Insight | Impactful Infrastructure & Tech Solutions
   description: >-
-   Welcome to Julz Insight, where visionary tech meets modular infrastructure. Empowering founders to scale with clarity, speed, and zero friction.
+   Welcome to Julz Insight. Where visionary tech meets modular infrastructure. Empowering founders and enterprises to scale with clarity, speed, and zero friction. From open-source systems to automation-ready ventures, we build the backbone your business deserves..
   extra:
     - name: 'og:type'
       value: website
@@ -50,7 +50,7 @@ seo:
       keyName: property
     - name: 'og:description'
       value: >-
-        Welcome to Julz Insight, where visionary tech meets modular infrastructure. Empowering founders to scale with clarity, speed, and zero friction.
+        Welcome to Julz Insight. Where visionary tech meets modular infrastructure. Empowering founders and enterprises to scale with clarity, speed, and zero friction. From open-source systems to automation-ready ventures, we build the backbone your business deserves.
       keyName: property
     - name: 'og:image'
       value: images/socialimage.png
@@ -65,6 +65,6 @@ seo:
       value: Julz Insight | Impactful Infrastructure & Tech Solutions
     - name: 'twitter:description'
       value: >-
-        Welcome to Julz Insight, where visionary tech meets modular infrastructure. Empowering founders to scale with clarity, speed, and zero friction.
+        Welcome to Julz Insight. Where visionary tech meets modular infrastructure. Empowering founders and enterprises to scale with clarity, speed, and zero friction. From open-source systems to automation-ready ventures, we build the backbone your business deserves.
 layout: advanced
 ---

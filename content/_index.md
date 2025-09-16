@@ -10,12 +10,6 @@ sections:
       We build infrastructure and tech solutions for visionaries.<br>Strategically Engineered. Scalable by Design. Excellently Crafted. Built for Impact.
     ctatext: Schedule Your Free Audit →
     ctalink: /contact
-  - type: posts_section
-    section_id: posts
-    layout_style: mosaic
-    col_number: two
-    posts_number: 2
-    view_all_url: posts
   - type: grid_section
     section_id: solutions
     title: Solutions
@@ -38,20 +32,25 @@ sections:
             style: link
         content: >-
           Your systems are scattered across vendors, regions, and fragile hosting setups. Every outage is a scramble, every deployment a gamble. You’re not unstable; your cloud strategy is. <br>We fix that.<br>Julz Insight delivers sovereign, automation-ready cloud environments, On-Prem, Hybrid, or Multi-region. Built for uptime, control, and scale. You get resilience, observability, and speed. We handle the orchestration.<br>**Let’s deploy the infrastructure you deserve.**
+  - type: posts_section
+    section_id: posts
+    layout_style: mosaic
+    col_number: two
+    posts_number: 2
 seo:
-  title: Julz Insight | Impactful Tech & Infrastructure Solutions
+  title: Julz Insight | Impactful Infrastructure & Tech Solutions
   description: >-
-   We are a tech firm and lab based in Nairobi, Kenya, with over a decade of experience in Software, Web, Cloud, Design, Open-Source, and digital Transformation Expertise. We build impactful tech products and solutions that solve complex challenges and illuminate possibilities.
+   Welcome to Julz Insight, where visionary tech meets modular infrastructure. Empowering founders to scale with clarity, speed, and zero friction.
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Julz Insight | Impactful Tech & Infrastructure Solutions
+      value: Julz Insight | Impactful Infrastructure & Tech Solutions
       keyName: property
     - name: 'og:description'
       value: >-
-        We are a tech firm and lab based in Nairobi, Kenya, with over a decade of experience in Software, Web, Cloud, Design, Open-Source, and digital Transformation Expertise. We build impactful tech products and solutions that solve complex challenges and illuminate possibilities.
+        Welcome to Julz Insight, where visionary tech meets modular infrastructure. Empowering founders to scale with clarity, speed, and zero friction.
       keyName: property
     - name: 'og:image'
       value: images/socialimage.png
@@ -63,9 +62,9 @@ seo:
       value: images/socialimage.png
       relativeUrl: true
     - name: 'twitter:title'
-      value: Julz Insight | Impactful Tech & Infrastructure Solutions
+      value: Julz Insight | Impactful Infrastructure & Tech Solutions
     - name: 'twitter:description'
       value: >-
-        We are a tech firm and lab based in Nairobi, Kenya, with over a decade of experience in Software, Web, Cloud, Design, Open-Source, and digital Transformation Expertise. We build impactful tech products and solutions that solve complex challenges and illuminate possibilities.
+        Welcome to Julz Insight, where visionary tech meets modular infrastructure. Empowering founders to scale with clarity, speed, and zero friction.
 layout: advanced
 ---

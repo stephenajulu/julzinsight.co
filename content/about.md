@@ -1,11 +1,11 @@
 ---
 title: Our Story
-subtitle: JULZ is a tight-knit team with senior tech & product experience
+subtitle: JULZ is a tight-knit team with senior tech and infrastructure experience
 hide_title: false
 sections:
   - type: content_section
     content: >-
-      Welcome to JULZ INSIGHT, a visionary technology firm, business infrastructure provider and R&D venture foundry based in Nairobi, Kenya. Founded in 2020 by Founder and CEO Stephen Ajulu, with clients across East Africa and beyond. We design, deploy, and manage modular open-source systems that unify your operations. From ERP and CRM to automation, dashboards, and governance. Beyond infrastructure, we forge impactful tech products, brands, solutions and startups, built with strategic clarity and delivered with founder-grade precision. Our team of experts brings decades of technical experience and a passion for technology and open-source, ensuring we deliver solutions that are both innovative and practical. So whether you're streamlining operations or interested in the launch of our next venture, Julz Insight equips you with the systems, tools, expertise and execution to scale without friction.<br> <br><span style="font-weight: 700">Our Slogan</span> - Where Vision Meets Infrastructure<br> <br><span style="font-weight: 700">Our Mission</span> - To build and manage modular, open-source infrastructure that empower founders and enterprises to scale with clarity, speed, and resilience.<br> <br><span style="font-weight: 700">Problem Statement</span> - Founders and enterprises are drowning in tool sprawl, SaaS bloat, and operational fragmentation, wasting time, money, and strategic focus. They need infrastructure that scales with them, not against them. They need systems, products, and brands that are modular, automation-ready, and built to last.<br> <br><span style="font-weight: 700">Our Vision</span> - To become Africa's leading tech firm, infrastructure provider and R&D venture foundry, where visionary ideas are forged into scalable solutions, systems, brands and ventures that drive sustainable growth across industries.<br><br>Come, let's build something great today! **[Book A Consultation](/contact/)**
+      Welcome to JULZ INSIGHT, a visionary technology firm, business infrastructure provider, and R&D venture foundry based in Nairobi, Kenya. Founded in 2020 by Stephen Ajulu. We design, deploy, and manage modular open-source systems that unify your operations. From ERP and CRM to automation, dashboards, and governance. Beyond infrastructure, we forge impactful tech products, brands, solutions, and startups, built with strategic clarity and delivered with founder-grade precision. Our team of experts brings decades of technical experience and a passion for technology and open-source, ensuring we deliver solutions that are both innovative and practical. So whether you're streamlining operations or interested in the launch of our next venture, Julz Insight equips you with the systems, tools, expertise, and execution to scale without friction.<br> <br><span style="font-weight: 700">Our Slogan</span> - Where Vision Meets Infrastructure<br> <br><span style="font-weight: 700">Our Mission</span> - To build and manage modular, open-source infrastructure that empowers founders and enterprises to scale with clarity, speed, and resilience.<br> <br><span style="font-weight: 700">Problem Statement</span> - Founders and enterprises are drowning in tool sprawl, SaaS bloat, and operational fragmentation, wasting time, money, and strategic focus. They need infrastructure that scales with them, not against them. They need systems, products, and brands that are modular, automation-ready, and built to last.<br> <br><span style="font-weight: 700">Our Vision</span> - To become Africa's leading tech firm, infrastructure provider, and R&D venture foundry, where visionary ideas are forged into scalable solutions, systems, brands, and ventures that drive sustainable growth across industries.<br><br>Come, let's build something great today! **[Book A Consultation](/contact/)**
     image: images/julzbanner.png
     image_alt: JULZ Marketing Banner Illuminating Possibilities
   - type: grid_section
@@ -36,7 +36,7 @@ sections:
     grid_items:
       - title: Stephen Ajulu
         image: /images/1653516600275.jpg
-        subtitle: Founder, Lead Tech Consultant and Systems Architect
+        subtitle: CEO, Lead Tech Consultant, and Systems Architect
         content:
         actions:
           - label: Twitter
@@ -61,17 +61,17 @@ sections:
         url: /contact
         style: button
 seo:
-  title: About Us - Julz Insight | Illuminating Possibilities Through Tech and Innovation
-  description: Learn more about Julz Insight, our team, our processes, our solutions, our work, and more. We are a tech solutions firm & lab based in Nairobi, Kenya, with over a decade of experience in Software, Web, AI, Cloud, Design & Digital Transformation Expertise. We build impactful tech products and solutions that solve complex challenges. Pioneering innovation. Illuminating possibilities.
+  title: About Us - Julz Insight | Impactful Infrastructure & Tech Solutions
+  description: Welcome to Julz Insight. Where visionary tech meets modular infrastructure. Empowering founders and enterprises to scale with clarity, speed, and zero friction. From open-source systems to automation-ready ventures, we build the backbone your business deserves.
   extra:
     - name: og:type
       value: website
       keyName: property
     - name: og:title
-      value: About Us - Julz Insight | Illuminating Possibilities Through Tech and Innovation
+      value: About Us - Julz Insight | Impactful Infrastructure & Tech Solutions
       keyName: property
     - name: og:description
-      value: Learn more about Julz Insight, our team, our processes, our solutions, our work, and more. We are a tech solutions firm & lab based in Nairobi, Kenya, with over a decade of experience with Software, Web, AI, Cloud, Design & Digital Transformation Expertise. We build impactful tech products and solutions that solve complex challenges. Pioneering innovation. Illuminating possibilities.
+      value: Welcome to Julz Insight. Where visionary tech meets modular infrastructure. Empowering founders and enterprises to scale with clarity, speed, and zero friction. From open-source systems to automation-ready ventures, we build the backbone your business deserves.
       keyName: property
     - name: og:image
       value: images/about.jpg
@@ -80,9 +80,9 @@ seo:
     - name: twitter:card
       value: summary_large_image
     - name: twitter:title
-      value: About Us - Julz Insight | Illuminating Possibilities Through Tech and Innovation
+      value: About Us - Julz Insight | Impactful Infrastructure & Tech Solutions
     - name: twitter:description
-      value: Learn more about Julz Insight, our team, our processes, our solutions, our work, and more. We are a tech solutions firm & lab based in Nairobi, Kenya, with over a decade of experience with Software, Web, AI, Cloud, Design & Digital Transformation Expertise. We build impactful tech products and solutions that solve complex challenges. Pioneering innovation. Illuminating possibilities.
+      value: Welcome to Julz Insight. Where visionary tech meets modular infrastructure. Empowering founders and enterprises to scale with clarity, speed, and zero friction. From open-source systems to automation-ready ventures, we build the backbone your business deserves.
     - name: twitter:image
       value: images/about.jpg
       relativeUrl: true

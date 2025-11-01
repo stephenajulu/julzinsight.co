@@ -5,9 +5,9 @@ sections:
   - type: hero_section
     section_id: hero
     title: >-
-      We are JULZ: The Vanguard of Visionary Technology
+      We are JULZ, The Vanguard of Visionary Technology
     content: >-
-      A sovereign R&D forge—engineering frontier products, modular systems, and enduring solutions that reshape industries. We build what the future runs on.
+      A sovereign R&D forge, engineering frontier products, modular systems, and enduring solutions that reshape industries.
     ctatext: Contact us →
     ctalink: /contact
 seo:

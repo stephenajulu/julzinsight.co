@@ -5,38 +5,11 @@ sections:
   - type: hero_section
     section_id: hero
     title: >-
-      Where Vision Meets Infrastructure
+      We are JULZ: The Vanguard of Visionary Technology
     content: >-
-      We build infrastructure and tech solutions for visionaries.<br>Strategically Engineered. Scalable by Design. Excellently Crafted. Built for Impact.
-    ctatext: Schedule Your Free Audit →
+      We are a sovereign R&D forge—engineering frontier products, modular systems, and enduring solutions that reshape industries. From zero to one, from idea to infrastructure, we build what the future runs on.
+    ctatext: Contact us →
     ctalink: /contact
-  - type: grid_section
-    section_id: solutions
-    title: 
-    subtitle: 
-    col_number: two
-    grid_items:
-      - title: Managed Open-Source Business Infrastructure
-        image: images/service-3.svg
-        actions:
-          - label: Learn more →
-            url: /solutions/mosbi
-            style: link
-        content: >-
-          Your business is drowning in disconnected tools and rising SaaS costs. Every workflow is a workaround, every report a reconciliation. You’re not inefficient; your infrastructure is.<br>We fix that.<br>Julz Insight delivers a unified, modular open-source stack—ERP, CRM, documents, automation, dashboards. All designed, deployed, and managed for scale. You get clarity, control, and speed. We handle the complexity.<br>**Let’s build the backbone your business deserves.**
-      - title: Managed Cloud Computing Infrastructure
-        image: images/service-1.svg
-        actions:
-          - label: Learn more →
-            url: /solutions/cloud
-            style: link
-        content: >-
-          Your systems are scattered across vendors, regions, and fragile hosting setups. Every outage is a scramble, every deployment a gamble. You’re not unstable; your cloud strategy is. <br>We fix that.<br>Julz Insight delivers sovereign, automation-ready cloud environments, On-Prem, Hybrid, or Multi-region. Built for uptime, control, and scale. You get resilience, observability, and speed. We handle the orchestration.<br>**Let’s deploy the infrastructure you deserve.**
-  - type: posts_section
-    section_id: posts
-    layout_style: mosaic
-    col_number: two
-    posts_number: 2
 seo:
   title: Julz Insight | Impactful Infrastructure & Tech Solutions
   description: >-

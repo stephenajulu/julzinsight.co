@@ -1,19 +1,14 @@
 {
-    "title": "Julz Insight",
+    "title": "JULZ",
     "color_scheme": "dark",
     "accent_color": "violet",
     "base_font": "playfair",
     "header": {
-        "title": "Julz Insight",
+        "title": "JULZ",
         "logo": "images/logo2.svg",
         "logo_alt": "Julz logo",
         "has_nav": true,
-        "nav_links": [
-            {
-                "label": "Home",
-                "url": "/",
-                "style": "link"
-            },            
+        "nav_links": [        
             {
                 "label": "About",
                 "url": "/about/",
@@ -33,16 +28,11 @@
                 "label": "Insights",
                 "url": "/blog/",
                 "style": "link"
-            },
-            {
-                "label": "Contact",
-                "url": "/contact/",
-                "style": "link"
             }
         ]
     },
     "footer": {
-        "content": "&copy; Julz Insight 2025",
+        "content": "&copy; JULZ 2025",
         "has_social": false,
         "social_links": [
             {

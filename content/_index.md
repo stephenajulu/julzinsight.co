@@ -5,7 +5,7 @@ sections:
   - type: hero_section
     section_id: hero
     title: >-
-      We're a visionary firm building impactful tech.
+      We're a visionary vanguards building impactful products.
     content: >-
       A sovereign R&D forge engineering frontier products, modular systems, and enduring solutions.
     ctatext: Get Started Now →

@@ -7,23 +7,23 @@ sections:
     title: >-
       We are JULZ: The Vanguard of Visionary Technology
     content: >-
-      We are a sovereign R&D forge—engineering frontier products, modular systems, and enduring solutions that reshape industries. From zero to one, from idea to infrastructure, we build what the future runs on.
+      A sovereign R&D forge—engineering frontier products, modular systems, and enduring solutions that reshape industries. We build what the future runs on.
     ctatext: Contact us →
     ctalink: /contact
 seo:
-  title: Julz Insight | Impactful Infrastructure & Tech Solutions
+  title: JULZ | The Vanguard of Visionary Technology
   description: >-
-   Welcome to Julz Insight. Where visionary tech meets modular infrastructure. Empowering founders and enterprises to scale with clarity, speed, and zero friction. From open-source systems to automation-ready ventures, we build the backbone your business deserves..
+   A sovereign R&D forge building frontier products, modular systems, and enduring solutions. From idea to infrastructure, JULZ powers the future.
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Julz Insight | Impactful Infrastructure & Tech Solutions
+      value: JULZ | The Vanguard of Visionary Technology
       keyName: property
     - name: 'og:description'
       value: >-
-        Welcome to Julz Insight. Where visionary tech meets modular infrastructure. Empowering founders and enterprises to scale with clarity, speed, and zero friction. From open-source systems to automation-ready ventures, we build the backbone your business deserves.
+        A sovereign R&D forge building frontier products, modular systems, and enduring solutions. From idea to infrastructure, JULZ powers the future.
       keyName: property
     - name: 'og:image'
       value: images/socialimage.png
@@ -35,9 +35,9 @@ seo:
       value: images/socialimage.png
       relativeUrl: true
     - name: 'twitter:title'
-      value: Julz Insight | Impactful Infrastructure & Tech Solutions
+      value: JULZ | The Vanguard of Visionary Technology
     - name: 'twitter:description'
       value: >-
-        Welcome to Julz Insight. Where visionary tech meets modular infrastructure. Empowering founders and enterprises to scale with clarity, speed, and zero friction. From open-source systems to automation-ready ventures, we build the backbone your business deserves.
+        A sovereign R&D forge building frontier products, modular systems, and enduring solutions. From idea to infrastructure, JULZ powers the future.
 layout: advanced
 ---

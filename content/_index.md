@@ -5,9 +5,7 @@ sections:
   - type: hero_section
     section_id: hero
     title: >-
-      We are a visionaries building impactful tech products and solutions
-    content: >-
-      A sovereign R&D forge, engineering frontier products, modular systems, and enduring solutions that reshape industries.
+      We're a visionary firm building impactful tech.
     ctatext: Get Started Now →
     ctalink: /contact
 seo:

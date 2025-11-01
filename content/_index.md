@@ -5,7 +5,7 @@ sections:
   - type: hero_section
     section_id: hero
     title: >-
-      We are JULZ, The Vanguard of Visionary Technology and Infrastructure
+      We are JULZ, The Vanguard of Visionary Impactful Technology and Infrastructure
     content: >-
       A sovereign R&D forge, engineering frontier products, modular systems, and enduring solutions that reshape industries.
     ctatext: Get Started Now →

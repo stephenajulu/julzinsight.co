@@ -5,7 +5,7 @@ sections:
   - type: hero_section
     section_id: hero
     title: >-
-      We are JULZ, The Vanguard of Visionary Technology
+      We are <span style="letter-spacing:-100;font-weight:900;color:#ffffff;">JULZ</span>, The Vanguard of Visionary Technology
     content: >-
       A sovereign R&D forge, engineering frontier products, modular systems, and enduring solutions that reshape industries.
     ctatext: Get Started Now →

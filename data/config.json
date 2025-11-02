@@ -25,7 +25,7 @@
                 "style": "link"
             },
             {
-                "label": "Insights",
+                "label": "Articles",
                 "url": "/blog/",
                 "style": "link"
             }
@@ -33,7 +33,7 @@
     },
     "footer": {
         "content": "&copy; JULZ 2025",
-        "has_social": false,
+        "has_social": true,
         "social_links": [
             {
                 "label": "Twitter",

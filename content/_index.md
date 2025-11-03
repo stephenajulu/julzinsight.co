@@ -9,9 +9,9 @@ sections:
     content: >-
       A frontier tech forge architecting modular products, symbolic brands, and enduring solutions for generational impact.
     ctatext: Enter The Forge →
-    ctalink: /contact
+    ctalink: /about
 seo:
-  title: JULZ  Sovereign Tech Forge Engineering Frontier Systems
+  title: JULZ - Sovereign Tech Forge Engineering Frontier Systems
   description: >-
    JULZ is a sovereign R&D forge building modular products, symbolic brands, and enduring solutions for the next civilization. Explore frontier systems engineered for generational impact.
   extra:
@@ -19,7 +19,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: JULZ  Sovereign Tech Forge Engineering Frontier Systems
+      value: JULZ - Sovereign Tech Forge Engineering Frontier Systems
       keyName: property
     - name: 'og:description'
       value: >-
@@ -35,7 +35,7 @@ seo:
       value: images/socialimage.png
       relativeUrl: true
     - name: 'twitter:title'
-      value: JULZ  Sovereign Tech Forge Engineering Frontier Systems
+      value: JULZ - Sovereign Tech Forge Engineering Frontier Systems
     - name: 'twitter:description'
       value: >-
         JULZ is a sovereign R&D forge building modular products, symbolic brands, and enduring solutions for the next civilization. Explore frontier systems engineered for generational impact.

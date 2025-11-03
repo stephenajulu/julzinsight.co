@@ -10,7 +10,7 @@
         "has_nav": true,
         "nav_links": [        
             {
-                "label": "About",
+                "label": "The Forge",
                 "url": "/about/",
                 "style": "link"
             },

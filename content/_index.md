@@ -5,25 +5,25 @@ sections:
   - type: hero_section
     section_id: hero
     title: >-
-      We're visionary tech vanguards building impactful products.
+      Engineering Sovereign Systems for the Next Civilization.
     content: >-
-      A sovereign R&D forge engineering frontier products, modular systems, and enduring solutions.
+      A frontier tech forge architecting modular products, symbolic brands, and enduring solutions for generational impact.
     ctatext: Get Started Now →
     ctalink: /contact
 seo:
-  title: JULZ | The Vanguard of Visionary Technology
+  title: JULZ  Sovereign Tech Forge Engineering Frontier Systems
   description: >-
-   A sovereign R&D forge building frontier products, modular systems, and enduring solutions. From idea to infrastructure, JULZ powers the future.
+   JULZ is a sovereign R&D forge building modular products, symbolic brands, and enduring solutions for the next civilization. Explore frontier systems engineered for generational impact.
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: JULZ | The Vanguard of Visionary Technology
+      value: JULZ  Sovereign Tech Forge Engineering Frontier Systems
       keyName: property
     - name: 'og:description'
       value: >-
-        A sovereign R&D forge building frontier products, modular systems, and enduring solutions. From idea to infrastructure, JULZ powers the future.
+        JULZ is a sovereign R&D forge building modular products, symbolic brands, and enduring solutions for the next civilization. Explore frontier systems engineered for generational impact.
       keyName: property
     - name: 'og:image'
       value: images/socialimage.png
@@ -35,9 +35,9 @@ seo:
       value: images/socialimage.png
       relativeUrl: true
     - name: 'twitter:title'
-      value: JULZ | The Vanguard of Visionary Technology
+      value: JULZ  Sovereign Tech Forge Engineering Frontier Systems
     - name: 'twitter:description'
       value: >-
-        A sovereign R&D forge building frontier products, modular systems, and enduring solutions. From idea to infrastructure, JULZ powers the future.
+        JULZ is a sovereign R&D forge building modular products, symbolic brands, and enduring solutions for the next civilization. Explore frontier systems engineered for generational impact.
 layout: advanced
 ---

@@ -1,34 +1,13 @@
 ---
-title: Our Story
-subtitle: JULZ is a tight-knit team with senior tech and infrastructure experience
+title: The Forge — JULZ Sovereign Holdings
+subtitle: JULZ is not a startup. It is a sovereign forge.
 hide_title: false
 sections:
   - type: content_section
     content: >-
-      Welcome to JULZ INSIGHT, a visionary technology firm, business infrastructure provider, and R&D venture foundry based in Nairobi, Kenya. Founded in 2020 by Stephen Ajulu. We design, deploy, and manage modular open-source systems that unify your operations. From ERP and CRM to automation, dashboards, and governance. Beyond infrastructure, we forge impactful tech products, brands, solutions, and startups, built with strategic clarity and delivered with founder-grade precision. Our team of experts brings decades of technical experience and a passion for technology and open-source, ensuring we deliver solutions that are both innovative and practical. So whether you're streamlining operations or interested in the launch of our next venture, Julz Insight equips you with the systems, tools, expertise, and execution to scale without friction.<br> <br><span style="font-weight: 700">Our Slogan</span> - Where Vision Meets Infrastructure<br> <br><span style="font-weight: 700">Our Mission</span> - To build and manage modular, open-source infrastructure that empowers founders and enterprises to scale with clarity, speed, and resilience.<br> <br><span style="font-weight: 700">Problem Statement</span> - Founders and enterprises are drowning in tool sprawl, SaaS bloat, and operational fragmentation, wasting time, money, and strategic focus. They need infrastructure that scales with them, not against them. They need systems, products, and brands that are modular, automation-ready, and built to last.<br> <br><span style="font-weight: 700">Our Vision</span> - To become Africa's leading tech firm, infrastructure provider, and R&D venture foundry, where visionary ideas are forged into scalable solutions, systems, brands, and ventures that drive sustainable growth across industries.<br><br>Come, let's build something great today! **[Book A Consultation](/contact/)**
+      JULZ is not a startup. It is a sovereign forge. Founded to engineer civilization-grade systems, JULZ builds modular products, symbolic brands, and enduring solutions for generational impact. We do not chase trends, we architect futures.<br> <br><h2>Philosophy</h2>We believe in modular sovereignty. The idea that every product, protocol, and brand is a deployable artifact of power. We build with founder-grade clarity, symbolic engineering, and tactical execution. Our systems are designed to endure, scale, and transfer across generations. **[Book A Consultation](/contact/)**
     image: images/julzbanner.png
     image_alt: JULZ Marketing Banner Illuminating Possibilities
-  - type: grid_section
-    section_id: services
-    title: Solutions
-    col_number: two
-    grid_items:
-      - title: Managed Open Source Business Infrastructure
-        image: images/service-3.svg
-        actions:
-          - label: Learn more →
-            url: /solutions/mosbi
-            style: link
-        content: >-
-          Your business is drowning in disconnected tools and rising SaaS costs. Every workflow is a workaround, every report a reconciliation. You’re not inefficient, your infrastructure is. We fix that. Julz Insight delivers a unified, modular open-source stack. ERP, CRM, documents, automation, dashboards. All designed, deployed, and managed for scale. You get clarity, control, and speed. We handle the complexity. Let’s build the backbone your business deserves.
-      - title: Cloud Computing Infrastructure
-        image: images/service-1.svg
-        actions:
-          - label: Learn more →
-            url: /solutions/cloud
-            style: link
-        content: >-
-          Your systems are scattered across vendors, regions, and fragile hosting setups. Every outage is a scramble, every deployment a gamble. You’re not unstable, your cloud strategy is. We fix that. Julz Insight delivers sovereign, automation-ready cloud environments. On-Prem, Hybrid, or Multi-region. Built for uptime, control, and scale. You get resilience, observability, and speed. We handle the orchestration. Let’s deploy the infrastructure you deserve.
   - type: grid_section
     section_id: team
     title: The Team
@@ -36,7 +15,7 @@ sections:
     grid_items:
       - title: Stephen Ajulu
         image: /images/1653516600275.jpg
-        subtitle: CEO, Lead Tech Consultant, and Systems Architect
+        subtitle: Founder, Systems Architect and Engineer
         content:
         actions:
           - label: Twitter
@@ -51,13 +30,13 @@ sections:
             new_window: true
   - type: cta_section
     section_id: cta
-    title: Ready to work together?
-    content: Ready to transform your business? Book a discovery call with us today and explore how JULZ INSIGHT can help you achieve your strategic goals.
+    title: Ready to Build for the Next Civilization?
+    content: Join the sovereign frontier. Whether you're a founder, builder, or strategist, JULZ is where systems are forged, not just imagined. Step beyond the noise and into the crucible of clarity, code, and covenant.
     image: images/cta-about.svg
     image_alt: An abstract shape for the call to action
     bg_color: dark
     actions:
-      - label: Consult →
+      - label: Get in touch →
         url: /contact
         style: button
 seo:

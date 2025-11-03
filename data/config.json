@@ -15,11 +15,6 @@
                 "style": "link"
             },
             {
-                "label": "Solutions",
-                "url": "/#solutions",
-                "style": "link"
-            },
-            {
                 "label": "Projects",
                 "url": "/portfolio/",
                 "style": "link"

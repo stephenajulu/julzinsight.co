@@ -8,7 +8,7 @@ sections:
       Engineering Sovereign Systems for the Next Civilization.
     content: >-
       A frontier tech forge architecting modular products, symbolic brands, and enduring solutions for generational impact.
-    ctatext: Get Started Now →
+    ctatext: Enter The Forge →
     ctalink: /contact
 seo:
   title: JULZ  Sovereign Tech Forge Engineering Frontier Systems

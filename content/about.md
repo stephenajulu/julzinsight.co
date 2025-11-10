@@ -5,7 +5,7 @@ hide_title: false
 sections:
   - type: content_section
     content: >-
-      JULZ is not a startup. It is a sovereign forge. Founded to engineer civilization-grade systems, JULZ builds modular products, symbolic brands, and enduring solutions for generational impact. We do not chase trends, we architect futures.<br> <br><h2>Philosophy</h2>We believe in modular sovereignty. The idea that every product, protocol, and brand is a deployable artifact of power. We build with founder-grade clarity, symbolic engineering, and tactical execution. Our systems are designed to endure, scale, and transfer across generations. **[Book A Consultation](/contact/)**
+      JULZ is not a startup. It is a sovereign forge. Founded to engineer civilization-grade solutions, JULZ builds modular products, symbolic brands, and enduring solutions for generational impact. We do not chase trends, we architect futures. We believe in modular sovereignty. The idea that every product, protocol, and brand is a deployable artifact of power. We build with founder-grade clarity, symbolic engineering, and tactical execution. Our solutionss are designed to endure, scale, and transfer across generations. We Illuminate possibilities.
     image: images/julzbanner.png
     image_alt: JULZ Marketing Banner Illuminating Possibilities
   - type: grid_section

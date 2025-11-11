@@ -40,17 +40,17 @@ sections:
         url: /contact
         style: button
 seo:
-  title: About Us - Julz Insight | Impactful Infrastructure & Tech Solutions
-  description: Welcome to Julz Insight. Where visionary tech meets modular infrastructure. Empowering founders and enterprises to scale with clarity, speed, and zero friction. From open-source systems to automation-ready ventures, we build the backbone your business deserves.
+  title: About Us - JULZ - Sovereign Tech Forge Engineering Frontier Solutions
+  description: JULZ is a sovereign R&D forge building modular products, symbolic brands, and enduring solutions for the next civilization. Explore frontier solutions engineered for generational impact.
   extra:
     - name: og:type
       value: website
       keyName: property
     - name: og:title
-      value: About Us - Julz Insight | Impactful Infrastructure & Tech Solutions
+      value: About Us - JULZ - Sovereign Tech Forge Engineering Frontier Solutions
       keyName: property
     - name: og:description
-      value: Welcome to Julz Insight. Where visionary tech meets modular infrastructure. Empowering founders and enterprises to scale with clarity, speed, and zero friction. From open-source systems to automation-ready ventures, we build the backbone your business deserves.
+      value: JULZ is a sovereign R&D forge building modular products, symbolic brands, and enduring solutions for the next civilization. Explore frontier solutions engineered for generational impact.
       keyName: property
     - name: og:image
       value: images/about.jpg
@@ -59,9 +59,9 @@ seo:
     - name: twitter:card
       value: summary_large_image
     - name: twitter:title
-      value: About Us - Julz Insight | Impactful Infrastructure & Tech Solutions
+      value: About Us - JULZ - Sovereign Tech Forge Engineering Frontier Solutions
     - name: twitter:description
-      value: Welcome to Julz Insight. Where visionary tech meets modular infrastructure. Empowering founders and enterprises to scale with clarity, speed, and zero friction. From open-source systems to automation-ready ventures, we build the backbone your business deserves.
+      value: JULZ is a sovereign R&D forge building modular products, symbolic brands, and enduring solutions for the next civilization. Explore frontier solutions engineered for generational impact.
     - name: twitter:image
       value: images/about.jpg
       relativeUrl: true

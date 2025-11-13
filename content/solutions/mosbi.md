@@ -77,10 +77,10 @@ _“Optimize performance. Scale with clarity.”_
 
 ---
 
-### 🔶 ENTERPRISE
+### 🔶 Custom
 _“Precision infrastructure. Sovereign control.”_
-- Everything in GROWTH
-- High availability disaster recovery
+- You choose your systems
+- High availability disaster recovery and monitoring
 - Advanced security & compliance
 
 ---

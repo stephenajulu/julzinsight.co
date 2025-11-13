@@ -34,9 +34,9 @@ We architect your business backbone using open-source technologies: ERP, CRM, do
 
 ## 🔍 Who It’s For
 - Expensive essential software
-- Founders scaling past tool chaos  
-- Enterprises seeking sovereignty and automation  
-- Teams who are tired of SaaS lock-in and operational drift  
+- Founders scaling past tool chaos
+- Enterprises seeking sovereignty and automation
+- Teams who are tired of SaaS lock-in and operational drift
 - Builders who want clarity, control, and conversion
 - Government ministries modernizing legacy systems
 - Agencies digitizing service delivery and citizen engagement
@@ -49,56 +49,54 @@ We architect your business backbone using open-source technologies: ERP, CRM, do
 
 | Module | Description |
 |--------|-------------|
-| **ERP + CRM** | Unified customer, sales, inventory, and finance workflows  
-| **Docs + Wiki** | Secure document management and internal knowledge base  
-| **Project + Chat** | Task tracking and team communication in one place  
-| **Automation Engine** | Workflow triggers, integrations, and process flows    
-| **Identity & Access** | Role-based permissions, MFA, and SSO  
+| **ERP + CRM** | Unified customer, sales, inventory, and finance workflows
+| **Docs + Wiki** | Secure document management and internal knowledge base
+| **Project + Chat** | Task tracking and team communication in one place
+| **Automation Engine** | Workflow triggers, integrations, and process flows
+| **Identity & Access** | Role-based permissions, MFA, and SSO
 | **Training & Support** | Onboarding, micro-trainings, and SLA-backed help
 
 ---
 
 ## 📦 Tiered Packages
 
-### 🔹 CORE  
-_“Stabilize operations. Escape tool chaos.”_  
-- Docs + Wiki  
+### 🔹 CORE
+_“Stabilize operations. Escape tool chaos.”_
+- Docs + Wiki
 - Project + Chat
-- Invoicing 
+- Invoicing
 
 ---
 
-### 🔸 GROWTH  
-_“Optimize performance. Scale with clarity.”_  
-- Everything in CORE  
+### 🔸 GROWTH
+_“Optimize performance. Scale with clarity.”_
+- Everything in CORE
 - ERP + CRM + POS
-- Project + Chat 
 - Basic automation
 
 ---
 
-### 🔶 ENTERPRISE  
-_“Precision infrastructure. Sovereign control.”_  
-- Everything in GROWTH  
-- High availability disaster recovery  
-- Advanced security & compliance  
-- Custom modules & integrations  
+### 🔶 ENTERPRISE
+_“Precision infrastructure. Sovereign control.”_
+- Everything in GROWTH
+- High availability disaster recovery
+- Advanced security & compliance
 
 ---
 
 ## 🧠 Why Julz Insight?
 
-- **Architecture-first**: We design systems, not just deploy tools  
-- **Modular & automation-ready**: Every component is extensible and triggerable  
-- **Sovereign & secure**: No lock-in, full control, and local-first resilience  
-- **Built for Africa**: Context-aware, founder-grade, and resource-optimized  
+- **Architecture-first**: We design systems, not just deploy tools
+- **Modular & automation-ready**: Every component is extensible and triggerable
+- **Sovereign & secure**: No lock-in, full control, and local-first resilience
+- **Built for Africa**: Context-aware, founder-grade, and resource-optimized
 - **Delivered as a service**: You focus on growth, we handle the infrastructure
 
 ---
 
 ## 📣 Ready to Scale?
 
-**Book your infrastructure audit** and receive a 90-day blueprint tailored to your business.  
+**Book your infrastructure audit** and receive a 90-day blueprint tailored to your business.
 Let’s unify your operations, automate your workflows, and build a system that scales with you.
 
 👉 [Book Audit](/contact) | 👉 [Download Tier Comparison](contact) | 👉 [See Stack Demo](/contact)

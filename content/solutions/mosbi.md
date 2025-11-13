@@ -28,11 +28,12 @@ layout: page
 ## 🧠 What It Is
 Julz Insight’s Managed Open Source Business Infrastructure replaces fragmented tools and fragile workflows with a unified, modular system—designed, deployed, and managed for scale.
 
-We architect your business backbone using open-source technologies: ERP, CRM, documents, automation, dashboards, and governance—all integrated, secure, and tailored to your growth.
+We architect your business backbone using open-source technologies: ERP, CRM, documents, automation, dashboards, and governance. All integrated, secure, and tailored to your growth.
 
 ---
 
-## 🔍 Who It’s For  
+## 🔍 Who It’s For
+- Expensive essential software
 - Founders scaling past tool chaos  
 - Enterprises seeking sovereignty and automation  
 - Teams who are tired of SaaS lock-in and operational drift  
@@ -51,11 +52,8 @@ We architect your business backbone using open-source technologies: ERP, CRM, do
 | **ERP + CRM** | Unified customer, sales, inventory, and finance workflows  
 | **Docs + Wiki** | Secure document management and internal knowledge base  
 | **Project + Chat** | Task tracking and team communication in one place  
-| **Automation Engine** | Workflow triggers, integrations, and process flows  
-| **BI Dashboards** | Real-time metrics, KPIs, and decision-grade insights  
+| **Automation Engine** | Workflow triggers, integrations, and process flows    
 | **Identity & Access** | Role-based permissions, MFA, and SSO  
-| **Governance Protocols** | Change control, escalation paths, and audit logs  
-| **GitOps Deployment** | Version-controlled infrastructure with rollback safety  
 | **Training & Support** | Onboarding, micro-trainings, and SLA-backed help
 
 ---
@@ -64,19 +62,18 @@ We architect your business backbone using open-source technologies: ERP, CRM, do
 
 ### 🔹 CORE  
 _“Stabilize operations. Escape tool chaos.”_  
-- ERP + CRM  
 - Docs + Wiki  
-- Project + Chat  
-- Basic automation  
+- Project + Chat
+- Invoicing 
 
 ---
 
 ### 🔸 GROWTH  
 _“Optimize performance. Scale with clarity.”_  
 - Everything in CORE  
-- BI dashboard platform
-- Advanced automation flows  
-- Customer portal  
+- ERP + CRM + POS
+- Project + Chat 
+- Basic automation
 
 ---
 
@@ -89,22 +86,13 @@ _“Precision infrastructure. Sovereign control.”_
 
 ---
 
-### 🔷 ENTERPRISE+
-_“Dominion-grade infrastructure. Built for scale, resilience, and legacy.”_
-- Everything in ENTERPRISE
-- Multi-region deployment and high availability disaster recovery
-- Zero-downtime GitOps workflows
-- Advanced compliance (ISO, SOC2, local data laws)
-
----
-
 ## 🧠 Why Julz Insight?
 
 - **Architecture-first**: We design systems, not just deploy tools  
 - **Modular & automation-ready**: Every component is extensible and triggerable  
 - **Sovereign & secure**: No lock-in, full control, and local-first resilience  
 - **Built for Africa**: Context-aware, founder-grade, and resource-optimized  
-- **Delivered as a service**: You focus on growth—we handle the infrastructure
+- **Delivered as a service**: You focus on growth, we handle the infrastructure
 
 ---
 

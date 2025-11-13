@@ -48,12 +48,10 @@ Whether deployed On-Prem, Hybrid, or across multi-region cloud zones, we ensure 
 |--------|-------------|
 | **On-Prem & Hybrid Deployments** | Host locally, in the cloud, or both—based on your data, compliance, and control needs  
 | **Sovereign Cloud Zones** | Deploy in Kenya, South Africa, or global regions with data residency control  
-| **GitOps Deployment** | Version-controlled infrastructure with rollback and audit trails  
 | **High Availability (HA)** | Multi-zone failover, uptime SLAs, and disaster recovery  
 | **Container Orchestration** | Docker + Kubernetes for scalable app hosting  
 | **Monitoring & Observability** | Real-time metrics, logs, alerts, and uptime dashboards  
 | **Security & Access Control** | MFA, role-based access, firewall rules, and backups  
-| **DevOps Automation** | CI/CD pipelines, webhook triggers, and infrastructure as code  
 | **Support & Advisory** | Infrastructure architect access, SRE hours, and scaling guidance
 
 ---

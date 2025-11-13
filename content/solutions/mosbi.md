@@ -26,14 +26,14 @@ layout: page
 ---
 
 ## 🧠 What It Is
-Julz Insight’s Managed Open Source Business Infrastructure replaces fragmented tools and fragile workflows with a unified, modular system—designed, deployed, and managed for scale.
+Julz Insight’s Managed Open Source Business Infrastructure replaces fragmented tools and fragile workflows with a modular system, designed, deployed, and managed for scale.
 
-We architect your business backbone using open-source technologies: ERP, CRM, documents, automation, dashboards, and governance. All integrated, secure, and tailored to your growth.
+We architect your business backbone using open-source technologies: ERP, CRM, documents management, automation, dashboards, and governance. All integrated, secure, and tailored to your growth.
 
 ---
 
 ## 🔍 Who It’s For
-- Expensive essential software
+- Business owners with budget contraints
 - Founders scaling past tool chaos
 - Enterprises seeking sovereignty and automation
 - Teams who are tired of SaaS lock-in and operational drift
@@ -53,6 +53,7 @@ We architect your business backbone using open-source technologies: ERP, CRM, do
 | **Docs + Wiki** | Secure document management and internal knowledge base
 | **Project + Chat** | Task tracking and team communication in one place
 | **Automation Engine** | Workflow triggers, integrations, and process flows
+| **Monitoring** | Ensuring uptimes of 95%
 | **Identity & Access** | Role-based permissions, MFA, and SSO
 | **Training & Support** | Onboarding, micro-trainings, and SLA-backed help
 

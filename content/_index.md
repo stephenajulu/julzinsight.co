@@ -5,9 +5,9 @@ sections:
   - type: hero_section
     section_id: hero
     title: >-
-      We build tech infrastructure solutions for visionaries like you
+      Helping visionary businesses achieve resilient, scalable operations that drive lasting impact.
     content: >-
-      We build infrastructure and tech solutions for visionaries.<br>Strategically Engineered. Scalable by Design. Excellently Crafted. Built for Impact.
+      Julz Insight delivers Managed Business Infrastructure that unifies fragmented tools into a scalable, resilient system. From ERP and CRM to EDMS and automation, we handle the complexity so your business can focus on growth, clarity, and lasting impact.
     ctatext: Schedule Your Free Audit →
     ctalink: /contact
   - type: grid_section
@@ -16,7 +16,7 @@ sections:
     subtitle: 
     col_number: two
     grid_items:
-      - title: Managed Open-Source Business Infrastructure
+      - title: Managed Business Infrastructure
         image: images/service-3.svg
         actions:
           - label: Learn more →

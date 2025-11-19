@@ -5,7 +5,7 @@ sections:
   - type: hero_section
     section_id: hero
     title: >-
-      Where Vision Meets Infrastructure
+      We build business-tech infrastructure solutions for visionaries like you
     content: >-
       We build infrastructure and tech solutions for visionaries.<br>Strategically Engineered. Scalable by Design. Excellently Crafted. Built for Impact.
     ctatext: Schedule Your Free Audit →

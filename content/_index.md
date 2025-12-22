@@ -7,7 +7,7 @@ sections:
     title: >-
       Sovereign, Scalable and Modular Infrastructure for Visionary Businesses.
     content: >-
-      Julz Insight delivers sovereign, open‑source infrastructure frameworks that help organizations modernize, scale, and thrive with clarity.
+      We delivers sovereign, open‑source infrastructure frameworks that help organizations modernize, scale, and thrive with clarity.
     ctatext: Schedule Your Free Audit →
     ctalink: /contact
   - type: grid_section

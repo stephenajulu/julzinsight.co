@@ -5,9 +5,9 @@ sections:
   - type: hero_section
     section_id: hero
     title: >-
-      Helping visionary businesses achieve resilient, scalable operations that drive lasting impact.
+      Sovereign, Scalable and Modular Infrastructure for Visionary Businesses.
     content: >-
-      Julz Insight delivers Managed Business Infrastructure that unifies fragmented tools into a scalable, resilient system. From ERP and CRM to EDMS and automation, we handle the complexity so your business can focus on growth, clarity, and lasting impact.
+      Julz Insight delivers sovereign, open‑source infrastructure frameworks that help organizations modernize, scale, and thrive with clarity.
     ctatext: Schedule Your Free Audit →
     ctalink: /contact
   - type: grid_section

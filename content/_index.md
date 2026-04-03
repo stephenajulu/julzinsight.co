@@ -5,11 +5,19 @@ sections:
   - type: hero_section
     section_id: hero
     title: >-
-      Sovereign, Scalable and Modular Infrastructure for Visionary Businesses.
+      Sovereign, Scalable & Resilient Digital Infrastructure for Visionary African Enterprises.
     content: >-
-      We delivers sovereign, open‑source infrastructure frameworks that help organizations modernize, scale, and thrive with clarity.
-    ctatext: Schedule Your Free Audit →
+      Stop renting your technology! African enterprises are bleeding capital into bloated software ecosystems. We engineer and manage interoperable open-source infrastructure, giving you absolute control over your data and transforming technology from a liability into a sovereign asset. We deliver sovereign, open‑source infrastructure frameworks that help organizations modernize, scale, and thrive with clarity.
+    ctatext: Initialize Infrastructure Audit →
     ctalink: /contact
+  - type: portfolio_section
+    section_id: latest-projects
+    layout_style: mosaic
+    title: Insights
+    subtitle:
+    projects_number: 4
+    view_all_label: View All
+    view_all_url: portfolio
   - type: grid_section
     section_id: solutions
     title: 
@@ -23,7 +31,25 @@ sections:
             url: /solutions/mosbi
             style: link
         content: >-
-          Your business is drowning in disconnected tools and rising SaaS costs. Every workflow is a workaround, every report a reconciliation. You’re not inefficient; your infrastructure is.<br>We fix that.<br>Julz Insight delivers a unified, modular open-source stack—ERP, CRM, documents, automation, dashboards. All designed, deployed, and managed for scale. You get clarity, control, and speed. We handle the complexity.<br>**Let’s build the backbone your business deserves.**
+      - title: Strategic IT Advisory
+        image: images/service-2.svg
+        actions:
+          - label: Learn more →
+            url: /solutions/mosbi
+            style: link
+        content: >-
+  - type: cta_section
+    section_id: cta
+    title: Read to evict the landlords?
+    content: >-
+      The era of rented infrastructure is over.
+    actions:
+      - label: Get Your Strategy Audit
+        url: /contact
+        style: button
+    image: images/cta.svg
+    image_alt: Illustration
+    bg_color: dark
   - type: posts_section
     section_id: posts
     layout_style: mosaic

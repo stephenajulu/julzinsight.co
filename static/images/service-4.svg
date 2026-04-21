@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 280 280" width="100%" height="100%">
+  <path d="
+    M100 20 H180
+    M100 60 H220
+    M20 100 H220
+    M20 140 H260
+    M60 180 H260
+    M60 220 H180
+    M100 260 H140
+
+    M20 100 V140
+    M60 100 V220
+    M100 20 V260
+    M140 20 V260
+    M180 20 V220
+    M220 60 V180
+    M260 140 V180
+  " stroke="#2E2E30" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <g stroke="#542bff" stroke-width="4" fill="none" stroke-linejoin="round" stroke-linecap="round">
+    <polygon points="140,20 220,140 140,260 60,140" />
+    
+    <polyline points="140,20 140,100 220,140" />
+    <polyline points="140,260 140,100 60,140" />
+    
+    <polyline points="140,20 140,180 220,140" />
+    <polyline points="140,260 140,180 60,140" />
+  </g>
+</svg>

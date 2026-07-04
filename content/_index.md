@@ -5,9 +5,9 @@ sections:
   - type: hero_section
     section_id: hero
     title: >-
-      Sovereign, Scalable & Resilient Digital Infrastructure for Visionary African Enterprises.
+      The Fully-Managed, Sovereign & Performant Open-Source Infrastructure for Progressive Enterprises.
     content: >-
-      Stop renting your technology! African enterprises are bleeding capital into bloated software ecosystems. We engineer and manage interoperable open-source infrastructure, giving you absolute control over your data and transforming technology from a liability into a sovereign asset. We deliver sovereign, open‑source infrastructure frameworks that help organizations modernize, scale, and thrive with clarity.
+      Julz Insight helps African businesses break free from expensive, restrictive, and vendor-lock-in software by delivering a fully managed open-source business infrastructure as powerful as Microsoft 365, SharePoint, and Salesforce, without the heavy price tag and complex technicalities.
     ctatext: Initialize Infrastructure Audit →
     ctalink: /contact
   - type: portfolio_section
@@ -40,7 +40,7 @@ sections:
         content: >-
   - type: cta_section
     section_id: cta
-    title: Read to evict the landlords?
+    title: Ready to evict the landlords?
     content: >-
       The era of rented infrastructure is over.
     actions:
